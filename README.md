@@ -39,10 +39,13 @@ Dazu ein **U-Untersuchungs-Terminrechner** (U1–U9, J1) direkt im Katalog-Dashb
 ## Nutzung
 
 ```sh
-python3 build.py     # baut dashboard.html + KATALOG.md
-python3 test.py      # Struktur-/Logik-Tests
-./run.sh             # bauen, testen, Dashboard öffnen
+./start.sh           # ALLES: bauen, testen, lokalen Server + Dashboard & Familien-Helfer öffnen
+python3 build.py     # nur bauen (dashboard.html + KATALOG.md)
+python3 test.py      # nur Struktur-/Logik-Tests
+./run.sh             # bauen, testen, nur Dashboard öffnen
 ```
+
+`./start.sh` ist der einfachste Weg: startet einen lokalen Server (Port 8747, sucht bei Belegung den nächsten freien) und öffnet **Katalog-Dashboard** und **Familien-Helfer** im Browser. Beenden mit `Strg+C`. Über einen Server (statt Doppelklick) funktioniert das Speichern/Backup im Familien-Helfer zuverlässig.
 
 Sortierung standardmäßig nach **Sweet Spots zuerst** (Wirkung ÷ Aufwand) — die Low-Hanging-Fruits oben. Umschaltbar auf Wirkung, geringster Aufwand, beste Evidenz, Name.
 
