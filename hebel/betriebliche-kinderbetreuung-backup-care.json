@@ -1,0 +1,74 @@
+{
+  "id": "betriebliche-kinderbetreuung-backup-care",
+  "name": "Betriebliche Angebote: Betriebskita, Notfall- & Backup-Betreuung",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": [
+    "Betriebskita",
+    "Backup-Care",
+    "Arbeitgeber",
+    "Fehlzeiten",
+    "Bindung"
+  ],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 2,
+  "summary": "Arbeitgeber-Kinderbetreuung und Backup-/Notfallbetreuung senken Fehlzeiten und Fluktuation deutlich und rechnen sich für Betriebe oft schon im ersten Jahr. Sie ergänzen die öffentliche Infrastruktur, ersetzen sie aber nicht.",
+  "key_facts": [
+    {
+      "label": "Fehlzeiten/Fluktuation",
+      "value": "bis −30 % Fehltage, bis −60 % Fluktuation",
+      "source": "Cariloop/BCG (US-Daten)"
+    },
+    {
+      "label": "Ausfalltage ohne Backup",
+      "value": "Eltern verlieren bis zu 16 Arbeitstage/Jahr durch Betreuungsausfälle",
+      "source": "Upwards/Bright Horizons"
+    },
+    {
+      "label": "ROI",
+      "value": "messbar oft schon in Jahr 1 (Fluktuation); jede gehaltene Kraft spart 1,5–2× Jahresgehalt",
+      "source": "Cariloop"
+    }
+  ],
+  "deep_dive": "Betriebliche Betreuungsangebote – von der Betriebskita bis zur kurzfristigen Backup-/Notfallbetreuung bei Kita-Ausfall oder krankem Kind – sind ein pragmatischer Hebel, der überwiegend vom Arbeitgeber getragen wird. US-Auswertungen (u. a. BCG, aufbereitet von Cariloop) berichten bis zu 30 % weniger Fehltage und bis zu 60 % geringere Fluktuation; ohne Backup verlieren Eltern bis zu 16 Arbeitstage pro Jahr an Betreuungsausfällen. Der Return on Investment zeigt sich für Betriebe oft schon im ersten Jahr über gesparte Fluktuationskosten (jede gehaltene Fachkraft spart grob das 1,5- bis 2-Fache eines Jahresgehalts). Ein verbreiteter Irrtum ist, Betriebskitas könnten die staatliche Betreuung ersetzen – tatsächlich erreichen sie nur Beschäftigte großer, oft gut zahlender Arbeitgeber und drohen kleine Betriebe und prekär Beschäftigte auszuschließen. Backup-Care ist der kosteneffizienteste Baustein, weil sie gezielt die teuren, seltenen Ausfalltage abdeckt. Als Ergänzung zur öffentlichen Infrastruktur und mit Steuervorteilen ausgestattet, ist der Ansatz günstig und schnell wirksam.",
+  "mechanism": "Betreuung nah am oder finanziert durch den Arbeitsplatz beseitigt kurzfristige Ausfälle und Wiedereinstiegshürden – das senkt Fehlzeiten/Fluktuation und hält (v. a. weibliche) Fachkräfte im Erwerb.",
+  "evidence": [
+    {
+      "source": "Cariloop / BCG (US)",
+      "year": 2024,
+      "finding": "Bis −30 % Fehltage, bis −60 % Fluktuation durch Arbeitgeber-Kinderbetreuung"
+    },
+    {
+      "source": "Bright Horizons / Upwards",
+      "year": 2024,
+      "finding": "Eltern verlieren ohne Backup bis zu 16 Arbeitstage/Jahr; Backup-Care senkt Ausfälle"
+    }
+  ],
+  "protocol": [
+    "Backup-/Notfallbetreuung (krankes Kind, Kita-Ausfall) als kosteneffizienten Einstieg",
+    "Betriebskita oder Belegplätze bei nahen Einrichtungen für größere Standorte",
+    "Steuerliche Förderung/Zuschüsse, damit auch KMU teilnehmen können",
+    "Als Ergänzung zur öffentlichen Betreuung positionieren, nicht als Ersatz"
+  ],
+  "mistakes": [
+    "Nur Großarbeitgeber profitieren → Ungleichheit gegenüber KMU/prekär Beschäftigten",
+    "Betriebskita als Ersatz für öffentlichen Ausbau missverstehen",
+    "Angebote, die Beschäftigte faktisch nicht nutzen (schlechte Lage/Zeiten)"
+  ],
+  "risks": "Deckt nur Beschäftigte teilnehmender Firmen ab; kann Ungleichheit verstärken; Bindung an Arbeitgeber (Wechselhürde); US-Zahlen nur bedingt auf DE übertragbar.",
+  "synergy": [
+    "vereinbarkeitsmodelle-betriebskita-backup",
+    "betreuungsluecke-krankheit-randzeiten-ferien",
+    "ferien-randzeitenbetreuung"
+  ],
+  "sources": [
+    {
+      "title": "Cariloop – Employer-Sponsored Childcare Benefits",
+      "url": "https://cariloop.com/blog/employer-sponsored-childcare"
+    },
+    {
+      "title": "Bright Horizons – How Does Back-Up Care Work",
+      "url": "https://www.brighthorizons.com/article/employers/how-does-back-up-care-work"
+    }
+  ]
+}

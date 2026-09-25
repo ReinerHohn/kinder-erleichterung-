@@ -1,0 +1,74 @@
+{
+  "id": "ganztagsschule-verlaessliche-betreuung",
+  "name": "Ganztagsschule & verlässliche Betreuungszeiten (inkl. Ferien)",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": [
+    "Ganztag",
+    "Schule",
+    "Ferienbetreuung",
+    "Erwerbstätigkeit",
+    "Rechtsanspruch"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 4,
+  "summary": "Ein Rechtsanspruch auf verlässliche Ganztagsbetreuung – auch in den Ferien – schließt die Betreuungslücke nach der Kita und hebt die mütterliche Erwerbstätigkeit deutlich. In Deutschland ab August 2026 in Kraft.",
+  "key_facts": [
+    {
+      "label": "Rechtsanspruch DE",
+      "value": "ab 1.8.2026, 8 Std./Tag an 5 Werktagen, Ferien bis auf max. 4 Wochen",
+      "source": "BMBFSFJ / Familienportal"
+    },
+    {
+      "label": "Effekt Erwerbstätigkeit",
+      "value": "+2 bis +6 Prozentpunkte Erwerbstätigkeit/-volumen der Mütter (je Szenario)",
+      "source": "DIW-Gutachten für BMFSFJ"
+    },
+    {
+      "label": "Nebeneffekt",
+      "value": "höheres Familieneinkommen, seltener auf Transfers angewiesen",
+      "source": "DIW-Gutachten"
+    }
+  ],
+  "deep_dive": "Nach der Kita entsteht in vielen Ländern eine Betreuungslücke: Schulkinder gehen mittags heim, obwohl beide Eltern arbeiten. Deutschland führt deshalb ab 1. August 2026 einen Rechtsanspruch auf Ganztagsbetreuung für Grundschulkinder ein – acht Stunden an fünf Werktagen, mit Ferienabdeckung (bis auf maximal vier Wochen), stufenweise ausgeweitet. Ein DIW-Gutachten für das Bundesfamilienministerium schätzt, dass Erwerbstätigkeit und Erwerbsvolumen der Mütter je nach Szenario um zwei bis sechs Prozentpunkte steigen; die Familien haben höhere Einkommen und sind seltener auf staatliche Unterstützung angewiesen. Ein verbreiteter Irrtum ist, mit dem Kita-Ausbau sei die Vereinbarkeit gelöst – die Grundschulzeit mit ihren kurzen Vormittagen und langen Ferien ist oft die härtere Hürde, gerade für Vollzeit. Entscheidend ist Verlässlichkeit inklusive Ferien: Halbtagslösungen oder Ferienlücken zwingen Eltern (meist Mütter) doch in Teilzeit. Wie beim Kita-Ausbau ist der Engpass Personal und Räume, nicht der politische Wille.",
+  "mechanism": "Verlässliche Betreuung über den ganzen Arbeitstag und das ganze Jahr macht Vollzeiterwerb beider Eltern erst planbar und beseitigt die 'Vormittags-/Ferienfalle'.",
+  "evidence": [
+    {
+      "source": "DIW-Gutachten für BMFSFJ (Ganztag)",
+      "year": 2021,
+      "finding": "Erwerbstätigkeit/-volumen der Mütter +2 bis +6 Prozentpunkte je Szenario"
+    },
+    {
+      "source": "BMBFSFJ / Familienportal",
+      "year": 2026,
+      "finding": "Rechtsanspruch ab 1.8.2026: 8 Std./Tag, Ferien bis auf max. 4 Wochen"
+    }
+  ],
+  "protocol": [
+    "Verlässliche 8-Stunden-Betreuung an allen Werktagen plus Ferienabdeckung",
+    "Qualität über reine Aufbewahrung: Förderung, Mittagessen, Hausaufgabenhilfe",
+    "Personal- und Raumausbau frühzeitig planen (der eigentliche Engpass)",
+    "Beitragsstaffelung, damit einkommensschwache Familien nicht ausgeschlossen werden"
+  ],
+  "mistakes": [
+    "Ferienbetreuung offen lassen → Eltern brauchen doch Teilzeit",
+    "Rechtsanspruch ohne Personal/Räume → Anspruch nur auf dem Papier",
+    "Reine Verwahrung statt pädagogischer Qualität"
+  ],
+  "risks": "Umsetzung scheitert real oft an Fachkräfte- und Raummangel; Qualität kann leiden; Länder-/Kommunalfinanzierung ungeklärt.",
+  "synergy": [
+    "betreuungsluecke-krankheit-randzeiten-ferien",
+    "ferien-randzeitenbetreuung",
+    "kita-krippe-ausbau"
+  ],
+  "sources": [
+    {
+      "title": "BMBFSFJ – Rechtsanspruch auf Ganztagsbetreuung ab 2026",
+      "url": "https://www.bmbfsfj.bund.de/bmbfsfj/aktuelles/alle-meldungen/rechtsanspruch-auf-ganztagsbetreuung-ab-2026-beschlossen-178826"
+    },
+    {
+      "title": "Familienportal – Rechtsanspruch Ganztagsbetreuung",
+      "url": "https://familienportal.de/familienportal/meta/aktuelles/aktuelle-meldungen/rechtsanspruch-auf-ganztagsbetreuung-ab-2026-beschlossen-185662"
+    }
+  ]
+}

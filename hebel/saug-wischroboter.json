@@ -1,0 +1,75 @@
+{
+  "id": "saug-wischroboter",
+  "name": "Saug- und Wischroboter",
+  "category": "🤖 KI & Robotik",
+  "tags": [
+    "Haushalt",
+    "Reinigung",
+    "reif",
+    "Zeitgewinn"
+  ],
+  "impact": 4,
+  "evidence_level": "B",
+  "effort": 3,
+  "summary": "Der reifste Haushaltsroboter: Kombigeräte mit Absaugstation saugen und wischen Böden weitgehend autonom und nehmen eine ständig wiederkehrende Aufgabe ab. Kein Zaubermittel, aber real spürbare Entlastung bei glatten Böden.",
+  "key_facts": [
+    {
+      "label": "Reifegrad",
+      "value": "hoch, ausgereifter Massenmarkt (470+ Modelle im Vergleich)",
+      "source": "smarthomeassistent.de 2025"
+    },
+    {
+      "label": "Marktwachstum",
+      "value": "+24% Umsatz H1 2025 vs. Vorjahr (Trend zu Hybrid+Station)",
+      "source": "NielsenIQ / MediaMarkt 2025"
+    },
+    {
+      "label": "Preis Oberklasse",
+      "value": "ca. 800-1500 € (z.B. Dreame X50 Ultra)",
+      "source": "test.de / staubsaugermanufaktur 2025"
+    },
+    {
+      "label": "Realer Zeitgewinn",
+      "value": "Boden läuft nebenbei; grobe Schätzung 1-3 h/Woche",
+      "source": "Herstellerangaben, kein RCT"
+    }
+  ],
+  "deep_dive": "Der Saug-/Wischroboter ist die einzige Haushaltsrobotik, die man 2025 uneingeschränkt empfehlen kann: die Technik ist ausgereift, der Markt riesig, und Kombigeräte mit Basisstation entleeren Staub, waschen und trocknen die Wischpads selbst. Der reale Nutzen liegt in der täglichen Grundreinigung glatter Böden, die dadurch wirklich nebenbei läuft. Verbreiteter Irrtum: Er ersetzt nicht den gründlichen Putz - Ecken, Kanten, Treppen, Teppichränder und hartnäckiger Schmutz bleiben Handarbeit, und man muss vorher aufräumen (Legosteine, Kabel, Socken). Bei Kleinkind-Haushalten mit ständigen Krümeln und verschüttetem Essen ist der Alltagsnutzen aber echt. Belastbare unabhängige Studien zum konkreten Zeitgewinn fehlen; die Zahlen stammen von Herstellern. Wer wenig glatte Bodenfläche oder viele Hindernisse hat, profitiert deutlich weniger.",
+  "mechanism": "Übernimmt das tägliche Boden-Saugen und -Wischen autonom nach Zeitplan; die Station reduziert zusätzlich die Wartung (Entleeren, Pad-Reinigung).",
+  "evidence": [
+    {
+      "source": "NielsenIQ / MediaMarkt",
+      "year": 2025,
+      "finding": "Saug-/Wischroboter-Umsatz H1 2025 um 24% gewachsen; klarer Trend zu Hybridmodellen mit Station."
+    },
+    {
+      "source": "Stiftung Warentest / staubsaugermanufaktur",
+      "year": 2025,
+      "finding": "Kombigeräte mit Basisstation sparen am meisten Zeit; Oberklasse (Dreame X50 Ultra) mit sehr guten Bewertungen."
+    }
+  ],
+  "protocol": [
+    "Kombigerät mit selbstreinigender Station wählen, wenn Budget da ist - spart die meiste Wartung.",
+    "Nur bei überwiegend glatten Böden lohnend; vorher konsequent Boden freiräumen (kindersicher).",
+    "Als Ergänzung, nicht Ersatz für den gelegentlichen Grundputz einplanen."
+  ],
+  "mistakes": [
+    "Erwartung, er ersetze den kompletten Hausputz inkl. Ecken und Treppen.",
+    "Ohne freigeräumten Boden verheddert er sich - dann kostet er eher Zeit."
+  ],
+  "risks": "Kamera-/Kartendaten der Wohnung landen z.T. in Hersteller-Clouds (Datenschutz prüfen). Anschaffungskosten schließen einkommensschwache Familien aus.",
+  "sources": [
+    {
+      "title": "Saugroboter im Test - Stiftung Warentest",
+      "url": "https://www.test.de/Saugroboter-im-Test-4806685-0/"
+    },
+    {
+      "title": "Saug- und Wischroboter im Vergleich 2026 - MediaMarkt",
+      "url": "https://www.mediamarkt.de/de/content/heim-garten/waschen-reinigen/saug-wischroboter-in-tests"
+    },
+    {
+      "title": "Saugroboter Vergleich 2025 - Staubsaugermanufaktur",
+      "url": "https://www.staubsaugermanufaktur.de/blog/saugroboter-vergleich/"
+    }
+  ]
+}

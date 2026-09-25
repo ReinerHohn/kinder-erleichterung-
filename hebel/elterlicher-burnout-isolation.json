@@ -1,0 +1,87 @@
+{
+  "id": "elterlicher-burnout-isolation",
+  "name": "Isolation, Überforderung & elterlicher Burnout",
+  "category": "🍼 Stressoren im Alltag",
+  "tags": [
+    "Burnout",
+    "Erschöpfung",
+    "Isolation",
+    "psychische Gesundheit"
+  ],
+  "impact": 5,
+  "evidence_level": "B",
+  "effort": 4,
+  "summary": "Wenn Dauerbelastung, fehlende Unterstützung und soziale Isolation zusammenkommen, droht elterlicher Burnout: tiefe Erschöpfung, emotionale Distanz zum Kind und das Gefühl, der Elternrolle nicht mehr gewachsen zu sein.",
+  "key_facts": [
+    {
+      "label": "Erschöpfung verbreitet",
+      "value": "fast 70 % der Eltern fühlen sich zeitweise ausgebrannt; 62 % häufig/sehr häufig gestresst",
+      "source": "KKH/forsa (via hellobetter/vdek)"
+    },
+    {
+      "label": "Interventionsbedarf",
+      "value": "24 % der Mütter (~2 Mio.) und 14 % der Väter mit Bedarf an Maßnahmen",
+      "source": "InterVal-Studie"
+    },
+    {
+      "label": "Kern-Symptome",
+      "value": "Erschöpfung, emotionale Distanzierung vom Kind, geringes Zutrauen in die Elternrolle",
+      "source": "Parental-Burnout-Forschung"
+    },
+    {
+      "label": "Risikofaktoren",
+      "value": "soziale Isolation, fehlende Unterstützung, Perfektionsdruck",
+      "source": "Praxis Psychologie Berlin / Müttergenesungswerk"
+    }
+  ],
+  "deep_dive": "Elterlicher Burnout ist ein eigenständiges Syndrom mit drei Kerndimensionen: überwältigende Erschöpfung durch die Elternrolle, emotionale Distanzierung vom eigenen Kind und ein Gefühl der Unzulänglichkeit als Elternteil. In Deutschland berichten Umfragen (KKH/forsa), dass sich fast 70 % der Eltern zeitweise erschöpft oder ausgebrannt fühlen und 62 % häufig gestresst sind; die InterVal-Studie schätzt bei 24 % der Mütter (rund zwei Millionen) und 14 % der Väter konkreten Unterstützungsbedarf. Zentrale Risikofaktoren sind soziale Isolation, fehlende Entlastung durch Partner/Familie und Perfektionsdruck. Verbreiteter Irrtum: 'Wer sein Kind liebt, brennt nicht aus.' Burnout hat nichts mit mangelnder Liebe zu tun, sondern mit chronischem Ressourcen-Ungleichgewicht – und die emotionale Distanzierung ist ein Symptom, kein Charakterfehler. Anders als klassischer Job-Burnout gibt es hier kein 'Feierabend': Die Belastung läuft rund um die Uhr, was Prävention und Entlastung umso wichtiger macht. Mütter sind häufiger betroffen bzw. werden häufiger diagnostiziert.",
+  "mechanism": "Anhaltender Überschuss an Anforderungen gegenüber verfügbaren Ressourcen (Schlaf, Zeit, Unterstützung) führt zu emotionaler Erschöpfung; soziale Isolation entzieht die wichtigste Puffer-Ressource und beschleunigt den Prozess.",
+  "evidence": [
+    {
+      "source": "KKH/forsa-Umfrage (vdek/hellobetter)",
+      "year": 2024,
+      "finding": "~70 % der Eltern zeitweise ausgebrannt, 62 % häufig gestresst"
+    },
+    {
+      "source": "InterVal-Studie",
+      "year": 2023,
+      "finding": "24 % der Mütter und 14 % der Väter mit Bedarf an Entlastungsmaßnahmen"
+    }
+  ],
+  "protocol": [
+    "Frühwarnzeichen ernst nehmen (Dauererschöpfung, Gereiztheit, emotionale Distanz zum Kind)",
+    "Soziale Isolation aktiv durchbrechen (Kontakt zu anderen Eltern, Netzwerke)",
+    "Entlastung fest organisieren (Betreuung, Aufgabenteilung, Mental Load reduzieren)",
+    "Angebote nutzen: Mutter-/Vater-Kind-Kur (Müttergenesungswerk), Beratung, ggf. Therapie",
+    "Perfektionsansprüche senken ('gut genug' statt perfekt)"
+  ],
+  "mistakes": [
+    "Erschöpfung als persönliches Versagen deuten statt als Überlastungssignal",
+    "Hilfe erst suchen, wenn nichts mehr geht",
+    "Isolation und Perfektionsdruck als unvermeidlich hinnehmen"
+  ],
+  "risks": "Warnzeichen sind anhaltende Erschöpfung trotz Schlaf, emotionale Abstumpfung gegenüber dem Kind, Rückzug, Fluchtgedanken oder Reizüberflutung – hier ist professionelle Hilfe (Ärztin, Beratungsstelle, Kur, Psychotherapie) angezeigt; unbehandelter Parental Burnout erhöht das Risiko für Depression und für Vernachlässigung/Überforderung im Umgang mit dem Kind.",
+  "synergy": [
+    "mental-load-gender-care-gap",
+    "schlafmangel-erste-jahre",
+    "haushalts-putz-waesche-abo-familien"
+  ],
+  "sources": [
+    {
+      "title": "hellobetter – Eltern-Burnout",
+      "url": "https://hellobetter.de/blog/eltern-burnout/"
+    },
+    {
+      "title": "vdek – Eltern-Burnout (forsa/KKH)",
+      "url": "https://www.vdek.com/magazin/ausgaben/2024-02/eltern-burnout-forsa-umfrage-kkh.html"
+    },
+    {
+      "title": "Müttergenesungswerk – Eltern-Burnout geschlechtersensibel",
+      "url": "https://www.muettergenesungswerk.de/blog/artikel/eltern-burnout"
+    },
+    {
+      "title": "Praxis Psychologie Berlin – Burnout bei Eltern",
+      "url": "https://www.praxis-psychologie-berlin.de/en/wikiblog/articles/burnout-bei-eltern-emotionale-belastung-mental-load-und-emotionsregulation"
+    }
+  ]
+}

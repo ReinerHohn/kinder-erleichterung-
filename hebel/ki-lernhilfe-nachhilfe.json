@@ -1,0 +1,81 @@
+{
+  "id": "ki-lernhilfe-nachhilfe",
+  "name": "KI-Lernhilfe & Nachhilfe für Kinder",
+  "category": "🤖 KI & Robotik",
+  "tags": [
+    "Lernen",
+    "Nachhilfe",
+    "Kinder",
+    "Datenschutz"
+  ],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 2,
+  "summary": "Gut gestaltete KI-Tutoren können den Lernerfolg deutlich steigern und Eltern von Hausaufgaben-Nachhilfe entlasten - aber nur mit dem richtigen Design und Aufsicht. Schlecht eingesetzt fördern sie Denk-Auslagerung, kosten Bildschirmzeit und werfen Datenschutzfragen auf.",
+  "key_facts": [
+    {
+      "label": "Positiver Befund",
+      "value": "Harvard-Studie: >2x mehr gelernt mit gut designtem KI-Tutor vs. aktivem Unterricht",
+      "source": "Kestin et al. 2025"
+    },
+    {
+      "label": "Entscheidend",
+      "value": "Design (ein Schritt nach dem anderen, erst selbst versuchen) nicht das Tool selbst",
+      "source": "Kestin et al. 2025"
+    },
+    {
+      "label": "Reale Nutzung",
+      "value": "Langzeitstudie: Schüler nutzen KI-Tutoren selten wirklich zum Lernen",
+      "source": "t3n 2025"
+    },
+    {
+      "label": "Risiko",
+      "value": "Auslagern des Denkens, Datenschutz (US-Server), Falschantworten",
+      "source": "Center for Universal Education / WeLiveSecurity"
+    }
+  ],
+  "deep_dive": "Die Studienlage ist zwiespältig - genau deshalb Vorsicht vor Pauschalurteilen. Eine kontrollierte Harvard-Studie (Kestin et al. 2025) fand, dass Studierende mit einem gut gebauten KI-Tutor mehr als doppelt so viel lernten wie im aktiven Präsenzunterricht - aber der Erfolg hing komplett am Design: Der Tutor gab nur einen Lösungsschritt auf einmal, ließ erst selbst probieren und hielt Antworten kurz. Ein Standard-Chatbot, der die Lösung ausspuckt, bewirkt das Gegenteil. Eine Langzeitstudie zeigt zudem, dass Schüler frei verfügbare KI-Tutoren im Alltag kaum zum echten Lernen nutzen. Für Eltern heißt das: KI kann bei Übung und Erklärung entlasten, ersetzt aber nicht die Begleitung. Zentrale Risiken: Kinder lagern das Denken aus (weniger kritisches Denken), Falschantworten (Halluzinationen) untergraben Verlässlichkeit, viele US-Anbieter trainieren mit Eingaben - ein hochgeladener Kinder-Aufsatz kann auf fremden Servern landen. Und mehr Bildschirmzeit ist selten das Ziel. Nutzen ja, aber gezielt, begleitet und datenschutzbewusst.",
+  "mechanism": "Übernimmt geduldiges Erklären und Üben (individualisiertes Feedback) und entlastet Eltern von der Hausaufgaben-Nachhilfe - wenn das Kind trotzdem selbst denkt.",
+  "evidence": [
+    {
+      "source": "Kestin et al. (Harvard)",
+      "year": 2025,
+      "finding": "Mit gut designtem KI-Tutor mehr als doppelter Lernzuwachs vs. aktivem Präsenzunterricht; Design ist ausschlaggebend."
+    },
+    {
+      "source": "t3n (Langzeitstudie)",
+      "year": 2025,
+      "finding": "Schüler nutzen KI-Tutoren im Alltag nur selten wirklich zum Lernen."
+    },
+    {
+      "source": "Center for Universal Education",
+      "year": 2025,
+      "finding": "KI kann Bildung untergraben, wenn Kinder ihr Denken zunehmend auslagern."
+    }
+  ],
+  "protocol": [
+    "Tools wählen/einstellen, die schrittweise anleiten statt Lösungen zu liefern; Kind erst selbst versuchen lassen.",
+    "Datenschutz prüfen: Anbieter, der nicht mit Kinder-Eingaben trainiert und keine Werbung/Tracking nutzt; keine echten Namen/Daten hochladen.",
+    "Als begleitetes Übungswerkzeug mit klarer Bildschirmzeit-Grenze einsetzen, nicht als Ersatz für Betreuung."
+  ],
+  "mistakes": [
+    "Standard-Chatbot als 'Hausaufgaben-Erlediger' - fördert Auslagern statt Lernen.",
+    "Kinder-Aufsätze/Daten bei US-Anbietern hochladen, die damit trainieren.",
+    "Falschantworten (Halluzinationen) ungeprüft übernehmen."
+  ],
+  "risks": "Auslagern des Denkens/weniger kritisches Denken, Bildschirmzeit, Datenschutz (Kinderdaten auf US-Servern), unzuverlässige Antworten.",
+  "sources": [
+    {
+      "title": "Schüler nutzen KI-Tutoren nur selten zum Lernen (Langzeitstudie) - t3n",
+      "url": "https://t3n.de/news/ki-nachhilfe-tutor-schule-langzeitstudie-menschliche-betreuung-1760578/"
+    },
+    {
+      "title": "Sind KI-Nachhilfelehrer für Ihre Kinder unbedenklich? - WeLiveSecurity (ESET)",
+      "url": "https://www.welivesecurity.com/de/kinderschutz/sind-ki-nachhilfelehrer-fur-ihre-kinder-unbedenklich/"
+    },
+    {
+      "title": "KI in der Schule - Wissenschaftliche Dienste des Bundestags (WD 8-076/25)",
+      "url": "https://www.bundestag.de/resource/blob/1135674/WD-8-076-25.pdf"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "flexible-arbeit-homeoffice",
+  "name": "Flexible Arbeitszeit & Homeoffice (mit Recht auf Vollzeit-Rückkehr)",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": [
+    "Homeoffice",
+    "Flexibilität",
+    "Vereinbarkeit",
+    "Teilzeit",
+    "Fertilität"
+  ],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 1,
+  "summary": "Flexible Arbeitszeiten und ein bis zwei Homeoffice-Tage erleichtern die Alltagslogistik, erhöhen die Vereinbarkeit und sind mit höherer Fertilität assoziiert. Sehr günstig umzusetzen, aber mit Risiko der Teilzeitfalle.",
+  "key_facts": [
+    {
+      "label": "Homeoffice & Fertilität",
+      "value": "beide Partner ≥1 Tag/Woche remote: +0,18–0,2 Kinder Lebensfertilität",
+      "source": "Stanford (Bloom), WFH and Fertility 2025"
+    },
+    {
+      "label": "Elternwunsch",
+      "value": "52 % der erwerbstätigen Eltern wollen flexiblere Zeiten; 4-Tage-Woche meistgewünscht",
+      "source": "KPMG 2026"
+    },
+    {
+      "label": "Zeitersparnis",
+      "value": "~1,5 Std./Tag Pendelzeit gespart → mehr Zeit für Kinderlogistik",
+      "source": "Bloom (Stanford)"
+    }
+  ],
+  "deep_dive": "Eine Stanford-Studie (Nick Bloom, 'Work from Home and Fertility') fand für 2023–2026, dass die realisierte Fertilität etwa 15 % höher lag, wenn beide Partner mindestens einen Tag pro Woche im Homeoffice arbeiteten – über die Lebensspanne rund +0,18 bis 0,2 Kinder. Der Mechanismus ist banal und robust: gesparte Pendelzeit (~1,5 Std./Tag) und mehr Kontrolle über den Tagesablauf machen Bring-/Abhol-Logistik, Arzttermine und Betreuung machbar. Flexible Arbeitszeit ist der mit Abstand billigste Hebel dieser Liste – er kostet den Staat fast nichts. Ein verbreiteter Irrtum ist, Flexibilität allein löse das Vereinbarkeitsproblem: Ohne Betreuung ersetzt Homeoffice keine Kita, und ohne Recht auf Vollzeit-Rückkehr droht die 'Teilzeitfalle', in der v. a. Mütter dauerhaft in reduzierter Stundenzahl verharren. Am besten wirkt Flexibilität als Ergänzung zu Betreuung und mit einem einklagbaren Rückkehrrecht auf Vollzeit, wie es das deutsche Brückenteilzeit-Gesetz teilweise vorsieht.",
+  "mechanism": "Weniger Pendel- und Präsenzzwang senkt die Zeit- und Stresskosten von Elternschaft und erlaubt beiden Partnern Erwerbsarbeit plus Sorgearbeit parallel.",
+  "evidence": [
+    {
+      "source": "Stanford – Work from Home and Fertility (Bloom et al.)",
+      "year": 2025,
+      "finding": "Beide Partner ≥1 Tag remote → +0,18–0,2 Kinder Lebensfertilität"
+    },
+    {
+      "source": "KPMG-Umfrage",
+      "year": 2026,
+      "finding": "52 % der erwerbstätigen Eltern wünschen flexiblere Zeiten; 4-Tage-Woche meistgewünscht"
+    }
+  ],
+  "protocol": [
+    "Recht auf flexible/Teilzeit-Arbeit MIT einklagbarem Rückkehrrecht auf Vollzeit (Brückenteilzeit)",
+    "1–2 Homeoffice-Tage/Woche als Standardoption für Eltern",
+    "Vertrauens-/Kernzeitmodelle statt starrer Präsenz",
+    "Als Ergänzung zu Betreuung, nicht als deren Ersatz einsetzen"
+  ],
+  "mistakes": [
+    "Flexibilität ohne Rückkehrrecht → dauerhafte Teilzeitfalle für Mütter",
+    "Homeoffice als Betreuungsersatz verstehen (Arbeit + Kind parallel)",
+    "Nur Führungskräften gewähren, Care-Verantwortliche ausschließen"
+  ],
+  "risks": "Teilzeit-/Homeoffice-Falle mit Karriere- und Rentennachteilen v. a. für Frauen; Effekte teils selektiv (wer remote arbeiten kann); ohne Betreuung kein Ersatz.",
+  "synergy": [
+    "teilzeit-brueckenteilzeit-rueckkehr-vollzeit",
+    "verlust-freiheit-zeit-paarzeit",
+    "vereinbarkeit-teilzeitfalle-karriereknick"
+  ],
+  "sources": [
+    {
+      "title": "Work from Home and Fertility (Stanford, Bloom)",
+      "url": "https://static1.squarespace.com/static/5e2ea3a8097ed30c779bd707/t/68b8906b5d52ee704cabddd0/1756926059682/WFH+and+Fertility+(27-08-2025).pdf"
+    },
+    {
+      "title": "Economic Innovation Group – Remote Work and Family Formation",
+      "url": "https://eig.org/remote-work-family-formation/"
+    }
+  ]
+}

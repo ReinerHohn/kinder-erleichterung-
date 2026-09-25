@@ -1,0 +1,82 @@
+{
+  "id": "geschenke-concierge-eltern",
+  "name": "Geschenke-Concierge / Gift-Service für Eltern (Mitbringsel & Kindergeschenke on demand)",
+  "category": "💼 Service- & Geschäftsideen",
+  "tags": [
+    "Geschenke",
+    "Concierge",
+    "Mitbringsel",
+    "altersgerecht",
+    "wiederkehrend"
+  ],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 3,
+  "summary": "Ein Service besorgt altersgerechte, verpackte Geschenke für die vielen Kindergeburtstage, zu denen das eigene Kind eingeladen wird – auf Zuruf oder als Vorratspaket. Eltern sparen sich den Last-Minute-Stress; der Anbieter verdient an Kuratierung, Marge und wiederkehrender Nachfrage.",
+  "key_facts": [
+    {
+      "label": "Typisches Geschenkbudget",
+      "value": "10–20 € pro Mitbringsel-Geschenk",
+      "source": "bitte.kaufen, kindergeburtstag24.de"
+    },
+    {
+      "label": "Frequenz",
+      "value": "Grundschulkinder: teils 8–15 Einladungen/Jahr",
+      "source": "Marktbeobachtung/Elternforen"
+    },
+    {
+      "label": "Verwandter Markt",
+      "value": "Baby-/Kinderausstattung: 7,3 Mrd. € Ausgaben 2018",
+      "source": "IFH Köln / Statista"
+    },
+    {
+      "label": "Vergleichbare Modelle",
+      "value": "Spielzeug-Abos (Toyabo 21 €/Monat, Limonbox) zeigen Abo-Zahlungsbereitschaft",
+      "source": "toyabo.de, limonbox.de"
+    }
+  ],
+  "deep_dive": "Der Schmerz ist real und hochfrequent: Grundschuleltern werden zu vielen Kindergeburtstagen eingeladen und stehen ständig unter Last-Minute-Druck ('morgen Party, kein Geschenk'). Ein Concierge, der auf Zuruf ein altersgerechtes, hübsch verpacktes Geschenk (10–20 €) liefert, oder ein Vorratspaket ('5 Notfallgeschenke für 6–8-Jährige') bereithält, trifft diesen Nerv. Zahlungsbereitschaft für die reine Convenience ist aber begrenzt – der Kunde vergleicht mit '15 Min. im dm/Rossmann'. Das Geschäft trägt nur mit Servicegebühr ODER Produktmarge plus echter Zeitersparnis (kuratieren, kaufen, verpacken, Grußkarte, liefern). Ein verbreiteter Irrtum: man verkaufe Produkte – tatsächlich verkauft man Zeit und die Sicherheit 'nie mit leeren Händen dazustehen'. Skalierbar als Abo/Vorratsmodell (planbar, Lagerhaltung), schwer als reiner On-demand-Kurierservice (Logistik frisst Marge). Wettbewerb kommt von Spielzeug-Abos und breit vom Handel selbst.",
+  "mechanism": "Eliminiert den wiederkehrenden Last-Minute-'Wir-brauchen-noch-ein-Geschenk'-Stress und das schlechte Gewissen bei unpassenden Geschenken.",
+  "evidence": [
+    {
+      "source": "Statista/IFH Köln",
+      "year": 2019,
+      "finding": "7,3 Mrd. € Ausgaben für Baby-/Kinderausstattung – großer Gesamttopf, in dem Geschenke ein Segment sind."
+    },
+    {
+      "source": "toyabo.de",
+      "year": 2026,
+      "finding": "Kuratierte Kinder-Abos (21 €/Monat) belegen Zahlungsbereitschaft für 'jemand-wählt-für-mich-aus'."
+    }
+  ],
+  "protocol": [
+    "Als Abo/Vorratsmodell starten ('Notfall-Geschenkebox' altersgestaffelt) – planbarer als On-demand.",
+    "Zuerst Zahlungsbereitschaft testen: Zahlt die Zielgruppe eine Servicegebühr ODER akzeptiert sie Produktmarge?",
+    "Kuratieren nach Alter/Geschlecht/Preisklasse; Verpackung + Grußkarte als spürbaren Mehrwert.",
+    "Rechtlich: Spielzeugsicherheit (CE, LMBG bei essbarem), Widerrufsrecht im Fernabsatz, keine Altersfreigaben verletzen."
+  ],
+  "mistakes": [
+    "On-demand-Kurierlogistik unterschätzen – frisst die Marge.",
+    "Preis über dem gefühlten '15-Minuten-selbst'-Aufwand ansetzen.",
+    "Zu breites Sortiment statt klarer altersgestaffelter Standardboxen."
+  ],
+  "risks": "Dünne Marge, wenn nur Produkte verkauft werden; Convenience-Zahlungsbereitschaft ist begrenzt. Produktsicherheit/Haftung bei Spielzeug (CE, Altersfreigaben). Amazon/Handel als Quasi-Substitut. Skalierung nur mit Standardisierung (Abo) tragfähig.",
+  "synergy": [
+    "kindergeburtstag-rundum-service",
+    "admin-termin-last-buerokratie"
+  ],
+  "sources": [
+    {
+      "title": "bitte.kaufen – Geld für Kindergeburtstag-Geschenk",
+      "url": "https://bitte.kaufen/magazin/wie-viel-geld-kindergeburtstag/"
+    },
+    {
+      "title": "IFH Köln – Markt Baby- und Kinderausstattung",
+      "url": "https://www.ifhkoeln.de/markt-fuer-baby-und-kinderausstattung-waechst-nur-noch-moderat/"
+    },
+    {
+      "title": "Toyabo – Spielzeug-Abo",
+      "url": "https://www.toyabo.de/"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "bezahlte-flexible-elternzeit-rueckkehr",
+  "name": "Bezahlte, flexible Elternzeit mit Rückkehrrecht (Elterngeld-Modell)",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": [
+    "Elterngeld",
+    "Elternzeit",
+    "Rückkehrrecht",
+    "Erwerbstätigkeit",
+    "Fertilität"
+  ],
+  "impact": 3,
+  "evidence_level": "A",
+  "effort": 3,
+  "summary": "Lohnbezogene, zeitlich begrenzte Elternzeit mit garantiertem Rückkehrrecht stabilisiert das Familieneinkommen und die Karriere. Zu lange oder zu 'flach' bezahlte Leistungen können Mütter jedoch länger vom Markt fernhalten.",
+  "key_facts": [
+    {
+      "label": "Elterngeld 1. Lebensjahr",
+      "value": "Erwerbsquote Mütter −ca. 2 Prozentpunkte",
+      "source": "DIW Elterngeld Monitor"
+    },
+    {
+      "label": "Elterngeld 2. Lebensjahr (Geringverdiener)",
+      "value": "+2,5 Prozentpunkte erwerbstätig",
+      "source": "DIW Elterngeld Monitor"
+    },
+    {
+      "label": "Väterbeteiligung",
+      "value": "seit 2007 stark gestiegen, meist auf 2 Monate begrenzt",
+      "source": "DIW/IAB"
+    }
+  ],
+  "deep_dive": "Das deutsche Elterngeld (2007) ersetzt einen Teil des Erwerbseinkommens und wurde vom DIW im Auftrag des BMFSFJ umfassend evaluiert. Ergebnis: Im ersten Lebensjahr sank die Erwerbsquote der Mütter um rund 2 Prozentpunkte (gewollte Auszeit), im zweiten Jahr stieg jedoch die Erwerbsbeteiligung von Müttern mit niedrigem Einkommen um 2,5 Prozentpunkte – das Elterngeld verschiebt und strukturiert den Wiedereinstieg. Ein verbreiteter Irrtum ist 'länger ist besser': Sehr lange, gering bezahlte Freistellungen (wie frühere deutsche Regelungen) verzögern den Wiedereinstieg und schaden der Karriere. Lohnbezogenheit plus zeitliche Begrenzung mit ElterngeldPlus für Teilzeit erwiesen sich als besser für den Wiedereinstieg. Das Rückkehrrecht in denselben/gleichwertigen Job ist entscheidend, damit Elternzeit nicht zum Karriereknick wird. Väter nehmen Elternzeit inzwischen breit an, aber meist nur die zwei 'Partnermonate' – ohne höhere Reservierung bleibt die Aufteilung ungleich.",
+  "mechanism": "Einkommensersatz reduziert das finanzielle Risiko einer Auszeit; Rückkehrrecht sichert Humankapital und Karriere; zeitliche Begrenzung verhindert dauerhaften Rückzug.",
+  "evidence": [
+    {
+      "source": "DIW Elterngeld Monitor",
+      "year": 2016,
+      "finding": "1. Lebensjahr −2 Pp. Erwerbsquote; 2. Lebensjahr +2,5 Pp. bei Geringverdienerinnen"
+    },
+    {
+      "source": "IAB-Forum",
+      "year": 2021,
+      "finding": "Väter mit längerer Elternzeit arbeiten auch langfristig weniger (Verhaltensänderung)"
+    }
+  ],
+  "protocol": [
+    "Hohe Lohnersatzrate (ca. 65–100 %) statt Pauschale, um Zweitverdienstverluste abzufedern",
+    "Zeitlich begrenzte Vollzeit-Freistellung plus Teilzeitoption (ElterngeldPlus-Logik)",
+    "Garantiertes Rückkehrrecht auf gleichwertige Stelle",
+    "Nicht-übertragbare Väteranteile integrieren (siehe Vätermonate)"
+  ],
+  "mistakes": [
+    "Sehr lange, niedrig bezahlte Freistellung verzögert Wiedereinstieg",
+    "Pauschalbeträge statt Lohnbezug bestrafen Zweitverdienerinnen",
+    "Kein durchsetzbares Rückkehrrecht → faktischer Karriereknick"
+  ],
+  "risks": "Zu großzügige Länge kann Erwerbsbindung von Müttern senken; Effekt auf Fertilität ist moderat und v. a. mit Betreuung kombiniert wirksam.",
+  "synergy": [
+    "vaetermonate-nicht-uebertragbar",
+    "elterngeld-elterngeldplus-partnerschaftsbonus",
+    "teilzeit-brueckenteilzeit-rueckkehr-vollzeit"
+  ],
+  "sources": [
+    {
+      "title": "DIW Berlin – Elterngeld Monitor",
+      "url": "https://www.diw.de/de/diw_01.c.400011.de/projekte/elterngeld_monitor.html"
+    },
+    {
+      "title": "IAB-Forum – Väter, längere Elternzeit, langfristig weniger Arbeit",
+      "url": "https://iab-forum.de/vaeter-die-laenger-in-elternzeit-sind-arbeiten-auch-laengerfristig-weniger/"
+    }
+  ]
+}

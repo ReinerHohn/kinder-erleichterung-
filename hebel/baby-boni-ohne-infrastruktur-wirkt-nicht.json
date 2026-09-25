@@ -1,0 +1,73 @@
+{
+  "id": "baby-boni-ohne-infrastruktur-wirkt-nicht",
+  "name": "Was NICHT wirkt: Baby-Boni & Prämien ohne Infrastruktur (Fallstudie Ungarn)",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": [
+    "Anti-Hype",
+    "Baby-Bonus",
+    "Ungarn",
+    "Fertilität",
+    "Fehlanreiz"
+  ],
+  "impact": 1,
+  "evidence_level": "A",
+  "effort": 5,
+  "summary": "Hohe pronatalistische Barleistungen ohne Vereinbarkeits-Infrastruktur bringen bestenfalls kleine, vorübergehende Effekte. Ungarn gibt ~5 % des BIP aus – und erreichte 2024 dennoch ein Zehnjahrestief bei der Geburtenrate.",
+  "key_facts": [
+    {
+      "label": "Ungarns Ausgaben",
+      "value": "~5 % des BIP für Familienleistungen (Top 5 der OECD)",
+      "source": "AEI / OECD"
+    },
+    {
+      "label": "Ergebnis",
+      "value": "TFR nur 1,4 → ~1,6, dann 2024 Zehnjahrestief; weit unter 2,1",
+      "source": "AEI / niussp.org"
+    },
+    {
+      "label": "Befund",
+      "value": "pronatalistische Erfolge 'real, aber temporär' (Russland/Polen/Ungarn)",
+      "source": "Cambridge – Social Policy & Society"
+    }
+  ],
+  "deep_dive": "Ungarn ist die wichtigste Warnung dieser Liste: Das Land gibt rund 5 % des BIP für Familienleistungen aus (Top 5 der OECD) – lebenslange Einkommensteuerbefreiung für Mütter ab drei/vier Kindern, zinslose, bei Geburten erlassene Kredite, die Wohnbeihilfe CSOK. Trotzdem stieg die TFR nur von etwa 1,4 auf knapp 1,6 und fiel im ersten Halbjahr 2024 auf ein Zehnjahrestief – weit unter dem Erhaltungsniveau von 2,1. Vergleichende Forschung (Russland, Polen, Ungarn) kommt zum Schluss: Erfolge pronatalistischer Programme sind 'real, aber temporär' – oft nur zeitliches Vorziehen ohnehin geplanter Geburten (Tempo-Effekt), nicht mehr Kinder insgesamt. Ein verbreiteter Irrtum ist, Geld allein steuere die Geburtenrate: Was in Frankreich und Skandinavien wirkt, ist die Kombination aus Betreuung, Vereinbarkeit und Gleichstellung – nicht die Höhe der Prämie. Baby-Boni sind zudem teuer und regressiv/selektiv, wenn sie an Ehe, Wohneigentum oder Kinderzahl gekoppelt werden, und können soziale Gruppen ausschließen. Die Wirkung pro Euro ist hier am schlechtesten – deshalb impact 1 bei effort 5.",
+  "mechanism": "Barprämien senken kurzfristig die Geldkosten eines Kindes, adressieren aber nicht die bindenden Faktoren (Betreuung, Karriere, Zeit, Gleichstellung) – daher meist nur Vorziehen statt Zusatzgeburten.",
+  "evidence": [
+    {
+      "source": "AEI – Hungary's Fertility Outcomes",
+      "year": 2024,
+      "finding": "~5 % BIP Familienausgaben, dennoch 2024 Zehnjahrestief; TFR nur 1,4→~1,6"
+    },
+    {
+      "source": "Cambridge – Social Policy and Society (Russland/Polen/Ungarn)",
+      "year": 2021,
+      "finding": "Erfolge pronatalistischer Programme real, aber temporär (Tempo-Effekt)"
+    }
+  ],
+  "protocol": [
+    "Wenn überhaupt Barleistungen: an Armutsvermeidung/Betreuung koppeln, nicht als Fertilitäts-Turbo",
+    "Effekte über Kohorten-Endkinderzahl bewerten, nicht über kurzfristige TFR (Tempo-Effekt)",
+    "Mittel eher in Betreuung/Ganztag/Wohnen umlenken (bessere Wirkung pro Euro)"
+  ],
+  "mistakes": [
+    "TFR-Anstieg kurzfristig als Erfolg feiern (nur zeitliches Vorziehen)",
+    "Prämien an Ehe/Wohneigentum/Kinderzahl koppeln → selektiv, regressiv, ausschließend",
+    "Geld statt Infrastruktur als Hauptinstrument"
+  ],
+  "risks": "Sehr teuer bei minimaler dauerhafter Wirkung; Tempo-Effekt täuscht Erfolg vor; regressive/ausschließende Ausgestaltung; verdrängt wirksamere Ausgaben.",
+  "synergy": [
+    "geldtransfers-kindergeld-elterngeld",
+    "laendervergleich-frankreich-schweden",
+    "kita-krippe-ausbau"
+  ],
+  "sources": [
+    {
+      "title": "AEI – Hungary's Fertility Outcomes Highlight Pro-Natal Policy Limitations",
+      "url": "https://www.aei.org/commentary/hungarys-fertility-outcomes-highlight-pro-natal-policy-limitations/"
+    },
+    {
+      "title": "N-IUSSP – Evaluating pronatalist policies with TFR is misleading (Hungary)",
+      "url": "https://www.niussp.org/fertility-and-reproduction/evaluating-pronatalist-policies-with-tfr-brings-misleading-conclusions-examples-fromhungary/"
+    }
+  ]
+}

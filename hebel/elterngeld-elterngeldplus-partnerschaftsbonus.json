@@ -1,0 +1,98 @@
+{
+  "id": "elterngeld-elterngeldplus-partnerschaftsbonus",
+  "name": "Elterngeld, ElterngeldPlus & Partnerschaftsbonus",
+  "category": "📋 Was auf mich zukommt (Rechte & Fahrplan)",
+  "tags": [
+    "Elterngeld",
+    "ElterngeldPlus",
+    "Partnerschaftsbonus",
+    "BEEG",
+    "Einkommensersatz"
+  ],
+  "impact": 5,
+  "evidence_level": "A",
+  "effort": 3,
+  "summary": "Elterngeld ersetzt einen Teil des wegfallenden Einkommens nach der Geburt: Basiselterngeld = 65 % des Nettos (mind. 300 €, max. 1.800 €). ElterngeldPlus streckt die Zahlung bei Teilzeit, der Partnerschaftsbonus belohnt, wenn beide Eltern parallel reduziert arbeiten.",
+  "key_facts": [
+    {
+      "label": "Basiselterngeld Höhe",
+      "value": "ca. 65 % Nettoeinkommen, mind. 300 €, max. 1.800 €/Monat",
+      "source": "BMFSFJ"
+    },
+    {
+      "label": "Bezugsdauer Basiselterngeld",
+      "value": "12 Monate + 2 Partnermonate = bis 14 Monate",
+      "source": "BEEG"
+    },
+    {
+      "label": "ElterngeldPlus",
+      "value": "1 Basismonat = 2 Plus-Monate (halbe Höhe), gut bei Teilzeit",
+      "source": "BMFSFJ"
+    },
+    {
+      "label": "Partnerschaftsbonus",
+      "value": "Zusatzmonate, wenn beide je 24–32 h/Woche arbeiten",
+      "source": "Familienportal"
+    },
+    {
+      "label": "Einkommensgrenze (Ausschluss)",
+      "value": "175.000 € zvE (ab 01.04.2025)",
+      "source": "BEEG/BMFSFJ"
+    },
+    {
+      "label": "Antrags-Rückwirkung",
+      "value": "max. 3 Lebensmonate rückwirkend",
+      "source": "BMFSFJ"
+    }
+  ],
+  "deep_dive": "Basiselterngeld gibt es in den ersten 14 Lebensmonaten; 12 Monate kann ein Elternteil allein nehmen, die vollen 14 nur, wenn beide mitmachen (mind. 2 'Partnermonate'). Die Ersatzrate liegt bei rund 65 % des vorherigen Nettos, bei geringen Einkommen steigt sie bis 100 %. ElterngeldPlus verdoppelt den Bezugszeitraum bei halber monatlicher Höhe – besonders sinnvoll, wenn Sie in Teilzeit arbeiten, weil der Hinzuverdienst dann weniger 'verpufft'. Der Partnerschaftsbonus gibt zusätzliche ElterngeldPlus-Monate, wenn beide Eltern gleichzeitig in einem Korridor von 24 bis 32 Wochenstunden arbeiten. Wichtiger Fallstrick: Seit 1. April 2025 entfällt das Elterngeld komplett, wenn das zu versteuernde Einkommen des Paares 175.000 € übersteigt. Der Antrag läuft über die Elterngeldstelle des jeweiligen Bundeslandes und kann nur bis zu 3 Lebensmonate rückwirkend gestellt werden – zu spät gestellte Anträge kosten also bares Geld.",
+  "mechanism": "Elterngeld glättet den Einkommensverlust in der Familienphase und setzt über ElterngeldPlus/Partnerschaftsbonus gezielt Anreize für partnerschaftliche Aufteilung und frühere Rückkehr in Teilzeit.",
+  "evidence": [
+    {
+      "source": "BMFSFJ – Elterngeld",
+      "year": 2025,
+      "finding": "65 % Netto, 300–1.800 €; 12+2 Monate; ElterngeldPlus verdoppelt Bezug bei halber Höhe"
+    },
+    {
+      "source": "Familienportal des Bundes",
+      "year": 2025,
+      "finding": "Partnerschaftsbonus, wenn beide 24–32 h/Woche arbeiten"
+    },
+    {
+      "source": "BEEG / BMFSFJ",
+      "year": 2025,
+      "finding": "Ab 01.04.2025 Ausschluss ab 175.000 € zvE; Antrag max. 3 Monate rückwirkend"
+    }
+  ],
+  "protocol": [
+    "Nach der Geburt möglichst früh bei der zuständigen Elterngeldstelle des Bundeslandes beantragen (viele Länder: ElterngeldDigital)",
+    "Unterlagen: Geburtsurkunde (Ausfertigung für Elterngeld), Einkommensnachweise, Bescheinigung Mutterschaftsgeld, ggf. Arbeitgeberbescheinigung",
+    "Aufteilung planen: Basis vs. ElterngeldPlus vs. Partnerschaftsbonus – ggf. Elterngeldrechner nutzen",
+    "Spätestens innerhalb von 3 Lebensmonaten beantragen, um keinen Monat zu verlieren"
+  ],
+  "mistakes": [
+    "Antrag zu spät stellen (nur 3 Monate rückwirkend)",
+    "Basiselterngeld statt ElterngeldPlus wählen, obwohl man in Teilzeit arbeitet – Geld verschenkt",
+    "Einkommensgrenze 175.000 € übersehen"
+  ],
+  "risks": "Verspätete Anträge führen zum Verlust einzelner Bezugsmonate. Falsch gewählte Variante kann finanziell ungünstig sein. Allgemeine Info, kein individueller Rechts-/Steuerrat – bei komplexen Einkommen Beratung nutzen.",
+  "synergy": [
+    "elternzeit-beeg-dauer-fristen",
+    "buerokratie-concierge-elterngeld",
+    "finanzielle-last-kind"
+  ],
+  "sources": [
+    {
+      "title": "BMFSFJ – Elterngeld",
+      "url": "https://www.bmbfsfj.bund.de/bmbfsfj/themen/familie/familienleistungen/elterngeld"
+    },
+    {
+      "title": "Familienportal des Bundes – Elterngeld/Partnerschaftsbonus",
+      "url": "https://familienportal.de/familienportal/familienleistungen/elterngeld/faq"
+    },
+    {
+      "title": "IG Metall – Elternzeit, ElterngeldPlus, Partnerschaftsbonus",
+      "url": "https://www.igmetall.de/service/ratgeber/information-elternzeit-elterngeld-plus-partnerschaftsbonus"
+    }
+  ]
+}

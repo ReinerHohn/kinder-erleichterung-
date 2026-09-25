@@ -1,0 +1,86 @@
+{
+  "id": "kindergeburtstag-rundum-service",
+  "name": "Kindergeburtstag Rundum-Sorglos-Service (Planung, Motto, Location, Animation, Catering)",
+  "category": "💼 Service- & Geschäftsideen",
+  "tags": [
+    "Kindergeburtstag",
+    "Eventplanung",
+    "Animation",
+    "lokal",
+    "hohe Marge"
+  ],
+  "impact": 5,
+  "evidence_level": "A",
+  "effort": 3,
+  "summary": "Ein Profi übernimmt den kompletten Kindergeburtstag: Motto, Deko, Location, Entertainer und Catering aus einer Hand. Eltern kaufen einen stressfreien, gelungenen Tag; der Anbieter verkauft ein hochpreisiges Komplettpaket statt Einzelstunden.",
+  "key_facts": [
+    {
+      "label": "Marktpreis Animation/Entertainer",
+      "value": "50–150 € pro 45–60 Min., Show-Pakete 250–500 €, Rundum-Pakete 120–2000 €",
+      "source": "eventzone.de, mrtom.de, guxme.de"
+    },
+    {
+      "label": "Elternbudget pro Party (ohne Profi)",
+      "value": "meist 80–250 € (Kuchen, Deko, Mitgebsel)",
+      "source": "kindergeburtstag24.de-Analyse"
+    },
+    {
+      "label": "Bestehende Anbieter",
+      "value": "Raffini Kinderevents, Agentur KinderZeit, BerlinKidsEvent, Kinder Party World, jubelkinder.de (Vermittlung)",
+      "source": "Websuche 2026"
+    },
+    {
+      "label": "Zusatzerlös Anfahrt",
+      "value": "~0,50 €/km, Mindestanfahrt ~15 €",
+      "source": "kinderfreunde/guxme"
+    }
+  ],
+  "deep_dive": "Der Markt für Einzelbausteine (Zauberer, Hüpfburg, Kinderschminken) ist etabliert und zersplittert, aber das echte Schmerzmittel – ein einziger Ansprechpartner für ALLES – ist selten sauber gebündelt. Zahlungsbereitschaft ist da: Doppelverdiener zahlen für einen perfekten Tag gern 300–600 € statt selbst zu organisieren. Die Marge entsteht durch Bündelung und Aufschlag auf zugekaufte Leistungen (Entertainer, Location, Catering) plus Planungshonorar. Skalierung ist die Hürde: das Geschäft ist stark lokal und personengebunden, Wochenenden sind der Engpass, und Qualität hängt am einzelnen Entertainer. Ein verbreiteter Irrtum ist, man müsse selbst zaubern können – tragfähiger ist ein Orchestrator-Modell (eigenes Netz geprüfter Freelancer, man verkauft Kuratierung und Abwicklung). Nachteil: geringe Wiederkaufrate pro Familie (1× pro Jahr) zwingt zu ständiger Neukundengewinnung.",
+  "mechanism": "Nimmt Eltern die komplette Planungs-, Koordinations- und Ausführungslast eines emotional aufgeladenen Termins ab, bei dem das Kind glücklich sein 'muss'.",
+  "evidence": [
+    {
+      "source": "eventzone.de / mrtom.de",
+      "year": 2026,
+      "finding": "Etablierter Markt: Entertainer 50–150 €/Std., Show-Pakete 250–500 €."
+    },
+    {
+      "source": "kindergeburtstag24.de",
+      "year": 2025,
+      "finding": "Elternbudget pro Party typisch 80–250 € auch ohne Profi – Aufschlagspotenzial vorhanden."
+    }
+  ],
+  "protocol": [
+    "Klein lokal starten: 2–3 Standardpakete (z.B. 'Motto komplett', 'Entertainer+Deko', 'Rundum') mit Festpreisen definieren.",
+    "Zuerst ein Netz geprüfter Freelancer (Zauberer, Animateure, Caterer) aufbauen statt alles selbst zu machen.",
+    "Preis kalkulieren als Fremdleistung + 25–40 % Kuratierungsmarge + Planungshonorar.",
+    "Rechtlich klären: Gewerbeanmeldung, Betriebshaftpflicht, Aufsichtspflicht bei Animation vertraglich mit Eltern regeln (Eltern bleiben aufsichtspflichtig)."
+  ],
+  "mistakes": [
+    "Nur Wochenenden verkaufbar, aber Fixkosten über die Woche – Auslastung falsch kalkuliert.",
+    "Alles selbst machen wollen statt zu orchestrieren – begrenzt Skalierung.",
+    "Preis über Einzelbausteine statt über Ergebnis/Stressersparnis kommunizieren."
+  ],
+  "risks": "Aufsichtspflicht/Haftung bei Verletzungen von Kindern während Animation (Betriebshaftpflicht zwingend, Aufsichtspflicht klar vertraglich verorten). Qualitätsrisiko durch Freelancer. Saisonale/wöchentliche Auslastungsspitzen begrenzen Skalierung; niedrige Wiederkaufrate treibt Marketingkosten.",
+  "synergy": [
+    "geschenke-concierge-eltern",
+    "verlust-freiheit-zeit-paarzeit"
+  ],
+  "sources": [
+    {
+      "title": "eventzone.de – Zauberer für Kindergeburtstag",
+      "url": "https://eventzone.de/zauberer-fuer-kindergeburtstag"
+    },
+    {
+      "title": "mrtom.de – Kindergeburtstag Preise & Pakete",
+      "url": "https://www.mrtom.de/kindergeburtstag.html"
+    },
+    {
+      "title": "Agentur KinderZeit",
+      "url": "https://www.agentur-kinderzeit.de/kindergeburtstage.html"
+    },
+    {
+      "title": "kindergeburtstag24.de – Geschenkbudget",
+      "url": "https://www.kindergeburtstag24.de/wie-teuer-sollte-ein-geschenk-zum-kindergeburtstag-sein/"
+    }
+  ]
+}

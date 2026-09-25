@@ -1,0 +1,87 @@
+{
+  "id": "mental-load-gender-care-gap",
+  "name": "Mental Load & Gender-Care-Gap",
+  "category": "🍼 Stressoren im Alltag",
+  "tags": [
+    "Mental Load",
+    "unsichtbare Arbeit",
+    "Gleichberechtigung",
+    "Mütter"
+  ],
+  "impact": 5,
+  "evidence_level": "A",
+  "effort": 3,
+  "summary": "Das unsichtbare 'Projektmanagement' der Familie – alle Termine, Bedarfe und Vorräte im Kopf haben und koordinieren – lastet überwiegend auf Müttern. Diese Denk- und Organisationsarbeit ist permanent und schwer teilbar.",
+  "key_facts": [
+    {
+      "label": "Gender-Care-Gap Deutschland",
+      "value": "Frauen leisten ~43,8 % mehr unbezahlte Sorgearbeit (~77 min/Tag mehr)",
+      "source": "Gleichstellungsberichte/Spektrum"
+    },
+    {
+      "label": "Care-Zeit pro Woche",
+      "value": "Frauen ~29 h vs. Männer ~20 h unbezahlte Care-Arbeit",
+      "source": "female-resources.de / Zeitverwendungsdaten"
+    },
+    {
+      "label": "Wer trägt den Mental Load",
+      "value": "mehrheitlich Mütter tragen den Großteil der Organisationsarbeit",
+      "source": "SDK / gluecksheldin"
+    },
+    {
+      "label": "Folgekosten",
+      "value": "Teilzeitfalle, Karriereknick, geringere Rente",
+      "source": "BLLV"
+    }
+  ],
+  "deep_dive": "Mental Load bezeichnet die kognitive Dauerlast des Planens, Erinnerns und Koordinierens – von U-Untersuchungen über Geburtstagsgeschenke bis zum leeren Windelvorrat. Sie ist gerade deshalb so belastend, weil sie unsichtbar ist und nie 'abgearbeitet' erscheint. In Deutschland beträgt der Gender-Care-Gap bei der gesamten unbezahlten Arbeit je nach Berechnung 43,8 % bis über 50 %; Frauen wenden pro Tag deutlich mehr Zeit für Kinder, Haushalt und Angehörige auf. Verbreiteter Irrtum: 'Wir teilen fair, ich helfe ja mit.' Das Wort 'helfen' verrät die Struktur – die Verantwortung (das Wissen, WANN was zu tun ist) bleibt bei einem Elternteil, während der andere nur ausführende Aufgaben delegiert bekommt. Genau diese Delegations-Last ist der eigentliche Mental Load. Die Datenlage aus mehreren Zeitverwendungsstudien ist konsistent, daher Evidenzgrad A für die Ungleichverteilung.",
+  "mechanism": "Permanentes Im-Kopf-Behalten aller Familienbedarfe blockiert kognitive Kapazität rund um die Uhr, verhindert echtes Abschalten und erzeugt das Gefühl, allein verantwortlich zu sein – chronischer Low-Level-Stress.",
+  "evidence": [
+    {
+      "source": "Spektrum der Wissenschaft – Gender-Care-Gap",
+      "year": 2023,
+      "finding": "Frauen leisten in Deutschland deutlich mehr unbezahlte Sorgearbeit als Männer"
+    },
+    {
+      "source": "Zeitverwendungsdaten (Statista/female-resources)",
+      "year": 2022,
+      "finding": "~29 h vs. ~20 h Care-Arbeit pro Woche"
+    }
+  ],
+  "protocol": [
+    "Aufgaben inkl. VERANTWORTUNG übertragen, nicht nur ausführen lassen ('du bist zuständig für X, komplett')",
+    "Gemeinsamer digitaler Familienkalender / geteilte To-do- und Vorratslisten",
+    "Regelmäßiges 'Family-Meeting' zur expliziten Aufgabenverteilung",
+    "Mental-Load-Liste einmal sichtbar machen (alle unsichtbaren Aufgaben aufschreiben)",
+    "Digitale/KI-Assistenz für Termin- und Erinnerungsmanagement (siehe Lösungs-/KI-Karten)"
+  ],
+  "mistakes": [
+    "'Helfen' statt echte Zuständigkeit übernehmen",
+    "Verantwortung mit Ausführung verwechseln",
+    "Annahme, ungleiche Verteilung sei 'natürlich' oder freiwillig gewählt"
+  ],
+  "risks": "Dauerhafte einseitige Mental Load ist ein zentraler Treiber von Erschöpfung, Groll in der Partnerschaft und Eltern-Burnout – vor allem bei Müttern.",
+  "synergy": [
+    "geteilter-familienkalender-mental-load",
+    "gender-care-gap",
+    "vaetermonate-nicht-uebertragbar"
+  ],
+  "sources": [
+    {
+      "title": "Spektrum – Gender-Care-Gap in Deutschland",
+      "url": "https://www.spektrum.de/news/gender-care-gap-in-deutschland/2303849"
+    },
+    {
+      "title": "SDK – Mental Load: unsichtbare Denkarbeit",
+      "url": "https://www.sdk.de/versicherungen/private-krankenversicherung/mental-load-unsichtbare-denkarbeit-trifft-besonders-frauen"
+    },
+    {
+      "title": "BLLV – Equal Care, Mental Load, Gender Gap",
+      "url": "https://www.bllv.de/vollstaendiger-artikel/news/equal-care-mental-load-gender-gap-equal-pay-was-bedeutet-gleichberechtigt-5784"
+    },
+    {
+      "title": "female-resources – Gender Care Gap Ursachen",
+      "url": "https://female-resources.de/en/gender-care-gap-ursachen-und-auswirkungen/"
+    }
+  ]
+}

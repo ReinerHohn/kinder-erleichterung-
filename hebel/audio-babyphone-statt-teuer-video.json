@@ -1,0 +1,74 @@
+{
+  "id": "audio-babyphone-statt-teuer-video",
+  "name": "Einfaches Audio-Babyphone statt teurer Video/App-Variante",
+  "category": "💡 Sweet Spots (Produkte & Gadgets)",
+  "tags": [
+    "Babyphone",
+    "Preis-Leistung",
+    "Datenschutz",
+    "günstig"
+  ],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 2,
+  "summary": "Stiftung Warentest: Die einfachen Audio-Geräte schneiden am besten ab. Ein gutes Audio-Babyphone gibt es unter 40–100 €; teure Video-/WLAN-App-Geräte (ab ~200 €) bringen mehr Funktionen, aber oft Datenschutz- und Zuverlässigkeitsprobleme.",
+  "key_facts": [
+    {
+      "label": "Warentest-Fazit",
+      "value": "'Die Einfachen sind die Besten' – reine Audiogeräte vorn",
+      "source": "Stiftung Warentest"
+    },
+    {
+      "label": "Preis gutes Audiogerät",
+      "value": "unter 40 € bis ~100 €",
+      "source": "Stiftung Warentest / test.de"
+    },
+    {
+      "label": "Preis Smart/Video",
+      "value": "ab ~200 €",
+      "source": "Stiftung Warentest"
+    },
+    {
+      "label": "Schwäche Smart-Geräte",
+      "value": "viele nur 'ausreichend', Datenschutz-/Verbindungsmängel",
+      "source": "Warentest-Berichterstattung"
+    }
+  ],
+  "deep_dive": "Beim Babyphone zahlt man mit Video/WLAN/App vor allem für Komfort – nicht für Sicherheit. Stiftung Warentest kommt wiederholt zum Schluss: Die simplen, reinen Audiogeräte gewinnen, gute Modelle gibt es teils unter 40 €, solide bis ~100 €. Smarte Video-Babyphones (ab ~200 €) schnitten in Tests oft nur 'ausreichend' ab und haben zwei systematische Nachteile: Datenschutz (Kamera-Streams über App/Cloud, potenzielle Angriffsflächen) und Verbindungsabbrüche. Video kann im Alltag praktisch sein, ist aber kein medizinisches Überwachungsgerät und ersetzt keine sichere Schlafumgebung. Verbreiteter Irrtum: 'Teurer/smarter = sicherer' – im Test das Gegenteil. Sweet Spot: gutes Audiogerät mit DECT (störungsarm, lokal, ohne Internet).",
+  "mechanism": "Zuverlässige, lokale (DECT-)Tonübertragung weckt Eltern beim Weinen – simpel, batteriestark, ohne Cloud-Risiko.",
+  "evidence": [
+    {
+      "source": "Stiftung Warentest – Babyphones im Test",
+      "year": 2022,
+      "finding": "Reine Audiogeräte am besten; gute unter 40–100 €; smarte Video-/App-Geräte oft nur 'ausreichend'."
+    }
+  ],
+  "protocol": [
+    "DECT-Audiogerät mit guter Reichweite/Akku wählen (unter 100 €); Video nur, wenn wirklich gewünscht.",
+    "Bei Video/WLAN: aktuelles Passwort, Firmware-Updates, möglichst lokal (ohne Cloud) betreiben.",
+    "Babyphone niemals als SIDS-/Vitaldaten-Überwachung missverstehen."
+  ],
+  "mistakes": [
+    "200 €+ für ein Video/App-Gerät ausgeben, das schlechter überträgt als ein 40-€-Audiogerät.",
+    "WLAN-Kamera ohne Passwortänderung/Updates betreiben (Hacking-Risiko).",
+    "Sich auf das Babyphone verlassen und Safe-Sleep-Regeln vernachlässigen."
+  ],
+  "risks": "Datenschutz/Hacking bei WLAN-Kameras. Falsche Sicherheit (kein Vitalmonitor). Verbindungsabbrüche bei App-Geräten. Fehlausgabe für unnötige Features.",
+  "synergy": [
+    "lohnt-nicht-bernsteinkette-teething-gel-smart-sock"
+  ],
+  "sources": [
+    {
+      "title": "Babyphones im Test: Die Einfachen sind die Besten (Stiftung Warentest)",
+      "url": "https://www.test.de/Babyphones-im-Test-Die-Einfachen-sind-die-Besten-6322300-0/"
+    },
+    {
+      "title": "Babyphones im Test – Übersicht (Stiftung Warentest)",
+      "url": "https://www.test.de/Babyphones-im-Test-4840875-0/"
+    },
+    {
+      "title": "Babyphone-Test: 'Ausreichend' – deutliche Schwächen (heidelberg24)",
+      "url": "https://www.heidelberg24.de/verbraucher/einkauf-test/test-babyphone-stiftung-warentest-ergebnis-bewertung-nachtsicht-akku-werbung-sieger-91807273.html"
+    }
+  ]
+}

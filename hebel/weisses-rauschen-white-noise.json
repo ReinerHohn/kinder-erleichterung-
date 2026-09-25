@@ -1,0 +1,76 @@
+{
+  "id": "weisses-rauschen-white-noise",
+  "name": "Weißes Rauschen (White-Noise-Gerät oder App)",
+  "category": "💡 Sweet Spots (Produkte & Gadgets)",
+  "tags": [
+    "Babyschlaf",
+    "billig",
+    "Einschlafhilfe",
+    "hoher Hebel"
+  ],
+  "impact": 4,
+  "evidence_level": "B",
+  "effort": 1,
+  "summary": "Gleichmäßiges Rauschen (Gerät ~15–40 €, App gratis) verkürzt die Einschlafzeit und verlängert die Schlafdauer. Einer der günstigsten Hebel überhaupt – bei korrekter Lautstärke sicher.",
+  "key_facts": [
+    {
+      "label": "Effekt (Meta-Analyse Säuglinge)",
+      "value": "längere Gesamtschlafzeit, bessere Schlafeffizienz, weniger Aufwachen",
+      "source": "Meta-Analyse RCTs, Sleep Medicine 2025"
+    },
+    {
+      "label": "Kosten",
+      "value": "App gratis; Gerät ~15–40 €",
+      "source": "Handel"
+    },
+    {
+      "label": "Sicherheits-Grenze",
+      "value": "leise, Gerät quer durch den Raum weg vom Bett, nur zum Schlafen",
+      "source": "Babyment / HNO-Empfehlungen"
+    }
+  ],
+  "deep_dive": "Weißes Rauschen ist ein Paradebeispiel für 'maximaler Effekt pro Euro': Meta-Analysen randomisierter Studien zeigen bei Säuglingen verlängerte Gesamtschlafzeit, bessere Schlafeffizienz und weniger Aufwachphasen; bei Frühgeborenen sanken Herzfrequenz und Schmerzlevel. Kostenpunkt praktisch null (Smartphone-App) bis maximal ~40 € für ein Gerät. Der entscheidende Haken ist die Lautstärke: Dauerhaft zu laut abgespieltes Rauschen (nah am Ohr, hohe Pegel) steht im Verdacht, das Gehör zu belasten. Regel: leise (deutlich unter Zimmerlautstärke), Gerät quer durch den Raum aufstellen, nicht ins Bett legen, nur während der Schlafphasen. Verbreiteter Irrtum: 'lauter = wirksamer' – das Gegenteil ist der Fall, laut ist riskant und nicht nötig. Kein Ersatz für sichere Schlafumgebung.",
+  "mechanism": "Maskiert plötzliche Umgebungsgeräusche und imitiert Mutterleib-Geräusche → weniger Weckreize, schnelleres (Wieder-)Einschlafen.",
+  "evidence": [
+    {
+      "source": "Meta-Analyse RCTs, Sleep Medicine",
+      "year": 2025,
+      "finding": "White Noise verlängert bei Säuglingen Schlafzeit/-effizienz, reduziert Aufwachen."
+    },
+    {
+      "source": "Meta-Analyse Frühgeborene NICU (PMC)",
+      "year": 2024,
+      "finding": "Senkt Herz-/Atemfrequenz und Schmerz, fördert Gewichtszunahme."
+    }
+  ],
+  "protocol": [
+    "Gratis-App oder günstiges Gerät nutzen; keine 100-€-'Smart'-Geräte nötig.",
+    "Leise einstellen, Gerät ~2 m entfernt/quer im Raum, nie im/am Bett, nur zu Schlafenszeiten.",
+    "Kontinuierliches (nicht pulsierendes) Rauschen wählen; tagsüber ausschalten."
+  ],
+  "mistakes": [
+    "Zu laut oder direkt am Ohr des Babys (Hörrisiko).",
+    "Dauerbeschallung rund um die Uhr statt nur zum Schlafen.",
+    "Überteuertes 'Smart-Schlafgerät' kaufen, wo eine App reicht."
+  ],
+  "risks": "Gehörbelastung bei zu hoher Lautstärke/zu naher Platzierung. Kein Ersatz für sichere Schlafumgebung (Rückenlage, fester Untergrund). Bei Apps: Werbung/Datenschutz beachten.",
+  "synergy": [
+    "schlafmangel-erste-jahre",
+    "snoo-smart-sleeper-babywiege",
+    "pucken-swaddling"
+  ],
+  "sources": [
+    {
+      "title": "White Noise, Rocking, Swaddling – Soothing Strategies (Babyment)",
+      "url": "https://www.babyment.com/infantcare.php?infant=White-Noise,-Rocking,-or-Swaddling?-Soothing-Strategies-That-Work-(and-Stay-Safe)"
+    },
+    {
+      "title": "Impact of White Noise on Sleep Quality – Meta-Analysis RCTs (ScienceDirect)",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1389945725005441"
+    },
+    {
+      "title": "White Noise Preterm Infants NICU – Meta-Analysis (PMC)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10794858/"
+    }
+  ]
+}

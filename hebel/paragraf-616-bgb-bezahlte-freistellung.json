@@ -1,0 +1,86 @@
+{
+  "id": "paragraf-616-bgb-bezahlte-freistellung",
+  "name": "§ 616 BGB: Bezahlte Freistellung – oft vertraglich ausgeschlossen",
+  "category": "📋 Was auf mich zukommt (Rechte & Fahrplan)",
+  "tags": [
+    "§616 BGB",
+    "Entgeltfortzahlung",
+    "Freistellung",
+    "Arbeitsvertrag",
+    "Kind krank"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 2,
+  "summary": "§ 616 BGB gibt Ihnen bei einer kurzen, unverschuldeten Verhinderung (z. B. akut krankes Kleinkind) Anspruch auf bezahlte Freistellung – der Arbeitgeber zahlt weiter. ABER: Diese Vorschrift wird sehr häufig im Arbeitsvertrag oder Tarifvertrag ausgeschlossen.",
+  "key_facts": [
+    {
+      "label": "Rechtsgrundlage",
+      "value": "§ 616 BGB (vorübergehende Verhinderung)",
+      "source": "BGB"
+    },
+    {
+      "label": "Dauer laut Rechtsprechung",
+      "value": "i. d. R. bis zu ca. 5 Arbeitstage/Jahr als 'nicht erhebliche Zeit'",
+      "source": "Rechtsprechung/IHK"
+    },
+    {
+      "label": "Abdingbarkeit",
+      "value": "vertraglich vollständig ausschließbar (dispositiv)",
+      "source": "Haufe / DHW"
+    },
+    {
+      "label": "Fallback bei Ausschluss",
+      "value": "§ 45 SGB V (Kinderkrankengeld) – NICHT ausschließbar",
+      "source": "rae-schreiner / Haufe"
+    }
+  ],
+  "deep_dive": "§ 616 BGB ist die Grundnorm für bezahlte Kurzfreistellung, wenn Sie 'für eine verhältnismäßig nicht erhebliche Zeit' und unverschuldet aus einem persönlichen Grund nicht arbeiten können – dazu zählt auch das plötzlich erkrankte Kind. Was 'nicht erheblich' ist, ist Auslegungssache; die Rechtsprechung nennt oft bis zu etwa 5 Arbeitstage pro Jahr. Der große Fallstrick: § 616 BGB ist abdingbar. In vielen Standard-Arbeitsverträgen findet sich eine Klausel, die den Anspruch ganz ausschließt – dann bekommen Sie für die Freistellung keinen Lohn vom Arbeitgeber. Prüfen Sie Ihren Vertrag auf Formulierungen wie 'Die Anwendung des § 616 BGB wird ausgeschlossen'. Ist § 616 ausgeschlossen, springt bei gesetzlich Versicherten das Kinderkrankengeld nach § 45 SGB V ein – dieser Anspruch kann nicht wegvertragen werden. § 616 und § 45 SGB V schließen einander aus: Zahlt der Arbeitgeber nach § 616, gibt es kein Kinderkrankengeld für dieselben Tage.",
+  "mechanism": "§ 616 BGB verteilt das Lohnrisiko kurzer, unverschuldeter Ausfälle auf den Arbeitgeber – weil er aber dispositiv ist, haben Gesetzgeber und Rechtsprechung mit § 45 SGB V ein nicht abdingbares Sicherheitsnetz für kranke Kinder geschaffen.",
+  "evidence": [
+    {
+      "source": "Haufe / DHW-Steuerberatung",
+      "year": 2025,
+      "finding": "§ 616 BGB kann im Arbeitsvertrag ganz ausgeschlossen werden"
+    },
+    {
+      "source": "IHK / Rechtsprechung",
+      "year": 2025,
+      "finding": "Bis zu ca. 5 Arbeitstage/Jahr gelten regelmäßig als 'verhältnismäßig nicht erhebliche Zeit'"
+    },
+    {
+      "source": "RAe Schreiner",
+      "year": 2025,
+      "finding": "Bei Ausschluss von § 616 greift für gesetzlich Versicherte das nicht abdingbare Kinderkrankengeld"
+    }
+  ],
+  "protocol": [
+    "Arbeitsvertrag (und ggf. Tarifvertrag) auf eine Klausel zum Ausschluss von § 616 BGB durchsehen",
+    "Ist § 616 NICHT ausgeschlossen: bezahlte Freistellung für kurze Zeit beim Arbeitgeber geltend machen",
+    "Ist § 616 ausgeschlossen: direkt den Weg über § 45 SGB V (Kinderkrankengeld + Attest) gehen",
+    "Im Zweifel bei Betriebsrat, Gewerkschaft oder Fachanwalt für Arbeitsrecht nachfragen"
+  ],
+  "mistakes": [
+    "Davon ausgehen, § 616 gelte immer – die Ausschlussklausel wird häufig übersehen",
+    "Für dieselben Tage doppelt zu rechnen (§ 616-Lohn UND Kinderkrankengeld – geht nicht)",
+    "Bei ausgeschlossenem § 616 den Kinderkrankengeld-Weg gar nicht nutzen"
+  ],
+  "risks": "Wer sich auf § 616 verlässt, obwohl er ausgeschlossen ist, bleibt unbezahlt. Für privat Versicherte ohne § 616 gibt es u. U. gar keine bezahlte Freistellung. Keine individuelle Rechtsberatung – Vertragsklauseln im Einzelfall prüfen lassen.",
+  "synergy": [
+    "kind-krank-kinderkrankengeld-45-sgb-v"
+  ],
+  "sources": [
+    {
+      "title": "Krankes Kind: Freistellung und Entgeltfortzahlung (Haufe)",
+      "url": "https://www.haufe.de/personal/entgelt/erkrankung-eines-kindes/krankes-kind-freistellung-und-entgeltfortzahlung_78_523258.html"
+    },
+    {
+      "title": "§ 616 BGB verständlich erklärt (DHW)",
+      "url": "https://www.dhw-stb.de/2025/05/paragraph-616-bgb-verstaendlich-erklaert-dhw/"
+    },
+    {
+      "title": "§ 616 BGB – gesetze-im-internet",
+      "url": "https://www.gesetze-im-internet.de/bgb/__616.html"
+    }
+  ]
+}

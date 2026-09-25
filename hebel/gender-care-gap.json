@@ -1,0 +1,71 @@
+{
+  "id": "gender-care-gap",
+  "name": "Gender-Care-Gap: ungleiche Care-Arbeit",
+  "category": "📉 Ursachen: weniger Kinderwunsch",
+  "tags": [
+    "care-arbeit",
+    "gleichstellung",
+    "mental-load",
+    "väterbeteiligung"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 4,
+  "summary": "Frauen leisten deutlich mehr unbezahlte Sorge- und Hausarbeit als Männer. Wenn ein Kind vor allem die Last der Frau vergrößert, sinkt bei ungleicher Aufteilung die Bereitschaft zum (weiteren) Kind.",
+  "key_facts": [
+    {
+      "label": "Unbezahlte Care-Arbeit Frauen ggü. Männern (DE)",
+      "value": "ca. 1,5-mal so viel",
+      "source": "DIW/„Leben in Deutschland“"
+    },
+    {
+      "label": "Alter 35–39 (DE)",
+      "value": "Frauen leisten >2× so viel Care wie Männer",
+      "source": "DIW/SOEP"
+    },
+    {
+      "label": "Mehr-Kinderbetreuung/Tag (DE)",
+      "value": "Frauen ~4 h mehr als Männer",
+      "source": "DIW"
+    }
+  ],
+  "deep_dive": "In Deutschland leisten Frauen rund das 1,5-Fache der unbezahlten Sorgearbeit von Männern; im kinderintensiven Alter 35–39 sogar mehr als das Doppelte, mit etwa vier Stunden mehr Kinderbetreuung pro Tag. Diese Schieflage hat Langzeitfolgen: Frauen in Deutschland haben rund 18 % niedrigere Stundenlöhne. Studien in mehreren Ländern zeigen, dass eine gerechtere Aufteilung der Hausarbeit die Wahrscheinlichkeit für ein zweites Kind erhöht ('Gender Equity'-These von Peter McDonald). Ein verbreiteter Irrtum ist, das sei allein eine Frage individueller Absprachen – tatsächlich stabilisieren Institutionen (Elternzeit-Design, Betreuungsinfrastruktur, Arbeitszeitkultur) das Muster. Wo Männer real mehr übernehmen und Väterzeit genutzt wird, steigt die Zufriedenheit und die Bereitschaft zu weiteren Kindern.",
+  "mechanism": "Wenn das Kind die Doppelbelastung fast ausschließlich der Frau aufbürdet, wird jedes weitere Kind für sie unverhältnismäßig teuer an Zeit, Energie und Erwerbschancen – der Kinderwunsch wird zurückgestellt.",
+  "evidence": [
+    {
+      "source": "DIW / „Leben in Deutschland“ (SOEP)",
+      "year": 2024,
+      "finding": "Frauen leisten ~1,5× (35–39: >2×) unbezahlte Care-Arbeit; ~18 % niedrigere Stundenlöhne"
+    },
+    {
+      "source": "EIGE Factsheet Gender gaps in care – Germany",
+      "year": 2021,
+      "finding": "Persistente Geschlechterlücke in Sorgearbeit in DE"
+    }
+  ],
+  "protocol": [
+    "Nicht übertragbare, gut bezahlte Vätermonate (siehe Lösungs-Karten Elternzeit)",
+    "Ganztags-/verlässliche Betreuung, die Care-Zeit reduziert",
+    "Arbeitszeitkultur, die Vätern reale Übernahme ermöglicht"
+  ],
+  "mistakes": [
+    "'Reine Privatsache der Paare' – Muster ist stark institutionell geprägt",
+    "Väterbeteiligung reduziere die Fertilität – Belege deuten eher auf höhere Zweitkind-Wahrscheinlichkeit bei geteilter Last"
+  ],
+  "risks": "Kausalität schwer sauber zu isolieren (Selbstselektion egalitärer Paare); Effekt v. a. beim Übergang zum zweiten Kind belegt.",
+  "synergy": [
+    "vaetermonate-nicht-uebertragbar",
+    "mental-load-gender-care-gap",
+    "kita-krippe-ausbau"
+  ],
+  "sources": [
+    {
+      "title": "EIGE – Factsheet: Gender gaps in care, Germany",
+      "url": "https://eige.europa.eu/publications-resources/publications/factsheet-gender-gaps-care-germany?language_content_entity=en"
+    },
+    {
+      "title": "OECD – Persistent gender gaps in paid and unpaid work",
+      "url": "https://www.oecd.org/en/publications/gender-equality-in-a-changing-world_e808086f-en/full-report/persistent-gender-gaps-in-paid-and-unpaid-work_cb137837.html"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "waescheroboter-hype",
+  "name": "Wäsche-Faltroboter (Marketing-Traum)",
+  "category": "🤖 KI & Robotik",
+  "tags": [
+    "Wäsche",
+    "Hype",
+    "gescheitert",
+    "Anti-Hype"
+  ],
+  "impact": 1,
+  "evidence_level": "C",
+  "effort": 5,
+  "summary": "Der eigenständige Faltroboter, der die Wäsche zusammenlegt, existiert als Konsumprodukt praktisch nicht - die bekannten Projekte sind pleite. Real hilft nur der Trockner (spart das Aufhängen), nicht ein Faltautomat.",
+  "key_facts": [
+    {
+      "label": "FoldiMate",
+      "value": "2012-2021 nie ausgeliefert, Firma eingestellt",
+      "source": "Wikipedia / nextpit 2019-2021"
+    },
+    {
+      "label": "Laundroid",
+      "value": "Kühlschrankgroß, sehr langsam, >15.000 €, Firma 2019 insolvent",
+      "source": "nextpit / Wikipedia"
+    },
+    {
+      "label": "Was real hilft",
+      "value": "Wäschetrockner spart das Aufhängen/Abnehmen (kein Falten)",
+      "source": "Alltagserfahrung"
+    },
+    {
+      "label": "Reifegrad Faltroboter",
+      "value": "Demo/Hype, kein funktionierendes Verbraucherprodukt",
+      "source": "NZZ 2025"
+    }
+  ],
+  "deep_dive": "Wäsche ist das Paradebeispiel für den Robotik-Hype: Faltroboter werden seit über einem Jahrzehnt spektakulär angekündigt und sind nie im Alltag angekommen. FoldiMate (USA) wurde ab 2012 vermarktet, aber nie ausgeliefert und 2021 eingestellt; Laundroid (Japan) war kühlschrankgroß, brauchte Minuten pro Teil, hätte über 15.000 € gekostet und die Firma ging 2019 insolvent. Der Grund ist grundsätzlich: verformbarer Stoff in beliebiger Lage zu greifen und zu falten ist für Roboter extrem schwer (Manipulation weicher Objekte). Auch die humanoiden Demos (Tesla, Figure) zeigen Faltvorgänge nur unter Idealbedingungen. Real entlastet beim Wäschethema nur der Wäschetrockner - er nimmt das Aufhängen und Abnehmen ab, nicht das Falten. Wer auf einen Faltroboter wartet, wartet auf ein Produkt, das es nicht gibt.",
+  "mechanism": "Verspricht das Zusammenlegen der Wäsche abzunehmen - liefert dies aber nicht; der Trockner nimmt stattdessen das Aufhängen ab.",
+  "evidence": [
+    {
+      "source": "Wikipedia / nextpit",
+      "year": 2021,
+      "finding": "Sowohl FoldiMate als auch Laundroid gescheitert bzw. insolvent; kein Serienprodukt am Markt."
+    },
+    {
+      "source": "NZZ",
+      "year": 2025,
+      "finding": "Bügeln und Falten gehören weiter zu den nicht automatisierten Alltagsaufgaben trotz KI-Fortschritten."
+    }
+  ],
+  "protocol": [
+    "Nicht auf einen Faltroboter warten oder darauf sparen - es gibt keinen alltagstauglichen.",
+    "Stattdessen in einen guten Wäschetrockner investieren (spart das Aufhängen).",
+    "Falt-Aufwand real senken: weniger falten (Rollen, Körbe pro Person), Kinder einbinden."
+  ],
+  "mistakes": [
+    "Kickstarter-/Ankündigungs-Videos für lieferbare Produkte halten.",
+    "Humanoide Falt-Demos als Beweis für Heimtauglichkeit missverstehen."
+  ],
+  "risks": "Fehlinvestition/Vorbestellungen bei gescheiterten Projekten; falsche Erwartung, ein Kernproblem des Haushalts sei bald gelöst.",
+  "sources": [
+    {
+      "title": "Laundroid pleite - der Wäsche-Falt-Roboter ist geplatzt (nextpit)",
+      "url": "https://www.nextpit.de/news/laundroid-pleite-der-traum-vom-waesche-falt-roboter-ist-geplatzt"
+    },
+    {
+      "title": "FoldiMate - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/FoldiMate"
+    },
+    {
+      "title": "KI nimmt uns kreative Arbeit ab - wann endlich Bügeln und Putzen (NZZ)",
+      "url": "https://www.nzz.ch/technologie/ki-nimmt-uns-kreative-arbeit-ab-wann-endlich-das-buegeln-und-putzen-ld.1821975"
+    }
+  ]
+}

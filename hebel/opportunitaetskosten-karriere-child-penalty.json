@@ -1,0 +1,72 @@
+{
+  "id": "opportunitaetskosten-karriere-child-penalty",
+  "name": "Opportunitätskosten der Karriere (Motherhood Penalty)",
+  "category": "📉 Ursachen: weniger Kinderwunsch",
+  "tags": [
+    "child-penalty",
+    "karriere",
+    "lohneinbruch",
+    "bildungsexpansion",
+    "frauen"
+  ],
+  "impact": 5,
+  "evidence_level": "A",
+  "effort": 4,
+  "summary": "Mit steigender Bildung und Erwerbsbeteiligung von Frauen steigen die Kosten, für ein Kind aus dem Beruf auszusteigen. Nach der ersten Geburt bricht das Einkommen von Müttern dauerhaft ein, das von Vätern nicht – dieser 'Child Penalty' macht Kinder ökonomisch teuer.",
+  "key_facts": [
+    {
+      "label": "Langfrist-Lohneinbruch Mütter (DK)",
+      "value": "ca. −20 % dauerhaft ggü. Vätern",
+      "source": "Kleven/Landais/Søgaard 2019, AEJ Applied"
+    },
+    {
+      "label": "Anteil der Geschlechter-Lohnlücke durch Kinder (DK, heute)",
+      "value": "ca. 80 %",
+      "source": "Kleven et al. 2019"
+    },
+    {
+      "label": "Erwerbsbeteiligung Frauen ↔ TFR",
+      "value": "Vereinbarkeit ermöglicht höhere, nicht niedrigere Fertilität",
+      "source": "OECD Society at a Glance 2024"
+    }
+  ],
+  "deep_dive": "Die kanonische Studie von Kleven, Landais und Søgaard (Dänemark, 1980–2013) zeigt: Vor der ersten Geburt verlaufen die Einkommen von Frauen und Männern parallel, danach fällt das Einkommen der Mütter dauerhaft um rund 20 % zurück und erholt sich nie. Inzwischen entstehen etwa 80 % der gesamten Geschlechter-Lohnlücke aus diesem Kindeffekt. Ein verbreiteter Irrtum ist, dass 'Frauen, die arbeiten, keine Kinder mehr wollen' – tatsächlich zeigen OECD-Daten das Gegenteil auf Länderebene: Länder mit guter Vereinbarkeit und hoher Frauenerwerbstätigkeit haben eher HÖHERE Fertilität. Es ist nicht die Erwerbstätigkeit an sich, sondern die Strafe für die Kombination aus Kind und Karriere, die abschreckt. Der Penalty wächst mit jedem weiteren Kind. Wo Betreuung und Elternzeit den Ausstieg abfedern (Dänemark), schrumpft die Strafe um ~80 %.",
+  "mechanism": "Je höher Bildung/Lohn einer Frau, desto größer der entgangene Verdienst und Karriereknick pro Kind. Diese ungleich verteilten, nicht kompensierten Opportunitätskosten senken die Bereitschaft, (weitere) Kinder zu bekommen.",
+  "evidence": [
+    {
+      "source": "Kleven, Landais & Søgaard, AEJ: Applied Economics",
+      "year": 2019,
+      "finding": "Langfrist-Einkommens-Penalty von Müttern ~20 %; ~80 % der Gender-Gap kindbedingt"
+    },
+    {
+      "source": "OECD, Society at a Glance",
+      "year": 2024,
+      "finding": "Bessere Work-Family-Balance korreliert länderübergreifend mit höherer Fertilität"
+    }
+  ],
+  "protocol": [
+    "Vereinbarkeitsstruktur verbessern (siehe Lösungs-Karten zu Kinderbetreuung und Elternzeit-Aufteilung)",
+    "Väter-Anreize/nicht übertragbare Vätermonate, um die Strafe zu teilen",
+    "Rückkehr- und Teilzeitrechte, die Karriereknicks abfedern"
+  ],
+  "mistakes": [
+    "'Emanzipierte, berufstätige Frauen wollen einfach keine Kinder' – auf Länderebene ist der Zusammenhang heute positiv",
+    "Penalty sei reine Lohndiskriminierung – Hauptkanal sind Arbeitsstunden/Teilzeit/Berufswechsel nach Geburt"
+  ],
+  "risks": "Verwechslung von Korrelation und Kausalität; frühere Querschnittsdaten (Frauenerwerbstätigkeit negativ mit TFR) sind heute überholt.",
+  "synergy": [
+    "kita-krippe-ausbau",
+    "vaetermonate-nicht-uebertragbar",
+    "vereinbarkeit-teilzeitfalle-karriereknick"
+  ],
+  "sources": [
+    {
+      "title": "Kleven et al.: Children and Gender Inequality (Denmark)",
+      "url": "https://www.henrikkleven.com/research/published/kleven-landais-sogaard_aej-applied_sep2018.pdf"
+    },
+    {
+      "title": "OECD Society at a Glance 2024 – Fertility trends",
+      "url": "https://www.oecd.org/en/publications/society-at-a-glance-2024_918d8db3-en/full-report/fertility-trends-across-the-oecd-underlying-drivers-and-the-role-for-policy_770679b8.html"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "admin-ki-buerokratie",
+  "name": "Admin-KI: Anträge, Formulare & Familienkalender",
+  "category": "🤖 KI & Robotik",
+  "tags": [
+    "Bürokratie",
+    "Anträge",
+    "Kalender",
+    "Mental Load"
+  ],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 1,
+  "summary": "Digitale Assistenten und Chatbots führen durch Elterngeld/Kita-Anträge, übersetzen Behördendeutsch und geteilte Familienkalender bündeln das Termin-Chaos (U1-U9, Impfungen). Entlastet echte Denkarbeit, ersetzt aber nicht die Verantwortung, Fristen selbst zu prüfen.",
+  "key_facts": [
+    {
+      "label": "ElterngeldDigital",
+      "value": "amtlicher Online-Assistent, führt Schritt für Schritt, erkennt Fehleingaben",
+      "source": "elterngeld-digital.de"
+    },
+    {
+      "label": "KI-Chatbot ELKI",
+      "value": "erklärt Mutterschutz/Elternzeit/Elterngeld in einfacher Sprache",
+      "source": "familienservice.de"
+    },
+    {
+      "label": "Termin-Chaos",
+      "value": "U1-U9 + Impfungen als geteilter Familienkalender bündelbar",
+      "source": "Familienportal / App-Praxis"
+    },
+    {
+      "label": "Grenze",
+      "value": "keine Rechtsberatung, Fristen/Angaben bleiben Eltern-Verantwortung",
+      "source": "eigene Bewertung"
+    }
+  ],
+  "deep_dive": "Familien-Bürokratie ist eine der größten unsichtbaren Lasten - hier hilft schon heute solide Software. Der amtliche Dienst ElterngeldDigital führt schrittweise durch den Antrag, erklärt Fachbegriffe und erkennt fehlerhafte Eingaben; KI-Chatbots wie ELKI übersetzen Behördendeutsch zu Mutterschutz, Elternzeit und Elterngeld in verständliche Sprache. Für das berüchtigte Termin-Chaos (Vorsorge-Untersuchungen U1-U9, Impftermine, Kita-Anmeldefristen) bündeln geteilte Familienkalender-Apps alle Termine sichtbar für beide Elternteile - das reduziert nachweislich das ständige 'daran-denken-müssen'. Realistisch aber: Diese Werkzeuge erklären und strukturieren, sie entscheiden und haften nicht. Ein Chatbot kann Fachfragen falsch beantworten (Halluzination), er ersetzt keine Rechts- oder Behördenberatung, und die Verantwortung für richtige Angaben und eingehaltene Fristen bleibt bei den Eltern. Der ehrlichste Nutzen: weniger Einstiegshürde und weniger Kopf-im-Kreis, nicht die Abnahme der Verantwortung.",
+  "mechanism": "Übersetzt Behördensprache, strukturiert Anträge und macht verstreute Termine gemeinsam sichtbar - senkt die planerische und emotionale Last.",
+  "evidence": [
+    {
+      "source": "elterngeld-digital.de (Bund)",
+      "year": 2025,
+      "finding": "Online-Assistent führt Schritt für Schritt durch den Elterngeldantrag und erkennt Fehleingaben."
+    },
+    {
+      "source": "familienservice.de",
+      "year": 2025,
+      "finding": "KI-Assistent ELKI beantwortet Fragen zu Mutterschutz/Elternzeit/Elterngeld in klarer, verständlicher Sprache."
+    }
+  ],
+  "protocol": [
+    "Amtliche Dienste (ElterngeldDigital) und offizielle Portale bevorzugen; Chatbot-Auskünfte gegen die Originalquelle prüfen.",
+    "Geteilten Familienkalender für U-Untersuchungen, Impfungen und Fristen anlegen - Termine beiden Elternteilen sichtbar machen.",
+    "Sensible Daten sparsam eingeben; Datenschutzhinweis des Anbieters lesen (v.a. bei kommerziellen KI-Bots)."
+  ],
+  "mistakes": [
+    "Chatbot-Auskunft als verbindliche Rechtsberatung nehmen (Halluzinationsrisiko).",
+    "Sich auf App-Erinnerungen verlassen und die Fristverantwortung ganz abgeben."
+  ],
+  "risks": "Falschauskünfte/Halluzination bei Fach- und Rechtsfragen; Datenschutz bei kommerziellen Bots; Scheinsicherheit bei Fristen.",
+  "sources": [
+    {
+      "title": "Häufige Fragen Online-Antrag - ElterngeldDigital",
+      "url": "https://www.elterngeld-digital.de/ams/content/Elterngeld/haeufige-fragen-online-antrag"
+    },
+    {
+      "title": "KI-Assistent ELKI - Hilfe bei Elterngeld & Co. - familienservice",
+      "url": "https://www.familienservice.de/-/elki-hilfe-bei-elterngeld-elternzeit-mutterschutz"
+    },
+    {
+      "title": "Wie kann ich Elterngeld beantragen? - Familienportal des Bundes",
+      "url": "https://familienportal.de/familienportal/familienleistungen/elterngeld/faq/wie-kann-ich-elterngeld-beantragen--124762"
+    }
+  ]
+}

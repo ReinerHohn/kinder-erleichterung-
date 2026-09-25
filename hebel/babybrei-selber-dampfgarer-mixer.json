@@ -1,0 +1,66 @@
+{
+  "id": "babybrei-selber-dampfgarer-mixer",
+  "name": "Babybrei selbst: Dampfgarer + Mixer statt Spezial-'Breimaschine'",
+  "category": "💡 Sweet Spots (Produkte & Gadgets)",
+  "tags": [
+    "Ernährung",
+    "Meal-Prep",
+    "Preis-Leistung",
+    "Alltag"
+  ],
+  "impact": 2,
+  "evidence_level": "C",
+  "effort": 2,
+  "summary": "Selbstgemachter Brei spart Geld und Zusätze. Dafür reicht meist ein vorhandener Dampfgarer/Pürierstab plus Vorkochen und Einfrieren – der teure 4-in-1-Babynahrungszubereiter ist bequem, aber selten nötig.",
+  "key_facts": [
+    {
+      "label": "Nutzen Selbermachen",
+      "value": "Zutaten kontrollierbar, ohne versteckten Zucker/Zusätze",
+      "source": "Bosch/Babyartikel-Ratgeber"
+    },
+    {
+      "label": "Preis 4-in-1-Zubereiter",
+      "value": "~40–120 €",
+      "source": "Handel/Testportale"
+    },
+    {
+      "label": "Alternative",
+      "value": "vorhandener Topf/Dampfgarer + Pürierstab (~0–30 €)",
+      "source": "Babyartikel-Magazin"
+    }
+  ],
+  "deep_dive": "Selbstgemachter Beikost-Brei ist ein solider Alltags-Sweet-Spot: günstiger als Gläschen, volle Kontrolle über Zutaten, kein versteckter Zucker. Der eigentliche Zeitspar-Trick ist aber nicht das Gerät, sondern Meal-Prep: einmal größere Menge kochen, pürieren, portionsweise (z. B. in Eiswürfelformen) einfrieren. Dafür genügt meist vorhandenes Equipment (Topf/Dampfeinsatz + Pürierstab). Der beliebte 4-in-1-Babynahrungszubereiter (Dämpfen+Mixen+Wärmen+Auftauen, ~40–120 €) ist bequem und leicht zu reinigen, aber kein Muss – er löst nur ein Problem, das ein Pürierstab auch löst. Verbreiteter Irrtum: 'Ohne Spezialmaschine geht kein Brei' – falsch. Kaufen lohnt sich vor allem, wenn Kompaktheit/Reinigung hoch gewichtet wird oder mehrere Kinder folgen. Anti-Hype: eher niedriger Entlastungseffekt, primär Komfort/leichte Ersparnis.",
+  "mechanism": "Dämpfen erhält Nährstoffe, Pürieren macht altersgerechte Konsistenz; Vorkochen+Einfrieren spart täglichen Aufwand.",
+  "evidence": [
+    {
+      "source": "Babyartikel-Magazin / Bosch-Ratgeber",
+      "year": 2023,
+      "finding": "Kombi-Dampfgarer/Mixer praktisch, aber nicht essenziell; Topf + Pürierstab reichen."
+    }
+  ],
+  "protocol": [
+    "Erst vorhandenes Equipment (Dampfeinsatz + Pürierstab) nutzen; Spezialgerät nur bei Bedarf.",
+    "Meal-Prep: 1–2×/Woche größere Menge kochen, portionsweise einfrieren.",
+    "Beikost-Start nach ärztlicher Empfehlung (i. d. R. ~Beginn 5.–7. Monat), abwechslungsreich, ohne Salz/Zucker/Honig."
+  ],
+  "mistakes": [
+    "Teuren 4-in-1-Zubereiter kaufen, obwohl Pürierstab vorhanden ist.",
+    "Frisch kochen für jede Mahlzeit statt vorzukochen (kostet unnötig Zeit).",
+    "Honig/Salz im ersten Jahr zusetzen (Honig: Botulismusrisiko)."
+  ],
+  "risks": "Honig im 1. Lebensjahr (Säuglingsbotulismus). Hygiene beim Einfrieren/Auftauen. Fehlausgabe für Spezialgerät. Beikost-Zeitpunkt/Allergene ärztlich abstimmen.",
+  "synergy": [
+    "familien-mealservice-babybrei-abo",
+    "windel-grosspackung-abo"
+  ],
+  "sources": [
+    {
+      "title": "Dampfgarer und Mixer für Babybrei – Brauche ich das? (Babyartikel.de)",
+      "url": "https://www.babyartikel.de/magazin/dampfgarer-und-mixer-lohnt-sich-die-anschaffung"
+    },
+    {
+      "title": "Babybrei selber machen mit der Küchenmaschine (Bosch)",
+      "url": "https://www.bosch-home.com/de/bosch-erleben/magazin/lecker-kochen/babybrei-selber-machen"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "lohnt-nicht-bernsteinkette-teething-gel-smart-sock",
+  "name": "Lohnt NICHT: Bernsteinkette, medizinisches Zahngel, Vital-'Smart Sock'",
+  "category": "💡 Sweet Spots (Produkte & Gadgets)",
+  "tags": [
+    "Anti-Hype",
+    "Geldverschwendung",
+    "Sicherheit",
+    "Fehlkauf"
+  ],
+  "impact": 1,
+  "evidence_level": "A",
+  "effort": 1,
+  "summary": "Drei populäre Käufe ohne belegten Nutzen und mit realen Gefahren: Bernstein-Zahnungsketten (Ersticken/Strangulation, keine Wirkung), lidocain-/benzocainhaltige Zahngele (FDA-Warnung) und Vitaldaten-Babysocken, die falsche Sicherheit und Fehlalarme liefern.",
+  "key_facts": [
+    {
+      "label": "Bernsteinkette",
+      "value": "keine Wirkevidenz; AAP warnt: Ersticken/Strangulation",
+      "source": "Nationwide Children's / AAP"
+    },
+    {
+      "label": "Zahngele mit Lidocain/Benzocain",
+      "value": "FDA-Warnung: Krampfanfälle, Herz-/Hirnschäden möglich",
+      "source": "FDA / AAP News"
+    },
+    {
+      "label": "Vital-Smart-Sock (Owlet)",
+      "value": "FDA-Rüge 2021 (unzulässig als Medizinprodukt); häufige Fehlalarme, kein SIDS-Schutz",
+      "source": "FierceBiotech / Mayo Clinic"
+    }
+  ],
+  "deep_dive": "Ehrlicher Anti-Hype-Teil: Manche beliebten Babyprodukte kosten Geld ohne Nutzen – und einige sind gefährlich. Bernstein-Zahnungsketten haben keinerlei wissenschaftlichen Wirknachweis; die AAP und Kinderkliniken warnen ausdrücklich vor Ersticken (Perlen) und Strangulation (Kette) – es gab dokumentierte Todesfälle, weshalb Ketten nie am schlafenden/unbeaufsichtigten Kind sein dürfen. Medizinische Zahngele mit Lidocain oder Benzocain werden von der FDA für Kleinkinder abgeraten (Risiko: Krampfanfälle, Herz- und Hirnschäden, in seltenen Fällen tödlich). Sinnvoll und billig gegen Zahnen: gekühlte (nicht gefrorene) Beißringe, Zahnfleischmassage, ggf. altersgerechtes Paracetamol nach ärztlichem Rat. Vitaldaten-Babysocken (Owlet & Co.) versprechen SIDS-Sicherheit, liefern aber häufige Fehlalarme (mehr Elternangst) und eine trügerische Sicherheit, die dazu verleitet, echte Safe-Sleep-Regeln zu vernachlässigen; die FDA rügte Owlet 2021, weil das Gerät unzulässig als Medizinprodukt vermarktet wurde. Verbreiteter Irrtum: 'Die Socke verhindert SIDS' – kein Beleg. Sweet-Spot-Prinzip umgekehrt: Hier ist Nicht-Kaufen der beste Deal.",
+  "mechanism": "Keiner mit belegtem Nutzen – im Gegenteil: Verletzungs-/Vergiftungsrisiken bzw. falsche Sicherheit statt echter Wirkung.",
+  "evidence": [
+    {
+      "source": "Nationwide Children's / AAP",
+      "year": 2023,
+      "finding": "Bernsteinketten ohne Wirknachweis; Ersticken/Strangulation, dokumentierte Todesfälle."
+    },
+    {
+      "source": "FDA / AAP News",
+      "year": 2018,
+      "finding": "Lidocain-/Benzocain-Zahngele für Kleinkinder abgeraten – schwere Nebenwirkungen möglich."
+    },
+    {
+      "source": "FierceBiotech / Mayo Clinic",
+      "year": 2021,
+      "finding": "Owlet-Smart-Sock nach FDA-Rüge vom Markt; Vitalmonitore mit Fehlalarmen, kein SIDS-Nutzen belegt."
+    }
+  ],
+  "protocol": [
+    "Gegen Zahnen: gekühlte (nicht gefrorene) Beißringe, Zahnfleischmassage; Medikamente nur nach ärztlichem Rat.",
+    "Keine Ketten/Bänder am Baby, erst recht nicht im Schlaf.",
+    "Statt Vital-Socke: sichere Schlafumgebung (Rückenlage, fester Untergrund, Room-Sharing) – das ist der belegte SIDS-Schutz."
+  ],
+  "mistakes": [
+    "Bernsteinkette kaufen/tragen lassen (Lebensgefahr, null Nutzen).",
+    "Lidocain-/Benzocain-Gel geben.",
+    "Vitaldaten-Socke als SIDS-Versicherung ansehen und Safe-Sleep vernachlässigen."
+  ],
+  "risks": "Strangulation/Ersticken (Ketten), schwere/toxische Reaktionen (Zahngele), falsche Sicherheit + Fehlalarm-Angst (Vital-Socken). In allen Fällen: verschwendetes Geld mit realem Schadenspotenzial.",
+  "synergy": [
+    "audio-babyphone-statt-teuer-video",
+    "smarte-babyphones-vitaltracking"
+  ],
+  "sources": [
+    {
+      "title": "The Dangers of Amber Teething Necklaces (Nationwide Children's)",
+      "url": "https://www.nationwidechildrens.org/family-resources-education/700childrens/2023/05/the-dangers-of-amber-teething-necklaces"
+    },
+    {
+      "title": "FDA: Teething necklaces – choking/strangulation (AAP News)",
+      "url": "https://publications.aap.org/aapnews/news/9241/FDA-Teething-necklaces-can-lead-to-choking"
+    },
+    {
+      "title": "FDA warns teething products with benzocaine (AAP News)",
+      "url": "https://publications.aap.org/aapnews/news/9207/FDA-warns-teething-products-with-benzocaine-may"
+    },
+    {
+      "title": "Owlet pulls Smart Sock after FDA warning (FierceBiotech)",
+      "url": "https://www.fiercebiotech.com/medtech/owlet-pulls-baby-monitoring-smart-sock-from-market-after-fda-warning"
+    },
+    {
+      "title": "Mayo Clinic on SIDS Baby Monitors",
+      "url": "https://communityhealth.mayoclinic.org/featured-stories/sids-baby-monitors"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "ki-essensplanung-einkauf",
+  "name": "KI-Essensplanung, Einkaufslisten & Lieferdienste",
+  "category": "🤖 KI & Robotik",
+  "tags": [
+    "Essen",
+    "Einkauf",
+    "Mental Load",
+    "Software"
+  ],
+  "impact": 4,
+  "evidence_level": "B",
+  "effort": 1,
+  "summary": "Apps erstellen aus Vorlieben und Vorrat einen Wochenplan, generieren automatisch die Einkaufsliste und verknüpfen sie mit Lieferdiensten. Nimmt weniger körperliche Arbeit ab als vielmehr die planerische Denkarbeit (Mental Load).",
+  "key_facts": [
+    {
+      "label": "Kernnutzen",
+      "value": "Wochenplan + automatische Einkaufsliste aus Vorlieben/Vorrat",
+      "source": "choosy / kinvivo 2025"
+    },
+    {
+      "label": "Zeitgewinn (Herstellerangabe)",
+      "value": "bis ~5 h/Woche laut App-Anbietern",
+      "source": "Men's Health 2025"
+    },
+    {
+      "label": "Kosten",
+      "value": "kostenlose Apps (Cozi, Mealime, Paprika) bis ~40-60 €/Jahr Premium",
+      "source": "choosy / BenFit 2025"
+    },
+    {
+      "label": "Reifegrad",
+      "value": "reife Software, KI-Planung neu und werblich",
+      "source": "eigene Bewertung"
+    }
+  ],
+  "deep_dive": "Die Antwort auf die Dauerfrage 'Was kochen wir?' ist ein realer Mental-Load-Fresser, und hier helfen Apps tatsächlich - weniger durch Robotik als durch Automatisierung der Planung. Tools wie Cozi, Mealime, Paprika (kostenlos) oder KI-Planer wie Choosy und Kinvivo schlagen Wochenpläne passend zu Familiengröße und Vorlieben vor, bündeln alle Zutaten automatisch zur Einkaufsliste und können an Lieferdienste anschließen. Die von Anbietern genannten 'bis zu 5 Stunden pro Woche' sind Marketing und stark vom Ausgangsverhalten abhängig; belastbare unabhängige Zeitstudien fehlen. Realistisch ist: Die Entscheidungslast sinkt, spontane teure Lieferdienst-Bestellungen und Lebensmittelverschwendung gehen zurück. Die KI-Rezeptvorschläge sind praktisch, aber nicht immer sinnvoll (unrealistische Zutaten, keine Allergien-Garantie) - man muss gegenlesen. Größter echter Hebel: die geteilte, gemeinsame Einkaufsliste in der Familie, die auch ohne KI funktioniert.",
+  "mechanism": "Nimmt die wöchentliche Planungs- und Listen-Denkarbeit ab und reduziert Entscheidungsermüdung sowie Ad-hoc-Bestellungen.",
+  "evidence": [
+    {
+      "source": "choosy / kinvivo",
+      "year": 2025,
+      "finding": "KI-Apps erstellen individuellen Wochenplan und automatische gemeinsame Einkaufsliste für Familien."
+    },
+    {
+      "source": "Men's Health",
+      "year": 2025,
+      "finding": "App-Anbieter werben mit bis zu 5 h Zeitersparnis pro Woche in der Küche (Herstellerangabe, nicht unabhängig belegt)."
+    }
+  ],
+  "protocol": [
+    "Mit kostenloser App starten (Cozi/Mealime), gemeinsame Einkaufsliste für alle Erwachsenen einrichten.",
+    "KI-Rezeptvorschläge gegenlesen - Allergien/Unverträglichkeiten der Kinder immer selbst prüfen.",
+    "Lieferdienst nur als Baustein, nicht als Kostenfalle - Ersparnis realistisch, nicht die Marketingzahl erwarten."
+  ],
+  "mistakes": [
+    "Marketing-Zeitersparnis (5 h/Woche) als garantiert annehmen.",
+    "Sich auf KI-Allergie-/Nährwertangaben blind verlassen."
+  ],
+  "risks": "Datenschutz (Ernährungs-/Einkaufsprofile der Familie); Abo-Kosten; Lieferdienst-Abhängigkeit und Fehlangaben bei Allergien.",
+  "sources": [
+    {
+      "title": "Die beste Ernährungs-App für Familien 2025 - choosy",
+      "url": "https://www.choosy.de/blog/die-beste-ernahrungs-app-fur-familien-2025-der-grosse-vergleich"
+    },
+    {
+      "title": "Spare 5 Stunden pro Woche in der Küche - Men's Health",
+      "url": "https://www.menshealth.de/gesunde-ernaehrung/spare-5-stunden-pro-woche-in-der-kueche-mit-diesen-apps/"
+    },
+    {
+      "title": "Essensplan-Apps für Familien - BenFit",
+      "url": "https://benfit.de/die-beste-essensplan-app-gemeinsam-planen-fuer-familien-wgs/"
+    }
+  ]
+}

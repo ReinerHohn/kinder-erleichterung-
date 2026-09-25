@@ -1,0 +1,95 @@
+{
+  "id": "vorsorge-u1-u9-j1",
+  "name": "Vorsorge-Untersuchungen U1–U9 und J1 als Pflichttermine",
+  "category": "📋 Was auf mich zukommt (Rechte & Fahrplan)",
+  "tags": [
+    "U-Untersuchungen",
+    "U1",
+    "U9",
+    "J1",
+    "Früherkennung",
+    "Kinderarzt",
+    "gelbes Heft"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 2,
+  "summary": "Die Früherkennungsuntersuchungen U1 bis U9 (Geburt bis ca. 6. Lebensjahr) plus J1 (12–14 Jahre) begleiten die Entwicklung Ihres Kindes. Sie sind für gesetzlich Versicherte kostenlos und in mehreren Bundesländern verpflichtend/mit Einladewesen.",
+  "key_facts": [
+    {
+      "label": "Anzahl U-Termine",
+      "value": "U1–U9 = 10 Termine bis ca. zum 6. Geburtstag",
+      "source": "kindergesundheit-info.de (BZgA)"
+    },
+    {
+      "label": "U1–U3",
+      "value": "Geburt bis 5. Lebenswoche",
+      "source": "BZgA"
+    },
+    {
+      "label": "U4–U6",
+      "value": "3.–12. Lebensmonat",
+      "source": "BZgA"
+    },
+    {
+      "label": "U7–U9",
+      "value": "U7 21.–24. Monat, bis U9 im 46.–64. Monat",
+      "source": "BZgA"
+    },
+    {
+      "label": "J1",
+      "value": "12.–14. Lebensjahr (spätestens bis 15. Geburtstag)",
+      "source": "BZgA"
+    },
+    {
+      "label": "Kosten",
+      "value": "U1–U9 und J1 von allen gesetzlichen Kassen getragen",
+      "source": "BZgA"
+    }
+  ],
+  "deep_dive": "Die U-Untersuchungen dienen der Früherkennung von Entwicklungs-, Seh-, Hör- und anderen Gesundheitsstörungen – je früher etwas auffällt, desto besser behandelbar. Sie werden im 'gelben Heft' (Kinderuntersuchungsheft) dokumentiert, das Sie nach der Geburt erhalten; darauf stehen die Zeitfenster für U2 bis U9. U1 bis U6 fallen ins erste Lebensjahr in dichten Abständen, U7 bis U9 folgen danach in größeren Abständen bis etwa zum Schuleintritt. Wichtig: In mehreren Bundesländern gibt es ein verbindliches Einladewesen/eine Teilnahmepflicht mit Erinnerung durch eine zentrale Stelle; wer nicht teilnimmt, kann kontaktiert werden. Verpasste Termine lassen sich meist nur in einem begrenzten Toleranzzeitraum nachholen – danach zahlt die Kasse ggf. nicht mehr regulär. Zwischen U9 (vor der Einschulung) und J1 klafft eine große Lücke; die J1 (12–14 Jahre) wird häufig vergessen, obwohl sie wichtige Themen der Pubertät abdeckt. Planen Sie die Termine früh mit einer Kinderarztpraxis, gute Praxen sind oft ausgebucht.",
+  "mechanism": "Ein festes Untersuchungsraster stellt sicher, dass gesundheitliche Probleme in den entscheidenden Entwicklungsphasen erkannt und behandelt werden – Einladewesen erhöhen die Teilnahmequote und dienen auch dem Kinderschutz.",
+  "evidence": [
+    {
+      "source": "kindergesundheit-info.de (BZgA)",
+      "year": 2025,
+      "finding": "U1–U9 = 10 Termine bis ~6. Lebensjahr; J1 mit 12–14 Jahren; Kosten von GKV getragen"
+    },
+    {
+      "source": "BZgA / Länder",
+      "year": 2025,
+      "finding": "Zeitfenster im 'gelben Heft'; in mehreren Bundesländern Einladewesen/Teilnahmepflicht"
+    }
+  ],
+  "protocol": [
+    "Nach der Geburt Kinderuntersuchungsheft ('gelbes Heft') aufbewahren – dort stehen die Zeitfenster",
+    "Frühzeitig eine Kinder-/Jugendarztpraxis suchen und Termine im jeweiligen Zeitfenster buchen",
+    "U-Termine nicht verstreichen lassen; im Toleranzzeitraum nachholen, bevor der Kassenanspruch entfällt",
+    "J1 im Alter von 12–14 Jahren aktiv vereinbaren (wird oft übersehen)"
+  ],
+  "mistakes": [
+    "U-Termine über den Toleranzzeitraum hinaus verpassen",
+    "Die J1 vergessen (große Lücke nach U9)",
+    "Erst spät eine Kinderarztpraxis suchen, obwohl Termine knapp sind"
+  ],
+  "risks": "Verpasste Untersuchungen können Entwicklungsauffälligkeiten übersehen und außerhalb des Zeitfensters kostenpflichtig werden. In Ländern mit Teilnahmepflicht kann Nicht-Teilnahme gemeldet werden. Allgemeine Gesundheitsinfo, keine medizinische Beratung.",
+  "synergy": [
+    "fahrplan-schwangerschaft-bis-kita",
+    "admin-termin-last-buerokratie",
+    "geteilter-familienkalender-mental-load"
+  ],
+  "sources": [
+    {
+      "title": "Termine für Vorsorgeuntersuchungen (BZgA / kindergesundheit-info.de)",
+      "url": "https://www.kindergesundheit-info.de/themen/frueherkennung-u1-u9-und-j1/untersuchungstermine/"
+    },
+    {
+      "title": "Früherkennung U1–U9 und J1 (BZgA)",
+      "url": "https://www.kindergesundheit-info.de/themen/frueherkennung-u1-u9-und-j1/"
+    },
+    {
+      "title": "U1 bis U9: Was wird gemacht? (BZgA)",
+      "url": "https://www.kindergesundheit-info.de/themen/frueherkennung-u1-u9-und-j1/untersuchungen-u1-bis-u9/die-untersuchungen-u1-bis-u9/"
+    }
+  ]
+}

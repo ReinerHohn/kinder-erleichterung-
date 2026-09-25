@@ -1,0 +1,71 @@
+{
+  "id": "kosten-kindererziehung",
+  "name": "Direkte Kosten der Kindererziehung",
+  "category": "📉 Ursachen: weniger Kinderwunsch",
+  "tags": [
+    "kosten",
+    "budget",
+    "kindergeld",
+    "lebenshaltung"
+  ],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 3,
+  "summary": "Ein Kind kostet in Deutschland grob sechsstellig bis zum 18. Geburtstag – ohne Betreuung und Studium. Diese direkten Kosten sind ein oft genannter, aber selten alleiniger Grund gegen (weitere) Kinder.",
+  "key_facts": [
+    {
+      "label": "Kosten bis 18 (DE, nur Konsum)",
+      "value": "ca. 150.000 € (neuere Schätzungen ~165.000 €)",
+      "source": "Statistisches Bundesamt"
+    },
+    {
+      "label": "Monatlich unter 6 J.",
+      "value": "ca. 587 €",
+      "source": "Destatis"
+    },
+    {
+      "label": "Kindergeld 1. Kind",
+      "value": "gleicht nur einen Teil aus (~194 €/Monat zum Erhebungszeitpunkt)",
+      "source": "Destatis/Bundesregierung"
+    }
+  ],
+  "deep_dive": "Das Statistische Bundesamt beziffert die reinen Konsumausgaben für ein Kind bis zum 18. Geburtstag auf knapp 150.000 € (neuere Berechnungen bis ~165.000 €), monatlich rund 587 € (unter 6), 686 € (6–12) und 784 € (12–18). Nicht enthalten sind Kita, Schule, Studium und der große Posten entgangenes Einkommen (siehe Child-Penalty-Karte). Ein verbreiteter Irrtum ist, dass Geldleistungen wie Kindergeld die Kosten neutralisieren – sie decken nur einen Bruchteil. Gleichzeitig zeigen OECD-Analysen, dass reine Bargeldtransfers zwar positiv, aber schwächer wirken als Betreuungsinfrastruktur und Vereinbarkeit. Direkte Kosten sind real, aber in Umfragen selten der einzige oder wichtigste Grund; sie verstärken andere Faktoren (Unsicherheit, Wohnen, Opportunitätskosten).",
+  "mechanism": "Sichtbare laufende Ausgaben pro Kind konkurrieren mit Lebensstandard und anderen Zielen; bei knappem Budget wird die gewünschte Kinderzahl nach unten korrigiert.",
+  "evidence": [
+    {
+      "source": "Statistisches Bundesamt",
+      "year": 2020,
+      "finding": "Konsumkosten je Kind bis 18: ~150.000 €, ohne Betreuung/Bildung"
+    },
+    {
+      "source": "OECD Society at a Glance 2024",
+      "year": 2024,
+      "finding": "Bargeld + frühe Betreuungsausgaben positiv assoziiert; Betreuung wirkt stärker"
+    }
+  ],
+  "protocol": [
+    "Direkte, planbare Familienleistungen (v. a. an Wohnen gekoppelt)",
+    "Gebührenfreie/gedeckelte Kinderbetreuung (siehe Betreuungs-Karte)",
+    "Steuerliche Entlastung von Familien"
+  ],
+  "mistakes": [
+    "'Kindergeld gleicht die Kosten aus' – deckt nur einen Bruchteil",
+    "Reine Geldboni heben die Fertilität stark – Evidenz zeigt schwächere Wirkung als Infrastruktur"
+  ],
+  "risks": "Selbstberichtete 'zu teuer'-Gründe überschätzen oft direkte gegenüber indirekten (Opportunitäts-)Kosten.",
+  "synergy": [
+    "geldtransfers-kindergeld-elterngeld",
+    "kita-krippe-ausbau",
+    "finanzielle-last-kind"
+  ],
+  "sources": [
+    {
+      "title": "The Local: How much does it cost to raise children in Germany?",
+      "url": "https://www.thelocal.de/20260318/how-much-does-it-cost-to-raise-children-in-germany"
+    },
+    {
+      "title": "Destatis: Childcare costs press release",
+      "url": "https://www.destatis.de/EN/Press/2021/10/PE21_483_73.html"
+    }
+  ]
+}

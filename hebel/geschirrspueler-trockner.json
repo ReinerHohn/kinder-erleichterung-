@@ -1,0 +1,75 @@
+{
+  "id": "geschirrspueler-trockner",
+  "name": "Geschirrspüler & Wäschetrockner (die unterschätzten Klassiker)",
+  "category": "🤖 KI & Robotik",
+  "tags": [
+    "Haushalt",
+    "Klassiker",
+    "Zeitgewinn",
+    "belegt"
+  ],
+  "impact": 5,
+  "evidence_level": "A",
+  "effort": 2,
+  "summary": "Die größte reale Haushaltsentlastung kommt nicht von neuer KI, sondern von den bewährten Automaten: Geschirrspüler und Wäschetrockner sparen messbar mehrere Stunden pro Woche - zuverlässig und vergleichsweise günstig.",
+  "key_facts": [
+    {
+      "label": "Zeitgewinn Spülmaschine",
+      "value": "ca. 45 min pro Spülgang gespart (60 vs. 15 min)",
+      "source": "Bosch/Uni Bonn"
+    },
+    {
+      "label": "Hochgerechnet",
+      "value": "ca. 4 h körperliche Arbeit/Woche bzw. ~210 h/Jahr",
+      "source": "Bosch / Cleanipedia"
+    },
+    {
+      "label": "Reifegrad",
+      "value": "vollständig ausgereift, Standardgerät",
+      "source": "Marktdaten"
+    },
+    {
+      "label": "Studienbasis",
+      "value": "Uni Bonn, >100 Teilnehmer aus mehreren Ländern",
+      "source": "SOFW Journal 3/2006"
+    }
+  ],
+  "deep_dive": "In der Diskussion um KI-Robotik geht der wichtigste Punkt oft unter: Die größte belegte Zeitersparnis im Haushalt liefern längst vorhandene, unspektakuläre Automaten. Eine Untersuchung der Universität Bonn zeigt, dass Handspülen von 13 Maßgedecken rund 60 Minuten dauert, die Maschine dagegen etwa 15 Minuten Aufwand - rund 45 Minuten Ersparnis pro Durchgang, hochgerechnet grob vier Stunden pro Woche. Der Wäschetrockner nimmt das komplette Aufhängen und Abnehmen ab. Beide sind zuverlässig, seit Jahrzehnten reif und im Vergleich zu Robotern günstig. Der verbreitete Denkfehler ist, das Entlastungs-Budget in unreife Robotik statt in einen guten Geschirrspüler zu stecken. Einschränkung: Bei sehr sparsamem Handspülen kann der Energieverbrauch der Maschine höher liegen - beim Zeitgewinn ist die Maschine aber klar überlegen.",
+  "mechanism": "Automatisieren die zeitintensivsten wiederkehrenden Küchen- und Wäscheaufgaben (Spülen, Trocknen) vollständig.",
+  "evidence": [
+    {
+      "source": "Universität Bonn (SOFW Journal 3/2006), zit. n. Bosch",
+      "year": 2006,
+      "finding": "Handspülen ~60 min, Maschine ~15 min Aufwand; deutliche Zeitersparnis pro Spülgang."
+    },
+    {
+      "source": "Bosch / Cleanipedia",
+      "year": 2025,
+      "finding": "Hochrechnung ~4 h eingesparte körperliche Arbeit pro Woche durch Geschirrspüler."
+    }
+  ],
+  "protocol": [
+    "Vor teurer Robotik zuerst Geschirrspüler + Trockner sicherstellen - bestes Verhältnis Wirkung/Aufwand.",
+    "Voll beladen und Eco-Programm nutzen, um Energie- vs. Zeit-Kompromiss zu optimieren.",
+    "Trockner spart v.a. das Aufhängen - realistisch bewerten, nicht als Luxus abtun."
+  ],
+  "mistakes": [
+    "Budget in unreife KI-Gadgets stecken, während der Grundausstattungshebel ungenutzt bleibt.",
+    "Maschine halbleer laufen lassen (Energie/Kosten unnötig hoch)."
+  ],
+  "risks": "Höherer Energieverbrauch als extrem sparsames Handspülen; Anschaffungskosten. Kein Datenschutzproblem (kein KI-/Cloud-Zwang).",
+  "sources": [
+    {
+      "title": "Warum ein Geschirrspüler Wasser, Strom und Zeit spart - Bosch",
+      "url": "https://www.bosch-home.com/de/produkte/geschirrspueler/nachhaltiger-geschirrspueler"
+    },
+    {
+      "title": "Spülmaschine vs. Handspülen - Cleanipedia",
+      "url": "https://www.cleanipedia.com/de/kueche-putzen/spuelmaschine-handspuelen.html"
+    },
+    {
+      "title": "Was ist sparsamer: Handspülen oder Maschine? - ÖKO-TEST",
+      "url": "https://www.oekotest.de/freizeit-technik/Was-ist-sparsamer-Geschirrspuelen-per-Hand-oder-mit-Maschine_13290_1.html"
+    }
+  ]
+}

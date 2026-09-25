@@ -1,0 +1,74 @@
+{
+  "id": "kita-krippe-ausbau",
+  "name": "Ausbau bezahlbarer, hochwertiger Kinderbetreuung (Kita/Krippe)",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": [
+    "Kinderbetreuung",
+    "Erwerbstätigkeit",
+    "Vereinbarkeit",
+    "Fertilität",
+    "Infrastruktur"
+  ],
+  "impact": 5,
+  "evidence_level": "A",
+  "effort": 4,
+  "summary": "Verlässliche, bezahlbare Krippen- und Kitaplätze sind der wirksamste Hebel zugleich für mütterliche Erwerbstätigkeit UND für die Geburtenrate. Sie senken die 'Kosten' eines Kindes real und ermöglichen die Vereinbarkeit, statt Frauen aus dem Arbeitsmarkt zu drängen.",
+  "key_facts": [
+    {
+      "label": "Effekt Erwerbstätigkeit (Luxemburg-Reform)",
+      "value": "+3 Prozentpunkte Erwerbsquote der Mütter, +1 Std./Woche",
+      "source": "Access to universal childcare, PMC 2021"
+    },
+    {
+      "label": "Wirkung pro Euro (Fertilität)",
+      "value": "+1.000 USD PPP/Kind Familienausgaben ≈ +1,0–1,6 % TFR",
+      "source": "OECD Working Paper 299 (2023)"
+    },
+    {
+      "label": "Was junge Paare wollen",
+      "value": "Betreuungsverfügbarkeit wichtiger als Geldtransfers",
+      "source": "ifo/DIW zu Kindergeld vs. Betreuung"
+    }
+  ],
+  "deep_dive": "Die Evidenz zeigt konsistent: Frühkindliche Betreuung wirkt doppelt – sie hebt die Erwerbsbeteiligung von Müttern (in einer Luxemburger Reform +3 Prozentpunkte, v. a. bei mittlerer Bildung) und ist positiv mit der Geburtenrate korreliert. Die OECD schätzt, dass 1.000 USD PPP mehr Familienausgaben pro Kind (Betreuung, Elterngeld, Beihilfen) die TFR um etwa 1,0–1,6 % anheben. Ein verbreiteter Irrtum ist, Geldtransfers seien der Königsweg: Deutsche Studien zeigen, dass junge Paare Betreuungsverfügbarkeit und Vereinbarkeit höher gewichten als reine Barleistungen. Entscheidend ist Qualität und Verlässlichkeit, nicht nur die Platzzahl – kurze Öffnungszeiten oder Personalmangel entwerten den Effekt. Der Ausbau ist teuer, rentiert sich aber teilweise durch höhere Steuer- und Beitragseinnahmen erwerbstätiger Eltern und geringere Transferabhängigkeit. Anders als Baby-Boni wirkt Betreuung strukturell und dauerhaft.",
+  "mechanism": "Betreuung senkt die Opportunitätskosten von Kindern (Karriereunterbrechung/Einkommensverlust) und macht Beruf und Familie gleichzeitig möglich – Fertilität ist nicht mehr an den Rückzug der Frau vom Arbeitsmarkt gekoppelt.",
+  "evidence": [
+    {
+      "source": "OECD Social, Employment and Migration Working Paper No. 299",
+      "year": 2023,
+      "finding": "+1.000 USD PPP/Kind an Familienpolitik-Ausgaben ≈ +1,0–1,6 % TFR; Betreuungsausbau hebt Frauenerwerbstätigkeit"
+    },
+    {
+      "source": "Access to universal childcare and its effect on maternal employment (PMC)",
+      "year": 2021,
+      "finding": "Luxemburg-Reform: +3 Prozentpunkte Erwerbsquote der Mütter, v. a. bei mittlerer Bildung"
+    }
+  ],
+  "protocol": [
+    "Rechtsanspruch auf Ganztagsplatz mit ausreichenden, verlässlichen Öffnungszeiten (mind. 8 Std.)",
+    "Beitragsstaffelung nach Einkommen bzw. Beitragsfreiheit für untere Einkommen",
+    "Qualität priorisieren: guter Betreuungsschlüssel, Fachkräfte, Ferienabdeckung",
+    "Platzausbau dort zuerst, wo Erwerbsnachfrage und Fehlplätze am größten sind"
+  ],
+  "mistakes": [
+    "Nur Plätze zählen statt Öffnungszeiten/Qualität sichern",
+    "Fachkräftemangel ignorieren – Plätze auf dem Papier ohne Personal",
+    "Beiträge so hoch ansetzen, dass Zweitverdienst sich nicht lohnt"
+  ],
+  "risks": "Sehr teuer und personalintensiv; ohne Fachkräfte drohen Qualitätsverluste; Effekte auf hoch- und niedriggebildete Mütter fallen unterschiedlich aus.",
+  "synergy": [
+    "fehlende-teure-kinderbetreuung",
+    "kita-platzmangel-betreuungsluecke",
+    "opportunitaetskosten-karriere-child-penalty"
+  ],
+  "sources": [
+    {
+      "title": "OECD – Fertility, employment and family policy (WP 299)",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/09/fertility-employment-and-family-policy_8daa2477/326844f0-en.pdf"
+    },
+    {
+      "title": "Access to universal childcare and its effect on maternal employment (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8245926/"
+    }
+  ]
+}

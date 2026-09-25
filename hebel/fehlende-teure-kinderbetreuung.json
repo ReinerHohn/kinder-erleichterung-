@@ -1,0 +1,71 @@
+{
+  "id": "fehlende-teure-kinderbetreuung",
+  "name": "Fehlende, teure oder unflexible Kinderbetreuung",
+  "category": "📉 Ursachen: weniger Kinderwunsch",
+  "tags": [
+    "kita",
+    "betreuung",
+    "vereinbarkeit",
+    "u3-plätze"
+  ],
+  "impact": 4,
+  "evidence_level": "B",
+  "effort": 4,
+  "summary": "Verlässliche, bezahlbare Betreuung – besonders für unter Dreijährige und in Ganztagsform – ist einer der wenigen Politikhebel mit belegter positiver Fertilitätswirkung. Fehlt sie, sinkt vor allem die Erstgeburtenrate.",
+  "key_facts": [
+    {
+      "label": "+10 % Betreuungssubvention",
+      "value": "ca. +0,4 % Gesamtfertilität",
+      "source": "Childcare subsidies study"
+    },
+    {
+      "label": "DE-Effekt",
+      "value": "subventionierte Betreuung fördert Geburten v. a. bei kinderlosen, hochgebildeten Frauen (Erstgeburt)",
+      "source": "OECD/DIW-Literatur"
+    },
+    {
+      "label": "OECD-Ranking der Hebel",
+      "value": "Betreuung <3 J. wirksamer als Leave-Leistungen um die Geburt",
+      "source": "OECD 2024"
+    }
+  ],
+  "deep_dive": "OECD-Analysen (Society at a Glance 2024) zeigen, dass Sachleistungen – vor allem Betreuungsplätze für unter Dreijährige – eine stärkere potenzielle Fertilitätswirkung haben als Elternzeit-Geldleistungen rund um die Geburt. Quantitativ: rund +0,4 % Gesamtfertilität je +10 % Betreuungssubvention. In Deutschland fördert (an mütterliche Erwerbstätigkeit gekoppelte) subventionierte Betreuung Geburten besonders bei kinderlosen, hochgebildeten Frauen – der Effekt liegt vor allem bei der ersten Geburt, nicht bei Folgegeburten. Ein Irrtum ist, Betreuung sei ein Allheilmittel: Die Gesamtevidenz zur Kausalität ist gemischt und die Effektgrößen sind moderat. Entscheidend ist nicht die bloße Existenz, sondern Verlässlichkeit, Öffnungszeiten (Ganztag) und niedrige Kosten – 'unflexibel und teuer' wirkt fast wie 'nicht vorhanden'.",
+  "mechanism": "Ohne verlässliche Betreuung ist ein Kind mit Erwerbstätigkeit kaum vereinbar; die Opportunitätskosten (siehe Child-Penalty) steigen, und der Kinderwunsch wird zurückgestellt.",
+  "evidence": [
+    {
+      "source": "OECD Society at a Glance 2024",
+      "year": 2024,
+      "finding": "Betreuung <3 J. wirksamerer Hebel als Leave-Leistungen; positive Assoziation mit TFR"
+    },
+    {
+      "source": "Childcare subsidies & fertility (ScienceDirect)",
+      "year": 2025,
+      "finding": "+10 % Subvention ≈ +0,4 % TFR; fördert v. a. Erstgeburten"
+    }
+  ],
+  "protocol": [
+    "Rechtsanspruch + Ausbau verlässlicher Ganztagsbetreuung (U3-Plätze)",
+    "Gebühren senken/deckeln",
+    "Flexible Öffnungszeiten für Schicht-/Vollzeit"
+  ],
+  "mistakes": [
+    "'Mehr Kitas = automatisch viel mehr Kinder' – Effekte sind moderat und v. a. bei Erstgeburten",
+    "Menge zählt mehr als Qualität/Flexibilität – falsch, unflexibel wirkt kaum"
+  ],
+  "risks": "Kausalität in der Gesamtliteratur uneindeutig; Effekt v. a. bei bestimmten Gruppen (hochgebildet, kinderlos).",
+  "synergy": [
+    "kita-krippe-ausbau",
+    "ganztagsschule-verlaessliche-betreuung",
+    "kita-platzmangel-betreuungsluecke"
+  ],
+  "sources": [
+    {
+      "title": "OECD: Fertility trends – underlying drivers and role for policy (2024)",
+      "url": "https://www.oecd.org/en/publications/society-at-a-glance-2024_918d8db3-en/full-report/fertility-trends-across-the-oecd-underlying-drivers-and-the-role-for-policy_770679b8.html"
+    },
+    {
+      "title": "The effects of childcare subsidies on fertility and welfare",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0313592625004813"
+    }
+  ]
+}

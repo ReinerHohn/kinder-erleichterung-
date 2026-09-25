@@ -1,0 +1,71 @@
+{
+  "id": "fertility-gap-wunsch-vs-realitaet",
+  "name": "Fertility Gap: gewünschte vs. tatsächliche Kinderzahl",
+  "category": "📉 Ursachen: weniger Kinderwunsch",
+  "tags": [
+    "fertility-gap",
+    "kinderwunsch",
+    "realisierung",
+    "querschnittsbefund"
+  ],
+  "impact": 5,
+  "evidence_level": "A",
+  "effort": 4,
+  "summary": "Der zentrale Befund: Menschen wünschen sich mehr Kinder, als sie bekommen. Der Geburtenrückgang ist überwiegend ein Realisierungsproblem, nicht ein Wunsch-Problem – die Lücke bündelt fast alle anderen Ursachen.",
+  "key_facts": [
+    {
+      "label": "Ideal ≥2 Kinder (EU-Frauen)",
+      "value": "87 %",
+      "source": "Eurobarometer 2011"
+    },
+    {
+      "label": "Realisierungsrate",
+      "value": "je 100 gewünschte Geburten nur ~50–70 realisiert (Südeuropa 32–44)",
+      "source": "BiB Working Paper 2025 (GGS)"
+    },
+    {
+      "label": "Endgültige Lücke",
+      "value": "~30 % beenden Reproduktion mit weniger Kindern als ideal (Ø-Lücke ~0,3)",
+      "source": "Eurobarometer/EU-27"
+    }
+  ],
+  "deep_dive": "Der Fertility Gap ist der wichtigste Rahmenbefund dieses ganzen Katalogs: 87 % der EU-Frauen halten zwei oder mehr Kinder für ideal, doch das BiB (Working Paper 2025, Generations and Gender Survey, 11 Länder) zeigt, dass für die meisten Länder nur etwa 50–70 von 100 beabsichtigten Geburten realisiert werden – in Südeuropa, der Schweiz und Österreich sogar nur 32–44. Rund 30 % beenden ihr reproduktives Leben mit weniger Kindern als ihrem Ideal, mit einer durchschnittlichen Lücke von etwa 0,3 Kindern. Der entscheidende, kontraintuitive Punkt: Der Geburtenrückgang entsteht überwiegend nicht daraus, dass Menschen keine Kinder mehr wollen, sondern dass sie den Wunsch nicht realisieren können. Der verbreitete Irrtum ist genau umgekehrt – 'niedrige Geburtenrate = niedriger Kinderwunsch'. Damit ist die Lücke die Sammellinse: Opportunitätskosten, Care-Gap, Wohnen, Unsicherheit, fehlender Partner, Aufschub und Betreuung sind die Kanäle, die zwischen Wunsch und Realität stehen. Politik, die die Lücke schließt (Vereinbarkeit ermöglichen), ist wirksamer und legitimer als Politik, die Wünsche 'erzeugen' will.",
+  "mechanism": "Nicht der Wunsch, sondern seine Umsetzung scheitert an strukturellen Hürden. Jede unrealisierte Geburt vergrößert die Lücke; der Aufschub über die biologische Uhr macht sie endgültig.",
+  "evidence": [
+    {
+      "source": "BiB Working Paper (Generations and Gender Survey, 11 Länder)",
+      "year": 2025,
+      "finding": "Realisierungsrate meist 50–70 %, Südeuropa/AT/CH 32–44 %"
+    },
+    {
+      "source": "Eurobarometer 2011 / Pew-Analyse",
+      "year": 2014,
+      "finding": "87 % EU-Frauen Ideal ≥2; ~30 % erreichen ihr Ideal nicht (Ø −0,3)"
+    }
+  ],
+  "protocol": [
+    "Alle wirksamen Hebel zur Realisierung bündeln: Betreuung, Vereinbarkeit, Wohnen, Sicherheit (siehe jeweilige Lösungs-Karten)",
+    "Politik am Schließen der Lücke ausrichten, nicht am 'Erzeugen' von Wünschen",
+    "Aufschub reduzieren, damit Wünsche im Zeitfenster realisiert werden"
+  ],
+  "mistakes": [
+    "'Niedrige TFR = niedriger Kinderwunsch' – Wünsche liegen weiter nahe 2",
+    "Pronatalismus per Zwang/Druck – ineffektiv, adressiert die Realisierungshürden nicht"
+  ],
+  "risks": "Geäußerte Ideale sind teils normativ überhöht; die Lücke variiert stark nach Land, Alter und Messmethode (ideal vs. intendiert).",
+  "synergy": [
+    "kita-krippe-ausbau",
+    "laendervergleich-frankreich-schweden",
+    "aufschub-erstgeburt-biologie"
+  ],
+  "sources": [
+    {
+      "title": "BiB: Intended, ideal, and actual fertility in 11 European countries (2025, PDF)",
+      "url": "https://www.bib.bund.de/Publikation/2025/pdf/Intended-ideal-and-actual-fertility-in-11-European-countries-Evidence-on-fertility-gaps-in-different-age-groups-from-the-Generations-and-Gender-Survey.pdf?__blob=publicationFile&v=2"
+    },
+    {
+      "title": "Pew Research: Birth rates lag, but the desire for kids does not",
+      "url": "https://www.pewresearch.org/short-reads/2014/04/11/birth-rates-lag-in-europe-and-the-u-s-but-the-desire-for-kids-does-not/"
+    }
+  ]
+}

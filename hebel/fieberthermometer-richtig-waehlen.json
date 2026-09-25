@@ -1,0 +1,76 @@
+{
+  "id": "fieberthermometer-richtig-waehlen",
+  "name": "Fieberthermometer: digital-rektal statt teurem Wearable/Stirnthermometer",
+  "category": "💡 Sweet Spots (Produkte & Gadgets)",
+  "tags": [
+    "Gesundheit",
+    "Fieber",
+    "günstig",
+    "Genauigkeit"
+  ],
+  "impact": 3,
+  "evidence_level": "A",
+  "effort": 1,
+  "summary": "Für Babys unter 3 Monaten ist das simple digitale Rektalthermometer (~5–10 €) am genauesten. Teure Stirn-/Ohr-Thermometer und Fieber-Wearables sind bequem, aber ungenauer – bei Neugeborenen kann das gefährlich täuschen.",
+  "key_facts": [
+    {
+      "label": "Genaueste Methode <3 Mon.",
+      "value": "digital rektal (Kernkörpertemperatur-nah)",
+      "source": "Cleveland Clinic / Pädiatrie"
+    },
+    {
+      "label": "Stirn/Ohr",
+      "value": "nur Screening, kann Rektalmessung nicht ersetzen",
+      "source": "Studie PMC5787302"
+    },
+    {
+      "label": "Preis Rektalthermometer",
+      "value": "~5–10 €",
+      "source": "Handel"
+    },
+    {
+      "label": "Fieber-Wearable",
+      "value": "gut für Verlaufstrends, nicht für exakten Einzelwert",
+      "source": "Reviews/Pädiatrie"
+    }
+  ],
+  "deep_dive": "Bei der Fiebermessung gilt: teuer heißt nicht genauer. Für Säuglinge unter 3 Monaten – wo Fieber ein Notfall sein kann – ist das billige digitale Rektalthermometer die zuverlässigste Heimmethode und kommt der Körperkerntemperatur am nächsten. Studien zeigen, dass Stirn- und Ohrthermometer die Rektalmessung NICHT ersetzen, sondern allenfalls zum Screening taugen (positioning-abhängig, größere Streuung). Fieber-Wearables (Dauerpflaster/-clip) haben ihren Nutzen im Verlaufs-Monitoring über Nacht und weniger Schlafunterbrechung – aber nicht zur Bestätigung eines exakten Werts. Verbreiteter Irrtum: '35-€-Stirnthermometer ist präziser als das 6-€-Rektalgerät' – falsch. Sweet Spot: billiges Rektalthermometer als 'Wahrheit', bequemes Stirngerät nur für ältere Babys/Schnellchecks.",
+  "mechanism": "Rektalmessung liegt anatomisch nah an der Körperkerntemperatur → geringste Messabweichung, entscheidend bei Neugeborenen-Fieber.",
+  "evidence": [
+    {
+      "source": "Studie (PMC5787302)",
+      "year": 2018,
+      "finding": "Stirn-/Ohrmessung kann Rektalmessung nicht ersetzen, außer zum Screening."
+    },
+    {
+      "source": "Cleveland Clinic – Thermometer für Kinder",
+      "year": 2023,
+      "finding": "Digitales Rektalthermometer bei Säuglingen am genauesten; Ohr genauer als Stirn beim Fiebernachweis."
+    }
+  ],
+  "protocol": [
+    "Unter 3 Monaten: digital rektal messen; bei Fieber (≥38 °C) rasch ärztlich abklären.",
+    "Ab ~3 Monaten sind Stirn/Ohr für Schnellchecks ok – im Zweifel rektal bestätigen.",
+    "Wearable nur ergänzend für Verlaufstrends, nicht als einzige Messung."
+  ],
+  "mistakes": [
+    "Teures Stirn-/Wearable-Gerät als Hauptmessung bei Neugeborenen (Fehlalarme oder verpasstes Fieber).",
+    "Werte je nach Methode ohne Umrechnung vergleichen.",
+    "Auf Wearable-Alarm warten statt bei krankem Neugeborenen sofort zu messen/handeln."
+  ],
+  "risks": "Ungenaue Messung bei Neugeborenen kann echtes Fieber verschleiern (medizinischer Notfall). Falsche Sicherheit durch Wearables. Geldverschwendung bei teuren, ungenaueren Geräten.",
+  "synergy": [
+    "elektrischer-nasensauger",
+    "lohnt-nicht-bernsteinkette-teething-gel-smart-sock"
+  ],
+  "sources": [
+    {
+      "title": "Most Accurate Thermometers for Kids (Cleveland Clinic)",
+      "url": "https://health.clevelandclinic.org/which-thermometer-is-best-for-taking-your-childs-temperature"
+    },
+    {
+      "title": "Forehead/ear cannot replace rectal, except screening (PMC)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5787302/"
+    }
+  ]
+}

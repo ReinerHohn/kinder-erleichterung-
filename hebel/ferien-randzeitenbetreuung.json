@@ -1,0 +1,83 @@
+{
+  "id": "ferien-randzeitenbetreuung",
+  "name": "Ferien- & Randzeitenbetreuung (Ferienprogramme, Früh-/Spät-/Notfallslots)",
+  "category": "💼 Service- & Geschäftsideen",
+  "tags": [
+    "Ferienbetreuung",
+    "Randzeiten",
+    "Kinderbetreuung",
+    "lokal",
+    "Aufsichtspflicht"
+  ],
+  "impact": 5,
+  "evidence_level": "B",
+  "effort": 5,
+  "summary": "Betreuung genau in den Lücken der Regelbetreuung: Schulferien, Früh-/Spätrandzeiten und Brückentage. Berufstätige Eltern lösen ihr größtes Vereinbarkeits-Problem; der Anbieter verkauft planbare Programme/Camps und Randzeit-Slots.",
+  "key_facts": [
+    {
+      "label": "Betreuungsbedarf",
+      "value": "38 % der U3 außerhalb Familie betreut; Eltern zahlen ø 1.310 €/Jahr für Betreuung",
+      "source": "Destatis"
+    },
+    {
+      "label": "Ferien-Lücke",
+      "value": "Kitas/Schulen decken ~13 Ferienwochen/Jahr nicht ab – Kernproblem berufstätiger Eltern",
+      "source": "Marktbeobachtung"
+    },
+    {
+      "label": "Zahlungsbereitschaft",
+      "value": "Ferien-Feriencamps/Programme sind etabliert und kostenpflichtig",
+      "source": "Websuche"
+    },
+    {
+      "label": "Vereinbarkeit als Motiv",
+      "value": "hohe Erwerbstätigkeit beider Eltern erhöht Randzeitenbedarf",
+      "source": "Statista Vereinbarkeit Familie/Beruf"
+    }
+  ],
+  "deep_dive": "Die Lücke zwischen Arbeitszeit und Betreuungszeit ist eines der größten, ungelösten Elternprobleme: ~13 Ferienwochen pro Jahr und tägliche Randzeiten (vor 8 Uhr, nach 16 Uhr) sind von Kita/Schule meist nicht abgedeckt, während Eltern voll arbeiten. Zahlungsbereitschaft für Ferienprogramme/Camps ist etabliert. Ein Profi-Anbieter kann themenbasierte Ferienwochen (Sport, Technik, Natur) und verlässliche Randzeit-Slots verkaufen – planbar, wiederkehrend, mit klarer Nachfragespitze. Das ist zugleich die größte Hürde: Sobald echte Betreuung (nicht Vermittlung) angeboten wird, greift die volle Aufsichtspflicht und – je nach Umfang und Alter – die Betriebserlaubnispflicht nach SGB VIII (§45), plus Betreuungsschlüssel, Räume, qualifiziertes Personal, erweitertes Führungszeugnis und Unfallversicherung. Das macht das Modell personal-, raum- und regulierungsintensiv. Ein verbreiteter Irrtum: 'ein paar Betreuer und ein Raum reichen' – tatsächlich entscheiden Genehmigung, Schlüssel und Haftung über die Zulässigkeit. Tragfähig, aber kein leichtes lokales Nebengeschäft; eher ein reguliertes Betreuungsunternehmen. Skalierung über standardisierte Programme und ggf. Kooperation mit Arbeitgebern (die Ferienbetreuung als Benefit einkaufen) verbessert die Ökonomie.",
+  "mechanism": "Schließt die Lücke zwischen Vollzeitjob und den Ferien-/Randzeiten, in denen keine Regelbetreuung existiert – der akuteste Vereinbarkeits-Stress.",
+  "evidence": [
+    {
+      "source": "Destatis / Statista",
+      "year": 2021,
+      "finding": "Hoher außerfamiliärer Betreuungsbedarf und feste Zahlungsbereitschaft für Betreuung (ø 1.310 €/Jahr)."
+    },
+    {
+      "source": "Statista Vereinbarkeit",
+      "year": 2025,
+      "finding": "Hohe beidseitige Erwerbstätigkeit treibt Randzeiten-/Ferienbedarf strukturell."
+    }
+  ],
+  "protocol": [
+    "Mit genehmigungsärmerem Format starten (z.B. tageweise Ferienprogramme statt dauerhafter Einrichtung) und Regulierung früh mit dem Jugendamt klären.",
+    "Betriebserlaubnispflicht (§45 SGB VIII), Betreuungsschlüssel, Räume, Personalqualifikation prüfen.",
+    "B2B-Kanal erschließen: Arbeitgeber kaufen Ferienbetreuung als Mitarbeiter-Benefit.",
+    "Rechtlich zwingend: Aufsichtspflicht/Haftung, erweitertes Führungszeugnis für Personal, Unfallversicherung, ggf. Betriebserlaubnis."
+  ],
+  "mistakes": [
+    "Aufsichtspflicht/Betriebserlaubnis unterschätzen – Betrieb ist ohne Genehmigung unzulässig.",
+    "Nur Ferienspitzen abdecken → Personal die restliche Zeit unausgelastet.",
+    "Personal ohne erweitertes Führungszeugnis/Qualifikation einsetzen."
+  ],
+  "risks": "Volle Aufsichtspflicht und Haftung bei eigener Betreuung; ggf. Betriebserlaubnispflicht (§45 SGB VIII), Betreuungsschlüssel, Personalqualifikation, erweitertes Führungszeugnis. Personal-/raumintensiv, saisonale Auslastungsspitzen. Regulierungs- und Kapitalintensität begrenzen schnelle Skalierung.",
+  "synergy": [
+    "betreuungsluecke-krankheit-randzeiten-ferien",
+    "ganztagsschule-verlaessliche-betreuung",
+    "betriebliche-kinderbetreuung-backup-care"
+  ],
+  "sources": [
+    {
+      "title": "Destatis – Kinderbetreuung Elternkosten",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2021/10/PD21_483_73.html"
+    },
+    {
+      "title": "Statista – Vereinbarkeit Familie und Beruf",
+      "url": "https://de.statista.com/themen/5855/vereinbarkeit-von-familie-und-beruf"
+    },
+    {
+      "title": "Statista – Kinderbetreuung in Deutschland",
+      "url": "https://de.statista.com/themen/6555/kinderbetreuung-in-deutschland/"
+    }
+  ]
+}

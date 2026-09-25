@@ -1,0 +1,89 @@
+{
+  "id": "teilzeit-brueckenteilzeit-rueckkehr-vollzeit",
+  "name": "Recht auf Teilzeit, Brückenteilzeit & Rückkehr zur Vollzeit",
+  "category": "📋 Was auf mich zukommt (Rechte & Fahrplan)",
+  "tags": [
+    "Teilzeit",
+    "Brückenteilzeit",
+    "TzBfG",
+    "§8",
+    "§9a",
+    "Rückkehr Vollzeit"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 3,
+  "summary": "Sie können Ihre Arbeitszeit dauerhaft reduzieren (§ 8 TzBfG) oder befristet über 1–5 Jahre mit automatischer Rückkehr zur alten Stundenzahl (Brückenteilzeit, § 9a TzBfG). Beides ist unabhängig von Elternzeit-Teilzeit ein eigenes Recht.",
+  "key_facts": [
+    {
+      "label": "Unbefristete Teilzeit (§ 8 TzBfG)",
+      "value": "Betrieb i. d. R. > 15 Beschäftigte, > 6 Monate im Betrieb",
+      "source": "TzBfG"
+    },
+    {
+      "label": "Brückenteilzeit (§ 9a TzBfG)",
+      "value": "Betrieb > 45 Beschäftigte, 1–5 Jahre, dann autom. Rückkehr",
+      "source": "TzBfG / BMAS"
+    },
+    {
+      "label": "Antragsfrist",
+      "value": "spätestens 3 Monate vor Beginn (Textform)",
+      "source": "TzBfG"
+    },
+    {
+      "label": "Sperrfrist nach Brückenteilzeit",
+      "value": "1 Jahr, bevor erneut Brückenteilzeit möglich",
+      "source": "§ 9a Abs. 5 TzBfG"
+    },
+    {
+      "label": "Teilzeit in Elternzeit",
+      "value": "bis 32 Wochenstunden möglich (BEEG)",
+      "source": "§ 15 BEEG"
+    }
+  ],
+  "deep_dive": "Es gibt zwei Wege außerhalb der Elternzeit: § 8 TzBfG (unbefristete Verringerung) in Betrieben mit i. d. R. mehr als 15 Beschäftigten – der Haken: Es gibt kein automatisches Recht, später wieder aufzustocken, Sie haben nur bei Neubesetzungen einen Vorzugsanspruch. Deshalb die 2019 eingeführte Brückenteilzeit (§ 9a TzBfG): Sie reduzieren für einen frei wählbaren Zeitraum von 1 bis 5 Jahren und kehren danach automatisch auf Ihre alte Stundenzahl zurück – ohne Begründung. Voraussetzung: Betrieb mit mehr als 45 Beschäftigten und mindestens 6 Monate Betriebszugehörigkeit; bei 46–200 Beschäftigten gilt eine Zumutbarkeitsgrenze (nur einer je 15 Mitarbeitende muss gewährt werden). Der Antrag muss 3 Monate vorher in Textform gestellt werden. Innerhalb der Elternzeit können Sie zusätzlich bis zu 32 Wochenstunden Teilzeit beim eigenen Arbeitgeber verlangen (§ 15 BEEG). Verbreiteter Irrtum: dass Teilzeit automatisch die Rückkehr auf Vollzeit garantiert – nur die Brückenteilzeit tut das.",
+  "mechanism": "Das TzBfG will Teilzeit fördern, ohne dass Beschäftigte in der 'Teilzeitfalle' stecken bleiben – die Brückenteilzeit schafft ein Rückkehrrecht, das § 8 nicht bietet.",
+  "evidence": [
+    {
+      "source": "TzBfG §§ 8, 9a / BMAS",
+      "year": 2025,
+      "finding": "§ 8 ab > 15 Beschäftigten; § 9a ab > 45 Beschäftigten, 1–5 Jahre, autom. Rückkehr, Antrag 3 Monate vorher"
+    },
+    {
+      "source": "Noerr / Kliemt.blog",
+      "year": 2025,
+      "finding": "§ 9a steht selbständig neben § 8; 1-Jahres-Sperrfrist nach Rückkehr; Zumutbarkeitsgrenze bei 46–200 Beschäftigten"
+    }
+  ],
+  "protocol": [
+    "Zeitmodell wählen: dauerhaft (§ 8) oder befristet mit Rückkehr (§ 9a) – oder Teilzeit in Elternzeit (§ 15 BEEG)",
+    "Antrag in Textform spätestens 3 Monate vor gewünschtem Beginn stellen, gewünschte Stunden/Verteilung angeben",
+    "Betriebsgröße prüfen (> 15 bzw. > 45 Beschäftigte) und Betriebszugehörigkeit (> 6 Monate)",
+    "Bei Ablehnung Begründung und Fristen prüfen (Arbeitgeber muss rechtzeitig ablehnen, sonst gilt Antrag als genehmigt)"
+  ],
+  "mistakes": [
+    "§ 8 wählen und glauben, man käme automatisch wieder auf Vollzeit – das garantiert nur § 9a",
+    "3-Monats-Frist versäumen",
+    "Betriebsgröße/Zumutbarkeitsgrenze nicht prüfen und dann überrascht abgelehnt werden"
+  ],
+  "risks": "In kleinen Betrieben (≤ 15 bzw. ≤ 45 Beschäftigte) besteht kein Anspruch. Bei § 8 droht die Teilzeitfalle ohne Rückkehrrecht. Allgemeine Info, kein Rechtsrat – Antrag ggf. juristisch prüfen lassen.",
+  "synergy": [
+    "vereinbarkeit-teilzeitfalle-karriereknick",
+    "flexible-arbeit-homeoffice",
+    "elternzeit-beeg-dauer-fristen"
+  ],
+  "sources": [
+    {
+      "title": "§ 9a TzBfG – gesetze-im-internet",
+      "url": "https://www.gesetze-im-internet.de/tzbfg/__9a.html"
+    },
+    {
+      "title": "BMAS – FAQ Brückenteilzeit",
+      "url": "https://www.bmas.de/DE/Arbeit/Arbeitsrecht/Teilzeit-flexible-Arbeitszeit/Teilzeit/Fragen-und-Antworten-Brueckenteilzeit/faq-brueckenteilzeit.html"
+    },
+    {
+      "title": "Brückenteilzeit – 12 wichtigste Fragen (Noerr)",
+      "url": "https://www.noerr.com/de/insights/dieneuebruckenteilzeitkommtdie12wichtigstenfragenzumanspruchaufbefristeteverringerungderarbeitszeit"
+    }
+  ]
+}

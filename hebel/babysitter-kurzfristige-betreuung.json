@@ -1,0 +1,83 @@
+{
+  "id": "babysitter-kurzfristige-betreuung",
+  "name": "Babysitter & kurzfristige Betreuung finden",
+  "category": "🍼 Stressoren im Alltag",
+  "tags": [
+    "Babysitter",
+    "Vertrauen",
+    "Verfügbarkeit",
+    "Kosten"
+  ],
+  "impact": 3,
+  "evidence_level": "C",
+  "effort": 3,
+  "summary": "Spontan eine vertrauenswürdige Betreuung zu finden, ist mühsam: Man braucht jemanden, der verfügbar ist, dem man das Kind anvertraut und den man bezahlen kann. Fehlt dieses Netz, entfällt praktisch jede kurzfristige Freizeit.",
+  "key_facts": [
+    {
+      "label": "Stundenlohn 2026",
+      "value": "üblich ~13–15 €/h; gesetzl. Mindestlohn 13,90 €/h",
+      "source": "sitly.de / betreut.de"
+    },
+    {
+      "label": "Zuschläge",
+      "value": "+10–20 % bei mehreren Kindern; ~+20 % (~+2,80 €/h) für kurzfristige Verfügbarkeit",
+      "source": "sitly.de"
+    },
+    {
+      "label": "Kern-Hürde",
+      "value": "gleichzeitig Vertrauen, Verfügbarkeit und bezahlbarer Preis nötig",
+      "source": "sitly/kinderinfo"
+    },
+    {
+      "label": "Regionale Spreizung",
+      "value": "in Großstädten deutlich teurer als auf dem Land",
+      "source": "sitly.de"
+    }
+  ],
+  "deep_dive": "Kurzfristige Betreuung scheitert selten an einem einzelnen Faktor, sondern an der Kombination aus drei Bedingungen, die gleichzeitig erfüllt sein müssen: Verfügbarkeit (jemand hat gerade Zeit), Vertrauen (man kennt und traut der Person) und Kosten (man kann und will es bezahlen). Der übliche Stundenlohn liegt 2026 bei etwa 13–15 € und orientiert sich am Mindestlohn (13,90 €); für spontane Einsätze, Abend-/Nachtzeiten oder mehrere Kinder kommen Zuschläge von 10–20 % dazu. Ein Abend zu zweit kann so schnell 50–80 € kosten – zusätzlich zu den ohnehin hohen Kinderkosten. Verbreiteter Irrtum: 'Man findet schon jemanden, wenn man kurz jemanden braucht.' In der Realität ist genau das Kurzfristige das Teure und Schwierige: Wer kein etabliertes Netz (Großeltern, fester Babysitter, andere Eltern) hat, bekommt spontan meist niemanden. Die Datenlage sind hier primär Marktpreise und Ratgeber, keine Studien – daher Evidenzgrad C.",
+  "mechanism": "Fehlt ein verlässliches Betreuungsnetz, ist jede Aktivität ohne Kind mit hohem Organisations- und Kostenaufwand verbunden – das reduziert Erholung, Paarzeit und soziale Kontakte drastisch.",
+  "evidence": [
+    {
+      "source": "sitly.de – Babysitter-Kosten 2026",
+      "year": 2026,
+      "finding": "üblich ~13–15 €/h, Zuschläge für Kurzfristigkeit und mehrere Kinder"
+    },
+    {
+      "source": "betreut.de – Stundenlohn Babysitter",
+      "year": 2026,
+      "finding": "Orientierung am Mindestlohn, regionale und tageszeitliche Unterschiede"
+    }
+  ],
+  "protocol": [
+    "Festen Stamm-Babysitter aufbauen, bevor der Notfall eintritt",
+    "Gegenseitiges Babysitting mit anderen Eltern organisieren (kostenlos, vertrauensbasiert)",
+    "Vermittlungsplattformen mit Bewertungen/Referenzen nutzen",
+    "Großeltern/Familie als Kern des Netzes einbinden",
+    "Kosten realistisch budgetieren und für Paarzeit fest einplanen"
+  ],
+  "mistakes": [
+    "Erst suchen, wenn der Termin schon feststeht",
+    "Kein Vertrauensverhältnis vorab aufbauen",
+    "Kosten für regelmäßige Paarzeit als Luxus statt als Prävention einstufen"
+  ],
+  "risks": "Ohne jede kurzfristige Entlastung steigt das Risiko von Isolation, ausbleibender Paarzeit und Erschöpfung – Vorstufen von Beziehungskrise und Burnout.",
+  "synergy": [
+    "babysitter-notfallbetreuung-vermittlung",
+    "leih-oma-grosseltern-dienst",
+    "verlust-freiheit-zeit-paarzeit"
+  ],
+  "sources": [
+    {
+      "title": "sitly.de – Was kostet ein Babysitter 2026",
+      "url": "https://www.sitly.de/blog/was-kostet-ein-babysitter"
+    },
+    {
+      "title": "betreut.de – Stundenlohn für Babysitter",
+      "url": "https://www.betreut.de/magazin/alltagshelfer/stundenlohn-fur-babysitter/"
+    },
+    {
+      "title": "kinderinfo.de – Was kostet ein Babysitter",
+      "url": "https://www.kinderinfo.de/ratgeber/babysitter/"
+    }
+  ]
+}

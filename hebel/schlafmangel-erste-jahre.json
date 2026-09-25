@@ -1,0 +1,87 @@
+{
+  "id": "schlafmangel-erste-jahre",
+  "name": "Chronischer Schlafmangel in den ersten Jahren",
+  "category": "🍼 Stressoren im Alltag",
+  "tags": [
+    "Schlaf",
+    "Baby",
+    "Gesundheit",
+    "erste Jahre"
+  ],
+  "impact": 5,
+  "evidence_level": "B",
+  "effort": 3,
+  "summary": "Nächtliches Aufwachen und verkürzter Schlaf in den ersten Lebensjahren des Kindes führen zu anhaltendem Schlafdefizit. Chronischer Schlafmangel verschärft praktisch jeden anderen Stressor (Gereiztheit, Paarkonflikt, Konzentration).",
+  "key_facts": [
+    {
+      "label": "Schlafverlust 1. Jahr",
+      "value": "rund 1.056 Stunden (~44 Tage) weniger Schlaf",
+      "source": "Umfrage unter ~1.800 Briten (leben-und-erziehen.de)"
+    },
+    {
+      "label": "Nächtliche Schlafdauer Eltern",
+      "value": "oft nur ~5–5,5 h/Nacht statt ~8 h vor der Geburt",
+      "source": "familie.de"
+    },
+    {
+      "label": "Dauer der Einschränkung",
+      "value": "Schlafdauer erreicht auch nach 6 Jahren nicht das Vor-Geburts-Niveau",
+      "source": "Studie zitiert bei snoozeproject/familie.de"
+    },
+    {
+      "label": "Mütter vs. Väter",
+      "value": "Mütter schlafen in den ersten 3 Monaten ~1 h/Nacht weniger, Väter ~13 min",
+      "source": "familie.de"
+    }
+  ],
+  "deep_dive": "Der Schlafverlust ist nicht nur ein Problem der ersten Wochen: Eine oft zitierte Auswertung zeigt, dass Mütter und Väter selbst sechs Jahre nach der Geburt des ersten Kindes noch nicht wieder so lange schlafen wie davor. Im ersten Jahr summieren sich Umfragen zufolge über 1.000 Stunden Schlafverlust und mehr als 1.100 nächtliche Unterbrechungen. Besonders belastend ist die Fragmentierung: Auch wer nominell fünf Stunden im Bett liegt, bekommt kaum zusammenhängenden Tiefschlaf. Verbreiteter Irrtum: 'Nach dem ersten halben Jahr schlafen alle wieder durch.' Tatsächlich schlafen viele Kleinkinder erst mit 2–4 Jahren zuverlässig durch, und die Schlafqualität der Eltern erholt sich noch langsamer. Die geschlechtsspezifische Asymmetrie (Mütter deutlich stärker betroffen) verstärkt den Gender-Care-Gap. Wichtig: Es handelt sich überwiegend um Umfragedaten, keine großen Meta-Analysen – die Größenordnung ist aber über Quellen hinweg konsistent.",
+  "mechanism": "Schlafmangel senkt Stresstoleranz, Impulskontrolle und Konzentration und erhöht Reizbarkeit – dadurch werden alle anderen Belastungen (Paarkonflikt, Beruf, Kinderpflege) schwerer zu bewältigen.",
+  "evidence": [
+    {
+      "source": "Umfrage ~1.800 Briten (leben-und-erziehen.de)",
+      "year": 2019,
+      "finding": "~1.056 h Schlafverlust im ersten Babyjahr"
+    },
+    {
+      "source": "familie.de / Warwick-nahe Auswertung",
+      "year": 2019,
+      "finding": "Schlafdauer bis zu 6 Jahre nach Geburt reduziert; Mütter stärker betroffen"
+    }
+  ],
+  "protocol": [
+    "Nachtschichten fair aufteilen (feste Blöcke statt beide halb wach)",
+    "Tagschlaf/Nickerchen synchron zum Kind zulassen, Haushalt zurückstellen",
+    "Externe Nacht-/Morgen-Unterstützung nutzen, wo verfügbar (siehe Babysitter-/Betreuungs-Karten)",
+    "Realistische Erwartung: Durchschlafen dauert oft bis 2–4 Jahre",
+    "Bei anhaltender Erschöpfung: Warnzeichen Burnout ernst nehmen (siehe Eltern-Burnout-Karte)"
+  ],
+  "mistakes": [
+    "Annahme, Durchschlafen komme nach 6 Monaten",
+    "Schlaf gegen Haushalt eintauschen ('schnell noch aufräumen')",
+    "Last einseitig bei einem Elternteil lassen"
+  ],
+  "risks": "Wenn Schlafdefizit dauerhaft mit Erschöpfung, Reizbarkeit und emotionaler Distanz zum Kind einhergeht, ist es ein Frühwarnzeichen für elterlichen Burnout und depressive Symptome.",
+  "synergy": [
+    "snoo-smart-sleeper-babywiege",
+    "weisses-rauschen-white-noise",
+    "elterlicher-burnout-isolation"
+  ],
+  "sources": [
+    {
+      "title": "familie.de – Studie zu Schlafentzug von Eltern",
+      "url": "https://www.familie.de/baby/ich-will-schlafen-studie-zeigt-wie-wenig-schlaf-eltern-wirklich-kriegen/"
+    },
+    {
+      "title": "leben-und-erziehen.de – 1.056 Stunden Schlafverlust",
+      "url": "https://www.leben-und-erziehen.de/baby/babyschlaf/die-wahrheit-ueber-den-schlafmangel-im-ersten-babyjahr-13962.html"
+    },
+    {
+      "title": "Snooze Project – Schlafdefizit durch Kinder",
+      "url": "https://www.snoozeproject.de/schlafdefizit-durch-kinder/"
+    },
+    {
+      "title": "AOK – Schlafmangel von Eltern mit Baby",
+      "url": "https://www.aok.de/pk/magazin/wohlbefinden/schlaf/schlafmangel-von-eltern-mit-baby/"
+    }
+  ]
+}

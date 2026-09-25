@@ -1,0 +1,62 @@
+{
+  "id": "windel-grosspackung-abo",
+  "name": "Windeln als Großpackung/Abo statt Einzelpackung",
+  "category": "💡 Sweet Spots (Produkte & Gadgets)",
+  "tags": [
+    "Alltag",
+    "Sparen",
+    "Abo",
+    "Verbrauchsgut"
+  ],
+  "impact": 3,
+  "evidence_level": "C",
+  "effort": 2,
+  "summary": "Windeln sind der größte laufende Babyverbrauch. Großpackungen/Monatsboxen und Spar-Abos senken den Preis pro Windel deutlich und ersparen ständiges Nachkaufen – ohne Qualitätsverlust bei Handelsmarken.",
+  "key_facts": [
+    {
+      "label": "Verbrauch 1. Jahr",
+      "value": "grob 2000–2500 Windeln",
+      "source": "Verbrauchsschätzung"
+    },
+    {
+      "label": "Hebel",
+      "value": "Preis pro Windel sinkt in Monatsbox/Abo klar gegenüber Einzelpack",
+      "source": "Handel/Abo-Modelle"
+    },
+    {
+      "label": "Qualität",
+      "value": "gute Handels-/Eigenmarken schneiden in Tests oft top ab",
+      "source": "Warentest-Windeltests"
+    }
+  ],
+  "deep_dive": "Windeln sind ein reines Verbrauchsgut in hoher Stückzahl (grob 2000–2500 im ersten Jahr) – deshalb wirkt jede Cent-Ersparnis pro Stück stark. Der Sweet Spot ist zweifach: Großpackungen/Monatsboxen senken den Stückpreis, und ein Spar-Abo (z. B. Amazon Spar-Abo, Drogerie-Abos) nimmt zusätzlich den Mental Load des Nachkaufens ab. Wichtig: nicht auf Vorrat in EINER Größe kaufen – Babys wachsen aus Größen schnell heraus; lieber pro Größe eine Box und die nächste erst öffnen, wenn absehbar. In Windeltests schneiden günstige Handels-/Eigenmarken regelmäßig sehr gut ab, teure Markenwindeln sind selten überlegen. Verbreiteter Irrtum: 'Teure Marke = trockener/besser' – oft nicht. Ehrliche Grenze: die Ersparnis ist real, aber moderat; der eigentliche Wert liegt im weggefallenen Besorgungsstress.",
+  "mechanism": "Größere Gebinde/Abos senken Stückpreis und automatisieren die Nachbestellung → weniger Kosten und weniger Mental Load.",
+  "evidence": [
+    {
+      "source": "Warentest-Windeltests (allg.)",
+      "year": 2023,
+      "finding": "Günstige Handelsmarken oft ebenbürtig oder besser als teure Marken."
+    }
+  ],
+  "protocol": [
+    "Preis pro Windel vergleichen (nicht Packungspreis); Monatsbox/Großpack der genutzten Größe wählen.",
+    "Spar-Abo mit anpassbarem Intervall nutzen, aber pausierbar halten (Größenwechsel!).",
+    "Nur 1 Box je Größe bevorraten; Handelsmarke testen, bevor man groß einkauft."
+  ],
+  "mistakes": [
+    "Riesenvorrat in Neugeborenengröße kaufen – Baby wächst raus, Windeln verfallen ungenutzt.",
+    "Nur auf Marken setzen ohne Handelsmarken zu testen.",
+    "Abo vergessen zu pausieren → Windeln in falscher Größe stapeln sich."
+  ],
+  "risks": "Fehlkauf durch Überbevorratung falscher Größe. Passform ist individuell – vor Großkauf testen. Abo-Fallen (automatische Lieferungen). Geringe, aber sichere Ersparnis – kein Wundermittel.",
+  "synergy": [
+    "finanzielle-last-kind",
+    "familien-mealservice-babybrei-abo"
+  ],
+  "sources": [
+    {
+      "title": "Windeln – Kaufberatung/Preisvergleich (OTTO/Handel Übersicht)",
+      "url": "https://www.otto.de/babys/ausstattung/babyphone/?test=stiftung-warentest"
+    }
+  ]
+}

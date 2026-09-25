@@ -1,0 +1,83 @@
+{
+  "id": "vereinbarkeit-teilzeitfalle-karriereknick",
+  "name": "Vereinbarkeit Beruf/Familie, Teilzeitfalle & Karriere-Knick",
+  "category": "🍼 Stressoren im Alltag",
+  "tags": [
+    "Vereinbarkeit",
+    "Teilzeit",
+    "Karriere",
+    "Motherhood Penalty"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 4,
+  "summary": "Kinder und Beruf unter einen Hut zu bringen zwingt vor allem Mütter in Teilzeit – oft dauerhaft. Der resultierende Karriere- und Einkommensknick ('Motherhood Penalty') wirkt über Jahrzehnte bis in die Rente nach.",
+  "key_facts": [
+    {
+      "label": "Teilzeit Mütter (Kind <6)",
+      "value": "74,4 % der erwerbstätigen Mütter in Teilzeit vs. 8,7 % der Väter (2024)",
+      "source": "Destatis/STRIVE"
+    },
+    {
+      "label": "Teilzeit verfestigt sich",
+      "value": "63 % der Mütter bleiben in Teilzeit, auch wenn das jüngste Kind auf weiterführender Schule ist",
+      "source": "STRIVE/VBM"
+    },
+    {
+      "label": "Einkommenseinbruch",
+      "value": "Mütter verdienen im Schnitt ~61 % weniger als vor der Geburt",
+      "source": "STRIVE"
+    },
+    {
+      "label": "Lebensverdienst",
+      "value": "kinderlose Frauen ~1,3 Mio. €, Mütter oft nur ~580.000 €",
+      "source": "Bertelsmann-nahe Berechnung"
+    }
+  ],
+  "deep_dive": "Deutschland liegt bei der 'Motherhood Penalty' im internationalen Vergleich weit oben: Sobald Frauen Mütter werden, sinken Erwerbsumfang, Einkommen und Aufstiegschancen systematisch. 2024 arbeiteten 74,4 % der erwerbstätigen Mütter mit Kindern unter sechs Jahren in Teilzeit, bei Vätern nur 8,7 %. Was als Übergangslösung gedacht ist, verfestigt sich: 63 % der Mütter bleiben in Teilzeit, selbst wenn das jüngste Kind längst auf der weiterführenden Schule ist. Die Folgen sind gravierend – Mütter verdienen im Schnitt rund 61 % weniger als vor der Geburt, und über das gesamte Erwerbsleben klafft eine große Lücke (grob ~1,3 Mio. € bei kinderlosen Frauen vs. ~580.000 € bei Müttern). Verbreiteter Irrtum: 'Teilzeit ist eine freie Entscheidung.' Faktisch erzwingen fehlende Betreuung, Randzeiten und Mental Load die Reduktion; die Entscheidung ist stark durch Strukturen vorgeprägt. Der Karriereknick schlägt später auf die Rente durch (Gender Pension Gap).",
+  "mechanism": "Reduzierte Arbeitszeit senkt Einkommen, Aufstiegschancen und Rentenansprüche und erhöht die finanzielle Abhängigkeit – das erzeugt Stress durch Zukunftsunsicherheit und oft Groll über die ungleiche Lastenverteilung.",
+  "evidence": [
+    {
+      "source": "Destatis (via STRIVE Magazine)",
+      "year": 2024,
+      "finding": "74,4 % der Mütter mit Kind <6 in Teilzeit vs. 8,7 % Väter"
+    },
+    {
+      "source": "STRIVE / VBM-Stellungnahme",
+      "year": 2024,
+      "finding": "Motherhood Penalty: ~61 % weniger Verdienst, dauerhafte Teilzeit"
+    }
+  ],
+  "protocol": [
+    "Elternzeit und Teilzeit partnerschaftlich aufteilen (Väterbeteiligung erhöhen)",
+    "Rückkehr-/Aufstockungsplan früh mit Arbeitgeber vereinbaren (Brückenteilzeit)",
+    "Rentenlücke bewusst gegensteuern (eigene Altersvorsorge, Rentensplitting prüfen)",
+    "Betreuung so ausbauen, dass Vollzeit/vollzeitnah wieder möglich wird",
+    "Verdienstausfall der Teilzeit langfristig durchrechnen, nicht nur den Monatsblick"
+  ],
+  "mistakes": [
+    "Teilzeit als rein private, freie Wahl deuten",
+    "Langfristige Renten- und Karrierefolgen ausblenden",
+    "Rückkehr in höheren Umfang immer weiter aufschieben"
+  ],
+  "risks": "Verfestigte Teilzeit führt zu dauerhaftem Einkommens- und Rentennachteil und erhöhter finanzieller Abhängigkeit – kritisch besonders bei Trennung.",
+  "synergy": [
+    "teilzeit-brueckenteilzeit-rueckkehr-vollzeit",
+    "vaetermonate-nicht-uebertragbar",
+    "steuer-ehegattensplitting-reform"
+  ],
+  "sources": [
+    {
+      "title": "STRIVE Magazine – Motherhood Penalty",
+      "url": "https://www.strive-magazine.de/blogs/karriere/motherhood-penalty-wie-berufstatige-mutter-systematisch-ins-abseits-geraten"
+    },
+    {
+      "title": "VBM – Stellungnahme (Landtag NRW, PDF)",
+      "url": "https://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMST18-3709.pdf"
+    },
+    {
+      "title": "teilzeittalente.de – Motherhood Penalty (Glossar)",
+      "url": "https://teilzeittalente.de/glossar/motherhood-penalty/"
+    }
+  ]
+}

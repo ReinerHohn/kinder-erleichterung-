@@ -1,0 +1,93 @@
+{
+  "id": "mutterschutz-fristen-mutterschaftsgeld",
+  "name": "Mutterschutz: Schutzfristen, Beschäftigungsverbot & Mutterschaftsgeld",
+  "category": "📋 Was auf mich zukommt (Rechte & Fahrplan)",
+  "tags": [
+    "Mutterschutz",
+    "MuSchG",
+    "Mutterschaftsgeld",
+    "Beschäftigungsverbot",
+    "Schwangerschaft"
+  ],
+  "impact": 5,
+  "evidence_level": "A",
+  "effort": 2,
+  "summary": "Schwangere und stillende Frauen sind durch das MuSchG geschützt: 6 Wochen vor und mindestens 8 Wochen nach der Geburt gilt eine Schutzfrist mit Beschäftigungsverbot; das Einkommen wird über Mutterschaftsgeld plus Arbeitgeberzuschuss abgesichert.",
+  "key_facts": [
+    {
+      "label": "Schutzfrist vor der Geburt",
+      "value": "6 Wochen (Arbeit nur auf ausdrücklichen Wunsch)",
+      "source": "MuSchG"
+    },
+    {
+      "label": "Schutzfrist nach der Geburt",
+      "value": "mind. 8 Wochen (12 bei Früh-/Mehrlingsgeburt, Behinderung)",
+      "source": "MuSchG"
+    },
+    {
+      "label": "Mutterschaftsgeld GKV",
+      "value": "bis 13 €/Tag, Arbeitgeber stockt auf volles Netto auf",
+      "source": "MuSchG / GKV"
+    },
+    {
+      "label": "Beschäftigungsverbote",
+      "value": "Nachtarbeit 20–6 Uhr, Sonn-/Feiertag, > 8,5 h/Tag, Schwer-/Gefahrstoffarbeit",
+      "source": "MuSchG"
+    },
+    {
+      "label": "Neu ab 01.06.2025",
+      "value": "gestaffelter Mutterschutz nach Fehlgeburt (2/6/8 Wochen ab SSW 13/17/20)",
+      "source": "MuSchG-Anpassungsgesetz"
+    }
+  ],
+  "deep_dive": "In den 6 Wochen vor dem errechneten Termin dürfen Sie nur arbeiten, wenn Sie das ausdrücklich wollen (jederzeit widerrufbar); in den 8 Wochen nach der Geburt besteht ein absolutes Beschäftigungsverbot – hier dürfen Sie nicht arbeiten. Die Nachfrist verlängert sich auf 12 Wochen bei Frühgeburten, Mehrlingen oder wenn beim Kind eine Behinderung festgestellt wird. Finanziell: Die gesetzliche Krankenkasse zahlt Mutterschaftsgeld von bis zu 13 € pro Kalendertag, den Rest bis zum durchschnittlichen Nettoentgelt schießt der Arbeitgeber als Zuschuss zu – unter dem Strich haben Sie also kaum Einbußen. Neben den generellen gibt es individuelle ärztliche Beschäftigungsverbote bei konkreter Gefährdung. Seit 1. Juni 2025 gibt es erstmals einen (freiwilligen) gestaffelten Mutterschutz nach Fehlgeburt ab der 13. SSW. Wichtig: Der Arbeitgeber muss den Arbeitsplatz auf Gefährdungen prüfen und ggf. umgestalten.",
+  "mechanism": "Der Mutterschutz schützt Gesundheit von Mutter und Kind und sichert gleichzeitig das Einkommen, damit Frauen wegen einer Schwangerschaft keine finanziellen oder beruflichen Nachteile erleiden.",
+  "evidence": [
+    {
+      "source": "Mutterschutzgesetz (MuSchG)",
+      "year": 2025,
+      "finding": "6 Wochen vor / mind. 8 Wochen (12 bei Früh-/Mehrlingsgeburt) nach der Geburt; Beschäftigungsverbote"
+    },
+    {
+      "source": "GKV / MuSchG",
+      "year": 2025,
+      "finding": "Mutterschaftsgeld bis 13 €/Tag + Arbeitgeberzuschuss bis Nettoentgelt"
+    },
+    {
+      "source": "Mutterschutz-Anpassungsgesetz",
+      "year": 2025,
+      "finding": "Ab 01.06.2025 gestaffelte Schutzfristen nach Fehlgeburt (2/6/8 Wochen)"
+    }
+  ],
+  "protocol": [
+    "Schwangerschaft dem Arbeitgeber mitteilen (mit voraussichtlichem Entbindungstermin) – Grundlage für Gefährdungsbeurteilung",
+    "Ärztliche Bescheinigung über den errechneten Termin für die Berechnung der Schutzfrist einholen",
+    "Mutterschaftsgeld bei der Krankenkasse beantragen (mit Bescheinigung über den Entbindungstermin)",
+    "Arbeitgeberzuschuss läuft über die Lohnabrechnung"
+  ],
+  "mistakes": [
+    "Annehmen, man müsse in den 6 Wochen vor Geburt zwingend zu Hause bleiben – Arbeit ist auf eigenen Wunsch möglich",
+    "In den 8 Wochen nach der Geburt arbeiten wollen – das ist verboten",
+    "Mutterschaftsgeld zu spät bei der Kasse beantragen"
+  ],
+  "risks": "Wird die Schwangerschaft nicht mitgeteilt, kann der Arbeitgeber keine Schutzmaßnahmen ergreifen und Beschäftigungsverbote laufen ins Leere. Fristen für Mutterschaftsgeld beachten. Allgemeine Info, keine Rechtsberatung.",
+  "synergy": [
+    "kuendigungsschutz-schwangerschaft-17-muschg",
+    "elternzeit-beeg-dauer-fristen",
+    "fahrplan-schwangerschaft-bis-kita"
+  ],
+  "sources": [
+    {
+      "title": "MuSchG – gesetze-im-internet",
+      "url": "https://www.gesetze-im-internet.de/muschg_2018/"
+    },
+    {
+      "title": "Mutterschutz & Mutterschaftsleistungen (schwanger-in-bayern)",
+      "url": "https://www.schwanger-in-bayern.de/familie/beruf/mutterschutz/"
+    },
+    {
+      "title": "Erweiterter Mutterschutz bei Fehlgeburten ab 01.06.2025",
+      "url": "https://www.informationsportal.de/mutterschutz-erweiterte-schutzfrist-bei-fehlgeburten/"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "babysitter-notfallbetreuung-vermittlung",
+  "name": "Babysitter- & Notfallbetreuungs-Vermittlung mit echtem Vetting",
+  "category": "💼 Service- & Geschäftsideen",
+  "tags": [
+    "Kinderbetreuung",
+    "Plattform",
+    "Vetting",
+    "Vertrauen",
+    "Notfall"
+  ],
+  "impact": 5,
+  "evidence_level": "A",
+  "effort": 4,
+  "summary": "Vermittlung geprüfter Babysitter/Betreuer – als Plattform oder als lokale Agentur mit echter Hintergrundprüfung. Der Differenzierer gegenüber Betreut.de/Sitly ist Vertrauen (Vetting) und schnelle Notfallverfügbarkeit; Eltern zahlen für Sicherheit, der Anbieter für Vermittlung/Abo.",
+  "key_facts": [
+    {
+      "label": "Stundenlohn Babysitting DE",
+      "value": "14–18 €/Std. (an den Sitter)",
+      "source": "sitly.de"
+    },
+    {
+      "label": "Marktführer",
+      "value": "Betreut.de (Testsieger 4,53), Sitly (14 Länder seit 2012), HalloBabysitter",
+      "source": "netzsieger.de, sitly.de"
+    },
+    {
+      "label": "Vetting-Lücke",
+      "value": "Sitly führt KEINE Hintergrundprüfung durch (Nachbarschaftsmodell); HalloBabysitter bietet Sicht-/Ausweis-Check",
+      "source": "sitly.de FAQ, hallobabysitter.de"
+    },
+    {
+      "label": "Erweitertes Betreuungssegment",
+      "value": "38 % der U3-Kinder außerhalb der Familie betreut; Eltern zahlen ø 1.310 €/Jahr für Betreuung",
+      "source": "Destatis"
+    }
+  ],
+  "deep_dive": "Der Markt ist groß und etabliert, aber der Kern-Painpoint – Vertrauen – ist bei den Großen bewusst ausgeklammert: Sitly ist explizit KEINE Agentur und prüft niemanden, Betreut.de ist ein Marktplatz, bei dem Eltern selbst verantwortlich sind. Genau hier liegt die Marktlücke: verifizierte, hintergrundgeprüfte Betreuung (Führungszeugnis, Referenzen, ggf. Erste-Hilfe-Nachweis) und garantierte Notfallverfügbarkeit ('heute Abend jemand krank'). Zahlungsbereitschaft ist hoch, weil es um das Wertvollste der Eltern geht. Die Hürden sind erheblich: Vetting ist teuer und rechtlich heikel (Datenschutz, Führungszeugnis-Handhabung), Haftung bei Zwischenfällen, und der klassische Marktplatz-Cold-Start (Henne-Ei zwischen Sittern und Familien). Ein verbreiteter Irrtum: 'reiner Marktplatz skaliert leicht' – tatsächlich zerstört ein einziger Missbrauchsfall das Vertrauen der ganzen Marke, weshalb kuratierte, lokal-dichte Modelle robuster sind als dünn verteilte Plattformen. Tragfähig eher als lokale Agentur/Abo mit Premium-Vertrauensversprechen denn als weiterer Billig-Marktplatz.",
+  "mechanism": "Nimmt die Angst und den Zeitaufwand ab, kurzfristig eine VERTRAUENSWÜRDIGE Betreuung zu finden – besonders in Notfällen.",
+  "evidence": [
+    {
+      "source": "sitly.de",
+      "year": 2026,
+      "finding": "Sitly prüft Mitglieder bewusst NICHT (Nachbarschaftsplattform) – Vetting-Lücke im Massenmarkt."
+    },
+    {
+      "source": "netzsieger.de",
+      "year": 2025,
+      "finding": "Betreut.de Testsieger; Markt etabliert, Differenzierung über Vertrauen/Vielseitigkeit."
+    }
+  ],
+  "protocol": [
+    "Lokal + kuratiert starten (eine Stadt, dichte Sitter-Basis) statt dünner Bundesweit-Plattform.",
+    "Vetting-Standard definieren: erweitertes Führungszeugnis, Referenzcheck, Erste-Hilfe-Kurs – und das als Marke kommunizieren.",
+    "Notfall-SLA als Premium-Feature (Abo mit garantierter Verfügbarkeit).",
+    "Rechtlich zwingend klären: Datenschutz beim Vetting, Haftung/Versicherung, Anstellungs- vs. Vermittlungsmodell (Scheinselbstständigkeit vermeiden)."
+  ],
+  "mistakes": [
+    "'Reiner Marktplatz skaliert von selbst' – Cold-Start und Vertrauens-GAU unterschätzt.",
+    "Vetting nur behaupten, nicht wirklich durchführen – ein Vorfall killt die Marke.",
+    "Anstellungs-/Steuerrisiko der Sitter ignorieren (Scheinselbstständigkeit, Minijob-Anmeldung)."
+  ],
+  "risks": "Höchstes Vertrauens-/Sicherheitsrisiko aller Karten: ein Missbrauchs- oder Unfallfall ist existenzbedrohend. Aufsichtspflicht/Haftung, Datenschutz beim Vetting, arbeitsrechtliche Einordnung der Betreuer. Marktplatz-Skalierung schwierig; die Großen sind kapitalstark.",
+  "synergy": [
+    "babysitter-kurzfristige-betreuung",
+    "leih-oma-grosseltern-dienst",
+    "ferien-randzeitenbetreuung"
+  ],
+  "sources": [
+    {
+      "title": "Sitly – FAQ (kein Vetting)",
+      "url": "https://www.sitly.de/haeufig-gestellte-fragen"
+    },
+    {
+      "title": "Betreut.de – Babysitter",
+      "url": "https://www.betreut.de/babysitter"
+    },
+    {
+      "title": "HalloBabysitter",
+      "url": "https://www.hallobabysitter.de/"
+    },
+    {
+      "title": "netzsieger.de – Babysitter-Portale Test",
+      "url": "https://www.netzsieger.de/k/babysitter-portale"
+    }
+  ]
+}

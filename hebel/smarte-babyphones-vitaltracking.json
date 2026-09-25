@@ -1,0 +1,82 @@
+{
+  "id": "smarte-babyphones-vitaltracking",
+  "name": "Smarte Babyphones & Vitaltracking (KI-Kameras, Sensormatten)",
+  "category": "🤖 KI & Robotik",
+  "tags": [
+    "Baby",
+    "Überwachung",
+    "Sicherheit",
+    "Anti-Hype"
+  ],
+  "impact": 2,
+  "evidence_level": "C",
+  "effort": 3,
+  "summary": "Babyphones mit Kamera/App entlasten praktisch (Blick aufs Kind aus der Ferne). Vitaltracking (Sauerstoff/Herzfrequenz per Sensorsocke/Matte) für gesunde Babys ist medizinisch nicht empfohlen, produziert Fehlalarme und erzeugt oft mehr Stress als Sicherheit - und schützt NICHT vor SIDS.",
+  "key_facts": [
+    {
+      "label": "Fachkonsens",
+      "value": "kein medizinischer Grund, Vitalwerte gesunder Babys zuhause zu überwachen",
+      "source": "Contemporary Pediatrics / Mayo Clinic"
+    },
+    {
+      "label": "Genauigkeit",
+      "value": "Owlet Smart Sock 2: Sensitivität ~88,8%, meldete Hypoxie inkonsistent",
+      "source": "Bonafide et al., JAMA 2018"
+    },
+    {
+      "label": "FDA",
+      "value": "Warnschreiben 2021 (unzulässige 'diagnostische' Vermarktung); kein Gerät als SIDS-Prävention zugelassen",
+      "source": "FDA / Contemporary Pediatrics"
+    },
+    {
+      "label": "Nebenwirkung",
+      "value": "häufige Fehlalarme, erhöhte Elternangst ohne Nutzennachweis",
+      "source": "Bonafide et al. 2018"
+    }
+  ],
+  "deep_dive": "Hier ist die Trennung von Nutzen und Hype besonders wichtig. Ein Kamera-Babyphone mit App ist praktisch und entlastet real - man sieht und hört das Kind von einem anderen Raum. Das KI-Vitaltracking dagegen (Sauerstoffsättigung, Herzfrequenz per Sensorsocke wie Owlet oder Matte) ist für gesunde Säuglinge medizinisch nicht empfohlen: Es gibt laut pädiatrischem Konsens keinen Grund, Vitalwerte gesunder Babys zuhause zu überwachen. Die JAMA-Studie von Bonafide et al. (2018) fand für die Owlet Smart Sock 2 eine Sensitivität von rund 88,8% - sie erkannte Sauerstoffmangel also nicht zuverlässig und meldete bei mehreren Kindern trotz echter Hypoxie 'normal'. Kombiniert mit häufigen Fehlalarmen führt das zu erhöhter Elternangst ohne belegten medizinischen Nutzen. Entscheidend und oft missverstanden: KEIN Gerät ist als SIDS-Prävention zugelassen; die FDA hat Owlet 2021 wegen unzulässiger diagnostischer Vermarktung abgemahnt. Der gefährlichste Denkfehler ist die falsche Sicherheit - dass man mit dem Gerät die anerkannten Schlafumfeld-Regeln (Rückenlage, eigenes Bett, keine losen Decken) vernachlässigt. Diese Regeln, nicht die Technik, senken das SIDS-Risiko.",
+  "mechanism": "Kamera/App: Fern-Beobachtung entlastet praktisch. Vitaltracking: soll Alarm bei Auffälligkeiten geben - liefert real vor allem Fehlalarme und Scheinsicherheit.",
+  "evidence": [
+    {
+      "source": "Bonafide et al., JAMA",
+      "year": 2018,
+      "finding": "Owlet Smart Sock 2 erkannte Hypoxie mit ~88,8% Sensitivität, meldete inkonsistent; kein belegter Nutzen für gesunde Babys, Risiko unnötiger Elternangst."
+    },
+    {
+      "source": "Contemporary Pediatrics / Mayo Clinic",
+      "year": 2024,
+      "finding": "Kein medizinischer Grund zur Heim-Vitalüberwachung gesunder Säuglinge; kein Monitor bewiesenermaßen SIDS-verhindernd."
+    },
+    {
+      "source": "FDA",
+      "year": 2021,
+      "finding": "Warnschreiben an Owlet wegen unzulässiger Vermarktung als diagnostisches Gerät ohne Zulassung."
+    }
+  ],
+  "protocol": [
+    "Für praktische Entlastung ein einfaches (Kamera-)Babyphone nutzen - nicht als medizinisches Gerät verstehen.",
+    "Vitaltracking für gesunde Babys nicht kaufen; medizinisches Monitoring nur bei ärztlicher Indikation und unter Anleitung.",
+    "SIDS-Risiko über Schlafumfeld senken (Rückenlage, eigenes Babybett, kein Überwärmen) - nicht über Technik.",
+    "Kamera-/Cloud-Datenschutz und Zugangssicherheit prüfen (Hacking-Risiko bei vernetzten Babycams)."
+  ],
+  "mistakes": [
+    "Babyphone-/KI-Vitaltracker als Garant gegen SIDS betrachten (falsche Sicherheit).",
+    "Wegen Fehlalarmen in Dauer-Alarmbereitschaft leben - mehr Stress statt Entlastung.",
+    "Anerkannte Schlafumfeld-Regeln wegen des Geräts vernachlässigen."
+  ],
+  "risks": "Falsche Sicherheit gegenüber SIDS, häufige Fehlalarme und Elternangst, Überwachungsstress, Datenschutz/Hacking vernetzter Kameras.",
+  "sources": [
+    {
+      "title": "Smart infant monitors: a pediatrician's guide - Contemporary Pediatrics",
+      "url": "https://www.contemporarypediatrics.com/view/smart-infant-monitors-a-pediatrician-s-guide"
+    },
+    {
+      "title": "Two consumer baby monitors show worrisome results (Bonafide et al.) - ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2018/08/180821145211.htm"
+    },
+    {
+      "title": "SIDS-Baby-Monitore - Mayo Clinic",
+      "url": "https://communityhealth.mayoclinic.org/featured-stories/sids-baby-monitors"
+    }
+  ]
+}

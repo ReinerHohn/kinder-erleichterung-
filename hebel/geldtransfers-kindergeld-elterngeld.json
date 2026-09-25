@@ -1,0 +1,73 @@
+{
+  "id": "geldtransfers-kindergeld-elterngeld",
+  "name": "Direkte Geldtransfers (Kindergeld, Kinderfreibeträge) – gezielt statt breit",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": [
+    "Kindergeld",
+    "Transfer",
+    "Armut",
+    "Fertilität",
+    "Mitnahmeeffekt"
+  ],
+  "impact": 2,
+  "evidence_level": "B",
+  "effort": 3,
+  "summary": "Barleistungen senken Kinderarmut und haben messbare, aber kleine Fertilitätseffekte – am stärksten beim ersten Kind. Als alleiniges Instrument sind sie teuer und ineffizient; sie können sogar die Erwerbstätigkeit von Müttern dämpfen.",
+  "key_facts": [
+    {
+      "label": "Preiselastizität Kinderwunsch",
+      "value": "≈ −0,2: 10 % geringere Kinderkosten → +2,2 % Fertilität",
+      "source": "ifo Forschungsbericht"
+    },
+    {
+      "label": "Kindergeld-Reform Effekt",
+      "value": "≈ +15 % Fertilität bei Betroffenen, v. a. Erstgeburten",
+      "source": "ifo/DIW"
+    },
+    {
+      "label": "Nebenwirkung",
+      "value": "Mütter mit Partner reduzieren Erwerbsarbeit bei höherem Kindergeld (Geringverdiener)",
+      "source": "ifo"
+    }
+  ],
+  "deep_dive": "Reine Geldleistungen wirken auf Fertilität nachweisbar, aber schwach: Die geschätzte Preiselastizität der Kinderzahl liegt bei rund −0,2 (10 % niedrigere Kinderkosten ≈ +2,2 % Geburten). Kindergeld-Reformen zeigten Effekte v. a. beim ersten Kind (bis ~15 % bei Betroffenen), aber wenig bei weiteren Kindern. Der entscheidende Befund für die Praxis: Junge Paare gewichten Betreuungsverfügbarkeit und Vereinbarkeit höher als Bargeld – Barleistungen können die Fertilität nicht ersetzen, was Infrastruktur leistet. Ein verbreiteter Irrtum ist, mehr Kindergeld = mehr Kinder + mehr Wohlstand: Studien zeigen, dass höheres Kindergeld bei Paaren mit Kindern die Erwerbsarbeit der Mutter senken kann (Reduktion von Voll- auf Teilzeit), besonders in Geringverdienerhaushalten. Barleistungen sind dennoch das wirksamste Instrument gegen Kinderarmut – dafür, nicht für Fertilität, sollten sie primär bemessen werden. Zielgenaue, an Bedarf gekoppelte Transfers schlagen breite Pauschalen mit hohen Mitnahmeeffekten.",
+  "mechanism": "Transfers senken die direkten Kosten von Kindern und stabilisieren Einkommen; die Fertilitätswirkung ist begrenzt, weil Vereinbarkeit/Opportunitätskosten oft stärker binden als Bargeld.",
+  "evidence": [
+    {
+      "source": "ifo Forschungsberichte – Familienpolitische Instrumente auf Fertilität",
+      "year": 2013,
+      "finding": "Elastizität ≈ −0,2; Kindergeld wirkt v. a. auf Erstgeburten; Betreuung oft wirksamer"
+    },
+    {
+      "source": "ifo Schnelldienst – Kindergeld und Kinderfreibeträge",
+      "year": 2013,
+      "finding": "Höheres Kindergeld kann Erwerbsarbeit von Müttern (mit Partner) senken"
+    }
+  ],
+  "protocol": [
+    "Transfers primär auf Armutsvermeidung ausrichten (bedarfsgeprüft, Kindergrundsicherung)",
+    "Mit Betreuungsinfrastruktur koppeln, nicht als Ersatz dafür einsetzen",
+    "Auszahlungslogik so gestalten, dass Erwerbsanreize erhalten bleiben"
+  ],
+  "mistakes": [
+    "Erwartung, Bargeld allein hebe Geburtenrate spürbar",
+    "Breite Pauschalen mit hohen Mitnahmeeffekten statt zielgenauer Förderung",
+    "Ausgestaltung, die Mütter aus Erwerbsarbeit drängt"
+  ],
+  "risks": "Hohe fiskalische Kosten bei geringem Fertilitätseffekt; kann Zweitverdienst dämpfen; Mitnahmeeffekte bei nicht bedarfsorientierten Leistungen.",
+  "synergy": [
+    "baby-boni-ohne-infrastruktur-wirkt-nicht",
+    "kosten-kindererziehung",
+    "unterstuetzung-alleinerziehende"
+  ],
+  "sources": [
+    {
+      "title": "ifo Forschungsbericht – Familienpolitische Instrumente auf Fertilität",
+      "url": "https://www.ifo.de/DocDL/ifo_Forschungsberichte_26.pdf"
+    },
+    {
+      "title": "ifo Schnelldienst – Kindergeld und Kinderfreibeträge",
+      "url": "https://www.ifo.de/DocDL/ifosd_2013_09_2.pdf"
+    }
+  ]
+}

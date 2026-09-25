@@ -1,0 +1,68 @@
+{
+  "id": "unterstuetzung-alleinerziehende",
+  "name": "Gezielte Unterstützung für Alleinerziehende (Unterhaltsvorschuss, Betreuung)",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": [
+    "Alleinerziehende",
+    "Armut",
+    "Unterhaltsvorschuss",
+    "Erwerbstätigkeit",
+    "Zielgruppe"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 2,
+  "summary": "Alleinerziehende tragen trotz hoher Erwerbsquote das größte Armutsrisiko. Verlässlicher Unterhalt(svorschuss), passende Betreuungszeiten und ein reformiertes Steuer-/Transfersystem entlasten sie am zielgenauesten.",
+  "key_facts": [
+    {
+      "label": "Armutsrisiko",
+      "value": "≈ 41 % der Alleinerziehenden-Familien einkommensarm (höchste aller Familienformen)",
+      "source": "Bertelsmann Stiftung 2024"
+    },
+    {
+      "label": "Erwerbstätigkeit",
+      "value": "71 % der Mütter, 87 % der Väter erwerbstätig – Armut trotz Arbeit",
+      "source": "Bertelsmann Stiftung"
+    },
+    {
+      "label": "Unterhaltsvorschuss",
+      "value": "senkt Armutsrisiko der Empfängerhaushalte um 6 Prozentpunkte",
+      "source": "Bertelsmann Stiftung"
+    }
+  ],
+  "deep_dive": "Alleinerziehende sind in Deutschland die am stärksten von Armut betroffene Familienform: rund 41 % (fast 700.000 Familien) gelten als einkommensarm – und das trotz hoher Erwerbstätigkeit (71 % der Mütter, 87 % der Väter, oft in Vollzeit). Das Armutsrisiko liegt also nicht an fehlender Arbeitsbereitschaft, sondern an fehlendem zweiten Einkommen, ausbleibenden Unterhaltszahlungen und ungünstigen Betreuungs- und Steuerregeln. Der Unterhaltsvorschuss ist ein zielgenaues, wirksames Instrument: Er senkt das Armutsrisiko der Empfängerhaushalte laut Bertelsmann um sechs Prozentpunkte. Ein verbreiteter Irrtum ist, mehr Erwerbsanreiz löse das Problem – Alleinerziehende arbeiten bereits überdurchschnittlich viel; sie scheitern an Betreuungslücken (Randzeiten, Ferien) und an Transferentzug bei Erwerbsaufnahme. Wirksam ist ein Bündel: garantierter Unterhalt(svorschuss), verlässliche Ganztags-/Randzeitenbetreuung, geringere Transferentzugsraten und ein Steuersystem, das Ein-Eltern-Haushalte nicht benachteiligt. Weil die Zielgruppe klein und das Armutsrisiko konzentriert ist, ist die Wirkung pro eingesetztem Euro hoch.",
+  "mechanism": "Alleinerziehende haben nur ein Einkommen und volle Sorgeverantwortung; garantierter Unterhalt und passende Betreuung schließen genau die Lücken, die trotz Erwerbsarbeit in die Armut führen.",
+  "evidence": [
+    {
+      "source": "Bertelsmann Stiftung – Alleinerziehende (Studien 2021/2024)",
+      "year": 2024,
+      "finding": "≈41 % armutsgefährdet trotz hoher Erwerbsquote; Unterhaltsvorschuss senkt Armutsrisiko um 6 Pp."
+    }
+  ],
+  "protocol": [
+    "Unterhaltsvorschuss ausbauen/verlässlich auszahlen, Unterhaltseintreibung stärken",
+    "Betreuung mit Randzeiten und Ferienabdeckung priorisiert für Ein-Eltern-Haushalte",
+    "Transferentzugsraten senken, damit sich Mehrarbeit lohnt",
+    "Steuerlicher Entlastungsbetrag für Alleinerziehende erhöhen"
+  ],
+  "mistakes": [
+    "Auf 'mehr Erwerbsanreiz' setzen, obwohl Erwerbsquote schon hoch ist",
+    "Betreuung nur zu Kernzeiten anbieten (Schichten/Ränder fallen weg)",
+    "Hohe Transferentzugsraten, die Mehrarbeit entwerten"
+  ],
+  "risks": "Fehlanreize bei schlecht abgestimmten Transfers; Unterhaltsvorschuss ohne Rückgriff belastet Haushalt; Stigmatisierung vermeiden.",
+  "synergy": [
+    "geldtransfers-kindergeld-elterngeld",
+    "ganztagsschule-verlaessliche-betreuung"
+  ],
+  "sources": [
+    {
+      "title": "Bertelsmann – Trotz Arbeit höchstes Armutsrisiko (2024)",
+      "url": "https://www.bertelsmann-stiftung.de/de/themen/aktuelle-meldungen/2024/juni/trotz-arbeit-haben-alleinerziehende-noch-immer-das-hoechste-armutsrisiko"
+    },
+    {
+      "title": "Bertelsmann – Alleinerziehende weiter unter Druck (2021)",
+      "url": "https://www.bertelsmann-stiftung.de/fileadmin/files/Projekte/Familie_und_Bildung/Studie_WB_Alleinerziehende_weiter_unter_Druck_2021.pdf"
+    }
+  ]
+}

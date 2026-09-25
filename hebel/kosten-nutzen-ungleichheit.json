@@ -1,0 +1,75 @@
+{
+  "id": "kosten-nutzen-ungleichheit",
+  "name": "Kosten, Nutzen & Ungleichheit - wer profitiert wirklich?",
+  "category": "🤖 KI & Robotik",
+  "tags": [
+    "Kosten",
+    "Ungleichheit",
+    "Gender",
+    "Meta"
+  ],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 1,
+  "summary": "Entlastungstechnik hilft real - aber vor allem denen, die sie sich leisten können. Ohne bewusste Auswahl droht sie Ungleichheit zu verstärken und die Care-Last nur zu verschieben statt fair zu teilen. Der günstigste Hebel ist oft kein Gerät, sondern faire Aufteilung.",
+  "key_facts": [
+    {
+      "label": "Zugangskluft",
+      "value": "Automatisierung bevorzugt einkommensstarke Haushalte; für einkommensschwache oft unerreichbar",
+      "source": "ESCAP/UNESCAP 2024"
+    },
+    {
+      "label": "Potenzieller Effekt",
+      "value": "freigesetzte Zeit könnte ~5,8% (UK) / 9,3% (JP) mehr Frauen in Erwerbsarbeit bringen (Modellrechnung)",
+      "source": "Oxford/Waseda, The Conversation 2023"
+    },
+    {
+      "label": "Verschiebungs-Risiko",
+      "value": "Outsourcing der Hausarbeit oft an ärmere Frauen - Ungleichheit über Klassen",
+      "source": "The Conversation 2023"
+    },
+    {
+      "label": "Günstigster Hebel",
+      "value": "faire Aufteilung + reife Basisgeräte statt teurer Robotik",
+      "source": "eigene Synthese"
+    }
+  ],
+  "deep_dive": "Diese Karte ordnet alle anderen ein: Technische Entlastung ist real, aber sie ist nicht neutral verteilt. Wer Geld hat, kauft Saugroboter, Spülmaschine, Lieferdienste und Premium-Apps; einkommensschwache Familien, oft in ländlichen Regionen, bleiben außen vor - Automatisierung droht so, bestehende Ungleichheit zu verstärken statt sie abzubauen. Modellrechnungen (Oxford/Waseda) schätzen, dass frei werdende Zeit einige Prozent mehr Frauen in Erwerbsarbeit bringen könnte - real profitieren aber vor allem jene, die sich die Technik leisten. Zugleich verschiebt bezahltes Outsourcing die Care-Arbeit häufig nur auf schlechter bezahlte, meist weibliche Kräfte, statt sie innerhalb der Familie fair zu teilen. Die nüchterne Konsequenz für Eltern: Vor teurer Robotik lohnt der Blick auf die günstigsten, wirksamsten Hebel - reife Basisgeräte (Spülmaschine, Trockner, Saugroboter) und die faire Aufteilung der unsichtbaren Arbeit. Diese kosten wenig bis nichts und lösen mehr als jedes Hype-Gadget. Technik ist ein Werkzeug, kein Ersatz für Gerechtigkeit im Haushalt.",
+  "mechanism": "Rahmt die Auswahl: maximaler Entlastungseffekt pro Euro entsteht durch faire Aufteilung + wenige reife Geräte, nicht durch teure unreife Technik.",
+  "evidence": [
+    {
+      "source": "UNESCAP",
+      "year": 2024,
+      "finding": "Ohne Subventionen/Finanzierung droht Haushaltsautomatisierung Ungleichheit zu verstärken; für arme (v.a. ländliche) Familien unerreichbar."
+    },
+    {
+      "source": "Oxford/Waseda, The Conversation",
+      "year": 2023,
+      "finding": "Freigesetzte Zeit könnte ~5,8% (UK)/9,3% (JP) mehr Frauen in Erwerbsarbeit bringen; Outsourcing verlagert Care-Arbeit oft auf ärmere Frauen."
+    }
+  ],
+  "protocol": [
+    "Zuerst die günstigsten wirksamen Hebel: faire Aufteilung + reife Basisgeräte (Spülmaschine/Trockner/Saugroboter).",
+    "Gebraucht kaufen, teilen (Nachbarschaft), Förderungen prüfen - Zugang senken.",
+    "Technik nicht als Ersatz für gerechte Verteilung sehen; Care-Arbeit sichtbar machen und teilen."
+  ],
+  "mistakes": [
+    "Teure Hype-Technik kaufen, bevor die billigen High-Value-Hebel genutzt sind.",
+    "Care-Last durch Outsourcing nur verschieben statt in der Familie fair teilen."
+  ],
+  "risks": "Verstärkung sozialer Ungleichheit, Verlagerung der Care-Arbeit auf schlechter bezahlte (meist weibliche) Kräfte, Verdrängung von Reinigungs-/Betreuungsjobs, Fehlallokation des Familienbudgets.",
+  "sources": [
+    {
+      "title": "Robots to the rescue: Can AI clean up household labour gaps? - UNESCAP",
+      "url": "https://www.unescap.org/blog/robots-rescue-can-ai-clean-household-labour-gaps"
+    },
+    {
+      "title": "The dawn of domestic robots could cut gender inequality in housework - The Conversation",
+      "url": "https://theconversation.com/the-dawn-of-domestic-robots-could-dramatically-cut-gender-inequality-when-it-comes-to-household-work-205778"
+    },
+    {
+      "title": "AI Solutions For Domestic Labor May Exacerbate Inequities - Tech Policy Press",
+      "url": "https://www.techpolicy.press/ai-solutions-for-domestic-labor-may-exacerbate-inequities/"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "maeh-fensterputzroboter",
+  "name": "Mähroboter & Fensterputzroboter",
+  "category": "🤖 KI & Robotik",
+  "tags": [
+    "Haushalt",
+    "Garten",
+    "Nischen",
+    "Zeitgewinn"
+  ],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 3,
+  "summary": "Mähroboter sind ausgereift und sparen im Sommer viel Zeit (wer einen Rasen hat). Fensterputzroboter funktionieren, sind aber Komfort- statt Ganz-abnahme: für große glatte Scheiben nützlich, bei Ecken, Rahmen und starkem Schmutz weiter Handarbeit.",
+  "key_facts": [
+    {
+      "label": "Mähroboter Reifegrad",
+      "value": "hoch, inzwischen auch ohne Begrenzungskabel (Notebookcheck)",
+      "source": "notebookcheck 2025"
+    },
+    {
+      "label": "Fensterputzroboter Nutzen",
+      "value": "v.a. Zeit/Komfort/Sicherheit bei großen Flächen",
+      "source": "homeandsmart 2025"
+    },
+    {
+      "label": "Fensterputzroboter Grenze",
+      "value": "Ecken, Kanten, sehr kleine oder stark verschmutzte Scheiben",
+      "source": "homeandsmart / smart-home-fox"
+    },
+    {
+      "label": "Testsieger 2026",
+      "value": "ECOVACS WINBOT W3 OMNI (mit Wasch-Station)",
+      "source": "smart-home-fox 2026"
+    }
+  ],
+  "deep_dive": "Beide Geräte sind reale, kaufbare Nischenhelfer - mit sehr unterschiedlichem Reifegrad. Der Mähroboter ist der Saugroboter des Gartens: ausgereift, seit Jahren zuverlässig, spart in der Wachstumssaison spürbar Zeit und ist besonders für Eltern attraktiv, die das Rasenmähen sonst am Wochenende erledigen müssten - Voraussetzung ist ein passender Rasen. Der Fensterputzroboter dagegen ist ein Komfortgerät: Er saugt sich an die Scheibe und wischt die Fläche, sein Mehrwert liegt bei großen oder schwer erreichbaren Scheiben (Zeit, Komfort, weniger Leiter-Klettern). Verbreiteter Irrtum ist die Erwartung streifenfreier Perfektion: An Ecken, Rahmen, kleinen Fenstern und bei starker Verschmutzung stößt er an Grenzen, oft ist Vorreinigung nötig. Beide nehmen keine kinderbezogene Aufgabe ab, sondern schaffen indirekt Zeit für die Familie - der Nutzen hängt stark von Wohnsituation (Rasen, große Fensterflächen) ab.",
+  "mechanism": "Automatisieren Rasenpflege bzw. Fensterreinigung und geben dadurch Wochenend-/Freizeit zurück; keine direkte Kinderbetreuung.",
+  "evidence": [
+    {
+      "source": "notebookcheck",
+      "year": 2025,
+      "finding": "Mähroboter ausgereift, zunehmend ohne Begrenzungskabel; etablierte Kategorie."
+    },
+    {
+      "source": "homeandsmart",
+      "year": 2025,
+      "finding": "Fensterputzroboter bringen v.a. Zeit/Komfort bei großen Flächen; Grenzen an Ecken und bei starkem Schmutz, Vorreinigung oft nötig."
+    }
+  ],
+  "protocol": [
+    "Mähroboter nur bei geeignetem Rasen; auf kindersichere Modelle mit Hinderniserkennung achten (Kinder/Haustiere im Garten).",
+    "Fensterputzroboter für große glatte Scheiben - Erwartung realistisch halten, Ecken/Rahmen nachputzen.",
+    "Modell mit Absturzsicherung/Sicherungsleine für Außenfenster wählen."
+  ],
+  "mistakes": [
+    "Streifenfreie Perfektion vom Fensterroboter erwarten.",
+    "Mähroboter ohne gute Hinderniserkennung im Garten laufen lassen, wo Kinder spielen (Verletzungsgefahr)."
+  ],
+  "risks": "Verletzungsgefahr durch Mähroboter-Klingen bei Kindern/Haustieren; Absturzrisiko/Beschädigung bei Fensterrobotern; Anschaffungskosten.",
+  "sources": [
+    {
+      "title": "Fensterputzroboter im Alltag - was sie wirklich leisten (homeandsmart)",
+      "url": "https://www.homeandsmart.de/fensterputzroboter-alltag-erfahrungen-realitaet-0046-116450"
+    },
+    {
+      "title": "Fensterputzroboter Testsieger 2026 - smart-home-fox",
+      "url": "https://www.smart-home-fox.de/fensterputzroboter-stiftung-warentest"
+    },
+    {
+      "title": "Die besten Mähroboter ohne Begrenzungskabel im Test - Notebookcheck",
+      "url": "https://www.notebookcheck.com/Die-besten-Maehroboter-ohne-Begrenzungskabel-im-Test.1057760.0.html"
+    }
+  ]
+}

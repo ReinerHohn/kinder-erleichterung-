@@ -1,0 +1,83 @@
+{
+  "id": "kita-platzmangel-betreuungsluecke",
+  "name": "Kita-Platzmangel & Betreuungslücke",
+  "category": "🍼 Stressoren im Alltag",
+  "tags": [
+    "Kita",
+    "Betreuung",
+    "Vereinbarkeit",
+    "Infrastruktur"
+  ],
+  "impact": 5,
+  "evidence_level": "A",
+  "effort": 4,
+  "summary": "Trotz Rechtsanspruch fehlen bundesweit hunderttausende Kita-Plätze für unter Dreijährige. Fehlende, zu späte oder zu knapp bemessene Betreuung zwingt Eltern (meist Mütter) zu Erwerbsverzicht und Dauerimprovisation.",
+  "key_facts": [
+    {
+      "label": "Fehlende U3-Plätze 2024",
+      "value": "über 306.000 (~13,6 % der unter Dreijährigen)",
+      "source": "IW Köln 2024"
+    },
+    {
+      "label": "Bedarf vs. Realität",
+      "value": "Eltern wünschen Platz für ~1,1 Mio. U3-Kinder, betreut werden ~800.000",
+      "source": "IW/Destatis"
+    },
+    {
+      "label": "Regionale Spreizung",
+      "value": "Bremen ~23,9 % Lücke vs. Meckl.-Vorp. ~4 %",
+      "source": "IW Köln"
+    },
+    {
+      "label": "Andere Schätzung",
+      "value": "GEW: bundesweit ~430.000 fehlende Plätze",
+      "source": "GEW"
+    }
+  ],
+  "deep_dive": "Seit 2013 besteht ein Rechtsanspruch auf einen Betreuungsplatz ab dem ersten Geburtstag – in der Praxis existiert der Platz aber oft nicht. Das IW Köln beziffert die Lücke für unter Dreijährige 2024 auf über 306.000 Plätze; die GEW kommt mit anderer Methodik auf rund 430.000. Für etwa 1,1 Millionen U3-Kinder wünschen Eltern Betreuung, tatsächlich betreut werden nur rund 800.000. Die Lücke ist regional extrem ungleich: In Westdeutschland (~14,7 %) deutlich größer als in Ostdeutschland (~7,6 %). Verbreiteter Irrtum: 'Es gibt doch einen Rechtsanspruch, also ist ein Platz garantiert.' Der Anspruch ist einklagbar, aber ein Gerichtsverfahren löst das akute Betreuungsproblem nicht rechtzeitig; viele Eltern verzichten faktisch auf Erwerbstätigkeit oder reduzieren Stunden. Hinzu kommt der Fachkräftemangel, der bestehende Plätze und Öffnungszeiten weiter unter Druck setzt.",
+  "mechanism": "Ohne verlässlichen Platz ist Erwerbstätigkeit nicht planbar; die Betreuungslast fällt zurück auf die Familie (meist die Mutter) und erzeugt finanzielle und organisatorische Dauerunsicherheit.",
+  "evidence": [
+    {
+      "source": "IW Köln – Kitalücke 2024",
+      "year": 2024,
+      "finding": "über 306.000 fehlende U3-Plätze, starke regionale Unterschiede"
+    },
+    {
+      "source": "GEW",
+      "year": 2024,
+      "finding": "Schätzung ~430.000 fehlende Kita-Plätze"
+    }
+  ],
+  "protocol": [
+    "Frühzeitig (in der Schwangerschaft) und bei mehreren Trägern parallel anmelden",
+    "Rechtsanspruch kennen; formlose Fristsetzung/Schadensersatz bei Nichterfüllung prüfen",
+    "Alternativen kombinieren: Tagespflege, betriebliche Betreuung, Eltern-Kind-Initiativen",
+    "Betreuungs-Netzwerk (Großeltern, andere Eltern) als Fallback aufbauen",
+    "Digitale Platzsuche/Wartelisten-Tracking nutzen (siehe Lösungs-/KI-Karten)"
+  ],
+  "mistakes": [
+    "Anmeldung zu spät oder nur bei einer Einrichtung",
+    "Verlassen auf den Rechtsanspruch ohne Plan B",
+    "Randzeiten und Schließzeiten bei der Planung übersehen"
+  ],
+  "risks": "Eine ungelöste Betreuungslücke kann erzwungenen Erwerbsausstieg, Einkommensverlust und dauerhafte Nachteile (Teilzeitfalle, Rentenlücke) auslösen.",
+  "synergy": [
+    "kita-krippe-ausbau",
+    "ganztagsschule-verlaessliche-betreuung",
+    "vereinbarkeitsmodelle-betriebskita-backup"
+  ],
+  "sources": [
+    {
+      "title": "IW Köln – Bundesweit fehlen über 306.000 U3-Kitaplätze",
+      "url": "https://www.iwkoeln.de/presse/pressemitteilungen/wido-geis-thoene-bundesweit-fehlen-ueber-306000-u3-kitaplaetze.html"
+    },
+    {
+      "title": "IW-Report – Kitalücke 2024 (PDF)",
+      "url": "https://www.iwkoeln.de/fileadmin/user_upload/Studien/Report/PDF/2024/IW-Report_2024-Kital%C3%BCcke2024.pdf"
+    },
+    {
+      "title": "GEW – In Deutschland fehlen 430.000 Kita-Plätze",
+      "url": "https://www.gew.de/aktuelles/detailseite/in-deutschland-fehlen-430000-kita-plaetze"
+    }
+  ]
+}

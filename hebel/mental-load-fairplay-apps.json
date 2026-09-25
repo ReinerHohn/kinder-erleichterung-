@@ -1,0 +1,76 @@
+{
+  "id": "mental-load-fairplay-apps",
+  "name": "Mental-Load- & Fair-Play-Apps (Aufgabenverteilung)",
+  "category": "🤖 KI & Robotik",
+  "tags": [
+    "Mental Load",
+    "Fairness",
+    "Paare",
+    "Software"
+  ],
+  "impact": 4,
+  "evidence_level": "B",
+  "effort": 1,
+  "summary": "Apps machen die unsichtbare Care- und Denkarbeit sichtbar und verteilen sie fairer zwischen Partnern (Fair-Play-Prinzip: Aufgabe komplett übernehmen). Der Hebel ist keine Robotik, sondern Transparenz - und wirkt nur, wenn beide mitmachen.",
+  "key_facts": [
+    {
+      "label": "Prinzip",
+      "value": "Fair Play (Eve Rodsky): Aufgaben sichtbar machen und ganz übernehmen",
+      "source": "Fair-Play-Methode / New America"
+    },
+    {
+      "label": "Selbstbericht equaly",
+      "value": "71% ausgewogenere Verteilung, 86% weniger Mental Load",
+      "source": "equaly (Anbieterdaten)"
+    },
+    {
+      "label": "Tools",
+      "value": "FairShare, fiftyfifty, equaly u.a.",
+      "source": "App Stores 2025"
+    },
+    {
+      "label": "Grenze",
+      "value": "wirkt nur bei beidseitiger Nutzung; Anbieterzahlen nicht unabhängig",
+      "source": "eigene Bewertung"
+    }
+  ],
+  "deep_dive": "Mental Load - das unsichtbare 'im-Kopf-behalten' von Terminen, Vorräten, Kinderbedarf - ist eine der realsten und ungleich verteilten Familienlasten, meist zulasten der Mütter. Apps im Fair-Play-Prinzip (nach Eve Rodsky) setzen genau hier an: Sie listen konkrete Aufgaben auf, machen sichtbar, wer sie 'denkt' und erledigt, und fördern das Prinzip, eine Aufgabe komplett zu übernehmen statt nur auf Zuruf zu helfen. FairShare misst dazu einen 'Noticing Score', equaly und fiftyfifty visualisieren die Verteilung. Der Nutzen ist plausibel und für Care-Fairness einer der wirksamsten, weil billigsten Hebel - er löst das Problem an der Wurzel (Verteilung), statt es wegzuautomatisieren. Ehrlich bleiben muss man bei den Zahlen: Werte wie '86% weniger Mental Load' stammen von Anbietern selbst, nicht aus unabhängigen Studien. Und die App wirkt nur, wenn beide Partner sie ernsthaft nutzen - sonst wird das Führen der App zur nächsten unsichtbaren Aufgabe der ohnehin Belasteten. Kein KI-Zauber, sondern ein Gesprächs- und Struktur-Werkzeug.",
+  "mechanism": "Macht unsichtbare Denk-/Care-Arbeit sichtbar und verhandelbar und verteilt sie fairer - senkt die Last an der Wurzel statt sie zu automatisieren.",
+  "evidence": [
+    {
+      "source": "New America / Fair-Play-Methode (Eve Rodsky)",
+      "year": 2024,
+      "finding": "Fair-Play-Ansatz überträgt Prinzipien klarer Aufgaben-Ownership auf die Verteilung häuslicher Care-Arbeit."
+    },
+    {
+      "source": "equaly (Anbieterdaten)",
+      "year": 2025,
+      "finding": "Selbstbericht: 71% der Paare ausgewogenere Verteilung, 86% weniger Mental Load (nicht unabhängig verifiziert)."
+    }
+  ],
+  "protocol": [
+    "Nur einsetzen, wenn beide Partner aktiv mitmachen - sonst verstärkt es die Schieflage.",
+    "Fair-Play-Prinzip anwenden: Aufgabe komplett (Planung + Ausführung) übernehmen, nicht nur 'helfen'.",
+    "Regelmäßig gemeinsam die Verteilung durchsprechen; App als Gesprächsanlass, nicht als Selbstzweck.",
+    "Anbieter-Erfolgszahlen kritisch einordnen; Datenschutz der eingegebenen Familiendaten prüfen."
+  ],
+  "mistakes": [
+    "Anbieter-Prozentzahlen als belegte Wirkung nehmen.",
+    "App allein von der bereits belasteten Person führen lassen - dann wird sie selbst zur Zusatzlast."
+  ],
+  "risks": "Scheinlösung bei einseitiger Nutzung; zusätzliche unsichtbare Arbeit; Datenschutz der Familiendaten; Konfliktverschärfung ohne echtes Gespräch.",
+  "sources": [
+    {
+      "title": "Could a Digital Tool Help Families Share the Load? (FairShare) - New America",
+      "url": "https://www.newamerica.org/insights/could-a-digital-tool-help-families-share-the-load-at-home-fairshares-rachel-drapper-thinks-so/"
+    },
+    {
+      "title": "Eine Methode gegen Mental Load - Fair-Play-Methode (Lena Hoppe)",
+      "url": "https://www.lenahoppe.com/die-fair-play-methode"
+    },
+    {
+      "title": "Gerechtere Care-Arbeit mit der App equaly - frauundberuf-bw",
+      "url": "https://www.frauundberuf-bw.de/aktuelles-news-frau-und-beruf/equaly"
+    }
+  ]
+}

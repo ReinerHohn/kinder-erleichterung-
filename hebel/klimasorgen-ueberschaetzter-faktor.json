@@ -1,0 +1,70 @@
+{
+  "id": "klimasorgen-ueberschaetzter-faktor",
+  "name": "Klima-/Zukunftssorgen (oft überschätzter Faktor)",
+  "category": "📉 Ursachen: weniger Kinderwunsch",
+  "tags": [
+    "klima",
+    "zukunftsangst",
+    "gen-z",
+    "irrtum"
+  ],
+  "impact": 2,
+  "evidence_level": "B",
+  "effort": 3,
+  "summary": "Klimasorgen werden medial oft als großer Treiber dargestellt. Zahlen zeigen: als geäußerte 'Bedenken' verbreitet, als tatsächlicher Hauptgrund für Kinderlosigkeit aber selten (einstellige Prozentwerte).",
+  "key_facts": [
+    {
+      "label": "Bedenken (16–25 J., Lancet 2021)",
+      "value": "52 % zögern wegen Klima",
+      "source": "Hickman et al., Lancet Planetary Health"
+    },
+    {
+      "label": "Klima als entscheidender Grund (Kinderlose, Pew)",
+      "value": "nur ~5 %",
+      "source": "Pew Research 2021"
+    },
+    {
+      "label": "Weniger Kinder als gewünscht durch Klima",
+      "value": "~9 %",
+      "source": "Umfragedaten"
+    }
+  ],
+  "deep_dive": "Hier klafft eine große Lücke zwischen Schlagzeile und Ranking. Fragt man nach diffusen 'Bedenken', sagen in der Lancet-Studie (Hickman et al. 2021) 52 % der 16–25-Jährigen, sie zögerten wegen des Klimas. Fragt man dagegen kinderlose Erwachsene nach dem entscheidenden Grund, nennen nur etwa 5 % das Klima (Pew 2021); rund 9 % geben an, deswegen weniger Kinder zu bekommen als gewünscht. In den Rangfolgen der Motive liegt Klima klar hinter Einkommen, Opportunitätskosten, Partnerschaft und Wohnen. Eine britische Längsschnittstudie fand nur schwache Belege, dass Umweltsorgen tatsächliche Geburten senken. Der verbreitete Irrtum ist also, Klimasorge sei ein zentraler demografischer Treiber – belastbar ist sie ein realer, aber nachrangiger und stark durch Framing (Bedenken vs. Entscheidung) aufgeblähter Faktor. Er wirkt am ehesten bei jungen, hochgebildeten, klimabewegten Gruppen und verstärkt eher bereits bestehende Zurückhaltung.",
+  "mechanism": "Zukunftspessimismus kann die Attraktivität von Elternschaft senken ('in welche Welt setze ich ein Kind?'), wirkt aber meist als schwacher Zusatz- oder Rationalisierungsfaktor, nicht als eigenständiger Haupttreiber.",
+  "evidence": [
+    {
+      "source": "Hickman et al., Lancet Planetary Health",
+      "year": 2021,
+      "finding": "52 % der 16–25-J. äußern Klima-Bedenken bzgl. Kinder"
+    },
+    {
+      "source": "Pew Research Center",
+      "year": 2021,
+      "finding": "Nur ~5 % der Kinderlosen nennen Klima als entscheidenden Grund"
+    }
+  ],
+  "protocol": [
+    "Faktenbasierte Einordnung statt Alarmismus",
+    "Ökonomische Kernursachen zuerst adressieren (Wohnen, Betreuung, Unsicherheit)",
+    "Zukunftsvertrauen/Institutionenvertrauen stärken (siehe Politik-Karten)"
+  ],
+  "mistakes": [
+    "'Junge Leute verzichten wegen des Klimas auf Kinder' – als Hauptgrund nur einstellig",
+    "Bedenken (52 %) mit Entscheidung (~5 %) gleichsetzen"
+  ],
+  "risks": "Framing-Effekte verzerren stark; Überbetonung lenkt von den dominanten ökonomischen Ursachen ab.",
+  "synergy": [
+    "fertility-gap-wunsch-vs-realitaet",
+    "wertewandel-selbstverwirklichung"
+  ],
+  "sources": [
+    {
+      "title": "Are environmental concerns deterring people from having children? (ScienceDirect)",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0921800924000818"
+    },
+    {
+      "title": "TIME: Why People Are Having Fewer Kids, Even If They Want Them",
+      "url": "https://time.com/7294161/fertility-rate-decline/"
+    }
+  ]
+}

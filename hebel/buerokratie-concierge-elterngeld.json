@@ -1,0 +1,87 @@
+{
+  "id": "buerokratie-concierge-elterngeld",
+  "name": "Admin-/Bürokratie-Concierge für Eltern (Elterngeld, Kita, Behördenkram)",
+  "category": "💼 Service- & Geschäftsideen",
+  "tags": [
+    "Bürokratie",
+    "Elterngeld",
+    "Beratung",
+    "Concierge",
+    "skalierbar-digital"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 2,
+  "summary": "Ein Service füllt Anträge (Elterngeld, Kindergeld, Kita-Plätze), optimiert Leistungen und managt Behördentermine für werdende/junge Eltern. Eltern sparen Nerven und holen oft mehr Geld heraus; der Anbieter verdient an Beratungshonorar oder Erfolgsprovision.",
+  "key_facts": [
+    {
+      "label": "Marktpreis Elterngeldberatung",
+      "value": "Basisberatung ab ~109 € (elterngeld.de); Komplett-Antragsservice höher",
+      "source": "elterngeld.de, vergleich.org"
+    },
+    {
+      "label": "Bestehende Anbieter",
+      "value": "Einfach Elterngeld, Elterngeldexperten, elterngeld.de, Baby in Berlin",
+      "source": "Websuche 2026"
+    },
+    {
+      "label": "Werthebel für Kunden",
+      "value": "Optimierung kann Elterngeld spürbar erhöhen (Wechselmodelle, Bezugszeiträume)",
+      "source": "einfach-elterngeld.de"
+    },
+    {
+      "label": "Skalierbarkeit",
+      "value": "digital/remote leistbar, deutschlandweit – nicht standortgebunden",
+      "source": "Anbieterprofile"
+    }
+  ],
+  "deep_dive": "Deutscher Behördendschungel ist ein echtes, breit geteiltes Elternleid, und der Markt kommerzieller Elterngeldberatung existiert bereits und funktioniert (Preise ab ~109 €). Der Charme des Modells: Es ist rein wissens-/dienstleistungsbasiert, digital und remote skalierbar, ohne Kühlkette, Wochenend-Engpass oder Aufsichtspflicht – und der Kunde sieht oft einen direkten monetären Return (mehr Elterngeld als das Honorar kostet). Ausbaubar über Elterngeld hinaus: Kindergeld, Kita-Platz-Anträge/-Fristen, Steuerklassenwechsel, Mutterschutz-Papierkram als 'Rundum-Paket für die Elternzeit'. Hürden: Die Rechtsberatungsgrenze (RDG) – reines Ausfüllen/Optimieren ist erlaubt, echte Rechtsberatung nicht; hier muss man sauber abgrenzen. Vertrauen und Datenschutz (sensible Gehalts-/Familiendaten) sind zentral. Ein verbreiteter Irrtum: 'die Behörde macht das doch kostenlos' – ja, aber schlecht erklärt, fehleranfällig und ohne Optimierung; der Wert liegt in Zeitersparnis + herausgeholtem Mehrbetrag. Tragfähig und vergleichsweise kapitalarm – eine der besten Wirkung-pro-Aufwand-Ideen hier.",
+  "mechanism": "Nimmt den frustrierenden, fristgebundenen Papierkram in einer ohnehin überforderten Lebensphase ab und holt oft mehr Geld heraus.",
+  "evidence": [
+    {
+      "source": "vergleich.org",
+      "year": 2025,
+      "finding": "Kommerzielle Elterngeldberatung ist ein bestehender, bewerteter Markt (Basis ab ~109 €)."
+    },
+    {
+      "source": "einfach-elterngeld.de",
+      "year": 2026,
+      "finding": "Anbieter positionieren sich über Leistungsoptimierung (mehr Elterngeld) – direkter Kunden-ROI."
+    }
+  ],
+  "protocol": [
+    "Mit einem klaren Produkt starten: 'Elterngeld-Komplettantrag + Optimierung' zum Festpreis.",
+    "RDG-Grenze klären: Ausfüllen/Rechnen/Fristen ja, individuelle Rechtsberatung nur mit Zulassung.",
+    "Datenschutz (DSGVO) für sensible Gehalts-/Familiendaten sauber aufsetzen.",
+    "Nach Traction ausbauen: Kindergeld, Kita-Anträge, Steuerklassenwechsel als 'Elternzeit-Bundle'."
+  ],
+  "mistakes": [
+    "In unerlaubte Rechtsberatung abrutschen (RDG-Verstoß).",
+    "Wert über 'wir füllen Formulare aus' statt über 'mehr Geld + null Stress' kommunizieren.",
+    "Datenschutz bei sensiblen Finanzdaten vernachlässigen."
+  ],
+  "risks": "Rechtsdienstleistungsgesetz (RDG): Grenze zur unerlaubten Rechtsberatung. Datenschutz/Haftung bei sensiblen Finanzdaten und Antragsfehlern (Fristversäumnis). Vertrauensaufbau nötig; Wettbewerb existiert bereits.",
+  "synergy": [
+    "admin-termin-last-buerokratie",
+    "admin-ki-buerokratie",
+    "fahrplan-schwangerschaft-bis-kita"
+  ],
+  "sources": [
+    {
+      "title": "elterngeld.de – Beratung",
+      "url": "https://einfach-elterngeld.de/beratung"
+    },
+    {
+      "title": "vergleich.org – Kostenpflichtige Elterngeldberatung",
+      "url": "https://www.vergleich.org/kostenpflichtige-elterngeldberatung/"
+    },
+    {
+      "title": "Elterngeldexperten",
+      "url": "https://www.elterngeldexperten.de/"
+    },
+    {
+      "title": "Familienportal – Elterngeld",
+      "url": "https://familienportal.de/familienportal/familienleistungen/elterngeld"
+    }
+  ]
+}

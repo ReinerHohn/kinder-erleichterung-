@@ -1,0 +1,98 @@
+{
+  "id": "elternzeit-beeg-dauer-fristen",
+  "name": "Elternzeit: bis zu 3 Jahre, 7-Wochen-Frist & Kündigungsschutz",
+  "category": "📋 Was auf mich zukommt (Rechte & Fahrplan)",
+  "tags": [
+    "Elternzeit",
+    "BEEG",
+    "Anmeldefrist",
+    "Kündigungsschutz",
+    "Rückkehrrecht"
+  ],
+  "impact": 5,
+  "evidence_level": "A",
+  "effort": 2,
+  "summary": "Jeder Elternteil hat Anspruch auf bis zu 3 Jahre unbezahlte Elternzeit pro Kind (§ 15 BEEG), mit Rückkehrrecht auf den bisherigen Job-Umfang und starkem Kündigungsschutz. Sie müssen die Elternzeit fristgerecht anmelden – für die ersten 3 Lebensjahre 7 Wochen vor Beginn.",
+  "key_facts": [
+    {
+      "label": "Dauer",
+      "value": "bis zu 3 Jahre pro Kind und Elternteil",
+      "source": "§ 15 BEEG"
+    },
+    {
+      "label": "Anmeldefrist (bis 3. Geburtstag)",
+      "value": "7 Wochen vor Beginn, in Textform",
+      "source": "§ 16 BEEG"
+    },
+    {
+      "label": "Anmeldefrist (3.–8. Lebensjahr-Anteil)",
+      "value": "13 Wochen vor Beginn",
+      "source": "§ 16 BEEG"
+    },
+    {
+      "label": "Aufteilung",
+      "value": "bis zu 3 Zeitabschnitte ohne Zustimmung; bis zu 24 Monate zwischen 3. und 8. Geburtstag übertragbar",
+      "source": "BEEG"
+    },
+    {
+      "label": "Kündigungsschutz",
+      "value": "ab Anmeldung (frühestens 8 Wochen vor Beginn) bis Ende der Elternzeit",
+      "source": "§ 18 BEEG"
+    },
+    {
+      "label": "Textform ausreichend seit",
+      "value": "01.05.2025 (E-Mail genügt)",
+      "source": "BEEG-Novelle"
+    }
+  ],
+  "deep_dive": "Die Elternzeit ist eine unbezahlte Auszeit vom Job mit Jobgarantie – Ihr Arbeitsverhältnis ruht, endet aber nicht. Beim Anmelden müssen Sie verbindlich festlegen, für welche Zeiträume Sie in den ersten zwei Jahren Elternzeit nehmen. Ein häufiger Fehler: die 7-Wochen-Frist verpassen – dann verschiebt sich der mögliche Beginn. Seit 1. Mai 2025 reicht Textform (auch E-Mail) statt der früher nötigen eigenhändigen Unterschrift; trotzdem sollten Sie den Zugang nachweisen können. Sie können die Elternzeit in bis zu 3 Zeitabschnitte aufteilen (weitere nur mit Zustimmung des Arbeitgebers) und bis zu 24 Monate auf die Zeit zwischen dem 3. und 8. Geburtstag verschieben – ideal z. B. für die Einschulung. Der Kündigungsschutz nach § 18 BEEG beginnt frühestens 8 Wochen vor Beginn der Elternzeit mit der Anmeldung; melden Sie also nicht zu früh an, sonst greift der Schutz noch nicht. Nach der Elternzeit haben Sie Anspruch, auf Ihre alte Arbeitszeit zurückzukehren.",
+  "mechanism": "Die Elternzeit ermöglicht Eltern, sich ohne Jobverlust um das Kind zu kümmern, und verteilt das Vereinbarkeitsrisiko rechtlich abgesichert – der Arbeitsplatz bleibt garantiert erhalten.",
+  "evidence": [
+    {
+      "source": "BEEG §§ 15, 16, 18",
+      "year": 2025,
+      "finding": "Bis 3 Jahre; 7-Wochen-Frist bis zum 3. Geburtstag; Kündigungsschutz ab Anmeldung"
+    },
+    {
+      "source": "IHK / Elterngeld-Zentrum",
+      "year": 2025,
+      "finding": "Bis 3 Zeitabschnitte ohne Zustimmung; 24 Monate zwischen 3.–8. Geburtstag übertragbar"
+    },
+    {
+      "source": "BEEG-Novelle",
+      "year": 2025,
+      "finding": "Seit 01.05.2025 genügt Textform (E-Mail) für die Anmeldung"
+    }
+  ],
+  "protocol": [
+    "Spätestens 7 Wochen vor gewünschtem Beginn (bis zum 3. Geburtstag) schriftlich/in Textform beim Arbeitgeber anmelden",
+    "Verbindlich festlegen, für welche Zeiträume in den ersten 2 Jahren Elternzeit genommen wird",
+    "Zugang der Anmeldung nachweisbar dokumentieren (Empfangsbestätigung/Einwurf-Einschreiben)",
+    "Bei Bedarf Aufteilung/Übertragung von bis zu 24 Monaten auf Zeit 3.–8. Geburtstag einplanen"
+  ],
+  "mistakes": [
+    "Die 7-Wochen-Frist (bzw. 13 Wochen für spätere Abschnitte) verpassen",
+    "Zu früh anmelden – Kündigungsschutz greift erst 8 Wochen vor Beginn",
+    "Anmeldung ohne Zugangsnachweis, sodass Streit über die Frist entsteht"
+  ],
+  "risks": "Fristversäumnis verschiebt den möglichen Beginn der Elternzeit. Wer mehr als 3 Zeitabschnitte will, braucht die Zustimmung des Arbeitgebers. Allgemeine Information, kein Rechtsrat.",
+  "synergy": [
+    "elterngeld-elterngeldplus-partnerschaftsbonus",
+    "vaetermonate-nicht-uebertragbar",
+    "teilzeit-brueckenteilzeit-rueckkehr-vollzeit"
+  ],
+  "sources": [
+    {
+      "title": "BMFSFJ / BEEG – gesetze-im-internet",
+      "url": "https://www.gesetze-im-internet.de/beeg/"
+    },
+    {
+      "title": "Elternzeit anmelden: Fristen und Formvorschriften (Elterngeld-Zentrum)",
+      "url": "https://elterngeld-zentrum.de/wissen/elternzeit/elternzeit-anmelden-fristen"
+    },
+    {
+      "title": "Elternzeit – IHK Region Stuttgart",
+      "url": "https://www.ihk.de/stuttgart/fuer-unternehmen/recht-und-steuern/arbeitsrecht/mutterschutz-und-elternzeit-3667458"
+    }
+  ]
+}

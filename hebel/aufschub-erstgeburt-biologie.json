@@ -1,0 +1,72 @@
+{
+  "id": "aufschub-erstgeburt-biologie",
+  "name": "Späteres Erstgeburtsalter → biologische Grenzen",
+  "category": "📉 Ursachen: weniger Kinderwunsch",
+  "tags": [
+    "erstgeburtsalter",
+    "aufschub",
+    "unfruchtbarkeit",
+    "biologische-uhr",
+    "tempo-effekt"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 4,
+  "summary": "Das Alter bei der ersten Geburt steigt seit den 1970ern stark. Wer spät beginnt, hat ein kleineres Zeitfenster: ab ~35 sinkt die Fruchtbarkeit, und der gewünschte (zweite/dritte) Nachwuchs bleibt biologisch oft aus.",
+  "key_facts": [
+    {
+      "label": "Mittleres Alter Erstgeburt (EU)",
+      "value": "28,8 J. (2013) → 29,9 J. (2024)",
+      "source": "Eurostat"
+    },
+    {
+      "label": "1970er vs. heute",
+      "value": "damals Erstgeburt <25 in allen europ. Ländern",
+      "source": "Eurostat / Beaujouan 2020"
+    },
+    {
+      "label": "Höchste Altersgruppen-Fertilität (EU)",
+      "value": "2004: 25–29 J. → 2024: 30–34 J.",
+      "source": "Eurostat"
+    }
+  ],
+  "deep_dive": "Das mittlere Alter der Frauen bei der ersten Geburt stieg in der EU von 28,8 (2013) auf 29,9 Jahre (2024); in den frühen 1970ern lag es europaweit unter 25. Die höchste Fertilität verschob sich von der Altersgruppe 25–29 (2004) auf 30–34 (2024). Ab etwa 35 Jahren steigt für jedes weitere Aufschub-Jahr das Risiko, den gewünschten (Erst- oder Folge-)Nachwuchs nicht mehr zu bekommen. Ein wichtiger Irrtum: 'Länder mit spätem Kinderkriegen haben automatisch die niedrigste Fertilität' – das stimmt so nicht (Beaujouan 2020; Genus): Manche Länder mit sehr spätem Erstgeburtsalter haben moderate TFR. Der biologische Kanal wirkt vor allem individuell und über die endgültige Kinderlosigkeit sowie den 'Fertility Gap' (gewünscht > realisiert). Reproduktionsmedizin (IVF) kann den Rückgang nur teilweise kompensieren.",
+  "mechanism": "Aufschub reduziert die verbleibenden fruchtbaren Jahre. Sinkende Fekundität und steigende Sterilität ab Mitte 30 führen dazu, dass geplante Kinder biologisch nicht mehr zustande kommen.",
+  "evidence": [
+    {
+      "source": "Eurostat Fertility statistics",
+      "year": 2024,
+      "finding": "Mittleres Erstgeburtsalter EU 29,9 J.; Peak-Fertilität nun 30–34"
+    },
+    {
+      "source": "Beaujouan, Population and Development Review / Genus",
+      "year": 2020,
+      "finding": "Aufschub verstärkt Risiko unerfüllter Fertilität; späte Länder nicht zwingend niedrigste TFR"
+    }
+  ],
+  "protocol": [
+    "Rahmenbedingungen für frühere Familiengründung (Sicherheit, Wohnen, Betreuung)",
+    "Aufklärung über altersabhängige Fruchtbarkeit (nüchtern, ohne Panik)",
+    "Zugang zu Reproduktionsmedizin als Teil-Absicherung"
+  ],
+  "mistakes": [
+    "'Späte Länder = niedrigste Fertilität' – kein linearer Zusammenhang",
+    "'IVF gleicht den Aufschub weitgehend aus' – demografisch nur teilweise"
+  ],
+  "risks": "Alarmismus ('biologische Uhr') kann Druck erzeugen; Aufschub ist meist Folge, nicht Ursache – Wurzel sind ökonomische/soziale Faktoren.",
+  "synergy": [
+    "oekonomische-unsicherheit-prekaritaet",
+    "partnerlosigkeit-instabile-partnerschaften",
+    "fertility-gap-wunsch-vs-realitaet"
+  ],
+  "sources": [
+    {
+      "title": "Eurostat – Fertility statistics",
+      "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Fertility_statistics"
+    },
+    {
+      "title": "Beaujouan: Latest-Late Fertility? (Wiley)",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/padr.12334"
+    }
+  ]
+}

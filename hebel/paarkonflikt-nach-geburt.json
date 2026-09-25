@@ -1,0 +1,83 @@
+{
+  "id": "paarkonflikt-nach-geburt",
+  "name": "Paarkonflikt & sinkende Beziehungszufriedenheit nach der Geburt",
+  "category": "🍼 Stressoren im Alltag",
+  "tags": [
+    "Partnerschaft",
+    "Beziehung",
+    "Konflikt",
+    "Übergang zur Elternschaft"
+  ],
+  "impact": 4,
+  "evidence_level": "B",
+  "effort": 3,
+  "summary": "Der Übergang zur Elternschaft ist ein Belastungstest für Paare: Weniger gemeinsame Zeit, Schlafmangel und neue Rollenverteilung senken bei vielen die Beziehungszufriedenheit und erhöhen die Konflikthäufigkeit.",
+  "key_facts": [
+    {
+      "label": "Trennungsrisiko",
+      "value": "etwa jede fünfte Ehe gerät nach der Geburt in eine Krise; Kind häufiger Trennungsgrund in frühen Ehejahren",
+      "source": "LBS-Langzeitstudie (>170 Paare)"
+    },
+    {
+      "label": "Hauptursachen",
+      "value": "weniger Paarzeit, Schlafmangel, veränderte Rollen-/Aufgabenverteilung",
+      "source": "LBS / Caritas"
+    },
+    {
+      "label": "Nuance",
+      "value": "Zufriedenheit sinkt v. a. rückblickend; Sinnerleben und positive Emotionen können steigen",
+      "source": "Springer-Teilstudie 'Schatz, das Baby schreit!'"
+    },
+    {
+      "label": "Treiber",
+      "value": "Stress ist häufigster Auslöser von Beziehungsproblemen nach der Geburt",
+      "source": "windeln.de/urbia-Zusammenfassungen"
+    }
+  ],
+  "deep_dive": "Die Geburt des ersten Kindes verändert Partnerschaften nachweisbar. Eine LBS-Langzeitstudie mit über 170 Paaren zeigt, dass die veränderte Rollen- und Aufgabenverteilung die Beziehung belasten kann; das Kind gilt in den ersten Ehejahren als häufiger Trennungsgrund, und etwa jede fünfte Ehe gerät nach der Geburt in ernsthafte Schwierigkeiten. Ursachen sind das Bündel aus weniger Zweisamkeit, chronischem Schlafmangel und ungleich verteilter Care-Arbeit. Wichtig ist eine Nuance aus neuerer Forschung (Teilstudie 'Schatz, das Baby schreit!'): Die sinkende Zufriedenheit zeigt sich vor allem in rückblickenden Fragebögen, weniger im tatsächlich erlebten Alltag – und Sinnerleben sowie positive Emotionen können sogar zunehmen. Verbreiteter Irrtum: 'Ein Kind schweißt das Paar automatisch zusammen.' Ohne aktive Pflege der Beziehung und faire Lastenverteilung ist eher das Gegenteil der Fall; Zufriedenheit muss bewusst gehalten werden.",
+  "mechanism": "Ressourcenknappheit (Zeit, Schlaf, Aufmerksamkeit) plus wahrgenommene Ungleichverteilung der Arbeit erhöhen Reibung und senken die Zuwendung zwischen den Partnern – ein Teufelskreis aus Stress und Konflikt.",
+  "evidence": [
+    {
+      "source": "LBS-Langzeitstudie (>170 Paare)",
+      "year": 2016,
+      "finding": "veränderte Rollenverteilung als zentrale Belastung; erhöhtes Krisen-/Trennungsrisiko"
+    },
+    {
+      "source": "Springer – Teilstudie 'Schatz, das Baby schreit!'",
+      "year": 2023,
+      "finding": "Zufriedenheit sinkt v. a. retrospektiv; Sinn und positive Emotionen steigen"
+    }
+  ],
+  "protocol": [
+    "Aufgaben und Verantwortung explizit und fair aufteilen (siehe Mental-Load-Karte)",
+    "Geschützte Paarzeit fest etablieren, auch kurz und regelmäßig",
+    "Wertschätzung und Bedürfnisse aktiv kommunizieren statt Groll ansammeln",
+    "Frühzeitig externe Unterstützung/Paarberatung nutzen, wenn Konflikte eskalieren",
+    "Realistische Erwartungen an die erste Zeit; Ausnahmezustand als vorübergehend einordnen"
+  ],
+  "mistakes": [
+    "Erwarten, das Kind halte die Beziehung von selbst zusammen",
+    "Beziehungspflege komplett hinter Kind und Alltag zurückstellen",
+    "Ungleiche Lastenverteilung schweigend hinnehmen"
+  ],
+  "risks": "Wenn Konflikte chronisch werden, Wertschätzung verschwindet und keine Zweisamkeit mehr stattfindet, steigt das Trennungsrisiko deutlich – ein starker zusätzlicher Stressor für die ganze Familie.",
+  "synergy": [
+    "verlust-freiheit-zeit-paarzeit",
+    "mental-load-gender-care-gap",
+    "schlafmangel-erste-jahre"
+  ],
+  "sources": [
+    {
+      "title": "Caritas – Beziehung nach der Geburt",
+      "url": "https://www.caritas.de/hilfeundberatung/eltern-und-paare/so-haelt-die-beziehung-auch-nach-der-geburt-eines-kindes"
+    },
+    {
+      "title": "swissmom – Kind als Trennungsgrund",
+      "url": "https://www.swissmom.ch/de/familie/konflikte/trennungsgrund-kind-14852"
+    },
+    {
+      "title": "Springer – Teilstudie 'Schatz, das Baby schreit!'",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-658-41224-1_5"
+    }
+  ]
+}

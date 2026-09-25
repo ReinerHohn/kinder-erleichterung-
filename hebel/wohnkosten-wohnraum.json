@@ -1,0 +1,70 @@
+{
+  "id": "wohnkosten-wohnraum",
+  "name": "Hohe Wohnkosten & fehlender Wohnraum",
+  "category": "📉 Ursachen: weniger Kinderwunsch",
+  "tags": [
+    "wohnkosten",
+    "miete",
+    "immobilienpreise",
+    "eigentum"
+  ],
+  "impact": 4,
+  "evidence_level": "B",
+  "effort": 5,
+  "summary": "Steigende Mieten und Immobilienpreise senken die Fertilität, besonders bei jungen Nicht-Eigentümern: Wer sich keine ausreichend große, bezahlbare Wohnung leisten kann, verschiebt oder verzichtet auf Kinder.",
+  "key_facts": [
+    {
+      "label": "Anteil am US-TFR-Rückgang 2000er→2010er (Studie)",
+      "value": "bis zu ~51 %",
+      "source": "Couillard, IFS/Working Paper"
+    },
+    {
+      "label": "Effekt +10 % Hauspreise",
+      "value": "ca. 0,01–0,03 weniger Geburten je Frau",
+      "source": "Global evidence 1870–2012, JME"
+    },
+    {
+      "label": "Eigentümer vs. Nicht-Eigentümer",
+      "value": "Preisanstieg senkt Geburten bei Mietern, hebt sie bei Eigentümern (Vermögenseffekt)",
+      "source": "Dettling & Kearney, NBER"
+    }
+  ],
+  "deep_dive": "Steigende Wohnkosten wirken über zwei Kanäle: Für Mieter (die Mehrheit junger Paare) frisst höhere Miete Budget und Platz, für Eigentümer kann ein Preisanstieg über den Vermögenseffekt sogar leicht positiv wirken (Dettling & Kearney). Eine US-Studie (Couillard) führt bis zu ~51 % des TFR-Rückgangs von den 2000ern zu den 2010ern auf Wohnkosten zurück – eine Obergrenzen-Schätzung, die man vorsichtig lesen sollte. Global gilt: +10 % Hauspreise ≈ 0,01–0,03 weniger Geburten je Frau. Ein verbreiteter Irrtum ist, Wohnkosten seien nachrangig gegenüber Arbeitslosigkeit – tatsächlich korrelieren Preise in einigen Analysen stärker mit Geburten als Arbeitslosigkeit. Methodisch bleibt Kausalität schwer sauber zu trennen (Konfundierung mit allgemeinem Wohlstand/Region).",
+  "mechanism": "Ausreichender, bezahlbarer Wohnraum ist eine praktische Voraussetzung für ein (weiteres) Kind. Hohe Mieten binden Einkommen und verhindern den Umzug in eine größere Wohnung – Kinder werden verschoben.",
+  "evidence": [
+    {
+      "source": "Dettling & Kearney, NBER",
+      "year": 2011,
+      "finding": "Preisanstieg: −Geburten bei Nicht-Eigentümern, +Geburten bei Eigentümern"
+    },
+    {
+      "source": "Couillard (IFS-Bericht)",
+      "year": 2025,
+      "finding": "Wohnkosten erklären bis ~51 % des jüngeren US-TFR-Rückgangs (Obergrenze)"
+    }
+  ],
+  "protocol": [
+    "Bezahlbaren Wohnraum/Familienwohnungen schaffen",
+    "An Wohnen gekoppelte Familienleistungen (OECD betont deren wachsende Bedeutung)",
+    "Zugang zu Eigentum/Genossenschaften für junge Familien"
+  ],
+  "mistakes": [
+    "Einmal-Baukindergeld löst strukturelle Knappheit – tut es nicht",
+    "Wohnkosten seien nachrangig – sie gehören zu den stärksten Prädiktoren"
+  ],
+  "risks": "Kausalität teils unklar; 51-%-Zahl ist eine hohe Einzelschätzung, kein Konsens.",
+  "synergy": [
+    "bezahlbarer-wohnraum-familien",
+    "oekonomische-unsicherheit-prekaritaet"
+  ],
+  "sources": [
+    {
+      "title": "IFS: Higher Rent, Fewer Babies?",
+      "url": "https://ifstudies.org/blog/higher-rent-fewer-babies-housing-costs-and-fertility-decline"
+    },
+    {
+      "title": "NBER: The Impact of the Real Estate Market on Fertility",
+      "url": "https://www.nber.org/system/files/working_papers/w17485/w17485.pdf"
+    }
+  ]
+}

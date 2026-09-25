@@ -1,0 +1,74 @@
+{
+  "id": "laendervergleich-frankreich-schweden",
+  "name": "Ländervergleich: Was Frankreich & Schweden anders machen (Policy-Paket)",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": [
+    "Ländervergleich",
+    "Frankreich",
+    "Schweden",
+    "Policy-Mix",
+    "Vereinbarkeit"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 4,
+  "summary": "Frankreich und Schweden halten Fertilität und Frauenerwerbstätigkeit relativ hoch – nicht durch einzelne Boni, sondern durch ein konsistentes Paket aus Betreuung, Gleichstellung und Vereinbarkeit über Jahrzehnte.",
+  "key_facts": [
+    {
+      "label": "Frankreich Ausgaben",
+      "value": "~4 % des BIP für Familienpolitik; flächendeckende Betreuung (crèche/PMI)",
+      "source": "UN DESA / OECD"
+    },
+    {
+      "label": "Schweden Modell",
+      "value": "Earner-Carer-Modell seit 1974, 480 Tage Elternzeit, getrennte Besteuerung, gute Kita",
+      "source": "IFFS / Demographic Research"
+    },
+    {
+      "label": "Frauenerwerbstätigkeit SE",
+      "value": "von 50 % (1960er) auf >80 % (frühe 1990er)",
+      "source": "IFFS"
+    }
+  ],
+  "deep_dive": "Frankreich und Schweden zeigen, dass hohe Fertilität und hohe Frauenerwerbstätigkeit kein Widerspruch sind – wenn ein konsistentes Politikpaket über Jahrzehnte verlässlich existiert. Frankreich investiert rund 4 % des BIP in Familienpolitik und bietet flächendeckende, qualitätsgesicherte Betreuung (crèches unter Aufsicht der PMI) plus vielfältige Betreuungsformen; die Leitidee: Kinder sind Investition, und Fertilität wird an Erwerbstätigkeit gekoppelt, nicht an den Rückzug der Mutter. Schweden vollzog 1974 den Wandel vom Ernährermodell zum 'Earner-Carer-Modell': 480 Tage Elternzeit, reservierte Vätermonate, getrennte Ehegattenbesteuerung und gute Kitas ließen die Frauenerwerbstätigkeit von 50 % (1960er) auf über 80 % (frühe 1990er) steigen. Ein verbreiteter Irrtum ist, es gebe eine einzelne 'Wunderpolitik' zum Kopieren – tatsächlich wirkt der Mix und dessen Verlässlichkeit. Auch diese Länder sind nicht immun: Schwedens TFR fiel von 1,98 (2010) auf 1,43 (2024), was zeigt, dass selbst gute Pakete konjunkturelle und weltweite Trends nicht vollständig aufhalten. Die Lehre für Deutschland: Konsistenz und Vereinbarkeit schlagen isolierte Prämien.",
+  "mechanism": "Ein aufeinander abgestimmtes, verlässliches Paket aus Betreuung, Gleichstellung (Vätermonate, Individualbesteuerung) und Vereinbarkeit senkt gleichzeitig Geld-, Zeit- und Karrierekosten von Kindern.",
+  "evidence": [
+    {
+      "source": "UN DESA / OECD (Frankreich)",
+      "year": 2015,
+      "finding": "~4 % BIP Familienpolitik, flächendeckende Betreuung; Fertilität an Erwerbstätigkeit gekoppelt"
+    },
+    {
+      "source": "IFFS / Demographic Research (Schweden)",
+      "year": 2008,
+      "finding": "Earner-Carer-Modell; Frauenerwerbstätigkeit 50 %→>80 %; TFR 2024 auf 1,43 gefallen"
+    }
+  ],
+  "protocol": [
+    "Konsistentes, langfristig stabiles Paket statt Einzelmaßnahmen",
+    "Betreuung als Fundament, ergänzt um Vätermonate, Individualbesteuerung und Flexibilität",
+    "Gleichstellung explizit als Ziel (Earner-Carer-Modell)",
+    "Über Jahre Verlässlichkeit sichern – Vertrauen in Planbarkeit ist Teil der Wirkung"
+  ],
+  "mistakes": [
+    "Eine Einzelpolitik isoliert kopieren statt das Paket",
+    "Kurzfristige Prämien statt langfristiger Infrastruktur",
+    "Erwarten, dass Familienpolitik weltweite Fertilitätstrends komplett kippt"
+  ],
+  "risks": "Teuer und nur über lange Zeiträume wirksam; kein Instrument garantiert TFR ≥ 2,1; kulturelle/ökonomische Trends begrenzen die Wirkung (auch SE fällt).",
+  "synergy": [
+    "kita-krippe-ausbau",
+    "vaetermonate-nicht-uebertragbar",
+    "fertility-gap-wunsch-vs-realitaet"
+  ],
+  "sources": [
+    {
+      "title": "UN DESA – Influence of family policies on fertility in France",
+      "url": "https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undp_egm_201511_policy_brief_no._7.pdf"
+    },
+    {
+      "title": "Demographic Research – Sweden: Combining childbearing and gender equality",
+      "url": "https://www.demographic-research.org/volumes/vol19/28/19-28.pdf"
+    }
+  ]
+}

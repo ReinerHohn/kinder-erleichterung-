@@ -1,0 +1,81 @@
+{
+  "id": "humanoide-haushaltsroboter",
+  "name": "Humanoide Haushaltsroboter (Optimus, Figure, 1X NEO)",
+  "category": "🤖 KI & Robotik",
+  "tags": [
+    "Humanoide",
+    "Hype",
+    "Demo",
+    "Zukunft",
+    "Anti-Hype"
+  ],
+  "impact": 1,
+  "evidence_level": "C",
+  "effort": 5,
+  "summary": "Der Roboter, der Wäsche faltet, abwäscht und aufräumt, ist Stand 2025/2026 Demo und Marketing - nicht Alltag. Die Videos entstehen unter Idealbedingungen, oft teleoperiert; kaufbar sind die Geräte für Privathaushalte praktisch nicht.",
+  "key_facts": [
+    {
+      "label": "Verfügbarkeit",
+      "value": "Tesla Optimus (Stand April 2026) nicht extern kaufbar; Consumer frühestens 2027-2028",
+      "source": "Robotics Center 2026"
+    },
+    {
+      "label": "Demo-Gap",
+      "value": "Falten/Geschirr nur unter idealen Bedingungen, teils teleoperiert, mit menschlichem Eingreifen",
+      "source": "optimusk.blog / Neural Post 2025"
+    },
+    {
+      "label": "Realer Einsatz",
+      "value": "bislang Fabriken (BMW-Linie), nicht Privathaushalte",
+      "source": "LumiChats 2026"
+    },
+    {
+      "label": "Preis (angekündigt)",
+      "value": "grob 20.000-30.000 $+, unbestätigt",
+      "source": "Herstellerschätzungen"
+    }
+  ],
+  "deep_dive": "Kein Bereich ist so mit Hype überladen wie humanoide Haushaltsroboter - und für Eltern heute schlicht ohne Nutzen. Die spektakulären Videos von Tesla Optimus, Figure oder 1X NEO zeigen echtes Ingenieur-Können, aber unter Idealbedingungen: gutes Licht, einfache Objekte, kein Zeitdruck - und häufig teleoperiert (ferngesteuert von einem Menschen) oder mit menschlichem Eingreifen, wenn etwas herunterfällt. Figure konnte beim Launch Wäsche falten und die Spülmaschine beladen, brauchte aber weiter Menschen, um Zyklen zu starten und Fehler zu beheben. Real eingesetzt werden diese Roboter bislang in Fabriken (etwa eine BMW-Linie), nicht in Wohnungen. Für Privathaushalte sind sie faktisch nicht kaufbar; realistische Consumer-Verfügbarkeit wird auf 2027-2028 frühestens geschätzt, zu vierstelligen bis fünfstelligen Preisen. Der Kern-Denkfehler: Ein choreografiertes Demo beweist nicht, dass ein Roboter im unaufgeräumten, wechselnden echten Kinderzimmer zuverlässig und unbeaufsichtigt arbeitet. Für Entlastung heute ist der Saugroboter oder die Spülmaschine tausendmal relevanter als der Humanoid.",
+  "mechanism": "Verspricht, allgemeine Haushaltsaufgaben menschenähnlich zu übernehmen - liefert dies im echten Zuhause 2025/2026 noch nicht.",
+  "evidence": [
+    {
+      "source": "Robotics Center",
+      "year": 2026,
+      "finding": "Tesla Optimus Stand April 2026 nicht extern verfügbar; Consumer-Verfügbarkeit frühestens 2027-2028."
+    },
+    {
+      "source": "optimusk.blog / The Neural Post",
+      "year": 2025,
+      "finding": "Falt-/Küchen-Demos nur unter idealen Bedingungen, teils teleoperiert, mit nötigem menschlichem Eingreifen."
+    },
+    {
+      "source": "LumiChats",
+      "year": 2026,
+      "finding": "Verifizierte Einsätze in Fabriken (BMW-Linie), keine unabhängig belegten Haushaltseinsätze."
+    }
+  ],
+  "protocol": [
+    "Für heutige Entlastung nicht auf Humanoide setzen - in reife Geräte (Saugroboter, Spülmaschine) investieren.",
+    "Demo-Videos kritisch lesen: Ist es teleoperiert? Unter Laborbedingungen? Wird eingegriffen?",
+    "Bei künftigem Kauf Sicherheits-/Datenschutzfragen (Kameras, Kraft, Haftung) rund um Kinder ernst nehmen."
+  ],
+  "mistakes": [
+    "Marketing-Demos als lieferbares, alltagstaugliches Produkt missverstehen.",
+    "Anschaffungs-Budget für einen Humanoiden reservieren statt für real hilfreiche Geräte."
+  ],
+  "risks": "Fehlinvestition/verlorene Vorbestellungen, überzogene Erwartungen; später Sicherheit und Datenschutz (kamerabasierte Roboter um Kinder), Ungleichheit durch hohen Preis.",
+  "sources": [
+    {
+      "title": "Tesla Optimus Price & Availability (2026) - Robotics Center",
+      "url": "https://www.roboticscenter.ai/blog/tesla-optimus-price-availability"
+    },
+    {
+      "title": "Review: The 'Laundry-Folding' Robots of 2025 - Still a Gimmick? - The Neural Post",
+      "url": "https://theneuralpost.com/2025/12/17/review-the-laundry-folding-robots-of-2025-still-a-gimmick/"
+    },
+    {
+      "title": "Humanoid Robots 2026: Tesla Optimus vs Figure vs Unitree - LumiChats",
+      "url": "https://lumichats.com/blog/humanoid-robots-2026-tesla-optimus-figure-ai-unitree-complete-guide"
+    }
+  ]
+}

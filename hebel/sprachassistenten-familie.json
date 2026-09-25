@@ -1,0 +1,76 @@
+{
+  "id": "sprachassistenten-familie",
+  "name": "Sprachassistenten im Familienalltag (Alexa, Google, Siri)",
+  "category": "🤖 KI & Robotik",
+  "tags": [
+    "Sprachassistent",
+    "Erinnerungen",
+    "Datenschutz",
+    "Kinder"
+  ],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 1,
+  "summary": "Sprachassistenten sind billig und praktisch für Timer, Erinnerungen, Einkaufslisten, Musik und Vorlesen - besonders freihändig mit Kleinkind auf dem Arm. Der Preis ist der Datenschutz: Kinderstimmen und Alltag werden mitgehört und gespeichert.",
+  "key_facts": [
+    {
+      "label": "Alltagsnutzen",
+      "value": "freihändige Timer/Erinnerungen/Listen/Vorlesen",
+      "source": "Praxis"
+    },
+    {
+      "label": "Kosten",
+      "value": "günstig (Smart Speaker ab ~30-50 €)",
+      "source": "Marktpreise"
+    },
+    {
+      "label": "Datenschutz-Fall",
+      "value": "Amazon zahlte 25 Mio. $ - Alexa speicherte Kinder-Aufnahmen dauerhaft (COPPA-Verstoß)",
+      "source": "FTC/DOJ 2023"
+    },
+    {
+      "label": "Drittanbieter-Apps",
+      "value": "50 Alexa-Skills ohne Info über Datenverwendung; teils COPPA-Verstöße",
+      "source": "VentureBeat/Forschung"
+    }
+  ],
+  "deep_dive": "Sprachassistenten sind ehrlich nützlich im Familienchaos: freihändig einen Timer stellen, während man das Baby hält, Erinnerungen und Einkaufslisten diktieren, Musik oder eine Vorlesegeschichte starten. Sie sind günstig und die Hürde ist niedrig. Der Haken ist der Datenschutz, und der ist konkret belegt: Die US-Handelsbehörde FTC und das Justizministerium haben Amazon 2023 zu 25 Mio. $ Strafe verpflichtet, weil Alexa Kinder-Sprachaufnahmen dauerhaft speicherte und Löschwünsche von Eltern unterlief - ein Verstoß gegen das Kinderdatenschutzgesetz COPPA. Forscher fanden zudem Dutzende Alexa-Skills, die nicht offenlegen, was mit den Daten passiert, teils unter Missachtung von Kinderschutzregeln. Der verbreitete Irrtum ist, das Gerät höre nur beim Aktivierungswort mit - real werden Aufnahmen in der Cloud verarbeitet und gespeichert. Nutzen und Risiko sind hier gut beherrschbar, wenn man Einstellungen bewusst setzt (Aufnahmen automatisch löschen, Mikrofon-Aus-Taste, Kinderprofil, keine sensiblen Skills). Ein Ersatz für Vorlesen im Sinne von Nähe ist der Assistent nicht.",
+  "mechanism": "Nimmt kleine, ständig anfallende Handgriffe (Timer, Listen, Erinnerungen, Musik/Vorlesen) freihändig ab und senkt Mikro-Mental-Load.",
+  "evidence": [
+    {
+      "source": "FTC/DOJ",
+      "year": 2023,
+      "finding": "Amazon zahlte 25 Mio. $ - Alexa speicherte Kinder-Sprach- und Standortdaten dauerhaft und unterlief elterliche Löschrechte (COPPA-Verstoß)."
+    },
+    {
+      "source": "VentureBeat / Forschung",
+      "year": 2024,
+      "finding": "Zahlreiche Alexa-/Google-Assistant-Skills informieren nicht über Datenverwendung; teils Verstöße gegen COPPA."
+    }
+  ],
+  "protocol": [
+    "Automatisches Löschen der Sprachaufnahmen aktivieren; regelmäßig Verlauf leeren.",
+    "Mikrofon-Aus-Taste in Kinderzimmer/Schlafzimmer nutzen; Kinderprofile mit Werbe-/Kaufsperre einrichten.",
+    "Nur vertrauenswürdige Skills/Dienste aktivieren; keine sensiblen Daten diktieren.",
+    "Vorlesen durch den Assistenten nicht als Ersatz für gemeinsames Vorlesen (Nähe/Sprache) sehen."
+  ],
+  "mistakes": [
+    "Annehmen, das Gerät höre nur beim Aktivierungswort - Aufnahmen landen in der Cloud.",
+    "Kinder unbeaufsichtigt mit unklaren Drittanbieter-Skills interagieren lassen."
+  ],
+  "risks": "Dauerhaftes Mithören/Speichern von Kinderstimmen, Datenschutz/COPPA, versehentliche Käufe, Ersatz für echte Zuwendung/Vorlesen.",
+  "sources": [
+    {
+      "title": "FTC and DOJ Charge Amazon with Violating Children's Privacy Law (Alexa) - FTC",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-doj-charge-amazon-violating-childrens-privacy-law-keeping-kids-alexa-voice-recordings-forever"
+    },
+    {
+      "title": "Privacy problems widespread for Alexa and Google Assistant voice apps - VentureBeat",
+      "url": "https://venturebeat.com/ai/privacy-problems-are-widespread-for-alexa-and-google-assistant-voice-apps-according-to-researchers"
+    },
+    {
+      "title": "Hey, Alexa! What are you doing with my data? - FTC",
+      "url": "https://www.ftc.gov/business-guidance/blog/2023/06/hey-alexa-what-are-you-doing-my-data"
+    }
+  ]
+}

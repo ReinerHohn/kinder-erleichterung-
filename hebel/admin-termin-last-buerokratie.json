@@ -1,0 +1,87 @@
+{
+  "id": "admin-termin-last-buerokratie",
+  "name": "Admin-, Termin- & Bürokratielast ('Terminchaos')",
+  "category": "🍼 Stressoren im Alltag",
+  "tags": [
+    "Bürokratie",
+    "Termine",
+    "U-Untersuchungen",
+    "Anträge"
+  ],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 2,
+  "summary": "Rund um ein Kind fällt ein Dauerstrom an Terminen und Anträgen an: U1–U9 und J1, Impftermine, Elterngeld-, Kindergeld- und Kita-Anträge, Formulare und Fristen. Diese Verwaltungslast ist zeitraubend und ein Kernbestandteil des Mental Load.",
+  "key_facts": [
+    {
+      "label": "Vorsorge-Termine",
+      "value": "10 gesetzliche U-Untersuchungen (U1–U9) bis Schulalter + J1, mit festen Zeitfenstern",
+      "source": "kindergesundheit-info.de"
+    },
+    {
+      "label": "Elterngeld-Antrag",
+      "value": "sehr langes Formular; Bearbeitung meist 4–6 Wochen, teils bis 12–16 Wochen",
+      "source": "meinelterngeld24 / Die Linke Berlin"
+    },
+    {
+      "label": "Pflichtunterlagen Elterngeld",
+      "value": "Geburtsbescheinigung, Einkunftsnachweise, Arbeitgeber- und Krankenkassenbescheinigung",
+      "source": "familienportal.de"
+    },
+    {
+      "label": "Wahrnehmung",
+      "value": "Antrag von vielen Eltern als 'kompliziert' und kräftezehrend erlebt",
+      "source": "Sonntagsblatt"
+    }
+  ],
+  "deep_dive": "Die Verwaltungslast beginnt schon vor der Geburt und reißt nicht ab: zehn gesetzliche Früherkennungsuntersuchungen (U1–U9) in engen Zeitfenstern, dazu die J1 im Jugendalter, STIKO-Impftermine, sowie parallel die Anträge auf Elterngeld, Kindergeld und Kita-Platz. Der Elterngeldantrag gilt als besonders sperrig: Das bundeseinheitliche Formular ist sehr lang, verlangt zahlreiche Nachweise (Geburtsbescheinigung, Einkunftsnachweise, Arbeitgeber- und Krankenkassenbescheinigung) und die Bearbeitung dauert regulär vier bis sechs Wochen, in Einzelfällen bis zu 12–16 Wochen – ausgerechnet in der finanziell dünnsten Phase. Verbreiteter Irrtum: 'Das mache ich schnell nebenbei aus.' Realistisch ist die Antragsflut ein eigener Zeitfresser, der Fristen, Terminkoordination mit Ärzten/Behörden und Aktenführung verlangt. Weil das Wissen um Fristen und Zuständigkeiten meist bei einem Elternteil bleibt, ist diese Admin-Last ein Kernstück des Mental Load (siehe dortige Karte).",
+  "mechanism": "Viele parallele Fristen, Formulare und Termine, deren Versäumnis Nachteile hat, erzeugen ständigen Koordinations- und Kontrolldruck – ein permanenter kognitiver Hintergrundlärm.",
+  "evidence": [
+    {
+      "source": "kindergesundheit-info.de",
+      "year": 2024,
+      "finding": "U1–U9 + J1 mit verbindlichen Zeitfenstern für Kostenübernahme"
+    },
+    {
+      "source": "meinelterngeld24 / Die Linke Berlin",
+      "year": 2022,
+      "finding": "Elterngeld-Bearbeitung meist 4–6 Wochen, in Einzelfällen bis 16 Wochen"
+    }
+  ],
+  "protocol": [
+    "Alle Fristen zentral erfassen (Familienkalender inkl. U-Untersuchungen, Impfungen, Anträge)",
+    "Anträge bündeln und früh starten (Elterngeld direkt nach Geburt, Kita in der Schwangerschaft)",
+    "Digitale Antragswege nutzen (ElterngeldDigital) und Unterlagen vorab sammeln",
+    "Erinnerungs-/Assistenzsysteme einsetzen (siehe Termin-/KI-Lösungs-Karten)",
+    "Zuständigkeit für Admin explizit im Paar aufteilen, nicht implizit bei einem lassen"
+  ],
+  "mistakes": [
+    "Antrags-/Terminlast unterschätzen ('mache ich nebenbei')",
+    "Zeitfenster der U-Untersuchungen oder Antragsfristen verpassen",
+    "Admin-Last nicht als Teil des Mental Load anerkennen und einseitig lassen"
+  ],
+  "risks": "Versäumte Fristen können Leistungen kosten oder verzögern; die kumulierte Termin- und Bürokratielast ist ein unterschätzter Treiber von Überforderung und Streit.",
+  "synergy": [
+    "fahrplan-schwangerschaft-bis-kita",
+    "vorsorge-u1-u9-j1",
+    "buerokratie-concierge-elterngeld"
+  ],
+  "sources": [
+    {
+      "title": "kindergesundheit-info.de – U1–U9 und J1",
+      "url": "https://www.kindergesundheit-info.de/themen/frueherkennung-u1-u9-und-j1/untersuchungstermine/"
+    },
+    {
+      "title": "MeinElterngeld24 – Bearbeitungszeit 2026",
+      "url": "https://meinelterngeld24.de/fragen/elterngeld-bearbeitungszeit"
+    },
+    {
+      "title": "Sonntagsblatt – Antrag auf Elterngeld ist zu kompliziert",
+      "url": "https://www.sonntagsblatt.de/artikel/familie/antrag-auf-elterngeld-ist-zu-kompliziert-so-wird-geholfen"
+    },
+    {
+      "title": "Familienportal des Bundes – Elterngeld beantragen",
+      "url": "https://familienportal.de/familienportal/familienleistungen/elterngeld/faq/wie-kann-ich-elterngeld-beantragen--124762"
+    }
+  ]
+}

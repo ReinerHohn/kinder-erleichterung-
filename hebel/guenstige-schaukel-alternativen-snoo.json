@@ -1,0 +1,70 @@
+{
+  "id": "guenstige-schaukel-alternativen-snoo",
+  "name": "Günstige Schaukel-Wiegen & Beistellbetten (SNOO-Alternative)",
+  "category": "💡 Sweet Spots (Produkte & Gadgets)",
+  "tags": [
+    "Babyschlaf",
+    "günstig",
+    "Beistellbett",
+    "Preis-Leistung"
+  ],
+  "impact": 3,
+  "evidence_level": "C",
+  "effort": 2,
+  "summary": "Manuell oder simpel-elektrisch schaukelnde Beistellbetten/Wiegen für 100–200 € statt 1000+ €. Kein Auto-Weinsensor, aber der eigentliche Wirkstoff (rhythmisches Schaukeln + Rückenlage, Nähe zum Elternbett) ist derselbe – zum Bruchteil des Preises.",
+  "key_facts": [
+    {
+      "label": "Preis Schaukel-Beistellbett",
+      "value": "~100–250 € (Neu)",
+      "source": "Marktübersicht kleinanzeigen/Handel"
+    },
+    {
+      "label": "Preis 'Sleepy Relax'-Wiege",
+      "value": "~189 € Kauf, auch Miete",
+      "source": "sleepy-relax.com"
+    },
+    {
+      "label": "Wirkmechanismus",
+      "value": "Schaukeln verkürzt Einschlafzeit – gleicher Reflex wie bei SNOO",
+      "source": "Karp 5-S / Schaukel-Physiologie"
+    }
+  ],
+  "deep_dive": "Der teure Teil an einer Roboter-Wiege ist die Weinerkennung und das gestufte Hochregeln der Bewegung – nicht das Schaukeln selbst. Ein Beistellbett mit Schaukelfunktion (100–250 €) liefert die zwei belegten Kernnutzen: rhythmische Bewegung und direkte Nähe zum Elternbett (Room-Sharing senkt SIDS-Risiko). Eltern müssen bei nächtlichem Weinen selbst anschieben – das ist der ehrliche Nachteil gegenüber SNOO. Für die meisten Familien ist das der bessere Preis-Leistungs-Punkt, zumal die harte SNOO-Studienlage ohnehin dünn ist. Verbreiteter Irrtum: 'Nur die 1000-€-Wiege funktioniert'. Wichtig: Auch günstige Wiegen dürfen nicht in Schräglage zum Dauerschlaf verwendet werden (Erstickungsrisiko bei geneigten Schlafflächen), und das Baby gehört immer flach auf den Rücken.",
+  "mechanism": "Rhythmisches Schaukeln beruhigt (vestibulärer Reiz); Beistell-Position ermöglicht schnelles Trösten/Stillen ohne Aufstehen und sichere Nähe.",
+  "evidence": [
+    {
+      "source": "AAP 2022 Safe Sleep",
+      "year": 2022,
+      "finding": "Room-Sharing (eigenes Bettchen im Elternzimmer) senkt Risiko sleep-related deaths; geneigte Schlafflächen sind unsicher."
+    }
+  ],
+  "protocol": [
+    "Schaukel-Beistellbett mit FLACHER Liegefläche wählen, das bündig ans Elternbett andockt (keine Spalten).",
+    "Zum Dauerschlaf immer in die Ebene stellen, Baby auf den Rücken – Schaukelneigung nur zum Beruhigen im Beisein.",
+    "Gebraucht kaufen (kleinanzeigen) ist bei Betten meist unbedenklich – nur Matratze neu und fest."
+  ],
+  "mistakes": [
+    "Baby dauerhaft in schräger Wippe/Babyschale schlafen lassen (Erstickungsgefahr).",
+    "Spalt zwischen Beistellbett und Elternmatratze (Einklemm-/Erstickungsrisiko).",
+    "Teure Roboter-Wiege kaufen, obwohl man ohnehin nachts wach wird und selbst schieben würde."
+  ],
+  "risks": "Geneigte Schlafflächen und Wippen sind für den Dauerschlaf gefährlich. Spalten am Beistellbett vermeiden. Keine weiche Polsterung/Nestchen. Immer Rückenlage.",
+  "synergy": [
+    "snoo-smart-sleeper-babywiege",
+    "schlafmangel-erste-jahre"
+  ],
+  "sources": [
+    {
+      "title": "10 Best SNOO Alternatives",
+      "url": "https://parenthoodadventures.com/snoo-alternatives/"
+    },
+    {
+      "title": "Sleepy Relax – günstige Einschlafhilfe (Kauf/Miete)",
+      "url": "https://sleepy-relax.com/products/sleepy-relax-mieten-6"
+    },
+    {
+      "title": "AAP 2022 – Sleep-Related Infant Deaths Recommendations",
+      "url": "https://publications.aap.org/pediatrics/article/150/1/e2022057990/188304/Sleep-Related-Infant-Deaths-Updated-2022"
+    }
+  ]
+}

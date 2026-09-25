@@ -1,0 +1,70 @@
+{
+  "id": "wertewandel-selbstverwirklichung",
+  "name": "Wertewandel: Selbstverwirklichung & akzeptierte Kinderlosigkeit",
+  "category": "📉 Ursachen: weniger Kinderwunsch",
+  "tags": [
+    "wertewandel",
+    "individualismus",
+    "zweite-demografische-transition",
+    "lebensstil"
+  ],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 5,
+  "summary": "Mit steigendem Wohlstand und Bildung verschieben sich Werte hin zu Autonomie und Selbstverwirklichung; Kinderlosigkeit wird zur akzeptierten Option, sozialer Druck sinkt. Das senkt auch den gewünschten Kinderwunsch.",
+  "key_facts": [
+    {
+      "label": "Ideales Familienbild (EU-Frauen)",
+      "value": "87 % nennen ≥2 Kinder als ideal",
+      "source": "Eurobarometer 2011"
+    },
+    {
+      "label": "Theorierahmen",
+      "value": "Zweite Demografische Transition (Lesthaeghe/van de Kaa)",
+      "source": "PNAS 2014"
+    },
+    {
+      "label": "Ideale sinken langsam",
+      "value": "gewünschte Kinderzahl bleibt vielerorts nahe 2 – Werte erklären nur einen Teil",
+      "source": "Eurobarometer / BiB"
+    }
+  ],
+  "deep_dive": "Die Theorie der Zweiten Demografischen Transition (Lesthaeghe, van de Kaa) erklärt niedrige Fertilität durch die Ausbreitung von Individualismus, Selbstverwirklichung und Toleranz gegenüber vielfältigen Lebensentwürfen: Kinderlosigkeit wird legitim, langfristige Bindungen werden aufgeschoben. Wichtig ist die nüchterne Gegenzahl: Im Eurobarometer 2011 nennen 87 % der EU-Frauen zwei oder mehr Kinder als persönliches Ideal – die gewünschte Kinderzahl liegt also weiter nahe dem Ersatzniveau. Der Wertewandel senkt also weniger den Wunsch als solchen, sondern erhöht die Akzeptanz, ihn nicht zu realisieren, und verschiebt Prioritäten. Ein verbreiteter Irrtum ist daher, der Geburtenrückgang sei 'einfach eine Werteentscheidung gegen Kinder' – der große 'Fertility Gap' (siehe eigene Karte) zeigt, dass viele mehr Kinder wollen, als sie bekommen. Werte wirken v. a. als Ermöglicher des Aufschubs, nicht als Hauptursache.",
+  "mechanism": "Sinkender normativer Druck und höhere Bewertung von Autonomie/Karriere/Konsum machen Kinderlosigkeit oder Ein-Kind-Familien zu gleichwertigen Optionen und senken die Dringlichkeit, den Kinderwunsch umzusetzen.",
+  "evidence": [
+    {
+      "source": "Lesthaeghe, PNAS",
+      "year": 2014,
+      "finding": "SDT: Individualismus/Selbstverwirklichung senken Fertilität, Kinderlosigkeit wird akzeptiert"
+    },
+    {
+      "source": "Eurobarometer 2011 (VID-Analyse)",
+      "year": 2012,
+      "finding": "87 % der EU-Frauen halten ≥2 Kinder für ideal – Wunsch bleibt hoch"
+    }
+  ],
+  "protocol": [
+    "Vereinbarkeit verbessern, damit gewünschte Kinder realisiert werden (Fokus auf Fertility Gap)",
+    "Keine Rückwärts-Normen/Druck – wirkt nachweislich kaum",
+    "Werte als Kontext, strukturelle Hürden zuerst adressieren"
+  ],
+  "mistakes": [
+    "'Menschen wollen einfach keine Kinder mehr' – Ideale liegen weiter bei ~2",
+    "Wertewandel sei DER Haupttreiber – erklärt v. a. Akzeptanz, nicht die Lücke Wunsch↔Realität"
+  ],
+  "risks": "Kulturelle Erklärungen sind schwer messbar und können strukturelle Ursachen verdecken; Gefahr ideologischer Überdehnung.",
+  "synergy": [
+    "fertility-gap-wunsch-vs-realitaet",
+    "klimasorgen-ueberschaetzter-faktor"
+  ],
+  "sources": [
+    {
+      "title": "Lesthaeghe: The second demographic transition (PNAS 2014)",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.1420441111"
+    },
+    {
+      "title": "Family Sizes in Europe: Eurobarometer 2011 (VID)",
+      "url": "https://www.oeaw.ac.at/fileadmin/subsites/Institute/VID/PDF/Publications/EDRP/edrp_2012_02.pdf"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "kuendigungsschutz-schwangerschaft-17-muschg",
+  "name": "Kündigungsschutz für Schwangere (§ 17 MuSchG)",
+  "category": "📋 Was auf mich zukommt (Rechte & Fahrplan)",
+  "tags": [
+    "Kündigungsschutz",
+    "Schwangerschaft",
+    "§17 MuSchG",
+    "2-Wochen-Frist",
+    "Arbeitsrecht"
+  ],
+  "impact": 5,
+  "evidence_level": "A",
+  "effort": 2,
+  "summary": "Ab Beginn der Schwangerschaft bis mindestens 4 Monate nach der Entbindung dürfen Sie grundsätzlich nicht gekündigt werden (§ 17 MuSchG). Wichtig: Der Schutz greift nur, wenn der Arbeitgeber von der Schwangerschaft weiß – oder binnen 2 Wochen nach Kündigungszugang informiert wird.",
+  "key_facts": [
+    {
+      "label": "Schutzdauer",
+      "value": "ab Beginn Schwangerschaft bis mind. 4 Monate nach Entbindung",
+      "source": "§ 17 MuSchG"
+    },
+    {
+      "label": "2-Wochen-Frist",
+      "value": "Mitteilung der Schwangerschaft binnen 2 Wochen nach Kündigungszugang",
+      "source": "§ 17 Abs. 1 MuSchG"
+    },
+    {
+      "label": "Fristüberschreitung",
+      "value": "unschädlich, wenn unverschuldet + unverzüglich nachgeholt",
+      "source": "§ 17 MuSchG"
+    },
+    {
+      "label": "Ausnahmen",
+      "value": "nur in besonderen Fällen mit Zustimmung der obersten Landesbehörde",
+      "source": "§ 17 Abs. 2 MuSchG"
+    }
+  ],
+  "deep_dive": "Der Kündigungsschutz nach § 17 MuSchG ist einer der stärksten im deutschen Arbeitsrecht: Eine trotzdem ausgesprochene Kündigung ist unwirksam. Er umfasst die gesamte Schwangerschaft, die Schutzfristen und mindestens 4 Monate nach der Geburt – seit 2025 gilt der Schutz auch nach Fehlgeburt ab der 12. Woche. Entscheidend ist die Kenntnis des Arbeitgebers: War die Schwangerschaft bei Kündigungszugang bekannt, gilt der Schutz ohne Weiteres. War sie es nicht, müssen Sie sie innerhalb von 2 Wochen nach Erhalt der Kündigung mitteilen – diese Frist ist entscheidend. Versäumen Sie sie schuldlos (z. B. weil Sie selbst noch nichts von der Schwangerschaft wussten), ist die verspätete, aber unverzügliche Nachholung unschädlich. Ein verbreiteter Irrtum: Man müsse die Schwangerschaft von sich aus früh offenbaren – muss man nicht, aber im Kündigungsfall zählt jeder Tag. Ausnahmen vom Kündigungsverbot sind extrem selten und brauchen die Zustimmung der obersten Landesbehörde.",
+  "mechanism": "Der besondere Kündigungsschutz soll verhindern, dass Frauen wegen einer Schwangerschaft ihren Arbeitsplatz verlieren und in eine existenzielle Notlage geraten.",
+  "evidence": [
+    {
+      "source": "§ 17 MuSchG",
+      "year": 2025,
+      "finding": "Kündigungsverbot bis mind. 4 Monate nach Entbindung; auch nach Fehlgeburt ab 12. SSW"
+    },
+    {
+      "source": "Haufe / dejure zu § 17 MuSchG",
+      "year": 2025,
+      "finding": "Schutz greift bei Kenntnis oder Mitteilung binnen 2 Wochen nach Kündigungszugang"
+    }
+  ],
+  "protocol": [
+    "Bei Erhalt einer Kündigung sofort prüfen, ob Schwangerschaft/Entbindung dem Arbeitgeber bekannt war",
+    "Falls nein: die Schwangerschaft innerhalb von 2 Wochen nachweisbar mitteilen (mit ärztlichem Nachweis)",
+    "Bei schuldloser Fristüberschreitung die Mitteilung unverzüglich nachholen",
+    "Bei Streit umgehend Kündigungsschutzklage (3-Wochen-Frist nach KSchG) prüfen und Rechtsrat einholen"
+  ],
+  "mistakes": [
+    "Die 2-Wochen-Frist nach Kündigungszugang verstreichen lassen",
+    "Mitteilung ohne Nachweis/ohne Zugangsdokumentation",
+    "Die separate 3-Wochen-Klagefrist des KSchG übersehen"
+  ],
+  "risks": "Wird die Schwangerschaft nicht rechtzeitig mitgeteilt, kann der besondere Schutz entfallen. Neben § 17 MuSchG läuft die 3-Wochen-Frist für die Kündigungsschutzklage. Dringend individuelle Rechtsberatung im Kündigungsfall.",
+  "synergy": [
+    "mutterschutz-fristen-mutterschaftsgeld",
+    "elternzeit-beeg-dauer-fristen"
+  ],
+  "sources": [
+    {
+      "title": "§ 17 MuSchG – gesetze-im-internet",
+      "url": "https://www.gesetze-im-internet.de/muschg_2018/__17.html"
+    },
+    {
+      "title": "Kündigungsverbot nach § 17 MuSchG (Haufe)",
+      "url": "https://www.haufe.de/id/beitrag/mutterschutz-81-kuendigungsverbot-nach-17-muschg-HI712149.html"
+    },
+    {
+      "title": "Kündigungsschutz während der Schwangerschaft (ver.di)",
+      "url": "https://verdi-bub.de/wissen/praxistipps/kuendigungsschutz-waehrend-der-schwangerschaft"
+    }
+  ]
+}

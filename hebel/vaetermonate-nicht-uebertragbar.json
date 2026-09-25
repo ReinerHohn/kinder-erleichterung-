@@ -1,0 +1,73 @@
+{
+  "id": "vaetermonate-nicht-uebertragbar",
+  "name": "Vätermonate / nicht-übertragbare Elternzeit ('use it or lose it')",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": [
+    "Väter",
+    "Care-Gap",
+    "Elternzeit",
+    "Gleichstellung",
+    "Anreiz"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 2,
+  "summary": "Für Väter reservierte, bei Nichtnutzung verfallende Elternzeitmonate erhöhen die Väterbeteiligung massiv und verkleinern den Care-Gap. Das individuelle, nicht auf die Familie übertragbare Recht ist der Schlüssel.",
+  "key_facts": [
+    {
+      "label": "Väterquote eingeführt",
+      "value": "Norwegen 1993 als weltweit erstes Land, dann Schweden, Island",
+      "source": "Nordisk/norden.org 2025"
+    },
+    {
+      "label": "Island Quote",
+      "value": "je Elternteil 4,5 Monate 'use or lose'",
+      "source": "nordics.info"
+    },
+    {
+      "label": "Wirkung",
+      "value": "Individuelles Recht (nicht Familienrecht) bringt Väter am ehesten in Elternzeit",
+      "source": "Nordische Metaanalyse"
+    }
+  ],
+  "deep_dive": "Norwegen führte 1993 als erstes Land eine verpflichtende, nicht übertragbare Väterquote ein; Schweden, Island und (zeitweise) Dänemark folgten. Der Kernmechanismus: Was der Vater nicht selbst nimmt, verfällt – es kann nicht an die Mutter übertragen werden. Die nordische Evidenz ist eindeutig: Elternzeitrechte, die dem Individuum statt der Familie zugewiesen werden, bringen Väter am zuverlässigsten in die Care-Arbeit. Schweden hob 2015 auf drei reservierte Monate an, Island bietet je 4,5 Monate. Ein verbreiteter Irrtum ist, 'gemeinsam frei aufteilbare' Elternzeit reiche – in der Praxis nehmen dann Mütter den Löwenanteil, weil Normen und Einkommensdifferenzen den Weg vorzeichnen. In Deutschland stieg die Väterbeteiligung nach Einführung der 'Partnermonate' zwar deutlich, bleibt aber meist auf zwei Monate beschränkt. Die Maßnahme ist vergleichsweise billig (Umverteilung vorhandener Elternzeit) und wirkt stark auf die Gleichverteilung der Sorgearbeit.",
+  "mechanism": "Reservierte, verfallende Monate durchbrechen soziale Normen und die ökonomische 'Default'-Logik (Mutter bleibt zu Hause), weil das Recht sonst ungenutzt verloren geht.",
+  "evidence": [
+    {
+      "source": "TemaNord 2025 (norden.org) / nordics.info",
+      "year": 2025,
+      "finding": "Norwegen führte 1993 nicht-übertragbare Väterquote ein; Island je 4,5 Monate; Quote hebt Väter-Uptake materiell"
+    },
+    {
+      "source": "Nordische Metaanalyse (REBA/academic)",
+      "year": 2021,
+      "finding": "Auf Individuen statt Familien zugewiesene Rechte holen Väter am ehesten in Elternzeit"
+    }
+  ],
+  "protocol": [
+    "Substanzieller, nicht übertragbarer Vateranteil (mind. 2–3 Monate, besser mehr)",
+    "Hohe Lohnersatzrate im reservierten Zeitraum, damit sich Verzicht des Höherverdieners lohnt",
+    "Flexible Nutzung (blockweise/teilzeit), aber klare Verfallslogik beibehalten"
+  ],
+  "mistakes": [
+    "'Frei aufteilbar' statt reserviert – dann bleibt die Mutter dominant",
+    "Zu niedrige Lohnersatzrate, sodass Väter (oft Höherverdiener) verzichten",
+    "Zu kurze Quote (symbolische 2 Monate) verändert Rollenmuster kaum"
+  ],
+  "risks": "Bei niedriger Lohnersatzrate nehmen v. a. gutverdienende Väter nicht; Wirkung auf Gesamtfertilität eher indirekt (v. a. Gleichstellungseffekt).",
+  "synergy": [
+    "gender-care-gap",
+    "mental-load-gender-care-gap",
+    "bezahlte-flexible-elternzeit-rueckkehr"
+  ],
+  "sources": [
+    {
+      "title": "TemaNord 2025 – Parental leave Nordic countries",
+      "url": "https://pub.norden.org/temanord2025-547/introduction-parental-leave-and-social-sustainability.html"
+    },
+    {
+      "title": "Nordic Parental Leave Policy: Iceland (nordics.info)",
+      "url": "https://nordics.info/show/artikel/nordic-parental-leave-policy-the-case-of-iceland"
+    }
+  ]
+}

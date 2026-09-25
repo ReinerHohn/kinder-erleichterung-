@@ -1,0 +1,65 @@
+{
+  "id": "elektrischer-nasensauger",
+  "name": "Nasensauger (Mund-Sog wie NoseFrida oder elektrisch)",
+  "category": "💡 Sweet Spots (Produkte & Gadgets)",
+  "tags": [
+    "Gesundheit",
+    "Schnupfen",
+    "günstig",
+    "Alltag"
+  ],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 1,
+  "summary": "Bei verstopfter Babynase erleichtert ein Nasensauger Trinken und Schlaf spürbar. Der günstige Mund-Sog-Sauger (NoseFrida, ~12–20 €) ist meist so gut wie teure elektrische Modelle (~30–60 €) – kombiniert mit Kochsalzlösung.",
+  "key_facts": [
+    {
+      "label": "Preis Mund-Sog (NoseFrida)",
+      "value": "~12–20 €",
+      "source": "Handel/eBay"
+    },
+    {
+      "label": "Preis elektrisch",
+      "value": "~30–60 €",
+      "source": "Vergleichsportale"
+    },
+    {
+      "label": "Wirkprinzip",
+      "value": "sanfter, dosierbarer Sog + Kochsalz löst Sekret",
+      "source": "Test-/Ratgeberportale"
+    }
+  ],
+  "deep_dive": "Ein freier Nasenweg ist bei Säuglingen (Nasenatmer!) wichtig fürs Trinken und Schlafen – da ist ein Nasensauger ein echter Alltags-Sweet-Spot. Entscheidend ist die Vorbehandlung: ein paar Tropfen isotonische Kochsalzlösung lösen das Sekret, erst dann saugen. Der billige Mund-Sog-Sauger (NoseFrida, ~12–20 €, mit Hygienefilter) ist von HNO-Ärzten mitentwickelt und in der Praxis meist ebenso wirksam wie elektrische Geräte (~30–60 €); elektrische punkten nur mit Komfort und regelbarer Saugstärke. Verbreiteter Irrtum: 'Man braucht das teure elektrische Gerät' – tut man selten. Nicht übertreiben: zu häufiges/zu starkes Saugen reizt die Schleimhaut. Kein Ballon-Sauger mit unkontrollierbarem Sog verwenden.",
+  "mechanism": "Kochsalz verflüssigt Sekret; kontrollierter Sog entfernt es → freie Nase, besseres Trinken/Schlafen ohne Medikamente.",
+  "evidence": [
+    {
+      "source": "Deutsche Test-/Ratgeberportale (Vergleich.org, Schnodder-weg)",
+      "year": 2024,
+      "finding": "Sanfter, dosierbarer Sog schützt Schleimhaut; Mund-Sog- und elektrische Sauger vergleichbar wirksam."
+    }
+  ],
+  "protocol": [
+    "Erst 1–2 Tropfen isotonische Kochsalzlösung je Nasenloch, dann sanft absaugen.",
+    "Günstigen Mund-Sog-Sauger mit Hygienefilter zuerst probieren; elektrisch nur bei Bedarf/Komfort.",
+    "Nur bei echter Verstopfung nutzen (vor Mahlzeit/Schlaf), nicht routinemäßig; Teile gut reinigen."
+  ],
+  "mistakes": [
+    "Ohne Kochsalz-Vorbehandlung 'trocken' saugen (wenig Effekt, Reizung).",
+    "Zu häufig/zu stark saugen (Schleimhautreizung, Nasenbluten).",
+    "Teures elektrisches Gerät kaufen, obwohl der 15-€-Sauger reicht."
+  ],
+  "risks": "Schleimhautreizung/Nasenbluten bei Übergebrauch. Hygiene (Filter/Reinigung) beachten. Bei anhaltendem/starkem Schnupfen mit Trink-/Atemproblemen ärztlich abklären.",
+  "synergy": [
+    "fieberthermometer-richtig-waehlen"
+  ],
+  "sources": [
+    {
+      "title": "Nasensauger Baby Test – Top 5 im Vergleich (Schnodder-weg)",
+      "url": "https://www.schnodder-weg.de/nasensauger-baby-5-sauger-im-test/"
+    },
+    {
+      "title": "Elektrischer Nasensauger – Test & Vergleich (Vergleich.org)",
+      "url": "https://www.vergleich.org/elektrischer-nasensauger/"
+    }
+  ]
+}

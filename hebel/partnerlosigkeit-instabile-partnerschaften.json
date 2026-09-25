@@ -1,0 +1,70 @@
+{
+  "id": "partnerlosigkeit-instabile-partnerschaften",
+  "name": "Partnerlosigkeit & instabile Partnerschaften",
+  "category": "📉 Ursachen: weniger Kinderwunsch",
+  "tags": [
+    "partner",
+    "singles",
+    "partnersuche",
+    "assortative-mating"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 5,
+  "summary": "Der häufigste genannte Grund für unerfüllten Kinderwunsch ist das Fehlen eines passenden Partners. Späte, seltenere und instabilere Partnerschaften verschieben und verhindern Geburten.",
+  "key_facts": [
+    {
+      "label": "Meistgenannter Grund für unerfüllte Fertilität (EU)",
+      "value": "'keinen passenden Partner gefunden'",
+      "source": "Childlessness in Europe (MPI)"
+    },
+    {
+      "label": "Single-Status",
+      "value": "Singles schieben Geburten deutlich häufiger auf/geben Pläne auf",
+      "source": "German Family Panel (pairfam)"
+    },
+    {
+      "label": "Bildungsspezifik (DE)",
+      "value": "Partnerbildung/assortative Paarung erklärt einen Teil der Bildungsunterschiede in Fertilität",
+      "source": "PMC 2025, DE-Studie"
+    }
+  ],
+  "deep_dive": "Studien über mehrere europäische Länder identifizieren 'keinen passenden Partner' als den am häufigsten genannten Grund für unerfüllte Fertilität. Auf Basis des deutschen Beziehungs- und Familienpanels (pairfam) zeigen Analysen, dass Singles Geburten signifikant häufiger aufschieben und Kinderpläne aufgeben als verheiratete oder zusammenlebende Personen. Neuere deutsche Forschung (No Partner, No Children? 2025) betont Partnerschaftsbildung und assortative Paarung als Kanal für Bildungsunterschiede in der Kinderzahl. Ein Irrtum ist, Kinderlosigkeit sei überwiegend eine bewusste Entscheidung – ein erheblicher Teil ist 'unfreiwillig' im Sinne fehlender Partnerschaft. Partnerlosigkeit ist damit sowohl direkter Faktor (kein Kind ohne Partner) als auch Verstärker des Aufschubs, der über die biologische Uhr in endgültige Kinderlosigkeit mündet.",
+  "mechanism": "Kinder entstehen weit überwiegend in Partnerschaften. Fehlt ein stabiler Partner im fruchtbaren Zeitfenster, unterbleiben Geburten – unabhängig vom eigentlichen Kinderwunsch.",
+  "evidence": [
+    {
+      "source": "Childlessness in Europe (Max-Planck-Institut, Buch)",
+      "year": 2017,
+      "finding": "Fehlender passender Partner ist häufigster Grund unerfüllter Fertilität"
+    },
+    {
+      "source": "No Partner, No Children? (PMC, Deutschland)",
+      "year": 2025,
+      "finding": "Partnerschaftsbildung/assortative Paarung erklärt Bildungsgefälle in Fertilität"
+    }
+  ],
+  "protocol": [
+    "Rahmen für frühere/stabilere Partnerschaften (Wohnkosten, Unsicherheit senken)",
+    "Nicht nur 'Anreize für Paare', sondern Kontexte für Kennenlernen berücksichtigen",
+    "Kombination mit Aufschub-Karte (Zeitfenster)"
+  ],
+  "mistakes": [
+    "'Kinderlosigkeit ist meist freie Entscheidung' – großer Teil ist partnerbedingt/unfreiwillig",
+    "Pronatalistische Geldanreize adressieren Partnerlosigkeit gar nicht"
+  ],
+  "risks": "Selbstberichtete Gründe können sozial erwünscht verzerrt sein; Partnerlosigkeit überlappt stark mit Aufschub und Werten.",
+  "synergy": [
+    "aufschub-erstgeburt-biologie",
+    "fertility-gap-wunsch-vs-realitaet"
+  ],
+  "sources": [
+    {
+      "title": "No Partner, No Children? Union Formation & Fertility in Germany (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12891275/"
+    },
+    {
+      "title": "Childlessness in Europe: Contexts, Causes (MPI, PDF)",
+      "url": "https://www.demogr.mpg.de/books/drm/013/bok%20978-3-319-44667-7.pdf"
+    }
+  ]
+}

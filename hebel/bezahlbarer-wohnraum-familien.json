@@ -1,0 +1,73 @@
+{
+  "id": "bezahlbarer-wohnraum-familien",
+  "name": "Bezahlbarer Wohnraum / Familienwohnungen",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": [
+    "Wohnen",
+    "Miete",
+    "Fertilität",
+    "Stabilität",
+    "Infrastruktur"
+  ],
+  "impact": 4,
+  "evidence_level": "B",
+  "effort": 5,
+  "summary": "Hohe Wohnkosten und unsichere Mietverhältnisse zählen zu den stärksten Bremsen für Familiengründung. Mehr bezahlbarer, familientauglicher Wohnraum wirkt dort, wo Geldtransfers versagen – ist aber langsam und teuer.",
+  "key_facts": [
+    {
+      "label": "US-Effekt",
+      "value": "steigende Wohnkosten seit 1990 ≈ 11 % weniger Kinder (51 % des TFR-Rückgangs)",
+      "source": "Build, Baby, Build (Couillard)"
+    },
+    {
+      "label": "China",
+      "value": "+10 % Preis-Einkommens-Verhältnis → −0,42 % Geburtenwahrscheinlichkeit",
+      "source": "IFStudies/ScienceDirect"
+    },
+    {
+      "label": "Brasilien (Lotterie-Wohnprogramm)",
+      "value": "sichere Wohnung → +3,8 % Wahrscheinlichkeit einer Geburt",
+      "source": "IFStudies"
+    }
+  ],
+  "deep_dive": "Die Kausalevidenz für den Zusammenhang von Wohnkosten und Fertilität ist überraschend stark. In den USA werden ~11 % weniger Kinder auf steigende Wohnkosten seit 1990 zurückgeführt – rund die Hälfte des TFR-Rückgangs zwischen den 2000ern und 2010ern. In China senkt ein um 10 % höheres Preis-Einkommens-Verhältnis die Geburtenwahrscheinlichkeit um 0,42 %. Besonders aussagekräftig ist ein brasilianisches Lotterie-Wohnprogramm: Der zufällig zugeteilte Zugang zu sicherem Wohneigentum erhöhte die Geburtenwahrscheinlichkeit um 3,8 %, am stärksten bei jüngeren Frauen – das ist ein sauberer Kausalnachweis. Mechanismus: Elternschaft verlangt ein Gefühl von Stabilität; Familien in prekären Mietverhältnissen zögern rational. Ein verbreiteter Irrtum ist, Wohnungspolitik sei kein Familienthema – tatsächlich erklärt sie einen großen Teil des Fertilitätsrückgangs, den Baby-Boni nie ausgleichen. Die Maßnahme ist allerdings die teuerste und langsamste dieser Liste, weil Bauen Jahre dauert und Bodenpreise/Genehmigungen strukturelle Hürden sind.",
+  "mechanism": "Sichere, bezahlbare und ausreichend große Wohnungen liefern die Planungssicherheit, die Familiengründung voraussetzt; sie senken die größte laufende Fixkostenposition junger Haushalte.",
+  "evidence": [
+    {
+      "source": "Build, Baby, Build (Couillard)",
+      "year": 2025,
+      "finding": "Wohnkostenanstieg seit 1990 ≈ 11 % weniger Kinder, ~51 % des TFR-Rückgangs"
+    },
+    {
+      "source": "IFStudies / ScienceDirect (Housing costs and fertility)",
+      "year": 2025,
+      "finding": "Höhere Preise senken Mieter-Fertilität; Brasiliens Wohnlotterie +3,8 % Geburten"
+    }
+  ],
+  "protocol": [
+    "Angebotsausweitung: Baulandmobilisierung, schnellere Genehmigungen, Nachverdichtung",
+    "Geförderter/gemeinnütziger Wohnraum mit familiengerechten Grundrissen (3+ Zimmer)",
+    "Sichere, langfristige Mietverhältnisse (Kündigungsschutz, planbare Mieten)",
+    "Zielgenaue Hilfen für junge Familien statt breiter Kaufprämien"
+  ],
+  "mistakes": [
+    "Nachfragesubventionen (Kaufprämien) ohne Angebotsausweitung → treiben Preise",
+    "Nur kleine Wohnungen bauen, an Familienbedarf vorbei",
+    "Prekäre, kurzfristige Mietverhältnisse ignorieren"
+  ],
+  "risks": "Sehr teuer und langsam; Nachfragesubventionen können Preise heizen; Bodenknappheit in Ballungsräumen begrenzt Wirkung.",
+  "synergy": [
+    "wohnkosten-wohnraum",
+    "oekonomische-unsicherheit-prekaritaet"
+  ],
+  "sources": [
+    {
+      "title": "Higher Rent, Fewer Babies? (Institute for Family Studies)",
+      "url": "https://ifstudies.org/blog/higher-rent-fewer-babies-housing-costs-and-fertility-decline"
+    },
+    {
+      "title": "Do surging house prices discourage fertility? (ScienceDirect)",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0927537124000678"
+    }
+  ]
+}

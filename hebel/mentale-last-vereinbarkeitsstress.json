@@ -1,0 +1,71 @@
+{
+  "id": "mentale-last-vereinbarkeitsstress",
+  "name": "Mentale Last & Angst vor Vereinbarkeitsstress",
+  "category": "📉 Ursachen: weniger Kinderwunsch",
+  "tags": [
+    "mental-load",
+    "parental-burnout",
+    "erschöpfung",
+    "vereinbarkeit"
+  ],
+  "impact": 3,
+  "evidence_level": "C",
+  "effort": 4,
+  "summary": "Die 'unsichtbare' Organisations- und Sorgearbeit (Mental Load) lastet überwiegend auf Müttern und treibt Erschöpfung/Burnout. Die Antizipation dieses Stresses kann den Wunsch nach (weiteren) Kindern dämpfen.",
+  "key_facts": [
+    {
+      "label": "Anteil Mental-Load bei Müttern",
+      "value": "ca. 71 % der mentalen Aufgaben",
+      "source": "Umfrage/Psychology Today"
+    },
+    {
+      "label": "Krisen-Zuständigkeit",
+      "value": "66 % Mütter vs. 22 % Väter",
+      "source": "Umfragedaten"
+    },
+    {
+      "label": "Burnout-Risiko",
+      "value": "berufstätige Mütter +81 % Burnout-Risiko",
+      "source": "Umfragedaten (nicht kausal)"
+    }
+  ],
+  "deep_dive": "Erhebungen zeigen, dass Mütter rund 71 % der mentalen Aufgaben (Planen, Organisieren, 'Daran-denken') tragen; bei Kinder-Krisen fühlen sich 66 % der Mütter zuständig gegenüber 22 % der Väter. Diese unsichtbare Last ist ein Hauptpfad zu Parental Burnout (Zustand aus Erschöpfung, emotionaler Distanzierung, Überdruss). Die Antizipation dieser Belastung – 'ich schaffe das (noch ein Kind) nicht' – kann den Kinderwunsch dämpfen und ist eng mit dem Gender-Care-Gap verzahnt. Wichtige Einordnung: Die Evidenz besteht überwiegend aus Umfragen und Querschnittsdaten; ein sauberer kausaler Nachweis 'Mental Load → weniger Geburten' fehlt weitgehend (daher Evidenzstufe C). Ein Irrtum ist, das sei bloß 'Klagen auf hohem Niveau' – die berichteten körperlichen und psychischen Folgen (Fatigue, chronischer Stress) sind real, auch wenn die Fertilitätswirkung schwerer zu quantifizieren ist.",
+  "mechanism": "Erlebte oder erwartete chronische Überlastung senkt Lebenszufriedenheit und Kapazität; die (weitere) Elternschaft erscheint als nicht tragbare Zusatzbelastung, der Wunsch wird zurückgestellt.",
+  "evidence": [
+    {
+      "source": "Mikolajczak/Roskam, Parental Burnout (PMC)",
+      "year": 2018,
+      "finding": "Mental Load als Hauptpfad zu Parental Burnout, überwiegend bei Müttern"
+    },
+    {
+      "source": "Umfragen (Psychology Today / Motherly)",
+      "year": 2024,
+      "finding": "~71 % Mental-Load bei Müttern; deutlich höheres Burnout-Risiko (korrelativ)"
+    }
+  ],
+  "protocol": [
+    "Gerechtere Aufteilung/Väterbeteiligung (siehe Gender-Care-Gap-Karte)",
+    "Verlässliche Betreuung, die reale Entlastung schafft",
+    "Arbeitsplatzkultur mit weniger Vereinbarkeitsstress"
+  ],
+  "mistakes": [
+    "'Nur subjektives Jammern' – Belastungsfolgen sind messbar",
+    "Mental Load allein erkläre den TFR-Rückgang – Evidenz ist korrelativ/qualitativ"
+  ],
+  "risks": "Schwache Kausalevidenz; Gefahr, ein reales Belastungsphänomen zum monokausalen Erklärungsmodell zu überhöhen.",
+  "synergy": [
+    "mental-load-gender-care-gap",
+    "gender-care-gap",
+    "elterlicher-burnout-isolation"
+  ],
+  "sources": [
+    {
+      "title": "Parental Burnout: When Exhausted Mothers Open Up (PMC)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6028779/"
+    },
+    {
+      "title": "Mental Load: The Invisible Weight of Parenthood (Psychology Today)",
+      "url": "https://www.psychologytoday.com/us/blog/the-compassionate-brain/202412/mental-load-the-invisible-weight-of-parenthood"
+    }
+  ]
+}

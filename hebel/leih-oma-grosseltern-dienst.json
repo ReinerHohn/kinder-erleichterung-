@@ -1,0 +1,86 @@
+{
+  "id": "leih-oma-grosseltern-dienst",
+  "name": "Leih-Oma / Wunschgroßeltern-Dienst (Vermittlung generationsübergreifender Betreuung)",
+  "category": "💼 Service- & Geschäftsideen",
+  "tags": [
+    "Leihoma",
+    "Großelterndienst",
+    "Vermittlung",
+    "generationsübergreifend",
+    "lokal"
+  ],
+  "impact": 4,
+  "evidence_level": "B",
+  "effort": 3,
+  "summary": "Vermittlung aktiver Senioren als verlässliche 'Wunschgroßeltern' für Familien ohne Großeltern in der Nähe. Eltern bekommen liebevolle, flexible Betreuung; Senioren Sinn/Zuverdienst – der Anbieter vermittelt und prüft. Als Business wegen der bisher stark ehrenamtlichen Preisstruktur aber nur begrenzt margenstark.",
+  "key_facts": [
+    {
+      "label": "Preisniveau",
+      "value": "München ~17–22 €/Std.; viele Träger nur ~5 € Aufwandsentschädigung/Einsatz",
+      "source": "leben-und-erziehen.de, betreut.de"
+    },
+    {
+      "label": "Bestehende Angebote",
+      "value": "meist ehrenamtlich/gemeinnützig: Diakonie, Caritas, kommunale Großelterndienste; kommerziell via Betreut.de/babysitter.de",
+      "source": "Websuche 2026"
+    },
+    {
+      "label": "Absicherung",
+      "value": "Leihgroßeltern bei Einsatz unfall-/haftpflichtversichert (bei organisierten Trägern)",
+      "source": "Diakonie/Träger"
+    },
+    {
+      "label": "Bedarf",
+      "value": "steigend bei Kita-Personalmangel und Familien ohne nahe Großeltern",
+      "source": "familie.de"
+    }
+  ],
+  "deep_dive": "Der Bedarf ist real und wächst: Viele Familien haben keine Großeltern vor Ort, und Leihomas springen sogar bei Kita-Personalmangel ein. Das Modell schafft doppelten sozialen Wert (Familien entlastet, Senioren mit Sinn/Zuverdienst). Genau hier liegt aber die geschäftliche Schwäche: Das Feld ist überwiegend ehrenamtlich/gemeinnützig besetzt (Diakonie, Caritas, kommunale Dienste), oft mit reinen Aufwandsentschädigungen (~5 €/Einsatz) – das drückt die marktübliche Zahlungsbereitschaft und macht kommerzielle Margen schwer. Kommerziell läuft es heute v.a. über bestehende Marktplätze (Betreut.de, babysitter.de/leihoma), wo der Anbieter nur eine Vermittlungsgebühr sieht. Zusätzlich gelten dieselben Vertrauens-/Vetting- und Aufsichtspflicht-Themen wie bei Babysittern, verschärft durch die Verletzlichkeit beider Seiten (Kind und Senior). Ein verbreiteter Irrtum: 'nette Idee = gutes Business' – der soziale Charakter und die ehrenamtliche Referenzpreisstruktur begrenzen die kommerzielle Tragfähigkeit. Am ehesten als kuratierter Premium-Vermittlungs-/Abo-Dienst mit echtem Vetting denkbar, realistischer aber als gemeinnütziges oder gefördertes Modell denn als renditestarkes Startup.",
+  "mechanism": "Ersetzt fehlende Großeltern vor Ort mit verlässlicher, warmer, flexibler Betreuung – auch spontan/nachmittags.",
+  "evidence": [
+    {
+      "source": "familie.de",
+      "year": 2025,
+      "finding": "Leihomas springen bei Kita-Personalmangel ein – wachsender Bedarf."
+    },
+    {
+      "source": "betreut.de / Diakonie",
+      "year": 2026,
+      "finding": "Preisstruktur überwiegend ehrenamtlich (~5 € Aufwand) bis ~17–22 €/Std. – dünne kommerzielle Marge."
+    }
+  ],
+  "protocol": [
+    "Ehrlich prüfen, ob kommerziell oder gemeinnützig/gefördert – die ehrenamtliche Referenzpreisstruktur ist der Knackpunkt.",
+    "Bei kommerziell: kuratiertes Premium-Vetting (Führungszeugnis, Referenzen) als Differenzierer, Abo-Modell.",
+    "Versicherung (Unfall/Haftpflicht) für die Einsätze verbindlich organisieren.",
+    "Rechtlich: Aufsichtspflicht, Vertrauens-/Vetting-Sorgfalt, arbeits-/sozialrechtliche Einordnung der Senioren-Vergütung."
+  ],
+  "mistakes": [
+    "Zahlungsbereitschaft überschätzen (ehrenamtliche Vergleichspreise drücken den Markt).",
+    "Vetting/Versicherung vernachlässigen bei doppelt verletzlicher Zielgruppe.",
+    "Rein kommerziell antreten, wo geförderte/gemeinnützige Anbieter gratis/günstiger sind."
+  ],
+  "risks": "Geringe kommerzielle Marge wegen ehrenamtlicher Referenzpreise und gemeinnütziger Konkurrenz. Vertrauens-/Vetting- und Aufsichtspflichtrisiko wie bei Babysittern. Versicherungs-/Haftungsfragen. Schwer skalierbar; eher sozialwirtschaftlich als renditestark.",
+  "synergy": [
+    "babysitter-kurzfristige-betreuung",
+    "babysitter-notfallbetreuung-vermittlung"
+  ],
+  "sources": [
+    {
+      "title": "leben-und-erziehen.de – Oma zum Ausleihen",
+      "url": "https://www.leben-und-erziehen.de/kind/kinderbetreuung/oma-zum-ausleihen-15400.html"
+    },
+    {
+      "title": "Diakonie Hannover – Großelterndienst",
+      "url": "https://diakonisches-werk-hannover.de/hilfe-finden/grosselterndienst/"
+    },
+    {
+      "title": "Betreut.de – Leihoma München",
+      "url": "https://www.betreut.de/leihoma-muenchen"
+    },
+    {
+      "title": "familie.de – Leih-Oma finden",
+      "url": "https://www.familie.de/kleinkind/betreuung/die-richtige-leih-oma-finden/"
+    }
+  ]
+}

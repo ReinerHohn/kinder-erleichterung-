@@ -1,0 +1,93 @@
+{
+  "id": "kind-krank-kinderkrankengeld-45-sgb-v",
+  "name": "Kind ist krank: Freistellung & Kinderkrankengeld (§ 45 SGB V)",
+  "category": "📋 Was auf mich zukommt (Rechte & Fahrplan)",
+  "tags": [
+    "Kind krank",
+    "Kinderkrankengeld",
+    "Freistellung",
+    "SGB V",
+    "Krankenkasse"
+  ],
+  "impact": 5,
+  "evidence_level": "A",
+  "effort": 2,
+  "summary": "Ist Ihr gesetzlich versichertes Kind unter 12 krank und muss betreut werden, haben Sie Anspruch auf unbezahlte Freistellung von der Arbeit UND auf Kinderkrankengeld von Ihrer Krankenkasse. Dieser Anspruch kann – anders als § 616 BGB – nicht im Arbeitsvertrag ausgeschlossen werden.",
+  "key_facts": [
+    {
+      "label": "Tage pro Kind & Elternteil (2025 u. 2026)",
+      "value": "15 Arbeitstage",
+      "source": "BMG / § 45 SGB V"
+    },
+    {
+      "label": "Tage Alleinerziehende pro Kind",
+      "value": "30 Arbeitstage",
+      "source": "BMG"
+    },
+    {
+      "label": "Jahres-Höchstgrenze (mehrere Kinder)",
+      "value": "35 Tage / Elternteil, 70 Tage Alleinerziehende",
+      "source": "BMG / § 45 SGB V"
+    },
+    {
+      "label": "Höhe des Kinderkrankengeldes",
+      "value": "in der Regel 90 % des ausgefallenen Nettoarbeitsentgelts",
+      "source": "BMG"
+    },
+    {
+      "label": "Altersgrenze des Kindes",
+      "value": "unter 12 Jahre (keine Grenze bei Behinderung)",
+      "source": "BMG"
+    },
+    {
+      "label": "Rechtsgrundlage",
+      "value": "§ 45 SGB V",
+      "source": "SGB V"
+    }
+  ],
+  "deep_dive": "Voraussetzung: Kind, Elternteil und ggf. das kranke Kind sind gesetzlich versichert, das Kind ist unter 12, und keine andere im Haushalt lebende Person kann die Betreuung übernehmen. Für 2026 ist der Anspruch von 15 Tagen pro Kind (30 bei Alleinerziehenden) mit Deckel 35/70 Tagen ausdrücklich fortgeschrieben. Ein häufiger Irrtum: Kinderkrankengeld ist nicht 100 % des Netto, sondern rund 90 % – und wird über die Beitragsbemessungsgrenze gedeckelt. Sie müssen ein ärztliches Zeugnis (Attest) vorlegen, das die Betreuungsbedürftigkeit bescheinigt; viele Krankenkassen verlangen es faktisch ab dem ersten Tag, hier lohnt Nachfragen bei der eigenen Kasse. Privatversicherte Kinder/Eltern haben keinen Anspruch nach § 45 SGB V – hier greift nur § 616 BGB, falls nicht ausgeschlossen. Die Freistellung selbst ist ein eigenständiger arbeitsrechtlicher Anspruch (§ 45 Abs. 3 SGB V): Der Arbeitgeber muss Sie freistellen, muss aber nicht bezahlen – das übernimmt die Kasse.",
+  "mechanism": "Der Gesetzgeber trennt bewusst die unabdingbare Freistellung (damit Eltern nicht wählen müssen zwischen Job und krankem Kind) von der Bezahlung, die solidarisch über die Krankenversicherung läuft, statt den einzelnen Arbeitgeber zu belasten.",
+  "evidence": [
+    {
+      "source": "Bundesgesundheitsministerium (BMG), FAQ Kinderkrankengeld",
+      "year": 2025,
+      "finding": "15 Tage/Kind/Elternteil, 30 für Alleinerziehende, Deckel 35/70; 90 % Nettoentgelt; Kind unter 12"
+    },
+    {
+      "source": "energie-BKK / fokus-sozialrecht",
+      "year": 2026,
+      "finding": "Anspruchsdauer 15/30 Tage und Deckel 35/70 für 2026 fortgeschrieben (Pflege-Entbürokratisierungsgesetz)"
+    }
+  ],
+  "protocol": [
+    "Beim Arbeitgeber sofort die Verhinderung anzeigen und Freistellung nach § 45 Abs. 3 SGB V geltend machen",
+    "Beim Kinderarzt ärztliches Zeugnis über die Betreuungsbedürftigkeit ausstellen lassen (nach Möglichkeit am ersten Krankheitstag)",
+    "Attest/Bescheinigung an die eigene Krankenkasse senden (viele Kassen bieten Online-Formulare/Apps)",
+    "Kinderkrankengeld wird von der Kasse direkt an Sie ausgezahlt"
+  ],
+  "mistakes": [
+    "Annehmen, der Arbeitgeber müsse den Lohn weiterzahlen – tatsächlich zahlt die Krankenkasse ca. 90 %",
+    "Attest nicht rechtzeitig holen und dadurch Anspruch für einzelne Tage gefährden",
+    "Vergessen, dass der Deckel (35/70 Tage) gilt, wenn man mehrere Kinder hat"
+  ],
+  "risks": "Ohne ärztliches Zeugnis oder ohne rechtzeitige Anzeige beim Arbeitgeber kann der Anspruch für die betroffenen Tage verloren gehen. Bei privat versicherten Kindern greift § 45 SGB V nicht. Dies ist allgemeine Information, kein individueller Rechtsrat – im Streitfall Krankenkasse und ggf. Rechtsberatung einbeziehen.",
+  "synergy": [
+    "paragraf-616-bgb-bezahlte-freistellung",
+    "betreuungsluecke-krankheit-randzeiten-ferien",
+    "vereinbarkeitsmodelle-betriebskita-backup"
+  ],
+  "sources": [
+    {
+      "title": "BMG – FAQ Kinderkrankentage und Kinderkrankengeld",
+      "url": "https://www.bundesgesundheitsministerium.de/themen/praevention/kindergesundheit/faq-kinderkrankengeld"
+    },
+    {
+      "title": "§ 45 SGB V – gesetze-im-internet / dejure",
+      "url": "https://dejure.org/gesetze/SGB_V/45.html"
+    },
+    {
+      "title": "Kinderkrankengeld Maximalanspruch 2026 (energie-BKK)",
+      "url": "https://www.energie-bkk.de/news/kinderkrankengeld-maximalanspruch-fuer-2026-steht-fest/"
+    }
+  ]
+}

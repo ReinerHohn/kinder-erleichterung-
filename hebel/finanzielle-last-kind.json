@@ -1,0 +1,83 @@
+{
+  "id": "finanzielle-last-kind",
+  "name": "Finanzielle Last: Kosten & Einkommenseinbruch",
+  "category": "🍼 Stressoren im Alltag",
+  "tags": [
+    "Kosten",
+    "Elterngeld",
+    "Einkommen",
+    "Finanzen"
+  ],
+  "impact": 4,
+  "evidence_level": "B",
+  "effort": 4,
+  "summary": "Ein Kind kostet über die Jahre sechsstellig – und zugleich bricht während der Elternzeit das Einkommen ein, da das Elterngeld nur einen Teil ersetzt. Die Kombination aus Mehrkosten und Minderverdienst erzeugt anhaltenden finanziellen Druck.",
+  "key_facts": [
+    {
+      "label": "Kosten 0–18 Jahre",
+      "value": "~763 €/Monat im Schnitt, ~165.000 € bis zur Volljährigkeit",
+      "source": "Statistisches Bundesamt / Sparkasse"
+    },
+    {
+      "label": "Kosten 0–6 Jahre",
+      "value": "~679 €/Monat, ~49.000 € bis zum Schuleintritt",
+      "source": "Statistisches Bundesamt"
+    },
+    {
+      "label": "Elterngeld-Höhe",
+      "value": "Mütter im Schnitt ~1.030 €, Väter ~1.393 €/Monat",
+      "source": "Destatis"
+    },
+    {
+      "label": "Verdienstausfall",
+      "value": "zusätzlich ~140.000 € durchschnittlicher Verdienstausfall (1 Kind)",
+      "source": "infranken/Berechnungen"
+    }
+  ],
+  "deep_dive": "Das Statistische Bundesamt beziffert die direkten Kosten eines Kindes auf durchschnittlich 763 € pro Monat, in Summe rund 165.000 € bis zur Volljährigkeit; allein die ersten sechs Jahre kosten etwa 49.000 €. Dazu kommt der Einkommenseinbruch: Elterngeld ersetzt nur 65–67 % des vorherigen Nettos (gedeckelt bei 1.800 € Basiselterngeld) – im Schnitt bezogen Mütter rund 1.030 € und Väter rund 1.393 € monatlich. Zusätzlich zu den direkten Kosten wird ein durchschnittlicher Verdienstausfall von etwa 140.000 € pro Kind veranschlagt, vor allem durch reduzierte Erwerbstätigkeit. Verbreiteter Irrtum: 'Elterngeld gleicht das Gehalt weitgehend aus.' Tatsächlich fehlt gerade in der teuersten Phase (Baby + Erstausstattung) ein Drittel oder mehr des Einkommens, und nach der Elternzeit setzt sich der Verdienstausfall über Teilzeit oft jahrelang fort (siehe Karte Teilzeitfalle/Motherhood Penalty).",
+  "mechanism": "Steigende Ausgaben treffen zeitgleich auf sinkendes Einkommen – diese Schere erzeugt Existenz- und Zukunftssorgen, die als chronischer Hintergrundstress wirken und Entscheidungen (Wohnen, Arbeit, weiteres Kind) einengen.",
+  "evidence": [
+    {
+      "source": "Statistisches Bundesamt (via Sparkasse/infranken)",
+      "year": 2023,
+      "finding": "~763 €/Monat, ~165.000 € bis zur Volljährigkeit"
+    },
+    {
+      "source": "Destatis – Elterngeldstatistik",
+      "year": 2024,
+      "finding": "durchschnittliche Elterngeldhöhe Mütter ~1.030 €, Väter ~1.393 €"
+    }
+  ],
+  "protocol": [
+    "Vor der Geburt Budget und Einkommenseinbruch durchrechnen (Elterngeldrechner)",
+    "Elterngeld-Varianten optimieren (ElterngeldPlus, Partnerschaftsbonus)",
+    "Alle Familienleistungen prüfen (Kindergeld, Kinderzuschlag, Bildungspaket)",
+    "Erstausstattung gebraucht/geliehen beschaffen, Sharing nutzen",
+    "Finanziellen Puffer für die einkommensschwache Elternzeit-Phase aufbauen"
+  ],
+  "mistakes": [
+    "Annahme, Elterngeld ersetze das volle Gehalt",
+    "Langfristigen Verdienstausfall durch Teilzeit unterschätzen",
+    "Ansprüche (Kinderzuschlag etc.) aus Unwissen nicht nutzen"
+  ],
+  "risks": "Wenn Fixkosten das reduzierte Elternzeit-Einkommen übersteigen, drohen Verschuldung und dauerhafte finanzielle Anspannung – ein starker Stress- und Konfliktfaktor in Partnerschaften.",
+  "synergy": [
+    "elterngeld-elterngeldplus-partnerschaftsbonus",
+    "baby-ausstattung-miete-sharing",
+    "kosten-kindererziehung"
+  ],
+  "sources": [
+    {
+      "title": "Sparkasse – Was kostet ein Kind",
+      "url": "https://www.sparkasse.de/pk/ratgeber/familie/eltern-und-kinder/kosten-kind.html"
+    },
+    {
+      "title": "Statistisches Bundesamt – Elterngeld",
+      "url": "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Soziales/Elterngeld/_inhalt.html"
+    },
+    {
+      "title": "inFranken – So viel Geld kostet ein Kind",
+      "url": "https://www.infranken.de/ratgeber/karriere-geld/so-viel-geld-kostet-dich-ein-kind-fuer-viele-kaum-noch-zu-bezahlen-art-5699427"
+    }
+  ]
+}

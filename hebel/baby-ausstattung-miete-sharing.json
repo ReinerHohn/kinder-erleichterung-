@@ -1,0 +1,86 @@
+{
+  "id": "baby-ausstattung-miete-sharing",
+  "name": "Baby-Ausstattung mieten (Kinderwagen, Beistellbett, Autositz, Federwiege) im Abo",
+  "category": "💼 Service- & Geschäftsideen",
+  "tags": [
+    "Sharing",
+    "Miete",
+    "Nachhaltigkeit",
+    "Kreislauf",
+    "Abo"
+  ],
+  "impact": 3,
+  "evidence_level": "A",
+  "effort": 4,
+  "summary": "Hochwertige Babyausstattung wird im Monatsabo vermietet statt gekauft – nachhaltig, platzsparend, ideal für nur kurz benötigte Produkte. Eltern sparen Anschaffung/Wiederverkauf-Stress; der Anbieter verdient wiederkehrend am selben Produkt über mehrere Kunden.",
+  "key_facts": [
+    {
+      "label": "Mietpreise",
+      "value": "Beistellbett ab ~10,50 €/Monat, Bugaboo-Kinderwagen ab ~19,50 €/Monat (StrollMe)",
+      "source": "Websuche 2026"
+    },
+    {
+      "label": "Bestehende Anbieter",
+      "value": "StrollMe, meinstorky, nomadi, SpatzenTourist, Babonbo (Reisebedarf), Elternmarkt",
+      "source": "Websuche 2026"
+    },
+    {
+      "label": "Marktkontext",
+      "value": "7,3 Mrd. € Ausgaben für Baby-/Kinderausstattung (2018); Markt wächst nur moderat",
+      "source": "IFH Köln"
+    },
+    {
+      "label": "Nachfragelogik",
+      "value": "sinnvoll v.a. für kurz genutzte/teure Produkte (Beistellbett, Federwiege, Reise-Kinderwagen)",
+      "source": "carofairliebt.de"
+    }
+  ],
+  "deep_dive": "Das Modell ist real, mehrfach besetzt (StrollMe, meinstorky, nomadi, SpatzenTourist) und trifft zwei echte Bedürfnisse: Produkte, die nur wenige Monate gebraucht werden (Beistellbett, Federwiege, Tragen), und Nachhaltigkeit/Platzersparnis. Der wirtschaftliche Reiz: dasselbe teure Gerät erwirtschaftet über mehrere Mietzyklen ein Vielfaches des Kaufpreises. Die Realität ist aber kapitalintensiv: Man muss den Bestand vorfinanzieren, und die Amortisation dauert – bei ~10–20 €/Monat braucht ein Bugaboo viele Monate bis zum Break-even, plus Ausfallzeiten, Reinigung, Wartung, Reparatur und Rücklogistik. Sicherheitskritische Produkte (Autositze!) sind heikel: nach einem Unfall unbrauchbar, Haftungsfrage bei verdeckten Schäden – viele Vermieter meiden Autositze deshalb oder regeln es streng. Ein verbreiteter Irrtum: 'gebrauchte Ware = geschenkter Umsatz' – tatsächlich fressen Logistik, Hygiene und Verschleiß die Marge, und der Kunde vergleicht mit dem florierenden Gebrauchtmarkt (Kleinanzeigen), wo dieselben Sachen billig zu kaufen UND weiterzuverkaufen sind. Tragfähig als Nische (Premium/Reise/kurzfristig), schwer als Massengeschäft.",
+  "mechanism": "Nimmt teure Fehlkäufe, Platzprobleme und den Wiederverkaufs-/Entsorgungsaufwand für kurz genutztes Equipment ab.",
+  "evidence": [
+    {
+      "source": "StrollMe/meinstorky",
+      "year": 2026,
+      "finding": "Etablierte Mietabos (ab ~10,50 €/Monat) belegen tragfähige Nachfrage in der Nische."
+    },
+    {
+      "source": "IFH Köln",
+      "year": 2019,
+      "finding": "Großer Ausstattungsmarkt (7,3 Mrd. €), aber nur moderates Wachstum – Verdrängung/Nische statt Boom."
+    }
+  ],
+  "protocol": [
+    "Auf kurz-genutzte/teure Produkte fokussieren (Beistellbett, Federwiege, Reise-Kinderwagen) – dort ist Miete rational.",
+    "Amortisation je Gerät VOR Einkauf rechnen (Mietzyklen bis Break-even, Ausfall-/Reinigungskosten).",
+    "Sicherheitskritische Produkte (Autositze) nur mit striktem Schaden-/Rückgabeprotokoll oder gar nicht.",
+    "Rechtlich: Produkthaftung/Verkehrssicherheit (v.a. Autositze), Hygiene, klare Miet-AGB, Versicherung des Bestands."
+  ],
+  "mistakes": [
+    "Bestand ohne Amortisationsrechnung aufbauen – Kapital gebunden, Break-even zu spät.",
+    "Autositze ohne Unfall-/Schadensregelung vermieten (Haftungsfalle).",
+    "Logistik-/Reinigungskosten unterschätzen; gegen billigen Gebrauchtmarkt konkurrieren."
+  ],
+  "risks": "Kapitalintensiv (Bestandsvorfinanzierung), lange Amortisation, Logistik-/Hygienekosten drücken Marge. Produkthaftung bei sicherheitskritischen Teilen (Autositz nach Unfall). Starker Substitut-Wettbewerb durch Gebrauchtmarkt (Kleinanzeigen). Nische, schwer skalierbar.",
+  "synergy": [
+    "snoo-smart-sleeper-babywiege",
+    "finanzielle-last-kind"
+  ],
+  "sources": [
+    {
+      "title": "meinstorky – Babyartikel im Abo mieten",
+      "url": "https://meinstorky.de/"
+    },
+    {
+      "title": "nomadi – Kindermöbel mieten",
+      "url": "https://www.nomadi.de/collections/schlafen"
+    },
+    {
+      "title": "SpatzenTourist – Kinderwagen mieten",
+      "url": "https://spatzentourist.de/"
+    },
+    {
+      "title": "IFH Köln – Markt Baby-/Kinderausstattung",
+      "url": "https://www.ifhkoeln.de/markt-fuer-baby-und-kinderausstattung-waechst-nur-noch-moderat/"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "fahrplan-schwangerschaft-bis-kita",
+  "name": "Der Fahrplan: Schwangerschaft → Geburt → Anträge → Kita → Einschulung",
+  "category": "📋 Was auf mich zukommt (Rechte & Fahrplan)",
+  "tags": [
+    "Fahrplan",
+    "Checkliste",
+    "Fristen",
+    "Anträge",
+    "Kita",
+    "Einschulung"
+  ],
+  "impact": 5,
+  "evidence_level": "B",
+  "effort": 3,
+  "summary": "Ein zeitlicher Fahrplan bündelt die wichtigsten Fristen: Schwangerschaft melden, Mutterschutz und Elternzeit vorbereiten, nach der Geburt Urkunden und Anträge (Kindergeld, Elterngeld), Kita-Platz früh sichern und rechtzeitig zur Schule anmelden.",
+  "key_facts": [
+    {
+      "label": "Elternzeit anmelden",
+      "value": "7 Wochen vor Beginn (bis 3. Geburtstag)",
+      "source": "§ 16 BEEG"
+    },
+    {
+      "label": "Kindergeld",
+      "value": "255 €/Monat (seit 2025); Antrag Familienkasse, max. 6 Monate rückwirkend",
+      "source": "Bundesagentur für Arbeit"
+    },
+    {
+      "label": "Elterngeld beantragen",
+      "value": "nach Geburt, max. 3 Lebensmonate rückwirkend",
+      "source": "BMFSFJ"
+    },
+    {
+      "label": "Kita-Platz",
+      "value": "Rechtsanspruch ab 1. Geburtstag – oft Anmeldung 6–12 Monate vorher nötig",
+      "source": "SGB VIII / Kommunen"
+    },
+    {
+      "label": "Schulanmeldung",
+      "value": "im Jahr vor der Einschulung (Termin/Frist je Bundesland)",
+      "source": "Schulgesetze der Länder"
+    }
+  ],
+  "deep_dive": "Grob gilt: In der Schwangerschaft die Schwangerschaft dem Arbeitgeber melden (Schutz + Gefährdungsbeurteilung), Mutterschaftsgeld bei der Krankenkasse vorbereiten und – wenn Sie direkt nach dem Mutterschutz Elternzeit wollen – die 7-Wochen-Frist einplanen (Anmeldung meist parallel zum Elterngeld). Direkt nach der Geburt: Geburt beim Standesamt anzeigen (meist über die Klinik), mehrere Ausfertigungen der Geburtsurkunde bestellen (je eine für Elterngeld, Kindergeld, Krankenkasse), Kind bei der Krankenversicherung anmelden. Dann Kindergeld bei der Familienkasse (255 €/Monat seit 2025, nur 6 Monate rückwirkend) und Elterngeld bei der Landes-Elterngeldstelle (nur 3 Monate rückwirkend) beantragen. Ein häufiger Planungsfehler: die Kita zu spät suchen – der Rechtsanspruch besteht zwar ab dem 1. Geburtstag, viele Kommunen verlangen aber Anmeldung 6–12 Monate im Voraus oder haben feste Vergabestichtage. Später kommt die Schulanmeldung im Jahr vor der Einschulung (Fristen je Bundesland). Parallel laufen die U-Untersuchungen als Gesundheits-Termine (eigene Karte).",
+  "mechanism": "Viele Ansprüche haben knappe Antrags- und Anmeldefristen; ein Fahrplan verhindert, dass durch Fristversäumnis Geld oder Betreuungsplätze verloren gehen.",
+  "evidence": [
+    {
+      "source": "BEEG / BMFSFJ",
+      "year": 2025,
+      "finding": "Elternzeit 7 Wochen vorher; Elterngeld max. 3 Monate rückwirkend"
+    },
+    {
+      "source": "Bundesagentur für Arbeit / Familienkasse",
+      "year": 2025,
+      "finding": "Kindergeld 255 €/Monat seit 01.01.2025; nur 6 Monate rückwirkend; Antrag mit Steuer-ID + Geburtsurkunde"
+    },
+    {
+      "source": "SGB VIII / Kommunen",
+      "year": 2025,
+      "finding": "Rechtsanspruch Kita ab 1. Geburtstag; kommunale Voranmeldefristen"
+    }
+  ],
+  "protocol": [
+    "Schwangerschaft: Arbeitgeber informieren, Mutterschutz/Elterngeld/Elternzeit vorbereiten, Kita bereits jetzt vormerken",
+    "Nach Geburt: Geburt anzeigen, mehrere Geburtsurkunden bestellen, Kind bei Krankenkasse anmelden",
+    "Anträge stellen: Kindergeld (Familienkasse) und Elterngeld (Landesstelle) zeitnah – Fristen 6 bzw. 3 Monate beachten",
+    "Kita-Platz mit ausreichend Vorlauf (oft 6–12 Monate) anmelden; ~1 Jahr vor Schulbeginn Schulanmeldung wahrnehmen"
+  ],
+  "mistakes": [
+    "Elterngeld/Kindergeld zu spät beantragen (nur 3 bzw. 6 Monate rückwirkend)",
+    "Nur eine Geburtsurkunde bestellen, obwohl mehrere Stellen Ausfertigungen brauchen",
+    "Kita-Suche erst kurz vor dem 1. Geburtstag starten"
+  ],
+  "risks": "Fristversäumnisse kosten bares Geld (rückwirkend begrenzte Leistungen) oder den Wunsch-Kitaplatz. Fristen und Abläufe variieren je Bundesland/Kommune – vor Ort genau prüfen.",
+  "synergy": [
+    "vorsorge-u1-u9-j1",
+    "admin-termin-last-buerokratie",
+    "buerokratie-concierge-elterngeld"
+  ],
+  "sources": [
+    {
+      "title": "Familienportal des Bundes – Familienleistungen",
+      "url": "https://familienportal.de/familienportal/familienleistungen"
+    },
+    {
+      "title": "Kindergeld beantragen – Bundesagentur für Arbeit",
+      "url": "https://www.arbeitsagentur.de/familie-und-kinder/downloads-familie-und-kinder"
+    },
+    {
+      "title": "Rechtsanspruch auf einen Kita-Platz (DAHAG)",
+      "url": "https://www.dahag.de/c/ratgeber/sozialrecht/kita-anspruch"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "vereinbarkeitsmodelle-betriebskita-backup",
+  "name": "Vereinbarkeit beim Arbeitgeber: Betriebskita, Belegplätze & Notfallbetreuung",
+  "category": "📋 Was auf mich zukommt (Rechte & Fahrplan)",
+  "tags": [
+    "Betriebskita",
+    "Belegplätze",
+    "Notfallbetreuung",
+    "Homeoffice",
+    "Jobsharing",
+    "Vereinbarkeit"
+  ],
+  "impact": 4,
+  "evidence_level": "C",
+  "effort": 3,
+  "summary": "Viele Arbeitgeber bieten freiwillige Vereinbarkeits-Modelle: eigene Betriebskita, reservierte Belegplätze in Kitas, Backup-/Notfallbetreuung bei Betreuungsausfall sowie Homeoffice, Gleitzeit und Jobsharing. Es gibt darauf keinen gesetzlichen Anspruch – aber es lohnt sich, aktiv danach zu fragen.",
+  "key_facts": [
+    {
+      "label": "Betriebskita",
+      "value": "arbeitgebereigene/-finanzierte Einrichtung, oft steuerbegünstigt",
+      "source": "Haufe"
+    },
+    {
+      "label": "Belegplätze",
+      "value": "vom Arbeitgeber eingekaufte reservierte Kita-Plätze für Beschäftigte",
+      "source": "familienservice/pme"
+    },
+    {
+      "label": "Backup-/Notfallbetreuung",
+      "value": "Betreuung 0–12 J. bei Ausfall der Regelbetreuung, teils mobil",
+      "source": "familienservice"
+    },
+    {
+      "label": "Steuerfreiheit",
+      "value": "AG-Zuschüsse zur Betreuung nicht schulpflichtiger Kinder steuerfrei (§ 3 Nr. 33 EStG)",
+      "source": "EStG"
+    },
+    {
+      "label": "Rechtsanspruch Kita",
+      "value": "besteht ab dem 1. Geburtstag (SGB VIII) – gegen die Kommune, nicht den Arbeitgeber",
+      "source": "SGB VIII"
+    }
+  ],
+  "deep_dive": "Diese Modelle sind Arbeitgeberleistungen (Evidenzniveau C – variiert stark je Betrieb). Eine Betriebskita ist eine vom Arbeitgeber betriebene oder finanzierte Einrichtung; Belegplätze sind fest eingekaufte Plätze in externen Kitas, die bevorzugt an Beschäftigte gehen. Backup-Care springt ein, wenn die reguläre Betreuung ausfällt (Kita zu, Tagesmutter krank) – manche Anbieter kommen sogar mobil nach Hause. Attraktiv ist die steuerliche Seite: Arbeitgeberzuschüsse zur Betreuung noch nicht schulpflichtiger Kinder sind nach § 3 Nr. 33 EStG steuer- und sozialabgabenfrei – ein echter Netto-Vorteil. Wichtig zur Einordnung: Den einklagbaren Rechtsanspruch auf einen Kita-Platz haben Sie ab dem 1. Geburtstag gegenüber der Kommune (SGB VIII), nicht gegenüber dem Arbeitgeber; die Betriebsangebote sind eine freiwillige Ergänzung. Homeoffice, Gleitzeit und Jobsharing sind ebenfalls Verhandlungssache – am besten schon im Rückkehrgespräch aus der Elternzeit ansprechen und in Betriebsvereinbarungen/Betriebsrat nach bestehenden Regelungen fragen.",
+  "mechanism": "Fachkräftemangel macht familienfreundliche Angebote zum Wettbewerbsvorteil – Arbeitgeber binden Eltern über Betreuung und Flexibilität, der Staat fördert das über Steuerfreiheit.",
+  "evidence": [
+    {
+      "source": "Haufe – betriebliche Kinderbetreuung",
+      "year": 2024,
+      "finding": "Betriebskita/Belegplätze als Benefits; Zuschüsse nach § 3 Nr. 33 EStG steuerfrei"
+    },
+    {
+      "source": "pme Familienservice",
+      "year": 2025,
+      "finding": "Belegplätze und Backup-/Notfallbetreuung (0–12 J., teils mobil) als Arbeitgeberleistung"
+    },
+    {
+      "source": "SGB VIII",
+      "year": 2025,
+      "finding": "Rechtsanspruch auf Kita-Platz ab dem 1. Geburtstag gegenüber dem Träger der Jugendhilfe"
+    }
+  ],
+  "protocol": [
+    "HR/Personalabteilung, Betriebsrat oder Intranet nach Betriebskita, Belegplätzen, Backup-Care und Zuschüssen fragen",
+    "Steuerfreien Betreuungszuschuss (§ 3 Nr. 33 EStG) aktiv thematisieren – lohnt sich für beide Seiten",
+    "Flexible Modelle (Homeoffice, Gleitzeit, Jobsharing) im Rückkehr-/Teilzeitgespräch verhandeln und schriftlich fixieren",
+    "Parallel den kommunalen Kita-Platz frühzeitig sichern (siehe Fahrplan-Karte) – Betriebsangebote nur als Ergänzung sehen"
+  ],
+  "mistakes": [
+    "Sich allein auf einen Betriebs-/Belegplatz verlassen und den kommunalen Kita-Antrag zu spät stellen",
+    "Den steuerfreien Betreuungszuschuss nicht ansprechen",
+    "Mündliche Homeoffice-/Gleitzeit-Zusagen nicht schriftlich absichern"
+  ],
+  "risks": "Kein Rechtsanspruch – Angebote können gestrichen werden oder an Bedingungen hängen. Verlassen Sie sich für die Betreuungssicherheit nicht ausschließlich darauf. Konkrete Ausgestaltung je Arbeitgeber unterschiedlich.",
+  "synergy": [
+    "betriebliche-kinderbetreuung-backup-care",
+    "betreuungsluecke-krankheit-randzeiten-ferien",
+    "flexible-arbeit-homeoffice"
+  ],
+  "sources": [
+    {
+      "title": "Benefits: eigene betriebliche Kinderbetreuung (Haufe)",
+      "url": "https://www.haufe.de/id/beitrag/benefits-betreuung-21-eigene-betriebliche-kinderbetreuung-HI16768064.html"
+    },
+    {
+      "title": "Betriebskitas & Belegplätze (pme Familienservice)",
+      "url": "https://www.familienservice.de/de/web/lernwelten/kitas-und-krippen"
+    },
+    {
+      "title": "Rechtsanspruch auf einen Kita-Platz (advocado)",
+      "url": "https://www.advocado.de/ratgeber/verwaltungsrecht/kita-platz/rechtsanspruch-auf-einen-kita-platz.html"
+    }
+  ]
+}

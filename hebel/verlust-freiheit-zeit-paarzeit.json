@@ -1,0 +1,79 @@
+{
+  "id": "verlust-freiheit-zeit-paarzeit",
+  "name": "Verlust an Freiheit, Spontaneität & Paarzeit",
+  "category": "🍼 Stressoren im Alltag",
+  "tags": [
+    "Zeit für sich",
+    "Paarbeziehung",
+    "Freizeit",
+    "Autonomie"
+  ],
+  "impact": 4,
+  "evidence_level": "B",
+  "effort": 3,
+  "summary": "Mit Kind sinkt die frei verfügbare Zeit stark, Spontaneität wird durch Planung ersetzt und Zeit für sich selbst und die Partnerschaft wird knapp. Dieser Autonomieverlust wird von vielen Eltern als anhaltende Belastung erlebt.",
+  "key_facts": [
+    {
+      "label": "Mehrarbeit mit Kind",
+      "value": "Eltern arbeiten ~10 h/Woche mehr (v. a. unbezahlte Arbeit) als Kinderlose",
+      "source": "Zeitverwendungsstudie 2012/13, BMFSFJ"
+    },
+    {
+      "label": "Zu wenig Zeit fürs Kind",
+      "value": "32 % der Väter und 19 % der Mütter beklagen zu wenig Zeit",
+      "source": "BMFSFJ Zeitverwendungsstudie"
+    },
+    {
+      "label": "Väter-Betreuungszeit",
+      "value": "~1 h 19 min/Tag Kinderbetreuung (2022), zehn Jahre zuvor ~51 min",
+      "source": "Destatis 2024"
+    },
+    {
+      "label": "Erholung fehlt",
+      "value": "wenn Schlaf und Freizeit ausfallen, sinkt die Stressresistenz",
+      "source": "BMFSFJ"
+    }
+  ],
+  "deep_dive": "Zeitverwendungsdaten zeigen, dass Eltern insgesamt rund zehn Stunden pro Woche mehr arbeiten als Menschen ohne Kinder – der Zuwachs entfällt fast vollständig auf unbezahlte Care- und Hausarbeit. Diese Zeit geht direkt von Freizeit, Schlaf und Paarzeit ab. 32 % der Väter und 19 % der Mütter geben an, zu wenig Zeit für ihre Kinder zu haben; gleichzeitig fehlt vielen auch Zeit für sich selbst und die Partnerschaft. Verbreiteter Irrtum: 'Man gewöhnt sich dran und irgendwann wird es wieder wie früher.' Die frühere Spontaneität kehrt in den ersten Jahren praktisch nicht zurück – jede Aktivität muss um Betreuung, Schlafrhythmus und Bedarfe des Kindes herum geplant werden. Positiv nuanciert: Studien zum Übergang zur Elternschaft finden neben sinkender Freizeit auch mehr Sinnerleben und positive Emotionen; der Autonomieverlust ist real, aber nicht nur negativ.",
+  "mechanism": "Der Wegfall spontan verfügbarer Zeit nimmt Erholungsräume und Selbstbestimmung – zwei zentrale Ressourcen gegen Stress – und lässt Eltern das Gefühl von Kontrollverlust über den eigenen Alltag erleben.",
+  "evidence": [
+    {
+      "source": "BMFSFJ – Zeitverwendungsstudie 2012/13",
+      "year": 2015,
+      "finding": "Eltern ~10 h/Woche mehr Arbeit; viele wünschen mehr Familienzeit"
+    },
+    {
+      "source": "Destatis – Zahl der Woche",
+      "year": 2024,
+      "finding": "Väter 2022 ~1 h 19 min/Tag Kinderbetreuung, mehr als 10 Jahre zuvor"
+    }
+  ],
+  "protocol": [
+    "Feste, geschützte Paarzeit einplanen (z. B. regelmäßiger 'Date-Slot' mit Betreuung)",
+    "Individuelle Auszeiten gegenseitig zusichern (jeder Elternteil planbare freie Zeit)",
+    "Erwartungen an Spontaneität in den ersten Jahren realistisch anpassen",
+    "Betreuungsnetz gezielt für Erholung und Beziehung nutzen (siehe Babysitter-Karte)",
+    "Kleine Erholungsrituale im Alltag statt nur auf großen Urlaub warten"
+  ],
+  "mistakes": [
+    "Paar- und Eigenzeit als Erstes streichen, wenn es eng wird",
+    "Erwartung, es werde bald wieder 'wie vorher'",
+    "Erholung nur auf seltene große Ereignisse verschieben"
+  ],
+  "risks": "Wenn über lange Zeit keinerlei Zeit für sich und die Partnerschaft bleibt, steigen Beziehungsunzufriedenheit und Erschöpfungsrisiko deutlich.",
+  "synergy": [
+    "babysitter-kurzfristige-betreuung",
+    "paarkonflikt-nach-geburt",
+    "flexible-arbeit-homeoffice"
+  ],
+  "sources": [
+    {
+      "title": "BMFSFJ – Studie zur Zeitverwendung",
+      "url": "https://www.bmbfsfj.bund.de/bmbfsfj/aktuelles/alle-meldungen/studie-zur-zeitverwendung-eltern-wuenschen-sich-mehr-zeit-fuer-familie-83604"
+    },
+    {
+      "title": "Destatis – 1h19min Väter Kinderbetreuung",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/Zahl-der-Woche/2024/PD24_19_p002.html"
+    }
+  ]
+}

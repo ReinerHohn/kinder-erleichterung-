@@ -1,0 +1,86 @@
+{
+  "id": "familien-mealservice-babybrei-abo",
+  "name": "Familien-Meal-Service / gesunde Essenslieferung & Babybrei-Abo",
+  "category": "💼 Service- & Geschäftsideen",
+  "tags": [
+    "Essen",
+    "Abo",
+    "Babybrei",
+    "Meal-Kit",
+    "Gesundheit"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 4,
+  "summary": "Frische, gesunde, kindgerechte Mahlzeiten oder Babybrei/Breifrei-Snacks im Abo – geliefert oder als Kochbox. Eltern sparen Planung, Einkauf und schlechtes Gewissen; der Anbieter verdient an wiederkehrenden Abo-Umsätzen.",
+  "key_facts": [
+    {
+      "label": "Kochbox-Preis Familie",
+      "value": "HelloFresh Family-Box ab ~5,10 €/Portion (4 Pers., 5 Gerichte) + 5,99 € Versand",
+      "source": "hellofresh.de, ad-hoc-news"
+    },
+    {
+      "label": "Marktführer",
+      "value": "HelloFresh (seit 2011, ~80 Rezepte/Woche, Familienküche)",
+      "source": "kochbox.net, kochboxen.org"
+    },
+    {
+      "label": "Baby-Nische DACH",
+      "value": "Chewsome (Breifrei-Convenience ab 8 Monaten); US-Vorbild Little Spoon (frischer Bio-Babybrei-Abo)",
+      "source": "chewsomefoods.com, littlespoon.com"
+    },
+    {
+      "label": "Nischenpotenzial",
+      "value": "Babybrei/Breifrei-Abo im DACH-Raum bislang dünn besetzt vs. großem US-Vorbild",
+      "source": "Websuche 2026"
+    }
+  ],
+  "deep_dive": "Der Meal-Kit-Markt für Familien ist von HelloFresh dominiert und beweist, dass Eltern für Essensplanungs-Entlastung dauerhaft zahlen (5+ €/Portion + Versand, Abo-Logik). Die Marktlücke ist NICHT das generische Familienessen – da ist HelloFresh übermächtig – sondern die Baby-/Kleinkind-Nische: frischer Babybrei bzw. Breifrei-Snacks im Abo, altersgestaffelt und ohne Zusätze. In den USA zeigt Little Spoon (Cold-Pressure, Bio, personalisiert), dass das Modell trägt; im DACH-Raum ist es mit Chewsome erst ansatzweise besetzt. Die Hürden sind hart: Frischelogistik/Kühlkette ist kapital- und margenintensiv, Lebensmittelrecht für Babynahrung ist streng (Diät-VO, Schadstoffgrenzwerte), und die Kundenlebensdauer ist kurz (Baby wächst aus der Breiphase heraus – hohe Churn, ständige Neukundengewinnung). Ein verbreiteter Irrtum: 'gesund + praktisch verkauft sich von selbst' – tatsächlich entscheidet die Stückkosten-/Logistikrechnung über Leben und Tod, und viele Baby-Food-Startups sind daran gescheitert. Tragfähiger evtl. als haltbares/kühlpflichtiges Snack-Abo (bessere Logistik) statt tagesfrischer Vollverpflegung.",
+  "mechanism": "Nimmt die tägliche Was-koche-ich-Frage, den Einkauf und die Sorge um ausgewogene Kinderernährung ab.",
+  "evidence": [
+    {
+      "source": "hellofresh.de",
+      "year": 2026,
+      "finding": "Etabliertes Family-Box-Abo ab ~5,10 €/Portion beweist Zahlungsbereitschaft für Essensplanungs-Entlastung."
+    },
+    {
+      "source": "littlespoon.com / TechCrunch",
+      "year": 2025,
+      "finding": "Baby-Food-Delivery trägt in den USA, ist aber ein Segment, in dem viele Anbieter scheiterten."
+    }
+  ],
+  "protocol": [
+    "Nische wählen: Babybrei/Breifrei-Snack-Abo statt generisches Familienessen (dort ist HelloFresh übermächtig).",
+    "Stückkosten + Kühllogistik VOR dem Start durchrechnen – hier entscheidet sich Tragfähigkeit.",
+    "Churn einplanen: Kunden wachsen aus der Phase heraus → Upsell auf Kleinkind-Mahlzeiten.",
+    "Rechtlich: Lebensmittelrecht/Diätverordnung für Säuglingsnahrung, Kühlkettennachweis, Allergenkennzeichnung."
+  ],
+  "mistakes": [
+    "Tagesfrische Vollverpflegung mit unrentabler Kühllogistik statt haltbarerer Snack-Formate.",
+    "Hohe Baby-Phasen-Churn ignorieren (kein Anschlusssortiment).",
+    "Gegen HelloFresh im generischen Familiensegment antreten statt in einer Nische."
+  ],
+  "risks": "Frischelogistik/Kühlkette drückt die Marge stark; Lebensmittelrecht bei Babynahrung streng (Diät-VO, Schadstoffe). Kurze Kundenlebensdauer (hohe Churn). Großer Wettbewerb im generischen Segment. Kapitalintensiv bei eigener Produktion.",
+  "synergy": [
+    "babybrei-selber-dampfgarer-mixer",
+    "haushalts-putz-waesche-abo-familien"
+  ],
+  "sources": [
+    {
+      "title": "HelloFresh – Family Box",
+      "url": "https://www.hellofresh.de/essensbox/family-box"
+    },
+    {
+      "title": "kochbox.net – HelloFresh Übersicht",
+      "url": "https://kochbox.net/hellofresh/"
+    },
+    {
+      "title": "Chewsome – Breifrei-Convenience",
+      "url": "https://www.chewsomefoods.com/"
+    },
+    {
+      "title": "Little Spoon (US-Vorbild)",
+      "url": "https://www.littlespoon.com/"
+    }
+  ]
+}

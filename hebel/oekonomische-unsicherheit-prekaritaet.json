@@ -1,0 +1,72 @@
+{
+  "id": "oekonomische-unsicherheit-prekaritaet",
+  "name": "Ökonomische Unsicherheit & prekäre Jobs",
+  "category": "📉 Ursachen: weniger Kinderwunsch",
+  "tags": [
+    "unsicherheit",
+    "prekariat",
+    "befristung",
+    "einkommen",
+    "finanzkrise"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 4,
+  "summary": "Unsichere Erwerbsbiografien – befristete Verträge, Arbeitslosigkeitsrisiko, unklare Zukunft – verschieben die Familiengründung und erhöhen die endgültige Kinderlosigkeit, besonders seit der Finanzkrise 2008.",
+  "key_facts": [
+    {
+      "label": "Aufschub Erstgeburt durch Befristung/Prekarität (IT)",
+      "value": "7 % (Frauen), 5 % (Männer)",
+      "source": "Empl. Instability & Childbirth, Italy"
+    },
+    {
+      "label": "TFR OECD-Trend",
+      "value": "Rückgang nach Finanzkrise 2007/08 wieder aufgenommen",
+      "source": "OECD 2024"
+    },
+    {
+      "label": "Einkommensvoraussetzung Elternschaft",
+      "value": "steigend – 'Income Prerequisites of Parenthood'",
+      "source": "van Wijk, PDR 2024"
+    }
+  ],
+  "deep_dive": "Der jahrzehntelange TFR-Rückgang der OECD hatte in den 2000ern eine Pause, setzte aber nach der Finanzkrise 2007/08 wieder ein. Für Italien lassen sich etwa 7 % des Erstgeburt-Aufschubs bei Frauen und 5 % bei Männern direkt auf prekäre Einstiegsbedingungen wie Befristung zurückführen; ähnliche Zusammenhänge zeigen sich in Finnland, Frankreich und Schweden. Van Wijk (2024) argumentiert, dass die 'Einkommensvoraussetzungen der Elternschaft' gestiegen sind: Paare warten auf ökonomische Sicherheit, die für viele nie eintritt. Ein Irrtum ist, dass nur Armut Kinder verhindere – entscheidend ist wahrgenommene Unsicherheit über die Zukunft, die auch gutverdienende, aber unsicher beschäftigte Menschen betrifft. Aufschub ist gefährlich, weil er über die biologische Uhr in endgültige Kinderlosigkeit umschlagen kann.",
+  "mechanism": "Kinder sind eine langfristige, kaum reversible Bindung. Fehlt Planungssicherheit über Einkommen und Beschäftigung, wird die Entscheidung vertagt – aus 'später' wird über die Zeitachse oft 'gar nicht'.",
+  "evidence": [
+    {
+      "source": "van Wijk, Population and Development Review",
+      "year": 2024,
+      "finding": "Steigende Einkommensvoraussetzungen der Elternschaft; ökon. Unsicherheit treibt Aufschub"
+    },
+    {
+      "source": "Employment Instability and Childbirth over 20 Years in Italy (PMC)",
+      "year": 2023,
+      "finding": "Befristung erklärt 7 %/5 % des Erstgeburt-Aufschubs (Frauen/Männer)"
+    }
+  ],
+  "protocol": [
+    "Stabilere Beschäftigung/weniger Kettenbefristung für junge Erwachsene",
+    "Planbare finanzielle Familienleistungen (siehe Lösungs-Karten zu direkter Förderung)",
+    "Bezahlbarer Wohnraum (siehe Wohnkosten-Karte)"
+  ],
+  "mistakes": [
+    "'Nur Arme bekommen keine Kinder' – wahrgenommene Unsicherheit wirkt quer durch Einkommensgruppen",
+    "Einmalige Bonuszahlungen lösen das Problem – strukturelle Sicherheit zählt mehr"
+  ],
+  "risks": "Effektgrößen einzelner Faktoren sind moderat; Prekarität wirkt oft indirekt über Aufschub und Partnerschaftsstabilität.",
+  "synergy": [
+    "wohnkosten-wohnraum",
+    "bezahlbarer-wohnraum-familien",
+    "aufschub-erstgeburt-biologie"
+  ],
+  "sources": [
+    {
+      "title": "van Wijk: Fertility Postponement, Economic Uncertainty (PDR 2024)",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/padr.12624"
+    },
+    {
+      "title": "Employment Instability and Childbirth in Italy (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10570255/"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "soziale-roboter-kinder",
+  "name": "Soziale Roboter für Kinder (Kita, Therapie)",
+  "category": "🤖 KI & Robotik",
+  "tags": [
+    "Betreuung",
+    "Therapie",
+    "Bindung",
+    "Grenzen"
+  ],
+  "impact": 2,
+  "evidence_level": "B",
+  "effort": 4,
+  "summary": "Soziale Roboter können in klar umrissenen Therapie-Settings (v.a. Autismus) das Engagement steigern und als Werkzeug wirken - aber sie sind kein Betreuungsersatz und ersetzen weder Bezugsperson noch Bindung. Entlastung für Familien im Alltag: bislang minimal.",
+  "key_facts": [
+    {
+      "label": "Beleg (Therapie)",
+      "value": "12 Sitzungen roboter-gestützt = vergleichbare Ergebnisse, höheres Engagement",
+      "source": "Science Robotics 2024"
+    },
+    {
+      "label": "Klare Grenze",
+      "value": "Roboter können Therapeuten NICHT ersetzen (keine echte Empathie)",
+      "source": "systematische Reviews"
+    },
+    {
+      "label": "Rolle",
+      "value": "Assistent/Werkzeug, Bezugsperson bleibt integraler Teil",
+      "source": "Reviews 2024/2025"
+    },
+    {
+      "label": "Alltagsentlastung Familie",
+      "value": "gering; Engagement =/= dauerhafter Lerntransfer",
+      "source": "arXiv Withdrawal-Study 2026"
+    }
+  ],
+  "deep_dive": "Soziale Roboter sind ein Forschungsfeld mit echten, aber eng begrenzten Belegen - und ein Bereich, in dem der Anti-Hype-Hinweis besonders wichtig ist. In strukturierten Therapie-Settings, vor allem bei Autismus, zeigen Studien (u.a. Science Robotics 2024), dass roboter-gestützte Sitzungen vergleichbare Ergebnisse wie konventionelle Therapie erzielen können, bei höherem Engagement der Kinder. Doch die Reviews betonen unmissverständlich: Roboter ersetzen keine Therapeuten - ihnen fehlt echte Empathie und das Verstehen komplexer, individueller Bedürfnisse; sie funktionieren nur als Werkzeug mit dem Menschen, nicht statt ihm. Eine Withdrawal-Studie zeigt zudem, dass hohes Engagement mit dem Roboter nicht automatisch zu dauerhaftem Lerntransfer führt - Bezugspersonen müssen das Gelernte im Alltag verankern. Für die Alltagsentlastung von Familien bedeutet das nüchtern: Als allgemeiner 'Betreuungsroboter', der auf Kinder aufpasst oder Bindung/Beziehung ersetzt, taugt die Technik nicht und darf so nicht eingesetzt werden. Aufsicht, Sicherheit und emotionale Bindung dürfen niemals an eine Maschine delegiert werden.",
+  "mechanism": "In der Therapie: strukturierter, vorhersehbarer Interaktionspartner, der Übungen unterstützt - stets unter menschlicher Anleitung, nicht als Betreuungsersatz.",
+  "evidence": [
+    {
+      "source": "Science Robotics",
+      "year": 2024,
+      "finding": "Roboter-gestützte Autismus-Therapie erreicht vergleichbare Ergebnisse wie konventionelle Behandlung bei deutlich höherem Engagement."
+    },
+    {
+      "source": "Systematische Reviews (ScienceDirect u.a.)",
+      "year": 2024,
+      "finding": "Soziale Roboter sind Ergänzung, kein Ersatz für Therapeuten; keine echte Empathie, begrenzte emotionale Bandbreite."
+    },
+    {
+      "source": "arXiv Withdrawal-Study",
+      "year": 2026,
+      "finding": "Engagement mit einem Heim-Roboter bedeutet nicht automatisch Lerntransfer; Bezugspersonen bleiben entscheidend."
+    }
+  ],
+  "protocol": [
+    "Nur in fachlich begleiteten Therapie-/Förderkontexten einsetzen, nie als Aufsichts- oder Betreuungsersatz.",
+    "Bezugsperson bleibt aktiv eingebunden - Roboter ist Werkzeug, das Gelernte muss im Alltag verankert werden.",
+    "Sicherheit, Aufsicht und emotionale Bindung niemals an die Technik delegieren."
+  ],
+  "mistakes": [
+    "Roboter als 'Babysitter' oder Ersatz für Zuwendung/Bindung missverstehen.",
+    "Hohes Kind-Engagement mit echtem, übertragbarem Lernfortschritt gleichsetzen."
+  ],
+  "risks": "Bindungsersatz und Vernachlässigung menschlicher Zuwendung, Scheinsicherheit bei Aufsicht, Datenschutz (Kameras/Mikrofone bei Kindern), hohe Kosten bei geringem Alltagsnutzen.",
+  "sources": [
+    {
+      "title": "Efficacy and effectiveness of robot-assisted therapy for ASD - Science Robotics",
+      "url": "https://www.science.org/doi/10.1126/scirobotics.adl2266"
+    },
+    {
+      "title": "Are social robots ready for care and therapy of ASD? Systematic review of RCTs - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0149763421001615"
+    },
+    {
+      "title": "Engagement Is Not Transfer: Withdrawal Study of a Consumer Social Robot - arXiv",
+      "url": "https://arxiv.org/pdf/2604.02642"
+    }
+  ]
+}

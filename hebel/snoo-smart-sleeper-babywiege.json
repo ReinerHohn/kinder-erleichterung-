@@ -1,0 +1,96 @@
+{
+  "id": "snoo-smart-sleeper-babywiege",
+  "name": "SNOO Smart Sleeper (automatische Babywiege)",
+  "category": "💡 Sweet Spots (Produkte & Gadgets)",
+  "tags": [
+    "Babyschlaf",
+    "Elternschlaf",
+    "SIDS-Sicherheit",
+    "teuer",
+    "Miete"
+  ],
+  "impact": 4,
+  "evidence_level": "B",
+  "effort": 4,
+  "summary": "Roboter-Wiege, die auf Weinen mit Schaukeln + weißem Rauschen reagiert und das Baby fest auf dem Rücken angeschnallt hält. Herstellerdaten: ~1–2 h mehr Schlaf/Nacht, ein Aufwachen weniger. Sehr teuer; der Effekt ist real, aber die harte Studienlage ist dünn.",
+  "key_facts": [
+    {
+      "label": "Schlafgewinn (Hersteller)",
+      "value": "+1–2 h/Nacht, 1 Aufwachen weniger",
+      "source": "Happiest Baby Health / Research"
+    },
+    {
+      "label": "Rückenlage-Sicherheit",
+      "value": "reduziert unsicheres Bauchliegen um 91,5 % (n=1012)",
+      "source": "Happiest Baby, De-Novo-FDA-Zulassung"
+    },
+    {
+      "label": "Kaufpreis",
+      "value": "~1000–1700 € (US ~1700 $)",
+      "source": "happiestbaby.eu / Slickdeals"
+    },
+    {
+      "label": "Miete",
+      "value": "~70 €/Monat (DE), ~159 $/Mon. bzw. 499 $/6 Mon. (US)",
+      "source": "tutti.ch / Krazy Coupon Lady"
+    },
+    {
+      "label": "Studienlage",
+      "value": "Scoping-Review: nur 2 Studien deuten auf besseren Schlaf/weniger Weinen",
+      "source": "Singh et al., Transl Pediatr 2023"
+    }
+  ],
+  "deep_dive": "Die SNOO ist der Prototyp des 'Sweet Spot' gegen Elternschlafmangel: Sie erkennt Weinen und antwortet mit gestuftem Schaukeln und weißem Rauschen, und weil das Baby mit einem SNOO-Sack fest auf dem Rücken fixiert ist, kann es sich nicht auf den Bauch drehen. Genau dieser Rückenlage-Zwang ist das einzige, was die FDA 2023 per De-Novo-Klassifizierung anerkannt hat (Reduktion unsicheren Bauchliegens um 91,5 % bei 1012 Säuglingen). Der oft zitierte SIDS-Schutz ist NICHT belegt – SNOO hat lediglich einen 'Breakthrough Device'-Status, keine SIDS-Reduktion nachgewiesen. Der Schlafgewinn (1–2 h) stammt überwiegend aus Herstellerdaten; ein unabhängiges Scoping-Review fand nur zwei Studien, die überhaupt einen Effekt nahelegen. Hauptkritik von Pädiater:innen und Schlafcoaches: Bewegungsabhängigkeit – viele Babys lernen ohne Schaukeln nicht mehr einzuschlafen, und die Entwöhnung mit ~5–6 Monaten wird oft verschlafen. Verbreiteter Irrtum: 'SNOO verhindert SIDS' – nein, es erzwingt nur die (ohnehin empfohlene) Rückenlage. Rechnerisch lohnt sich fast immer Miete (6 Monate Nutzungsdauer < halber Kaufpreis).",
+  "mechanism": "Kontingentes Schaukeln + weißes Rauschen imitiert Mutterleib-Reize (calming reflex nach Karp), verlängert Schlafphasen; feste Rückenlage senkt Bauchlage-Risiko.",
+  "evidence": [
+    {
+      "source": "Happiest Baby Health / FDA De-Novo",
+      "year": 2023,
+      "finding": "Reduziert unsicheres Bauchliegen um 91,5 % (n=1012); +1–2 h Schlaf laut Hersteller; kein SIDS-Nachweis."
+    },
+    {
+      "source": "Singh et al., Translational Pediatrics (Scoping Review)",
+      "year": 2023,
+      "finding": "Nur 2 Studien legen verbesserten Schlaf/weniger Weinen durch SNOO nahe – schwache Evidenzbasis."
+    }
+  ],
+  "protocol": [
+    "Zuerst mieten, nicht kaufen: bei ~6 Monaten Nutzung ist Miete klar günstiger und man vermeidet Fehlkauf.",
+    "Als sichere Schlafstätte nutzen: immer Rückenlage, eigener fester Untergrund im Elternschlafzimmer (Room-Sharing).",
+    "Entwöhnungsmodus (weaning) ab ~4 Monaten aktiv nutzen; spätestens bei Anzeichen von Drehen aus dem Pucksack.",
+    "Günstige Alternative erwägen, wenn Budget knapp: Schaukel-Beistellbetten/Wippen sind viel billiger (siehe eigene Karte)."
+  ],
+  "mistakes": [
+    "Neukauf für 1000–1700 € statt Miete – oft rausgeworfenes Geld.",
+    "Als 'SIDS-Schutz' kaufen und dann andere Safe-Sleep-Regeln vernachlässigen (falsche Sicherheit).",
+    "Entwöhnung verpassen → Bewegungsabhängigkeit, harter Umstieg aufs Bettchen."
+  ],
+  "risks": "Kein belegter SIDS-Schutz – nicht als Lebensretter verstehen. Bewegungs-/Puck-Abhängigkeit bei zu später Entwöhnung. Hohes Fehlkauf-Risiko wegen Preis. Pucken erhöht Erstickungsgefahr, sobald das Baby sich zu drehen beginnt → dann sofort beenden. Datenschutz: App/Konto erforderlich.",
+  "synergy": [
+    "schlafmangel-erste-jahre",
+    "guenstige-schaukel-alternativen-snoo",
+    "baby-ausstattung-miete-sharing"
+  ],
+  "sources": [
+    {
+      "title": "Happiest Baby Health – Research",
+      "url": "https://health.happiestbaby.com/pages/research"
+    },
+    {
+      "title": "Singh et al., 'Five S's and the SNOO' – Scoping Review (PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37692540/"
+    },
+    {
+      "title": "SNOO FDA-Zulassung (The Bump)",
+      "url": "https://www.thebump.com/news/snoo-fda-approval"
+    },
+    {
+      "title": "SNOO Rental vs. Buying (Krazy Coupon Lady)",
+      "url": "https://thekrazycouponlady.com/tips/money/snoo-rental"
+    },
+    {
+      "title": "SNOO Miet-Abo Preis DE/CH (tutti.ch)",
+      "url": "https://www.tutti.ch/de/vi/zuerich/baby-kind/kinderzimmer/snoo-smart-sleeper-babybett-miet-abo-preis-pro-monat/71320816"
+    }
+  ]
+}

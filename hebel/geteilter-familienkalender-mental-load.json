@@ -1,0 +1,77 @@
+{
+  "id": "geteilter-familienkalender-mental-load",
+  "name": "Geteilter Familienkalender & Routinen gegen Mental Load",
+  "category": "💡 Sweet Spots (Produkte & Gadgets)",
+  "tags": [
+    "Mental Load",
+    "Organisation",
+    "gratis",
+    "Partnerschaft"
+  ],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 1,
+  "summary": "Ein sichtbarer, geteilter Kalender (Google/Apple, gratis) verlagert Termin-Wissen aus dem Kopf eines Elternteils in ein System, das beide sehen. Senkt Reibung – aber macht Verantwortung nicht automatisch fair.",
+  "key_facts": [
+    {
+      "label": "Mental-Load-Verteilung",
+      "value": "Mütter tragen ~71 % der mentalen Haushaltslast (3000 Eltern)",
+      "source": "University of Bath, Dez. 2024"
+    },
+    {
+      "label": "Aufwand Terminorganisation",
+      "value": ">30 h/Woche Familienplanung, 79 % empfinden Stress",
+      "source": "University of Bath, 2024"
+    },
+    {
+      "label": "Adoption",
+      "value": "nur ~11 % nutzen echte Shared-App (Rest WhatsApp/Zettel)",
+      "source": "Umfrage 2026, n=93"
+    },
+    {
+      "label": "Kosten",
+      "value": "0 € (Google/Apple Kalender)",
+      "source": "gängige Apps"
+    }
+  ],
+  "deep_dive": "Mental Load ist die unsichtbare Denkarbeit (planen, dran denken, koordinieren) und liegt laut einer Bath-Studie (2024, 3000 Eltern) zu ~71 % bei Müttern; Familien wenden >30 h/Woche für Planung auf, 79 % empfinden Stress dabei. Ein geteilter, sichtbarer Kalender ist der billigste Hebel dagegen: Er externalisiert das Termin-Wissen aus einem Kopf in ein System, das beide Partner gleichberechtigt sehen und beschicken können. Die ehrliche Grenze (Daminger 2019): Ein Tool löst nur den Teil-Prozess 'Wissen sichtbar machen'. Sichtbarkeit erzeugt nicht automatisch Verantwortungsübernahme – wer Termine einträgt, ist oft weiter derselbe. Deshalb wirkt der Kalender nur mit klarer Zuständigkeits-Absprache und wiederkehrenden Routinen/Vorlagen (z. B. fixe Abhol-/U-Untersuchungs-Verantwortliche). Verbreiteter Irrtum: 'Die richtige App löst Mental Load' – nein, nur die App PLUS explizite Aufteilung. Teure 'Familien-Command-Center'-Displays sind Luxus, ein gratis Shared Calendar reicht.",
+  "mechanism": "Externalisiert Terminwissen in ein gemeinsames System → beide sehen alles, weniger 'du hättest mir sagen müssen', weniger Erinnerungslast auf einer Person.",
+  "evidence": [
+    {
+      "source": "University of Bath (3000 Eltern)",
+      "year": 2024,
+      "finding": "Mütter tragen ~71 % der mentalen Last; >30 h/Woche Planung, 79 % Stress."
+    },
+    {
+      "source": "Daminger, American Sociological Review",
+      "year": 2019,
+      "finding": "Kognitive Haushaltsarbeit hat 4 Phasen; Tools adressieren nur einen Teil davon."
+    }
+  ],
+  "protocol": [
+    "Gratis Shared Calendar (Google/Apple) einrichten, alle Termine BEIDE eintragen.",
+    "Zuständigkeiten explizit aufteilen (nicht nur eintragen): pro Bereich ein verantwortlicher Elternteil.",
+    "Wiederkehrende Routinen/Vorlagen anlegen (U-Untersuchungen, Impftermine, Einkaufsroutine)."
+  ],
+  "mistakes": [
+    "Glauben, die App allein verteile die Verantwortung gerecht.",
+    "Nur ein Elternteil pflegt den Kalender (Mental Load bleibt).",
+    "Teures Wandtablet-'Command-Center' kaufen, wo eine kostenlose App reicht."
+  ],
+  "risks": "Scheinlösung: Sichtbarkeit ≠ faire Verteilung. Datenschutz bei Drittanbieter-Apps. Fehlausgabe für teure Hardware-Displays.",
+  "synergy": [
+    "mental-load-gender-care-gap",
+    "admin-termin-last-buerokratie",
+    "admin-ki-buerokratie"
+  ],
+  "sources": [
+    {
+      "title": "Make the family calendar visible – Forschung & Praxis (Shareday)",
+      "url": "https://shareday.net/2026/07/17/make-family-calendar-visible-shared-responsibility-aware/"
+    },
+    {
+      "title": "Default Parent Problem – Visible Family Calendar (Everblog)",
+      "url": "https://everblog.com/blogs/family-command-center/visible-family-calendar-lower-mental-load"
+    }
+  ]
+}

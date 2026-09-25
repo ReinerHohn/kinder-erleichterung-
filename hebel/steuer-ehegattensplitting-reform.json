@@ -1,0 +1,73 @@
+{
+  "id": "steuer-ehegattensplitting-reform",
+  "name": "Steuerreform: Ehegattensplitting abbauen / Individualbesteuerung",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": [
+    "Steuer",
+    "Ehegattensplitting",
+    "Zweitverdienerin",
+    "Erwerbsanreiz",
+    "Gleichstellung"
+  ],
+  "impact": 3,
+  "evidence_level": "A",
+  "effort": 2,
+  "summary": "Das Ehegattensplitting setzt starke Fehlanreize gegen die Erwerbstätigkeit von Zweitverdienerinnen. Ein Umbau Richtung Individualbesteuerung (oder Realsplitting) erhöht Arbeitsanreize und Frauenerwerbstätigkeit – bei zusätzlichen Steuereinnahmen.",
+  "key_facts": [
+    {
+      "label": "Reine Individualbesteuerung",
+      "value": "+1,7 Prozentpunkte Erwerbsbeteiligung verheirateter Frauen, +5 % Wochenstunden",
+      "source": "DIW"
+    },
+    {
+      "label": "Realsplitting + Midijob-Reform",
+      "value": "+124.000 zusätzliche Erwerbstätige, davon 108.000 Frauen",
+      "source": "DIW"
+    },
+    {
+      "label": "Fiskaleffekt",
+      "value": "reine Individualbesteuerung bringt spürbare Mehreinnahmen",
+      "source": "DIW"
+    }
+  ],
+  "deep_dive": "Das deutsche Ehegattensplitting belohnt große Einkommensunterschiede zwischen Partnern und bestraft die Erwerbsaufnahme des Zweitverdieners – fast immer der Frau ('Zweitverdienerinnenfalle'). DIW-Berechnungen zeigen: Eine reine Individualbesteuerung würde die Erwerbsbeteiligung verheirateter Frauen um rund 1,7 Prozentpunkte und die durchschnittlichen Wochenstunden um über 5 % erhöhen – und dabei erhebliche Steuermehreinnahmen erzielen. Ein Realsplitting mit begrenztem Übertragungsbetrag (z. B. 13.805 €) plus Umbau von Mini-/Midijobs würde rund 124.000 zusätzliche Erwerbstätige mobilisieren, davon 108.000 Frauen. Ein verbreiteter Irrtum ist, das Splitting sei 'familienfreundlich' – tatsächlich fördert es das Alleinverdiener-Modell, nicht Kinder, und wirkt gegen die Vereinbarkeit. Die Reform ist billig (kein neues Programm, nur Steuerrecht) und gehört zu den kosteneffizientesten Hebeln. Politisch ist sie heikel, weil bestehende Alleinverdiener-Ehen Nachteile hätten – deshalb werden Übergangs- oder Bestandsschutzregeln und ein Kompromissmodell (Realsplitting) diskutiert.",
+  "mechanism": "Wegfall des Splittingvorteils senkt die Grenzsteuerbelastung des ersten selbstverdienten Euros der Zweitverdienerin und erhöht so den finanziellen Anreiz zu (mehr) Erwerbsarbeit.",
+  "evidence": [
+    {
+      "source": "DIW Wochenbericht – Reform des Ehegattensplittings",
+      "year": 2020,
+      "finding": "Reine Individualbesteuerung: +1,7 Pp. Erwerbsbeteiligung verheirateter Frauen, +5 % Stunden; Realsplitting+Midijob +124.000 Erwerbstätige"
+    },
+    {
+      "source": "ifo – Ehegattensplitting reformieren",
+      "year": 2026,
+      "finding": "Reform kann Familienförderung zielgenauer machen und Erwerbsanreize stärken"
+    }
+  ],
+  "protocol": [
+    "Umstieg auf Individualbesteuerung oder Realsplitting mit niedrigem Übertragungsbetrag",
+    "Mini-/Midijob-Zone reformieren (gleitende Beiträge) statt harter Schwellen",
+    "Bestandsschutz/Übergangsregeln für bestehende Alleinverdiener-Ehen",
+    "Frei werdende Mittel gezielt in Kinderförderung/Betreuung lenken"
+  ],
+  "mistakes": [
+    "Splitting als 'Familienförderung' fehldeuten (fördert Ehe/Alleinverdiener, nicht Kinder)",
+    "Reform ohne Mini-/Midijob-Umbau → Schwelleneffekte bleiben",
+    "Kein Übergangsschutz → politische Blockade"
+  ],
+  "risks": "Belastung bestehender Alleinverdiener-Haushalte; politisch schwer durchsetzbar; Wirkung auf Fertilität indirekt (über Vereinbarkeit).",
+  "synergy": [
+    "vereinbarkeit-teilzeitfalle-karriereknick",
+    "gender-care-gap"
+  ],
+  "sources": [
+    {
+      "title": "DIW – Reform des Ehegattensplittings (Individualbesteuerung)",
+      "url": "https://www.diw.de/de/diw_01.c.763052.de/s_6900.html"
+    },
+    {
+      "title": "DIW – Realsplitting als Kompromiss",
+      "url": "https://www.diw.de/de/diw_01.c.800291.de/publikationen/wochenberichte/2020_41_1/reform_des_ehegattensplittings__realsplitting_mit_niedrigem_uebertragungsbetrag_ist_ein_guter_kompromiss.html"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "betreuungsluecke-krankheit-randzeiten-ferien",
+  "name": "Krankheitstage, Randzeiten & Ferienbetreuung",
+  "category": "🍼 Stressoren im Alltag",
+  "tags": [
+    "Kind krank",
+    "Randzeiten",
+    "Ferien",
+    "Notfallbetreuung"
+  ],
+  "impact": 4,
+  "evidence_level": "B",
+  "effort": 4,
+  "summary": "Selbst mit Kita-Platz entstehen ständige Lücken: krankes Kind, Schließzeiten, lange Ferien, Randzeiten außerhalb der Öffnungszeiten. Diese ungeplanten Ausfälle sind für berufstätige Eltern besonders schwer zu überbrücken.",
+  "key_facts": [
+    {
+      "label": "Kinderkrankentage 2024–2026",
+      "value": "15 Tage/Kind je Elternteil (Alleinerziehende 30)",
+      "source": "BMG"
+    },
+    {
+      "label": "Obergrenze mehrere Kinder",
+      "value": "max. 35 Tage/Elternteil (Alleinerziehende 70)",
+      "source": "BMG"
+    },
+    {
+      "label": "Kita-Schließzeiten",
+      "value": "häufig ~3 Wochen Sommerschließung + Brückentage",
+      "source": "familienservice / betreut.de"
+    },
+    {
+      "label": "Kernproblem",
+      "value": "ungeplante Ausfälle + Randzeiten kollidieren mit Arbeitszeiten/Schichtdienst",
+      "source": "mittelstand-und-familie.de"
+    }
+  ],
+  "deep_dive": "Die eigentliche Härte liegt oft nicht im Regelbetrieb, sondern in den Rändern und Ausnahmen: Ein krankes Kind, eine kranke Tagesmutter, drei Wochen Kita-Schließzeit im Sommer, eine Dienstreise, Schichtdienst am frühen Morgen oder späten Abend. Gesetzlich Versicherte haben 2024–2026 Anspruch auf 15 Kinderkrankentage pro Kind und Elternteil (Alleinerziehende 30), gedeckelt auf 35 bzw. 70 Tage – doch in Kita-Jahren mit gehäuften Infekten reicht das oft nicht, und Kinderkrankengeld ersetzt nur einen Teil des Nettolohns. Verbreiteter Irrtum: 'Mit Kita-Platz ist die Betreuung geregelt.' Öffnungszeiten decken selten Randzeiten ab, und Schließzeiten plus Krankheitstage summieren sich schnell auf viele Wochen im Jahr, die individuell überbrückt werden müssen – häufig durch Urlaubstage der Eltern oder Großeltern. Ferienbetreuung für Schulkinder ist ein eigenes, oft ungelöstes Problem.",
+  "mechanism": "Unplanbare, kurzfristige Betreuungsausfälle zwingen zu ständigem Improvisieren, verbrauchen Urlaub und Nerven und machen verlässliche Erwerbstätigkeit schwer – dauerhafter Planungsstress.",
+  "evidence": [
+    {
+      "source": "BMG – Kinderkrankengeld/Kinderkrankentage",
+      "year": 2024,
+      "finding": "15 Tage/Kind je Elternteil, gedeckelt auf 35 (70 bei Alleinerziehenden)"
+    },
+    {
+      "source": "familienservice / Mittelstand & Familie",
+      "year": 2023,
+      "finding": "ungeplante Ausfälle und Randzeiten als zentrale Vereinbarkeits-Hürde"
+    }
+  ],
+  "protocol": [
+    "Kinderkrankentage-Anspruch kennen und einplanen (15/Kind, Deckel 35)",
+    "Notfall-Betreuungspool aufbauen (Großeltern, Nachbarn, andere Eltern rotierend)",
+    "Arbeitgeber-Angebote nutzen (Notfallbetreuung, familienservice, Homeoffice-Regelung)",
+    "Ferien früh planen: Ferienlager/Ferienbetreuung rechtzeitig buchen",
+    "Kita-Schließzeiten zu Jahresbeginn im Urlaubsplan berücksichtigen"
+  ],
+  "mistakes": [
+    "Schließ- und Krankheitszeiten in der Jahresplanung unterschätzen",
+    "Kein Plan B für kurzfristige Ausfälle",
+    "Annahme, Kinderkrankengeld ersetze den vollen Lohn"
+  ],
+  "risks": "Wenn Krankheits- und Ferientage die verfügbaren Urlaubs- und Kinderkrankentage übersteigen, drohen Einkommensverlust, Konflikte mit dem Arbeitgeber und Dauerstress bis hin zur Erschöpfung.",
+  "synergy": [
+    "kind-krank-kinderkrankengeld-45-sgb-v",
+    "ferien-randzeitenbetreuung",
+    "vereinbarkeitsmodelle-betriebskita-backup"
+  ],
+  "sources": [
+    {
+      "title": "BMG – FAQ Kinderkrankengeld/Kinderkrankentage",
+      "url": "https://www.bundesgesundheitsministerium.de/themen/praevention/kindergesundheit/faq-kinderkrankengeld"
+    },
+    {
+      "title": "Mittelstand-und-Familie – Randzeit- & Notfallbetreuung",
+      "url": "https://www.mittelstand-und-familie.de/kinderbetreuung/notfallbetreuung"
+    },
+    {
+      "title": "betreut.de – Vereinbarkeit von Ferien und Beruf",
+      "url": "https://www.betreut.de/magazin/themenspezials/ferien-und-beruf/"
+    }
+  ]
+}

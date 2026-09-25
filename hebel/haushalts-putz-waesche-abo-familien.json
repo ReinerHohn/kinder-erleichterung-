@@ -1,0 +1,83 @@
+{
+  "id": "haushalts-putz-waesche-abo-familien",
+  "name": "Haushalts-, Putz- & Wäsche-Service im Abo für Familien",
+  "category": "💼 Service- & Geschäftsideen",
+  "tags": [
+    "Haushalt",
+    "Putzservice",
+    "Wäsche",
+    "Abo",
+    "lokal"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 3,
+  "summary": "Regelmäßiger, angemeldeter Putz-/Haushalts-/Wäscheservice speziell für Familien, im Abo. Eltern gewinnen Zeit und Konfliktfreiheit; der Anbieter hat planbare wiederkehrende Umsätze – muss aber legale Beschäftigung und dünne Margen managen.",
+  "key_facts": [
+    {
+      "label": "Stundenlohn/Preis",
+      "value": "Bruttolohn ø ~17,93 €/Std.; Plattformpreise 14–25 €/Std. (Berlin)",
+      "source": "finanztip.de, Helpling"
+    },
+    {
+      "label": "Bestehende Plattformen",
+      "value": "Helpling, Batmaid, Wecasa (mit Anmeldung); Betreut.de (Marktplatz, Anmeldung selbst)",
+      "source": "Websuche 2026"
+    },
+    {
+      "label": "Steueranreiz für Kunden",
+      "value": "20 % der Kosten direkt von der Einkommensteuer absetzbar",
+      "source": "finanztip.de"
+    },
+    {
+      "label": "Legalitätshürde",
+      "value": "Schwarzarbeit-Bußgeld bis 500.000 €; Minijob-Grenze 556 €/Monat (2025)",
+      "source": "minijob-zentrale.de, biallo.de"
+    }
+  ],
+  "deep_dive": "Zeitnot bei Doppelverdiener-Familien ist der Kern-Painpoint, und der 20 %-Steuerbonus macht legale Haushaltshilfe attraktiv – der Markt ist etabliert und die Nachfrage strukturell hoch. Die Chance liegt in einem familien-spezifischen Abo (feste Wochentakte, kinderfreundliche Reinigung, plus Wäsche-Bügel-Add-on), nicht im x-ten generischen Putzmarktplatz. Die harten Realitäten: Die Margen sind dünn, weil der größte Kostenblock der Lohn ist; das Kernproblem der Branche ist legale, verlässliche Personalbeschaffung (Minijob-Anmeldung, Sozialabgaben, hohe Fluktuation) und die allgegenwärtige Schwarzmarkt-Konkurrenz (die aber Bußgelder bis 500.000 € riskiert). Wer legal und zuverlässig liefert, hat genau darin den Wettbewerbsvorteil. Ein verbreiteter Irrtum: 'man vermittelt einfach Putzkräfte' – tatsächlich ist Personalführung, Ersatzgestellung bei Ausfall und Qualitätssicherung das eigentliche Geschäft. Skalierung ist personalgebunden und lokal; das Modell trägt, wächst aber langsam und margenschwach. Wäsche-Abholservice ist ein margenstärkeres, differenzierendes Add-on.",
+  "mechanism": "Befreit Eltern von der Doppelbelastung Haushalt neben Job und Kindern und entschärft Paar-Konflikte um Hausarbeit.",
+  "evidence": [
+    {
+      "source": "finanztip.de",
+      "year": 2025,
+      "finding": "20 % Steuerabzug macht legale Haushaltshilfe attraktiv; ø ~17,93 €/Std."
+    },
+    {
+      "source": "biallo.de / minijob-zentrale",
+      "year": 2025,
+      "finding": "Schwarzarbeit-Bußgeld bis 500.000 € – legaler Betrieb ist Wettbewerbsvorteil, aber Compliance-Aufwand."
+    }
+  ],
+  "protocol": [
+    "Familien-Nische + Abo (fester Wochentakt) statt generischer Einzelbuchung.",
+    "Legale Beschäftigung als Verkaufsargument: Anmeldung, Versicherung, Ersatz bei Ausfall garantieren.",
+    "Wäsche-/Bügel-Abholservice als margenstärkeres Add-on aufsetzen.",
+    "Rechtlich: Minijob-Anmeldung/Sozialabgaben, Betriebshaftpflicht (Schäden im Haushalt), Schlüsselverwaltung/Datenschutz."
+  ],
+  "mistakes": [
+    "Schwarzarbeit dulden – existenzbedrohendes Bußgeldrisiko.",
+    "Nur vermitteln statt Personal führen/Ausfälle abdecken – Kunden kündigen bei Unzuverlässigkeit.",
+    "Margen falsch kalkulieren (Lohn ist der Hauptkostenblock)."
+  ],
+  "risks": "Dünne Margen (Lohnkostenblock). Personalbeschaffung/-fluktuation ist das strukturelle Kernproblem. Legale Beschäftigung (Minijob, Sozialabgaben) zwingend; Schwarzarbeitsrisiko. Haftung für Schäden/Schlüssel, Datenschutz. Skalierung personalgebunden und lokal.",
+  "synergy": [
+    "elterlicher-burnout-isolation",
+    "mental-load-gender-care-gap",
+    "familien-mealservice-babybrei-abo"
+  ],
+  "sources": [
+    {
+      "title": "Finanztip – Haushaltshilfe Kosten",
+      "url": "https://www.finanztip.de/haushaltshilfe-kosten/"
+    },
+    {
+      "title": "Minijob-Zentrale – Haushaltshilfe",
+      "url": "https://www.minijob-zentrale.de/DE/die-minijobs/haushaltshilfe"
+    },
+    {
+      "title": "biallo.de – Haushaltshilfe anmelden",
+      "url": "https://www.biallo.de/soziales/news/mit-anmeldung-gegen-schwarzarbeit/"
+    }
+  ]
+}

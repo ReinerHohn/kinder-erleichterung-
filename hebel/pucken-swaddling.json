@@ -1,0 +1,66 @@
+{
+  "id": "pucken-swaddling",
+  "name": "Pucken (Swaddling) – richtig und mit Ablaufdatum",
+  "category": "💡 Sweet Spots (Produkte & Gadgets)",
+  "tags": [
+    "Babyschlaf",
+    "billig",
+    "Sicherheit",
+    "Grenzen"
+  ],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 1,
+  "summary": "Festes Einwickeln (Pucksack ~15–30 €) kann Neugeborene beruhigen und den Moro-Schreck dämpfen. Aber: kein SIDS-Schutz, und ab den ersten Drehversuchen wird Pucken gefährlich – dann sofort beenden.",
+  "key_facts": [
+    {
+      "label": "AAP-Bewertung",
+      "value": "kein Beleg, dass Pucken SIDS senkt",
+      "source": "AAP 2022 Evidence Base"
+    },
+    {
+      "label": "Kritische Grenze",
+      "value": "Erhöhtes Todesrisiko, wenn gepucktes Baby auf dem Bauch liegt/sich dreht (~3–4 Mon.)",
+      "source": "AAP 2022"
+    },
+    {
+      "label": "Kosten",
+      "value": "Pucksack/-tuch ~15–30 €",
+      "source": "Handel"
+    }
+  ],
+  "deep_dive": "Pucken ist eine klassische, billige Einschlafhilfe: Das feste Einwickeln dämpft den Moro-Reflex und beruhigt viele Neugeborene, weshalb es Teil von Karps 'fünf S' ist. Wichtig für die Anti-Hype-Perspektive: Die AAP findet KEINE Evidenz, dass Pucken das SIDS-Risiko senkt – es ist eine Beruhigungs-, keine Sicherheitsmaßnahme. Und es hat ein hartes Ablaufdatum: Sobald ein Baby Anzeichen zeigt, sich zu drehen (meist mit 3–4 Monaten, manchmal früher), ist ein gepucktes Baby in Bauchlage stark erstickungsgefährdet – dann muss das Pucken enden. Zusätzlich immer auf hüftgesunde Wicklung (Beine beweglich) achten und nie zu warm. Verbreiteter Irrtum: 'Pucken schützt vor SIDS' – falsch; falsch angewandt (Bauchlage, zu spät) erhöht es sogar das Risiko.",
+  "mechanism": "Begrenzt Arm-/Beinzuckungen und den Moro-Schreck → weniger Selbstwecken, ruhigeres Einschlafen.",
+  "evidence": [
+    {
+      "source": "AAP 2022 Evidence Base for Safe Sleep",
+      "year": 2022,
+      "finding": "Kein Beleg für SIDS-Reduktion; hohes Todesrisiko bei gepucktem Baby in Bauchlage; Pucken beenden ab Drehversuchen."
+    }
+  ],
+  "protocol": [
+    "Nur in Rückenlage und nur bis zu den ersten Drehversuchen (spätestens ~2–4 Monate) pucken.",
+    "Hüftfreundlich wickeln (Beine anwinkelbar), nicht zu eng um die Brust, nicht überhitzen.",
+    "Pucksack mit Reißverschluss statt loser Tücher (lösen sich seltener)."
+  ],
+  "mistakes": [
+    "Weiterpucken, wenn das Baby sich zu drehen beginnt (lebensgefährlich).",
+    "Zu enges Wickeln der Beine (Hüftdysplasie-Risiko).",
+    "Lose Tücher, die sich lösen und das Gesicht bedecken."
+  ],
+  "risks": "Erhöhtes Erstickungs-/Todesrisiko bei Bauchlage/Drehen – striktes Ablaufdatum einhalten. Hüftschäden bei zu enger Wicklung. Überhitzung. Kein SIDS-Schutz – keine falsche Sicherheit.",
+  "synergy": [
+    "weisses-rauschen-white-noise",
+    "schlafmangel-erste-jahre"
+  ],
+  "sources": [
+    {
+      "title": "AAP 2022 – Evidence Base for Safe Infant Sleeping Environment",
+      "url": "https://publications.aap.org/pediatrics/article/150/1/e2022057991/188305/Evidence-Base-for-2022-Updated-Recommendations-for"
+    },
+    {
+      "title": "AAP 2022 – Sleep-Related Infant Deaths Recommendations",
+      "url": "https://publications.aap.org/pediatrics/article/150/1/e2022057990/188304/Sleep-Related-Infant-Deaths-Updated-2022"
+    }
+  ]
+}

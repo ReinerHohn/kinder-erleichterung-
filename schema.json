@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Kinder-Erleichterung-Karte",
+  "description": "Eine Karte im Katalog: ein Stressor, eine Ursache des Geburtenrückgangs, eine Lösung/Politikmaßnahme, eine KI-/Robotik-Anwendung, ein Produkt-Sweet-Spot, eine Service-/Geschäftsidee oder ein Recht/Fahrplan-Baustein rund um Kinder. Fokus: quantifizierte Evidenz, konkretes Vorgehen, ehrliche Grenzen (Anti-Hype).",
+  "type": "object",
+  "required": ["id", "name", "category", "summary", "protocol"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "kebab-case, = Dateiname"},
+    "name": {"type": "string"},
+    "aka": {"type": "array", "items": {"type": "string"}},
+    "category": {"type": "string", "description": "z.B. 🍼 Stressoren im Alltag / 📉 Ursachen: weniger Kinderwunsch / 🛠️ Lösungen & Politik / 🤖 KI & Robotik / 💡 Sweet Spots (Produkte & Gadgets) / 💼 Service- & Geschäftsideen / 📋 Was auf mich zukommt (Rechte & Fahrplan)"},
+    "tags": {"type": "array", "items": {"type": "string"}},
+    "impact": {"type": "integer", "minimum": 1, "maximum": 5, "description": "Wirkung/Relevanz 1-5 (bei Stressoren/Ursachen: Belastungs-/Treiberstärke; bei Lösungen/Produkten: belegter Entlastungseffekt). Steuert die Sortierung."},
+    "evidence_level": {"type": "string", "enum": ["A", "B", "C"], "description": "A = mehrere Studien/Meta-Analysen oder Gesetz/offizielle Quelle, B = einzelne Studien/konsistente offizielle Auslegung, C = plausibel/klein/variiert"},
+    "effort": {"type": "integer", "minimum": 1, "maximum": 5, "description": "Aufwand/Kosten 1-5 (bei Stressoren: wie schwer lösbar; bei Lösungen/Produkten/Business: Kosten/Umsetzungsaufwand)"},
+    "summary": {"type": "string", "description": "1-3 Sätze"},
+    "key_facts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["label", "value"],
+        "properties": {
+          "label": {"type": "string"},
+          "value": {"type": "string", "description": "möglichst mit konkreter Zahl/Spanne"},
+          "source": {"type": "string"}
+        }
+      }
+    },
+    "deep_dive": {"type": "string", "description": "4-8 Sätze mit quantitativen Befunden + verbreitetem Irrtum mit echter Zahl"},
+    "mechanism": {"type": "string"},
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source", "finding"],
+        "properties": {
+          "source": {"type": "string"},
+          "year": {"type": "integer"},
+          "finding": {"type": "string"}
+        }
+      }
+    },
+    "protocol": {"type": "array", "items": {"type": "string"}, "description": "konkrete Umsetzung / was tun"},
+    "mistakes": {"type": "array", "items": {"type": "string"}},
+    "risks": {"type": "string", "description": "Risiken, Grenzen, Sicherheits-/Rechtshinweise"},
+    "synergy": {"type": "array", "items": {"type": "string"}, "description": "ids verwandter Karten"},
+    "sources": {
+      "type": "array",
+      "items": {"type": "object", "properties": {"title": {"type": "string"}, "url": {"type": "string"}}}
+    }
+  }
+}
