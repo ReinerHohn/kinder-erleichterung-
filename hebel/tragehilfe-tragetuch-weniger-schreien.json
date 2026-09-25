@@ -1,0 +1,80 @@
+{
+  "id": "tragehilfe-tragetuch-weniger-schreien",
+  "name": "Tragehilfe / Tragetuch — belegt weniger Schreien",
+  "category": "💡 Sweet Spots (Produkte & Gadgets)",
+  "tags": [
+    "Tragetuch",
+    "Babytrage",
+    "Schreien",
+    "Bindung",
+    "Hüftgesundheit",
+    "Sweet Spot"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 1,
+  "summary": "Regelmäßiges Tragen reduziert Babyschreien in einer klassischen randomisierten Studie um rund 43 %. Eine gute Tragehilfe mit Anhock-Spreiz-Haltung entlastet die Eltern und fördert die Hüftentwicklung.",
+  "key_facts": [
+    {
+      "label": "Weniger Schreien",
+      "value": "−43 % über den Tag, −51 % am Abend (6 Wochen alt)",
+      "source": "Hunziker & Barr, RCT, Pediatrics 1986"
+    },
+    {
+      "label": "Studiendesign",
+      "value": "RCT, 99 Mutter-Kind-Paare",
+      "source": "PubMed 3517799"
+    },
+    {
+      "label": "Hüfte",
+      "value": "Anhock-Spreiz-Stellung fördert gesunde Hüftpfannenentwicklung",
+      "source": "DGOU"
+    },
+    {
+      "label": "Kosten",
+      "value": "Tragetuch/Trage ~30–150 €, mehrjährig nutzbar",
+      "source": "Marktübersicht"
+    }
+  ],
+  "deep_dive": "Das Tragetuch ist ein seltener echter 'Sweet Spot': günstig, belegt wirksam, hält die Hände frei. Die klassische randomisierte Studie von Hunziker & Barr (Pediatrics 1986, 99 Mutter-Kind-Paare) zeigte, dass Babys, die zusätzlich getragen wurden, im Alter von 6 Wochen — dem Schrei-Höhepunkt — insgesamt 43 % weniger und abends 51 % weniger schrien. Ein verbreiteter Irrtum ist, Tragen 'verwöhne' oder schade der Hüfte: Bei korrekter Anhock-Spreiz-Stellung (Knie höher als Po, M-Position) fördert es laut Deutscher Gesellschaft für Orthopädie und Unfallchirurgie sogar die gesunde Hüftentwicklung. Entscheidend ist die richtige Haltung und ein Tuch/Trage mit anpassbarem Steg — nicht das teuerste Modell. Der Nutzen ist doppelt: weniger Schreien beruhigt das Kind und entlastet die Nerven der Eltern, und die freien Hände ermöglichen Alltag/Haushalt. Wichtig: bei Neugeborenen auf freie Atemwege achten (Gesicht sichtbar, Kinn nicht auf der Brust) und die Anleitung/Trageberatung nutzen.",
+  "mechanism": "Nähe, Körperkontakt, Bewegung und Herzschlag der Bezugsperson regulieren das Baby (weniger Schreien); die M-Haltung zentriert den Hüftkopf und unterstützt die Pfannenreifung; freie Hände entlasten die Eltern.",
+  "evidence": [
+    {
+      "source": "Hunziker & Barr, Pediatrics (RCT)",
+      "year": 1986,
+      "finding": "Zusätzliches Tragen senkt Schreien um 43 % (tags) bzw. 51 % (abends) mit 6 Wochen"
+    },
+    {
+      "source": "DGOU",
+      "year": 2020,
+      "finding": "Anhock-Spreiz-Stellung beim Tragen fördert gesunde Hüftentwicklung"
+    }
+  ],
+  "protocol": [
+    "Tragetuch oder ergonomische Trage mit verstellbarem Steg wählen (M-/Anhock-Spreiz-Position)",
+    "Trageberatung nutzen — korrekter Sitz ist wichtiger als der Preis",
+    "Sicherheit: Gesicht frei/sichtbar, Kinn nicht auf der Brust, aufrechte Position",
+    "Ab Geburt einsetzbar (Neugeborenen-taugliche Bindeweise), v. a. in den Schrei-Hochphasen"
+  ],
+  "mistakes": [
+    "Falsche Haltung (baumelnde Beine statt M-Position) — potenziell hüftungünstig",
+    "Teures Modell = besser annehmen (Sitz/Haltung entscheidet)",
+    "Sicherheitsregeln ignorieren (verdeckte Atemwege bei Neugeborenen)"
+  ],
+  "risks": "Bei falscher Positionierung Atem-/Hüftrisiko für Neugeborene — Sicherheitsregeln und ggf. Trageberatung/Kinderärztin beachten. Wirkung auf Schreien ist statistischer Durchschnitt, nicht bei jedem Kind gleich.",
+  "synergy": [
+    "schlafmangel-erste-jahre",
+    "pucken-swaddling",
+    "weisses-rauschen-white-noise"
+  ],
+  "sources": [
+    {
+      "title": "Increased carrying reduces infant crying: a RCT (PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3517799/"
+    },
+    {
+      "title": "Anhock-Spreizstellung fördert gesunde Hüftentwicklung (DGOU)",
+      "url": "https://dgou.de/news/news/detailansicht/artikel/anhock-spreizstellung-beim-tragen-foerdert-gesunde-entwicklung-der-babyhuefte/"
+    }
+  ]
+}

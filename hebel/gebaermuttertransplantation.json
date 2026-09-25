@@ -1,0 +1,40 @@
+{
+  "id": "gebaermuttertransplantation",
+  "name": "Gebärmuttertransplantation",
+  "category": "🚀 Frontier & Zukunftstechnik",
+  "tags": ["Kinderwunsch", "Transplantation", "Reproduktionsmedizin", "Unfruchtbarkeit"],
+  "impact": 2,
+  "evidence_level": "B",
+  "effort": 5,
+  "summary": "Für Frauen ohne funktionsfähige Gebärmutter (angeboren oder nach OP) ist die Gebärmuttertransplantation real: Weltweit sind bereits über 70 Babys nach solchen Transplantationen geboren. Es ist aber ein hochspezialisierter, riskanter Eingriff für eine kleine Gruppe - keine Alltagsoption.",
+  "key_facts": [
+    {"label": "Geburten weltweit", "value": ">70 Babys nach Gebärmuttertransplantation im letzten Jahrzehnt", "source": "STAT News / JAMA 2024"},
+    {"label": "Zentrum Dallas", "value": "~22 Geburten allein am Baylor (Dallas UtErus Transplant Study)", "source": "STAT News 2024"},
+    {"label": "Verstorbene Spenderin", "value": "Erste Geburt aus Uterus einer verstorbenen Spenderin: Brasilien 2018", "source": "The Lancet / Science 2018"},
+    {"label": "Schweden-Pionier", "value": "Göteborg 2012-2013: 9 Transplantationen, 6 Schwangerschaften, 9 Babys", "source": "Scientific American / Uni Göteborg"}
+  ],
+  "deep_dive": "Die Gebärmuttertransplantation richtet sich an Frauen mit uteriner Infertilität - etwa bei angeborenem Fehlen der Gebärmutter (MRKH-Syndrom) oder nach Entfernung. Der Uterus wird transplantiert, nach Heilung wird per IVF eine Schwangerschaft herbeigeführt, das Kind per Kaiserschnitt geboren, und die Gebärmutter kann danach wieder entfernt werden (kein lebenslanges Organ). Das ist keine Zukunftsmusik mehr: Nach dem schwedischen Pionierprogramm (Göteborg 2012-2013, 9 Babys) sind weltweit über 70 Kinder geboren, allein rund 22 am Baylor in Dallas; Spenden gelingen von lebenden wie von verstorbenen Spenderinnen (erste Geburt aus verstorbener Spenderin: Brasilien 2018). Der verbreitete Irrtum: Es sei ein Routineeingriff - tatsächlich sind es Dutzende Fälle weltweit, hochspezialisiert, mit großer OP, IVF und immunsuppressiver Therapie während der Schwangerschaft. Für die kleine betroffene Gruppe ist es dennoch ein Weg zur genetisch eigenen Schwangerschaft, der zuvor undenkbar war - als Alternative zu Adoption oder Leihmutterschaft (letztere in vielen Ländern verboten).",
+  "mechanism": "Bricht die harte Grenze der uterinen Unfruchtbarkeit auf: Frauen ohne funktionsfähige Gebärmutter können erstmals selbst schwanger werden und gebären, statt zwingend auf Adoption oder Leihmutterschaft angewiesen zu sein.",
+  "evidence": [
+    {"source": "JAMA / STAT News", "year": 2024, "finding": "Über 70 Babys nach Gebärmuttertransplantation geboren; kein nachteiliger Einfluss auf die Kinder in der Studie."},
+    {"source": "The Lancet / Science", "year": 2018, "finding": "Erste erfolgreiche Geburt aus einem von einer verstorbenen Spenderin transplantierten Uterus (Brasilien)."},
+    {"source": "Dallas UtErus Transplant Study (PubMed)", "year": 2021, "finding": "Zwölf Lebendgeburten in der Dallas-Studie dokumentiert; kein Unterschied lebende vs. verstorbene Spenderin nachgewiesen."}
+  ],
+  "protocol": [
+    "Relevant für: Frauen mit uteriner Infertilität (z.B. MRKH, nach Hysterektomie) - über spezialisierte Zentren/Studien.",
+    "Ablauf realistisch einordnen: Transplantation + IVF + immunsuppressive Therapie + Kaiserschnitt, danach ggf. Entfernung des Organs.",
+    "Zukunftsmusik/selten: breite Verfügbarkeit - noch experimentell/hochspezialisiert, wenige Zentren weltweit.",
+    "Worauf achten: Aufklärung über OP-Risiken, Immunsuppression und begrenzte Erfahrungsbasis; Alternativen (Adoption) mitbedenken."
+  ],
+  "mistakes": [
+    "Für einen Routineeingriff halten (weltweit erst Dutzende Fälle).",
+    "Die begleitende IVF, Immunsuppression und Kaiserschnitt-Notwendigkeit unterschätzen.",
+    "Mit künstlicher Gebärmutter verwechseln - das sind völlig verschiedene Dinge."
+  ],
+  "risks": "Große OP mit Komplikationsrisiko für Empfängerin (und Lebendspenderin), Immunsuppression in der Schwangerschaft, begrenzte Langzeitdaten, hohe Kosten, sehr wenige spezialisierte Zentren, ethische Fragen zu Spende und Risiko-Nutzen.",
+  "sources": [
+    {"title": "More than 70 babies born from uterus transplants (STAT News)", "url": "https://www.statnews.com/2024/08/16/uterus-transplants-efficacy-safety-jama-study-no-adverse-impact-on-babies/"},
+    {"title": "Dozens of Babies Have Been Born from Uterus Transplants (Scientific American)", "url": "https://www.scientificamerican.com/article/uterus-transplants-once-highly-experimental-have-led-to-dozens-of-births/"},
+    {"title": "Twelve Live Births After Uterus Transplantation - Dallas Study (PubMed)", "url": "https://pubmed.ncbi.nlm.nih.gov/33416285/"}
+  ]
+}

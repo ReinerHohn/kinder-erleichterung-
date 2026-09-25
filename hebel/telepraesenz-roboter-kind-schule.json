@@ -1,0 +1,39 @@
+{
+  "id": "telepraesenz-roboter-kind-schule",
+  "name": "Telepräsenz-Roboter (krankes Kind / Eltern 'dabei sein')",
+  "category": "🤖 KI & Robotik",
+  "tags": ["Schule", "Krankheit", "Teilhabe", "Vereinbarkeit", "Roboter"],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 2,
+  "summary": "Kleine Avatar-Roboter wie AV1 (No Isolation) sitzen im Klassenzimmer und werden von einem kranken Kind per App gesteuert, damit es Unterricht und Freunde nicht verliert. Real im Einsatz, mit messbarem Effekt auf Anwesenheit - keine Zukunftsmusik.",
+  "key_facts": [
+    {"label": "Anwesenheit", "value": "Pilot: +21% Anwesenheit, +42% Engagement-Stunden", "source": "No Isolation / CNN"},
+    {"label": "Funktion", "value": "360°-drehbar, Kamera/Mikro/Lautsprecher, per App vom Kind gesteuert", "source": "CNN Business"},
+    {"label": "Forschung", "value": "Frontiers in Digital Health (2024): hohes Potenzial für soziale/schulische Anbindung (AV1 DE, OriHime JP)", "source": "Frontiers in Digital Health 2024"},
+    {"label": "Bedarf", "value": ">19% der Schüler:innen in England fehlten Herbst 2023/24 v.a. wegen Krankheit", "source": "CNN / UK-Regierungszahlen"}
+  ],
+  "deep_dive": "Telepräsenz-Roboter wie der AV1 der norwegischen Firma No Isolation sind kleine, kamerabestückte Avatare, die statt des kranken Kindes im Klassenzimmer stehen. Das Kind steuert den Roboter von zuhause oder aus dem Krankenhaus per App, kann sich um 360° umsehen, zuhören, sprechen und per Leuchtsignal melden - so bleibt es sozial und schulisch angebunden, obwohl es körperlich fehlt. Das ist real im Einsatz: Ein Pilotprojekt zeigte 21% mehr Anwesenheit und 42% mehr Engagement-Stunden, und Forschung in Frontiers in Digital Health (2024, AV1 in Deutschland, OriHime in Japan) bescheinigte hohes Potenzial für soziale Teilhabe. Für Familien mit chronisch oder langfristig kranken Kindern (aber auch bei Schulangst) ist das ein greifbarer Nutzen. Dasselbe Prinzip funktioniert umgekehrt für berufstätige/getrennt lebende Eltern, die per Telepräsenz 'dabei sein' wollen. Der verbreitete Irrtum: Das ist kein sozialer Roboter mit eigener KI und kein Ersatz für echte Präsenz - es ist ein reines Fenster, hinter dem ein Mensch steckt. Datenschutz im Klassenraum (Mitschüler:innen im Bild) und Kosten (meist Miete) sind zu klären.",
+  "mechanism": "Überbrückt erzwungene Abwesenheit (Krankheit, Klinik, Distanz) durch verkörperte Fern-Teilhabe - das Kind bleibt Teil der Klasse in Echtzeit, statt sozial und im Stoff den Anschluss zu verlieren.",
+  "evidence": [
+    {"source": "No Isolation / CNN Business", "year": 2024, "finding": "Pilotprojekt: 21% höhere Anwesenheit und 42% mehr Engagement-Stunden mit AV1-Robotern."},
+    {"source": "Frontiers in Digital Health", "year": 2024, "finding": "AV1 (Deutschland) und OriHime (Japan) bergen hohes Potenzial, kranke Kinder sozial und schulisch anzubinden."}
+  ],
+  "protocol": [
+    "Heute nutzbar: bei chronisch/langfristig kranken Kindern oder Schulangst - AV1 wird meist gemietet, oft über Schule/Krankenkasse/Stiftungen finanzierbar.",
+    "Klären: Zustimmung der Schule und Datenschutz (Mitschüler:innen im Kamerabild), Einbindung der Lehrkraft.",
+    "Analog für Eltern: einfache Videotelefonie/Telepräsenz nutzen, um bei Ereignissen 'dabei zu sein' - kein teurer Roboter nötig.",
+    "Grenze: ersetzt keine echte Präsenz und keine soziale KI - es ist ein ferngesteuertes Fenster."
+  ],
+  "mistakes": [
+    "AV1 für einen autonomen sozialen KI-Roboter halten (es ist reine Telepräsenz, gesteuert vom Kind).",
+    "Datenschutz/Zustimmung im Klassenraum übersehen.",
+    "Glauben, Telepräsenz ersetze körperliche Anwesenheit vollständig."
+  ],
+  "risks": "Datenschutz (Aufnahme von Mitschüler:innen), Kosten/Mietmodell, technische Abhängigkeit (Netz), kein Ersatz für echte Präsenz, mögliche Stigmatisierung des Kindes.",
+  "sources": [
+    {"title": "The AV1 robot is helping sick children attend school (CNN Business)", "url": "https://www.cnn.com/business/tech/av1-robot-sick-children-school-spc/index.html"},
+    {"title": "AV1 by No Isolation - reduce school absence with telepresence robots", "url": "https://www.noisolation.com/"},
+    {"title": "This desktop robot is helping sick children attend school (ISPR)", "url": "https://ispr.info/2024/10/15/this-little-desktop-robot-is-helping-sick-children-attend-school/"}
+  ]
+}

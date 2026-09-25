@@ -1,0 +1,40 @@
+{
+  "id": "hormon-wearables-zyklus-ki",
+  "name": "Hormon-Wearables & KI-Zyklustracking (Fertilität)",
+  "category": "🤖 KI & Robotik",
+  "tags": ["Kinderwunsch", "Fruchtbarkeit", "Wearable", "KI", "Femtech"],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 2,
+  "summary": "Quantitative Hormon-Heimtests (z.B. Mira) plus Wearables mit KI-Zyklusanalyse (z.B. Oura) bestimmen das Fruchtbarkeitsfenster genauer als klassische Ovulationsstreifen. Das ist heute nutzbare, günstige Technik - ersetzt aber keine Kinderwunsch-Behandlung.",
+  "key_facts": [
+    {"label": "Eisprung-Erkennung", "value": "Oura Ring erkannte 96,4% der Eisprünge, Ø-Fehler 1,26 Tage", "source": "Validierungsstudie 2025 (PubMed)"},
+    {"label": "Quantitative Hormone", "value": "Mira misst LH, Östrogen (E3G), Progesteron (PdG), FSH als Zahlenwerte statt nur high/low", "source": "Mira / HIT Consultant 2026"},
+    {"label": "Integration", "value": "Mira + Oura kombinieren Hormonwerte mit Schlaf/Temperatur seit 2026", "source": "MobiHealthNews / Wareable 2026"},
+    {"label": "Kosten", "value": "Hormon-Monitor-Kits ~100-250 EUR + Teststäbchen; Smart-Ring ~300-400 EUR", "source": "Mira Shop / Herstellerangaben"}
+  ],
+  "deep_dive": "Statt Ovulationsstreifen nur 'positiv/negativ' abzulesen, messen Geräte wie der Mira-Monitor mit Fluoreszenz-Technik konkrete Hormonkonzentrationen (LH, Östrogen, Progesteron, FSH) und erfassen so das Fruchtbarkeitsfenster auch bei unregelmäßigen Zyklen oder PCOS. Parallel werten Wearables wie der Oura Ring über KI Körpertemperatur und Schlaf aus - eine Validierungsstudie 2025 fand 96,4% erkannte Eisprünge bei durchschnittlich 1,26 Tagen Abweichung. Seit 2026 lassen sich Hormonwerte und Wearable-Daten kombinieren. Für Paare mit Kinderwunsch ist das heute schon greifbar, vergleichsweise günstig und liefert bessere Timing-Information als reine Kalendermethoden. Der verbreitete Irrtum: Ein präzise erkanntes Fruchtbarkeitsfenster erhöht nicht die Fruchtbarkeit selbst - es hilft nur beim Timing. Bei ausbleibendem Erfolg (Faustregel: >12 Monate, ab 35 Jahren >6 Monate) ersetzt kein Wearable die ärztliche Abklärung. Datenschutz ist heikel, da intime Zyklus- und Schwangerschaftsdaten anfallen.",
+  "mechanism": "Verwandelt das unsichtbare, individuell schwankende Fruchtbarkeitsfenster in konkrete, tagesgenaue Messwerte - so wird der 'blinde' Zufall beim natürlichen Konzeptions-Timing planbarer, gerade bei unregelmäßigen Zyklen.",
+  "evidence": [
+    {"source": "Oura Ring Validierungsstudie (PubMed)", "year": 2025, "finding": "96,4% der Eisprünge erkannt, mittlere Abweichung 1,26 Tage gegenüber Referenz."},
+    {"source": "Mira / Fachpresse", "year": 2026, "finding": "Quantitative Vier-Hormon-Messung erkennt Eisprung auch bei PCOS/unregelmäßigen Zyklen und mehreren LH-Peaks."},
+    {"source": "MobiHealthNews", "year": 2026, "finding": "Integration von Hormonmessung und Wearable-Physiologie in einer App eingeführt."}
+  ],
+  "protocol": [
+    "Heute sinnvoll: quantitativer Hormon-Monitor bei Kinderwunsch, besonders bei unregelmäßigen Zyklen/PCOS, plus optional Wearable zur Bestätigung.",
+    "Timing optimieren: Verkehr im erkannten fruchtbaren Fenster (die ~2 Tage vor Eisprung).",
+    "Grenze respektieren: bei ausbleibendem Erfolg (>12 Monate, ab 35 >6 Monate) ärztlich abklären - Tracking ersetzt keine Diagnostik/Behandlung.",
+    "Datenschutz: Anbieter, Datenspeicherort und Weitergabe prüfen (intime Gesundheitsdaten)."
+  ],
+  "mistakes": [
+    "Glauben, präzises Tracking erhöhe die Fruchtbarkeit (es verbessert nur das Timing).",
+    "Tracking als Verhütung nutzen ohne validierte Methode/Anleitung.",
+    "Ärztliche Abklärung hinauszögern, weil 'die App ja alles misst'."
+  ],
+  "risks": "Falsche Sicherheit/Timing-Fixierung, Datenschutz bei sensiblen Zyklus-/Schwangerschaftsdaten, Kosten durch Verbrauchsmaterial, psychischer Druck durch Dauermessung, kein Ersatz für Reproduktionsmedizin.",
+  "sources": [
+    {"title": "Oura Ring as a Tool for Ovulation Detection: Validation Analysis (PubMed)", "url": "https://pubmed.ncbi.nlm.nih.gov/39889300/"},
+    {"title": "Mira partners with Oura to link hormone tracking with wearable data (MobiHealthNews)", "url": "https://www.mobihealthnews.com/news/mira-partners-oura-link-hormone-tracking-wearable-data"},
+    {"title": "Mira Announces Integration with Oura Ring (HIT Consultant)", "url": "https://hitconsultant.net/2026/02/10/mira-oura-partnership-hormone-tracking-integration/"}
+  ]
+}

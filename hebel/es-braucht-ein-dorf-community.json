@@ -1,0 +1,76 @@
+{
+  "id": "es-braucht-ein-dorf-community",
+  "name": "'Es braucht ein Dorf': Mehrgenerationenwohnen & soziale Netze",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": [
+    "Community",
+    "Mehrgenerationenhaus",
+    "soziale Unterstützung",
+    "Isolation",
+    "Großeltern",
+    "Puffer"
+  ],
+  "impact": 4,
+  "evidence_level": "B",
+  "effort": 3,
+  "summary": "Fehlende soziale Netze sind ein Kerntreiber von Eltern-Isolation und Burnout. Mehrgenerationenwohnen, Community-Projekte und nahe Großeltern wirken als Puffer, der Betreuung, Mental Load und Kosten verteilt.",
+  "key_facts": [
+    {
+      "label": "Bundesprogramm",
+      "value": "~540 geförderte Mehrgenerationenhäuser in Deutschland",
+      "source": "BMFSFJ Aktionsprogramm"
+    },
+    {
+      "label": "Prinzip",
+      "value": "getrennte Wohneinheiten + Gemeinschaftsräume, gegenseitige Alltagshilfe (Kinderbetreuung, Einkauf, Pflege)",
+      "source": "SOS-Kinderdorf / BMFSFJ"
+    },
+    {
+      "label": "Zielgruppe",
+      "value": "besonders Alleinerziehende, isolierte Familien, Ältere profitieren",
+      "source": "BMFSFJ"
+    }
+  ],
+  "deep_dive": "Das Sprichwort 'It takes a village' hat einen realen Kern: Der Wegfall der Großfamilie und wohnortnaher Netze lässt Eltern die gesamte Sorgearbeit allein schultern — ein Haupttreiber von Isolation und Burnout. Mehrgenerationenwohnen und Community-Modelle setzen genau hier an: getrennte Wohneinheiten plus Gemeinschaftsflächen, in denen sich Generationen gegenseitig entlasten — Ältere hüten Kinder berufstätiger Eltern, Jüngere übernehmen Garten oder Einkauf. In Deutschland fördert der Bund über das Aktionsprogramm rund 540 Mehrgenerationenhäuser. Ein verbreiteter Irrtum ist, das sei nur ein Wohnkonzept: Der eigentliche Hebel ist das soziale Netz, das Betreuung, Mental Load und Kosten auf mehrere Schultern verteilt. Besonders Alleinerziehende und von Isolation bedrohte Familien profitieren. Die Evidenz ist mehrheitlich programmbasiert/beobachtend (daher Level B), aber konsistent: Wer nahe Großeltern oder ein tragendes Umfeld hat, berichtet weniger Überlastung. Der Effekt lässt sich auch ohne Umzug nachbauen — durch Wahl der Wohnlage, Nachbarschaftshilfe und Eltern-Netzwerke.",
+  "mechanism": "Verteilung von Betreuung, Wissen und Aufgaben auf mehrere Erwachsene → weniger individuelle Belastung, Kostenteilung und emotionaler Puffer gegen Isolation und Burnout.",
+  "evidence": [
+    {
+      "source": "BMFSFJ Aktionsprogramm Mehrgenerationenhäuser",
+      "year": 2021,
+      "finding": "Bundesweit ~540 geförderte Häuser; niedrigschwellige Entlastung v. a. für Alleinerziehende"
+    },
+    {
+      "source": "SOS-Kinderdorf",
+      "year": 2024,
+      "finding": "Generationenübergreifende gegenseitige Alltagshilfe stärkt soziale Gemeinschaft, reduziert Isolation"
+    }
+  ],
+  "protocol": [
+    "Wohnort bewusst nahe zu unterstützenden Großeltern/Freunden wählen (Nähe schlägt Fläche)",
+    "Lokales Mehrgenerationenhaus / Familienzentrum als Anlaufstelle nutzen",
+    "Eltern-Netzwerke aktiv aufbauen: Fahr-, Hol-/Bring-, Betreuungs-Tausch",
+    "Community-Wohnprojekte prüfen; Aufgaben-/Kostenteilung schriftlich verabreden"
+  ],
+  "mistakes": [
+    "Auf Vollzeit-Selbstversorgung als Kernfamilie beharren statt Netz aufzubauen",
+    "Mehrgenerationenwohnen nur als Immobilienfrage sehen, nicht als soziales Netz",
+    "Großeltern überlasten / Erwartungen nicht klären (Konfliktrisiko)"
+  ],
+  "risks": "Nähe kann auch Konflikte erzeugen (Erziehungsstile, Grenzen, Überforderung der Großeltern). Evidenz überwiegend beobachtend, nicht randomisiert. Nicht für alle Familienkonstellationen praktikabel.",
+  "synergy": [
+    "elterlicher-burnout-isolation",
+    "leih-oma-grosseltern-dienst",
+    "unterstuetzung-alleinerziehende",
+    "verlust-freiheit-zeit-paarzeit"
+  ],
+  "sources": [
+    {
+      "title": "Aktionsprogramm Mehrgenerationenhäuser (BMFSFJ)",
+      "url": "https://www.bmbfsfj.bund.de/resource/blob/95576/f7afef3b8312af047952c30994fb979f/zukunftsprogrammmehrgenerationenhaeuser-data.pdf"
+    },
+    {
+      "title": "Mehrgenerationenhäuser (SOS-Kinderdorf)",
+      "url": "https://www.sos-kinderdorf.de/paedagogik/angebote/mehrgenerationshaeuser"
+    }
+  ]
+}

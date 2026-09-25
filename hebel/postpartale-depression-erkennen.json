@@ -1,0 +1,92 @@
+{
+  "id": "postpartale-depression-erkennen",
+  "name": "Postpartale Depression (Wochenbettdepression) erkennen & behandeln",
+  "category": "🍼 Stressoren im Alltag",
+  "tags": [
+    "Wochenbettdepression",
+    "PPD",
+    "psychische Gesundheit",
+    "EPDS",
+    "Screening",
+    "Mutter",
+    "Vater"
+  ],
+  "impact": 5,
+  "evidence_level": "A",
+  "effort": 3,
+  "summary": "Rund 10–20 % der Mütter entwickeln eine behandlungsbedürftige postpartale Depression — sie ist häufig, gut behandelbar, wird aber oft übersehen. Früherkennung per EPDS-Screening und Hilfe sind entscheidend.",
+  "key_facts": [
+    {
+      "label": "Häufigkeit",
+      "value": "ca. 10–20 % der Mütter; deutsche EPDS-Studien 10–16 % (6 Wo./3 Mon.)",
+      "source": "Springer / Frontiers Meta 2017"
+    },
+    {
+      "label": "Screening",
+      "value": "EPDS = 10-Item-Fragebogen; Score ≥13 = hohes Risiko",
+      "source": "PMC EPDS-Meta 2020"
+    },
+    {
+      "label": "Abgrenzung",
+      "value": "Baby Blues (~50–80 %, klingt in Tagen ab) ≠ PPD (anhaltend, behandlungsbedürftig)",
+      "source": "Fachliteratur"
+    },
+    {
+      "label": "Väter",
+      "value": "auch Väter betroffen (Größenordnung ~8–10 %)",
+      "source": "Frontiers Meta 2017"
+    }
+  ],
+  "deep_dive": "Die postpartale Depression (PPD) ist eine der häufigsten Komplikationen nach einer Geburt — je nach Screening-Methode und Zeitpunkt liegen die Werte für Deutschland zwischen etwa 10 % und 16 %, international werden 10–20 % genannt. Ein verbreiteter Irrtum ist, jede Verstimmung nach der Geburt sei der harmlose 'Baby Blues': Dieser betrifft zwar 50–80 % der Mütter, klingt aber innerhalb von Tagen ab. Eine PPD hält an, beeinträchtigt Alltag und Bindung und ist behandlungsbedürftig. Das Standard-Screening ist die Edinburgh Postnatal Depression Scale (EPDS), ein 10-Item-Fragebogen; ein Wert ab 13 deutet auf ein hohes Depressionsrisiko und sollte ärztlich abgeklärt werden. Auch Väter können betroffen sein. Behandelbar ist die PPD gut — über Psychotherapie, ggf. Medikation (auch stillverträglich) und Entlastung. Wichtig: Bei anhaltender Niedergeschlagenheit, Erschöpfung, Angst oder Gedanken, sich oder dem Kind zu schaden, sofort Hebamme, Hausärztin, Gynäkologin oder eine Krisenstelle kontaktieren.",
+  "mechanism": "Hormonumstellung + Schlafmangel + Überforderung + fehlende soziale Unterstützung → depressive Episode; frühes Screening (EPDS) macht die oft unsichtbare Erkrankung sichtbar und ermöglicht rechtzeitige Behandlung.",
+  "evidence": [
+    {
+      "source": "Frontiers Psychiatry, Meta-Analyse 291 Studien / 56 Länder",
+      "year": 2017,
+      "finding": "PPD global häufig; ökonomische und Gesundheitsfaktoren als Prädiktoren"
+    },
+    {
+      "source": "Springer, Archives of Women's Mental Health (Deutschland)",
+      "year": 2005,
+      "finding": "15,8 % bei 6 Wochen, 15,4 % bei 3 Monaten postpartum (EPDS >10)"
+    },
+    {
+      "source": "PMC, EPDS-Genauigkeits-Meta (IPD)",
+      "year": 2020,
+      "finding": "EPDS valide zur Erkennung schwerer Depression bei Schwangeren/Wöchnerinnen"
+    }
+  ],
+  "protocol": [
+    "EPDS-Selbsttest kennen; bei Score ≥13 oder anhaltenden Symptomen ärztlich abklären",
+    "Symptome von Baby Blues abgrenzen (Dauer! >2 Wochen = abklären)",
+    "Frühe Anlaufstellen nutzen: Hebamme, Gynäkologin, Hausärztin, Schreiambulanz, Krisendienst",
+    "Partner/Umfeld einbeziehen — auch Väter screenen; Entlastung und Schlaf organisieren"
+  ],
+  "mistakes": [
+    "PPD als vorübergehenden 'Baby Blues' verharmlosen",
+    "Aus Scham keine Hilfe suchen — PPD ist häufig und behandelbar",
+    "Väter/Partner ausblenden",
+    "Auf 'wird schon wieder' warten statt bei Warnzeichen zu handeln"
+  ],
+  "risks": "Ernstes Gesundheitsthema. Dieser Eintrag ersetzt keine Diagnose. Bei Suizidgedanken oder Gefährdung des Kindes sofort ärztliche/psychiatrische Hilfe bzw. Notruf. Screening-Scores sind Hinweise, keine Diagnose.",
+  "synergy": [
+    "hebammenmangel-geburtserlebnis-kaiserschnitt",
+    "elterlicher-burnout-isolation",
+    "schlafmangel-erste-jahre",
+    "es-braucht-ein-dorf-community"
+  ],
+  "sources": [
+    {
+      "title": "Economic and Health Predictors of PPD Prevalence (Frontiers)",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2017.00248/full"
+    },
+    {
+      "title": "Epidemiology of postnatal depression in Germany (Springer)",
+      "url": "https://link.springer.com/article/10.1007/s00737-005-0068-x"
+    },
+    {
+      "title": "Accuracy of the EPDS: systematic review & meta-analysis (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7656313/"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "kuenstliche-gebaermutter-ectogenesis",
+  "name": "Künstliche Gebärmutter (EXTEND / Ectogenesis)",
+  "category": "🚀 Frontier & Zukunftstechnik",
+  "tags": ["Frühgeburt", "Ectogenesis", "Reproduktionstechnik", "Frontier", "Ethik"],
+  "impact": 2,
+  "evidence_level": "C",
+  "effort": 5,
+  "summary": "Ein flüssigkeitsgefüllter Beutel (Biobag) mit künstlicher Plazenta soll extrem Frühgeborene außerhalb des Körpers weiterreifen lassen. In Tierversuchen mit Lämmern erfolgreich, erste Human-Studien frühestens 2026-2028 geplant - eine 'Baby-Produktion im Tank' ist das ausdrücklich NICHT.",
+  "key_facts": [
+    {"label": "Tierversuch", "value": "Frühgeborene Lämmer über ~4 Wochen im Biobag weiterentwickelt (CHOP, ab 2017)", "source": "Nature Communications 2017 / EXTEND (CHOP)"},
+    {"label": "FDA-Anhörung", "value": "Sept. 2023 Pediatric Advisory Committee beriet erste Human-Studien - noch keine Zulassung", "source": "FDA / CNN 2023"},
+    {"label": "Ziel", "value": "Ausschließlich extreme Frühchen (~22-28 SSW), NICHT Schwangerschaft ersetzen", "source": "ScienceDirect 2024"},
+    {"label": "Zeithorizont", "value": "Erste Human-Trials 2026-2028 angepeilt, begrenzte Zulassung frühestens ~2030", "source": "Fertility Innovation Lab 2026"}
+  ],
+  "deep_dive": "Die EXTEND-Technologie (EXTrauterine Environment for Neonatal Development) am Children's Hospital of Philadelphia ist ein 'Biobag' - ein steriler, mit künstlichem Fruchtwasser gefüllter Beutel, in dem eine pumpenlose künstliche Plazenta über die Nabelschnur Sauerstoff zuführt. In Tierversuchen wurden extrem frühe Lämmer über rund vier Wochen erfolgreich weiterentwickelt. Im September 2023 beriet das FDA Pediatric Advisory Committee über erste Studien am Menschen; eine Zulassung gibt es nicht, erste Human-Trials werden für etwa 2026-2028 angepeilt, eine begrenzte Anwendung realistisch erst gegen 2030. Der verbreitete Irrtum: Es geht NICHT um 'Babys aus dem Tank' oder das Ersetzen der Schwangerschaft, sondern um Frühgeborene ab ca. 22-28 Schwangerschaftswochen, für die der Beutel eine physiologischere Alternative zum Brutkasten wäre. Für werdende Eltern relevant ist das ausschließlich als potenzielle Überlebens- und Gesundheitschance bei drohender Extremfrühgeburt. Ethisch heikel sind die Grenze zwischen Fötus und Neugeborenem, Einwilligungsfragen und Missbrauchsfantasien einer 'vollständigen Ectogenesis', die technisch noch weit entfernt ist.",
+  "mechanism": "Ersetzt die späte Reifungsphase der Lunge und Organe, die im Brutkasten heute oft schwere Schäden hinterlässt, durch eine flüssigkeitsbasierte, plazenta-ähnliche Umgebung - könnte so die Überlebensgrenze der Frühgeburt nach vorn verschieben.",
+  "evidence": [
+    {"source": "Nature Communications (CHOP, EXTEND)", "year": 2017, "finding": "Extrem frühe Lämmer entwickelten sich über Wochen normal im flüssigkeitsgefüllten Biobag mit künstlicher Plazenta weiter."},
+    {"source": "FDA Pediatric Advisory Committee / CNN", "year": 2023, "finding": "Beratung über erste Human-Studien - Fokus ausschließlich auf extreme Frühgeborene, ethische und regulatorische Fragen offen."},
+    {"source": "ScienceDirect Review", "year": 2024, "finding": "Technologie nähert sich ersten Human-Trials, adressiert extreme Prämaturität, nicht Schwangerschaftsersatz."}
+  ],
+  "protocol": [
+    "Heute: keine Anwendung möglich - reine Forschung; als werdende Eltern nichts 'buchbar'.",
+    "Realistisch in Reichweite: bessere Chancen für Extremfrühchen, falls Human-Trials ab ~2026-2028 erfolgreich verlaufen.",
+    "Zukunftsmusik: vollständige Ectogenesis (Schwangerschaft komplett außerhalb des Körpers) - technisch und ethisch weit entfernt.",
+    "Worauf achten: Ankündigungen zu 'Baby-Farmen' oder Marktreife sind Hype; seriös ist nur der Frühgeborenen-Kontext."
+  ],
+  "mistakes": [
+    "Tierversuch (Lamm) mit Marktreife am Menschen verwechseln.",
+    "Glauben, die Technik ersetze bald die normale Schwangerschaft ('Baby im Tank').",
+    "Virale Renderings/Konzeptvideos von 'Geburtsfabriken' für reale Produkte halten."
+  ],
+  "risks": "Ethik (Grenze Fötus/Neugeborenes, Einwilligung, Instrumentalisierung), unklare Langzeitfolgen, Regulierung offen, Hype-Gefahr durch Missbrauch des Begriffs Ectogenesis; Ungleichheit bei Zugang zu Hochleistungs-Neonatologie.",
+  "sources": [
+    {"title": "FDA advisers discuss future of 'artificial womb' for human trials (CNN)", "url": "https://www.cnn.com/2023/09/19/health/artificial-womb-human-trial-fda"},
+    {"title": "Artificial womb technology - a more physiologic solution to extreme prematurity (ScienceDirect/PMC)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11732160/"},
+    {"title": "Assessment of extremely premature lambs supported by EXTEND (PMC)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11772227/"}
+  ]
+}

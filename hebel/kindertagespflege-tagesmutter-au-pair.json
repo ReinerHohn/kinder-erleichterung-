@@ -1,0 +1,97 @@
+{
+  "id": "kindertagespflege-tagesmutter-au-pair",
+  "name": "Tagesmutter / Kindertagespflege & Au-pair als Betreuungsmodell",
+  "category": "📋 Was auf mich zukommt (Rechte & Fahrplan)",
+  "tags": [
+    "Kindertagespflege",
+    "Tagesmutter",
+    "Au-pair",
+    "Betreuung",
+    "Rechtsanspruch",
+    "Kosten",
+    "Jugendamt"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 3,
+  "summary": "Kindertagespflege (Tagesmutter/-vater) ist eine gleichwertige, oft flexiblere Alternative zur Kita und erfüllt den Rechtsanspruch ab dem 1. Geburtstag. Au-pair ergänzt für Randzeiten, hat aber enge rechtliche Vorgaben.",
+  "key_facts": [
+    {
+      "label": "Rechtsanspruch",
+      "value": "ab 1. Geburtstag — erfüllbar durch Kita ODER Kindertagespflege",
+      "source": "§ 24 SGB VIII / betanet"
+    },
+    {
+      "label": "Gruppengröße",
+      "value": "i.d.R. bis zu 5 gleichzeitig betreute Kinder",
+      "source": "kindergartenakademie.de"
+    },
+    {
+      "label": "Kosten",
+      "value": "einkommensabhängig, ~150–600 €/Monat (0–20 €/Std.), Essen oft 30–80 € extra",
+      "source": "vr.de / Sparkasse"
+    },
+    {
+      "label": "Steuer",
+      "value": "2/3 der Betreuungskosten, max. 4.000 €/Kind/Jahr absetzbar",
+      "source": "betanet / EStG"
+    },
+    {
+      "label": "Aufsicht",
+      "value": "Vermittlung + Eignungsprüfung + Pflegeerlaubnis durch das Jugendamt",
+      "source": "betanet"
+    }
+  ],
+  "deep_dive": "Viele Eltern übersehen, dass der Rechtsanspruch auf Betreuung ab dem 1. Geburtstag nicht nur über die Kita, sondern gleichwertig über die Kindertagespflege (Tagesmutter/-vater) erfüllt werden kann. Eine Tagespflegeperson betreut typischerweise bis zu fünf Kinder gleichzeitig, meist im eigenen Zuhause — kleiner, familiärer und oft mit flexibleren Zeiten als eine Kita, was gerade bei Randzeiten hilft. Ein verbreiteter Irrtum ist, das sei 'inoffiziell': Die Vermittlung, Eignungsprüfung und Pflegeerlaubnis laufen über das Jugendamt, das die Person prüft. Die Kosten sind einkommensabhängig gestaffelt und liegen grob bei 150–600 € pro Monat (0–20 €/Std.), Verpflegung häufig separat (30–80 €). Steuerlich sind zwei Drittel der Betreuungskosten bis 4.000 € pro Kind und Jahr als Sonderausgaben absetzbar. Ein Au-pair ist ein anderes Modell: kulturaustausch-basiert, mit gesetzlicher Höchstarbeitszeit (i.d.R. 30 Std./Woche), Taschengeld und Unterkunft im Haushalt — geeignet für flexible Betreuung, aber kein Ersatz für qualifizierte pädagogische Betreuung und rechtlich strenger reguliert. Alle Details variieren je Bundesland/Kommune; im Zweifel Jugendamt bzw. Steuerberatung fragen.",
+  "mechanism": "Kindertagespflege deckt den gesetzlichen Betreuungsanspruch flexibler und kleiner ab; Au-pair ergänzt Haushalt/Randzeiten. Öffentliche Aufsicht (Jugendamt) sichert Qualität, Steuerabsetzbarkeit senkt die Nettokosten.",
+  "evidence": [
+    {
+      "source": "betanet / § 24 SGB VIII",
+      "year": 2024,
+      "finding": "Rechtsanspruch ab 1. Geburtstag über Kita oder Tagespflege; Pflegeerlaubnis via Jugendamt"
+    },
+    {
+      "source": "vr.de / Sparkasse",
+      "year": 2024,
+      "finding": "Kosten ~150–600 €/Monat, einkommensgestaffelt; Essen oft separat"
+    },
+    {
+      "source": "kindergartenakademie.de",
+      "year": 2024,
+      "finding": "Tagespflegeperson betreut i.d.R. bis zu 5 Kinder gleichzeitig"
+    }
+  ],
+  "protocol": [
+    "Frühzeitig beim Jugendamt melden — dort werden Tagespflegepersonen vermittelt und geprüft",
+    "Auf Pflegeerlaubnis und Qualifizierung (Grundqualifikation/Fortbildung) achten",
+    "Kosten und Verpflegung schriftlich klären; einkommensabhängige Ermäßigung beantragen",
+    "Steuervorteil nutzen: 2/3 der Kosten, max. 4.000 €/Kind/Jahr in der Steuererklärung",
+    "Für Au-pair: seriöse Vermittlung, Vertrag, Arbeitszeit-/Versicherungsvorgaben einhalten"
+  ],
+  "mistakes": [
+    "Nur auf Kita-Platz warten und Tagespflege als vollwertige Alternative übersehen",
+    "Betreuungskosten nicht steuerlich absetzen",
+    "Au-pair als billige Vollzeit-Betreuung missverstehen (Arbeitszeitgrenzen, kein Ersatz für Fachbetreuung)",
+    "Ohne Pflegeerlaubnis/Vertrag betreuen lassen"
+  ],
+  "risks": "Kosten, Verfügbarkeit und Zuschüsse variieren stark je Bundesland/Kommune. Rechts- und Steuerdetails ändern sich — konkrete Auslegung über Jugendamt, Familienkasse oder Steuerberatung absichern.",
+  "synergy": [
+    "kita-platzmangel-betreuungsluecke",
+    "betreuungsluecke-krankheit-randzeiten-ferien",
+    "leih-oma-grosseltern-dienst"
+  ],
+  "sources": [
+    {
+      "title": "Tagespflege – Kosten, Qualifizierung (betanet)",
+      "url": "https://www.betanet.de/tagespflege-von-kindern.html"
+    },
+    {
+      "title": "Tagesmutter Kosten (Sparkasse.de)",
+      "url": "https://www.sparkasse.de/pk/ratgeber/familie/eltern-und-kinder/tagesmutter-kosten.html"
+    },
+    {
+      "title": "Kindertagespflege & Tagesmutter (Kindergartenakademie)",
+      "url": "https://www.kindergartenakademie.de/fachwissen/tagesmutter-in-der-kindertagespflege/"
+    }
+  ]
+}

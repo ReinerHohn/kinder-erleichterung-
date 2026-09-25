@@ -1,0 +1,39 @@
+{
+  "id": "smart-home-integriertes-system-familie",
+  "name": "Smart-Home als integriertes System (über Einzelgeräte hinaus)",
+  "category": "🤖 KI & Robotik",
+  "tags": ["Smart Home", "Automatisierung", "Alltag", "Matter", "Entlastung"],
+  "impact": 2,
+  "evidence_level": "B",
+  "effort": 3,
+  "summary": "Der eigentliche Hebel ist nicht das einzelne smarte Gerät, sondern die Verknüpfung zu Routinen: Licht, Heizung, Türschloss, Weckzeiten und Erinnerungen greifen automatisch ineinander. Der Standard Matter macht herstellerübergreifende Integration endlich alltagstauglich.",
+  "key_facts": [
+    {"label": "Standard", "value": "Matter (Apple, Google, Amazon, Samsung) vereint Geräte herstellerübergreifend", "source": "matter-smarthome.de 2026"},
+    {"label": "Energie", "value": "Automatisierte Routinen können z.B. morgendliche Kühl-/Heizkosten um bis zu ~30% senken", "source": "NxtLevel Smart Home 2025"},
+    {"label": "Plattform", "value": "Home Assistant (Open Source) als flexible Steuerzentrale für Routinen", "source": "Wikipedia / Fachpresse"},
+    {"label": "Reife", "value": "2025/2026 breite Matter-Adoption, aber Kompatibilität noch nicht lückenlos", "source": "matter-smarthome.de Status-Review 2026"}
+  ],
+  "deep_dive": "Einzelne smarte Geräte (Lampe, Steckdose, Thermostat) entlasten kaum - der Sprung kommt, wenn sie als System zusammenspielen. Eine Familien-Routine kann etwa morgens automatisch Licht sanft hochfahren, die Heizung/Kühlung nach Außentemperatur regeln, an Kita-Sachen erinnern und abends per einem 'Gute-Nacht'-Befehl alles herunterfahren und die Tür verriegeln. Lange scheiterte das an Insellösungen; der Standard Matter (getragen von Apple, Google, Amazon, Samsung) lässt Geräte nun herstellerübergreifend nativ zusammenarbeiten, und offene Plattformen wie Home Assistant erlauben komplexe Automatisierungen. Konkreter Nebeneffekt: Energie-Routinen können z.B. morgendliche Kühlkosten um bis zu 30% senken. Der verbreitete Irrtum ist, man 'kaufe' ein fertiges Smart Home - tatsächlich steckt der Nutzen in der (einmaligen) Einrichtung der Routinen, die Zeit und etwas technisches Verständnis kostet, und die Matter-Kompatibilität ist 2025/2026 noch nicht lückenlos. Für Familien ist der realistische Gewinn: weniger Mikro-Entscheidungen und Handgriffe im hektischen Alltag ('mentale Last' senken), nicht Science-Fiction-Automatik.",
+  "mechanism": "Bündelt viele kleine, sich wiederholende Alltagshandgriffe und Entscheidungen in automatische Routinen - reduziert so die 'mentale Last' und den Zeitaufwand für Standardabläufe, statt nur einzelne Geräte fernzusteuern.",
+  "evidence": [
+    {"source": "matter-smarthome.de Status-Review", "year": 2026, "finding": "Matter etabliert herstellerübergreifende Geräte-Interoperabilität; breite Adoption, aber noch nicht vollständig lückenlose Kompatibilität."},
+    {"source": "NxtLevel Smart Home", "year": 2025, "finding": "Automatisierte Klima-/Energie-Routinen können morgendliche Kühlkosten um bis zu ~30% senken."}
+  ],
+  "protocol": [
+    "Zuerst Routinen definieren (Morgen, Feierabend, Gute Nacht), dann passende Matter-Geräte kaufen - nicht umgekehrt.",
+    "Eine zentrale Plattform wählen (Apple Home/Google/Alexa fürs Einfache, Home Assistant für Power-User).",
+    "Klein starten mit dem größten Alltagsnutzen (Licht + Heizung + Erinnerungen) und schrittweise ausbauen.",
+    "Grenze/Zukunftsmusik: vollautonomes 'mitdenkendes' Haus ist Marketing; Matter-Kompatibilität vor Kauf prüfen, Datenschutz/lokale Steuerung bevorzugen."
+  ],
+  "mistakes": [
+    "Einzelgeräte kaufen und erwarten, dass daraus von selbst ein System wird.",
+    "Den Einrichtungsaufwand der Routinen unterschätzen.",
+    "Matter-Kompatibilität als selbstverständlich annehmen (2026 noch Lücken)."
+  ],
+  "risks": "Einrichtungsaufwand, unvollständige Kompatibilität/Herstellerbindung, Datenschutz (Cloud-Anbindung, Kamera/Mikro), Abhängigkeit von Netz/Strom, Kostenfalle durch inkompatible Käufe.",
+  "sources": [
+    {"title": "The Matter Standard in 2026 - A Status Review (matter-smarthome.de)", "url": "https://matter-smarthome.de/en/development/the-matter-standard-in-2026-a-status-review/"},
+    {"title": "Smart Home 2025: Matter & AI Automation (NxtLevel Smart Home)", "url": "https://www.nxtlevelsmarthome.com/the-smart-home-revolution-how-matter-and-ai-are-reshaping-life-in-2025/"},
+    {"title": "Homey (smart hub) - Wikipedia", "url": "https://en.wikipedia.org/wiki/Homey_(smart_hub)"}
+  ]
+}

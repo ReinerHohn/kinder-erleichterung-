@@ -1,0 +1,89 @@
+{
+  "id": "paediatrie-telemedizin-symptomchecker",
+  "name": "Pädiatrische Telemedizin & KI-Symptomchecker",
+  "category": "🤖 KI & Robotik",
+  "tags": [
+    "Telemedizin",
+    "Videosprechstunde",
+    "Kinderarzt",
+    "Symptomchecker",
+    "KI",
+    "Triage"
+  ],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 2,
+  "summary": "Videosprechstunden und KI-Symptomchecker können Eltern bei der Einschätzung 'krank oder nicht' entlasten und unnötige Fahrten sparen — aber nur als Triage-Hilfe, nicht als Ersatz für den Kinderarzt.",
+  "key_facts": [
+    {
+      "label": "Übereinstimmung",
+      "value": "~86 % Konkordanz Telehealth vs. Präsenz bei vielen Kinderdiagnosen",
+      "source": "Telemedicine narrative review, PMC 2024"
+    },
+    {
+      "label": "Sicherheit",
+      "value": "Diagnose-Angemessenheit 98,5 %, Entscheidungs-Plausibilität 92 %, Falsch-Negativ 5,3 %",
+      "source": "Patient-safety-Studie, PMC"
+    },
+    {
+      "label": "KI-Triage",
+      "value": "KI-Modelle können 'kranke' Fälle für zusätzliche Sicherheitschecks markieren",
+      "source": "medRxiv 2025 (Haiti)"
+    },
+    {
+      "label": "Grenze",
+      "value": "Hautbefunde: Konkordanz 70–89 % je nach Erkrankung",
+      "source": "PMC 2024 (Derma)"
+    }
+  ],
+  "deep_dive": "Für Eltern ist die zermürbendste Frage oft: Muss ich mit dem kranken Kind (bei 39 °C, nachts) zum Arzt? Pädiatrische Telemedizin und KI-Symptomchecker setzen hier als Triage-Hilfe an. Studien zeigen bei vielen häufigen Kinderdiagnosen (Atemwege, Magen-Darm, Haut, Verhalten) rund 86 % Übereinstimmung zwischen Video- und Präsenzuntersuchung; eine Patientensicherheitsstudie fand 98,5 % angemessene Diagnosen und eine niedrige Falsch-Negativ-Rate von 5,3 %. Ein verbreiteter Irrtum ist, ein KI-Symptomchecker liefere eine Diagnose: Er liefert eine Wahrscheinlichkeits-Einschätzung und Dringlichkeits-Triage — die schwierigste Aufgabe ist gerade, das 'kranke' vom 'nicht kranken' Kind zu unterscheiden, weshalb gute Systeme unklare Fälle für zusätzliche Checks markieren statt zu entwarnen. Bei rein visuellen Befunden (z. B. Hautausschlag) sinkt die Konkordanz auf 70–89 %. Der Entlastungseffekt liegt in gesparten Fahrten und schnellerer Einordnung außerhalb der Praxiszeiten. Grenze und Sicherheitshinweis: Bei Alarmzeichen (z. B. Atemnot, Apathie, Krampf, Fieber beim Säugling) immer direkt ärztliche Hilfe/Notruf — kein Chatbot ersetzt die Untersuchung.",
+  "mechanism": "Video + strukturierte Anamnese/KI-Triage verlagert die Ersteinschätzung nach Hause → weniger unnötige Präsenzbesuche, schnellere Einordnung; Sicherheitsnetz durch Flagging unklarer Fälle statt falscher Entwarnung.",
+  "evidence": [
+    {
+      "source": "PMC, narrative review pediatric telemedicine",
+      "year": 2024,
+      "finding": "~86 % Konkordanz Tele- vs. Präsenzuntersuchung bei häufigen Kinderdiagnosen"
+    },
+    {
+      "source": "PMC, patient-safety in pediatric telemedicine",
+      "year": 2020,
+      "finding": "98,5 % angemessene Diagnosen, 92 % plausible Entscheidungen, 5,3 % Falsch-Negativ"
+    },
+    {
+      "source": "medRxiv (AI 'sick child' model, Haiti)",
+      "year": 2025,
+      "finding": "KI kann potenziell 'kranke' Fälle für zusätzliche Sicherheitschecks markieren"
+    }
+  ],
+  "protocol": [
+    "Telemedizin/Video-Sprechstunde für nicht-akute Fragen und Randzeiten nutzen (spart Fahrten)",
+    "Symptomchecker nur zur Triage/Dringlichkeitseinschätzung verstehen, nicht als Diagnose",
+    "Bei visuellen Befunden (Ausschlag) gute Fotos/Video liefern; Grenzen der Fern-Beurteilung kennen",
+    "Rote Flaggen kennen — bei Atemnot, Apathie, Krampf, Säuglingsfieber sofort Arzt/Notruf"
+  ],
+  "mistakes": [
+    "KI-Symptomchecker-Ausgabe als gesicherte Diagnose behandeln",
+    "Alarmzeichen 'wegtriagieren' statt direkt Hilfe zu holen",
+    "Telemedizin bei Befunden nutzen, die zwingend eine körperliche Untersuchung brauchen"
+  ],
+  "risks": "Gesundheitsthema — Ferndiagnose hat systematische Grenzen (Falsch-Negative, visuelle Befunde). Datenschutz bei Gesundheits-Apps prüfen. Kein Ersatz für Kinderarzt/Notfallversorgung; bei Unsicherheit immer ärztlich abklären.",
+  "synergy": [
+    "betreuungsluecke-krankheit-randzeiten-ferien",
+    "fieberthermometer-richtig-waehlen",
+    "vorsorge-u1-u9-j1"
+  ],
+  "sources": [
+    {
+      "title": "Telemedicine in pediatrics: critical narrative review (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13428713/"
+    },
+    {
+      "title": "Assessing patient safety in a pediatric telemedicine setting (PMC)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7126468/"
+    },
+    {
+      "title": "AI-enabled model to identify the 'sick child' (medRxiv)",
+      "url": "https://www.medrxiv.org/content/10.1101/2025.06.27.25330413v2.full"
+    }
+  ]
+}

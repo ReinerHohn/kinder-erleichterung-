@@ -1,0 +1,89 @@
+{
+  "id": "strategie-kinder-wieder-attraktiv",
+  "name": "Strategie: Wie macht man Kinder wieder attraktiv? (Hebel-Ranking)",
+  "category": "🧭 Strategie & Synthese",
+  "tags": [
+    "Strategie",
+    "Synthese",
+    "Hebel-Ranking",
+    "Fertility Gap",
+    "Nordstern"
+  ],
+  "impact": 5,
+  "evidence_level": "A",
+  "effort": 3,
+  "summary": "Kern-Erkenntnis des Katalogs: Man macht Kinder nicht per Werbung/Prämie 'schmackhaft' — man räumt die Hürden zwischen Wunsch und Umsetzung weg. Die Leute wollen ~2 Kinder, realisieren nur 50–70 %. Hier die Hebel nach belegter Wirkung sortiert — inkl. ehrlicher Einordnung von Robotern und Betreuung.",
+  "key_facts": [
+    {
+      "label": "Rahmenbefund",
+      "value": "Fertility Gap: gewünscht ~2, realisiert 50–70 % → Realisierungs-, kein Wunschproblem",
+      "source": "BiB GGS 2025 / Eurobarometer"
+    },
+    {
+      "label": "Stärkster Hebel",
+      "value": "verlässliche, bezahlbare Betreuung (wirkt auf Geburten UND Frauenerwerbstätigkeit)",
+      "source": "OECD 2024"
+    },
+    {
+      "label": "Was NICHT wirkt",
+      "value": "Baby-Boni ohne Infrastruktur (Ungarn ~5 % BIP → dennoch Tiefstand; Südkorea >200 Mrd. € → TFR 0,72)",
+      "source": "AEI / Statistics Korea"
+    },
+    {
+      "label": "Rolle der Technik",
+      "value": "Haushalts-Robotik lindert Stress/Mental Load, ist aber sekundär; Betreuung/Bindung NICHT delegierbar",
+      "source": "Katalog-Synthese"
+    }
+  ],
+  "deep_dive": "Der häufigste Denkfehler: den Kinderwunsch 'erzeugen' zu wollen. Der ist längst da (87 % der EU-Frauen halten ≥2 Kinder für ideal) — er scheitert an der Umsetzung. Deshalb ist die einzige wirksame Strategie, die Realisierungs-Hürden zu senken. Nach belegter Hebelstärke (deine Low-Hanging-Fruits-Logik): (1) verlässliche, bezahlbare Ganztags-Betreuung inkl. Ferien/Randzeiten — der stärkste Hebel; (2) Care-Last fair teilen (nicht-übertragbare Vätermonate) gegen die Motherhood Penalty; (3) Sicherheit: bezahlbarer, ausreichend großer Wohnraum + planbares Einkommen; (4) flexible Arbeit (Homeoffice/4-Tage-Woche/Brückenteilzeit mit Rückkehrrecht) — der billigste Hebel; (5) Alltags-Stress senken — hier kommen Roboter, Sweet-Spot-Produkte und Betreuungs-Services rein. Wichtig ist die Reihenfolge: 1–4 sind die eigentlichen Fertilitäts-Hebel, 5 ist flankierende Entlastung. Verbreiteter Irrtum: 'mehr Geld = mehr Kinder' — die Preiselastizität ist nur ~−0,2, und Länder mit Rekord-Ausgaben (Ungarn, Südkorea) scheitern trotzdem, weil Wohnkosten, Arbeitskultur und Care-Ungleichheit die Bindung stärker bestimmen als Bargeld. Technik-These ehrlich eingeordnet: Saugroboter & Co. sparen heute real ein paar Stunden/Woche und senken Mental Load; humanoide Roboter sind 2026 noch Demo/teleoperiert, Potenzial eher ab ~2030er; die eine Sache, die Roboter NICHT können, ist ausgerechnet der größte Hebel — vertrauenswürdige, bindungssichere Kinderbetreuung.",
+  "mechanism": "Zwischen Kinderwunsch und realisierter Geburt stehen konkrete Hürden (Betreuung, Opportunitätskosten, Care-Gap, Wohnen, Sicherheit, Partner, Zeit). Jede gesenkte Hürde hebt die Realisierungsrate — Politik/Produkte/Services, die genau dort ansetzen, wirken; Appelle und Prämien ohne Hürdenabbau verpuffen.",
+  "evidence": [
+    {
+      "source": "OECD Society at a Glance",
+      "year": 2024,
+      "finding": "Sachleistungen/Betreuung <3 J. wirksamerer Fertilitäts-Hebel als Geldleistungen; +1.000 USD PPP/Kind ≈ +1,0–1,6 % TFR"
+    },
+    {
+      "source": "BiB Working Paper (GGS, 11 Länder)",
+      "year": 2025,
+      "finding": "Nur 50–70 % der beabsichtigten Geburten werden realisiert → Realisierungslücke ist der Kern"
+    },
+    {
+      "source": "AEI (Ungarn) / Statistics Korea",
+      "year": 2024,
+      "finding": "Rekord-Familienausgaben ohne Trendwende (Ungarn 2024 Zehnjahrestief; Südkorea TFR 0,72)"
+    }
+  ],
+  "protocol": [
+    "Zuerst die Top-Hebel adressieren: Betreuung (Platz + Verlässlichkeit + Ferien/Randzeiten) und faire Care-Teilung (Vätermonate).",
+    "Sicherheit schaffen: bezahlbarer, familientauglicher Wohnraum + planbares Einkommen.",
+    "Billige Hebel sofort nutzen: flexible Arbeit/Homeoffice/4-Tage-Woche mit Rückkehrrecht.",
+    "Alltag entlasten (flankierend): spezialisierte Haushalts-Roboter + belegte Sweet-Spot-Produkte + geprüfte Betreuungs-Services.",
+    "Technik richtig einordnen: als Stress-/Mental-Load-Reduzierer verstehen, NICHT als Lösung des Geburtenproblems; Betreuung/Bindung bleibt menschlich."
+  ],
+  "mistakes": [
+    "Den Kinderwunsch 'erzeugen' wollen (Werbung/Druck) statt Hürden abzubauen.",
+    "Auf Baby-Boni/Bargeld als Haupthebel setzen (Elastizität nur ~−0,2; Ungarn/Südkorea widerlegen es).",
+    "Humanoide Roboter als baldigen Betreuungs-/Fertilitäts-Löser verkaufen.",
+    "Reihenfolge ignorieren: Alltags-Gadgets priorisieren, bevor Betreuung/Vereinbarkeit steht."
+  ],
+  "risks": "Synthese-Karte, die Evidenz aus dem Katalog bündelt — Effektgrößen einzelner Hebel variieren nach Land/Studie. Kein Instrument garantiert TFR ≥ 2,1; realistisch ist das Schließen der Lücke, nicht ihre Umkehr. Pronatalismus per Zwang/Druck ist ineffektiv und ethisch abzulehnen.",
+  "synergy": [
+    "fertility-gap-wunsch-vs-realitaet",
+    "kita-krippe-ausbau",
+    "vaetermonate-nicht-uebertragbar",
+    "baby-boni-ohne-infrastruktur-wirkt-nicht",
+    "humanoide-roboter-fahrplan-2026-2035",
+    "laendervergleich-frankreich-schweden"
+  ],
+  "sources": [
+    {
+      "title": "OECD – Fertility trends & the role for policy (2024)",
+      "url": "https://www.oecd.org/en/publications/society-at-a-glance-2024_918d8db3-en.html"
+    },
+    {
+      "title": "BiB – Intended, ideal and actual fertility (GGS, 2025)",
+      "url": "https://www.bib.bund.de/Publikation/2025/pdf/Intended-ideal-and-actual-fertility-in-11-European-countries-Evidence-on-fertility-gaps-in-different-age-groups-from-the-Generations-and-Gender-Survey.pdf?__blob=publicationFile&v=2"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "polygenes-embryonen-screening-pgt-p",
+  "name": "Polygenes Embryonen-Screening (PGT-P)",
+  "category": "🚀 Frontier & Zukunftstechnik",
+  "tags": ["Kinderwunsch", "Genetik", "PGT-P", "Reproduktionstechnik", "Ethik", "Anti-Hype"],
+  "impact": 1,
+  "evidence_level": "C",
+  "effort": 5,
+  "summary": "Firmen wie Orchid und Nucleus bieten an, IVF-Embryonen nach polygenen Risiko-Scores (z.B. für Diabetes, Herzkrankheit, sogar 'IQ') zu ranken. Fachgesellschaften (ASRM) halten das für NICHT klinikreif - der reale Nutzen ist selbst im Idealfall minimal, die Ethik hoch umstritten.",
+  "key_facts": [
+    {"label": "Fachurteil", "value": "ASRM 2024: PGT-P nicht bereit für den klinischen Einsatz", "source": "ASRM Ethics & Practice Committee 2024"},
+    {"label": "Realer Nutzen", "value": "Selbst unter Idealbedingungen minimaler Effekt (2024-Review)", "source": "Human Reproduction Update 2024"},
+    {"label": "Anbieter", "value": "Orchid, Nucleus Genomics, Genomic Prediction, Herasight", "source": "Springer JARG 2024"},
+    {"label": "Datenstreit", "value": "PGC-Genetiker: eigene Daten dürfen laut Policy NICHT für solche Tests genutzt werden", "source": "Science (AAAS) 2024"}
+  ],
+  "deep_dive": "Beim polygenen Embryonen-Screening (PGT-P) werden IVF-Embryonen genetisch untersucht und nach polygenen Risiko-Scores für komplexe Merkmale (Herzkrankheit, Diabetes, teils sogar Größe oder 'Intelligenz') in eine Rangfolge gebracht. Die American Society for Reproductive Medicine (ASRM) kam 2024 zum Schluss, dass die Technik NICHT klinikreif ist und nicht als Reproduktionsdienstleistung angeboten werden sollte. Ein Review 2024 fand, dass der Nutzen selbst unter idealen Bedingungen minimal ist - polygene Scores sind ungenau, beruhen auf überwiegend europäischen Daten und ignorieren Gen-Umwelt-Wechselwirkungen. Kritik trifft besonders Anbieter wie Orchid und Nucleus; für viele beworbene Merkmale gibt es keine unabhängig geprüften Studien, und Genetiker des PGC monierten, dass ihre Daten laut Richtlinie gar nicht für solche Tests verwendet werden dürften. Der verbreitete Hype ('Designerbaby', 'wähle das gesündeste Kind') überzeichnet massiv, was polygene Scores können. Ethisch drohen Diskriminierung, Eugenik-Assoziationen, unrealistische Elternerwartungen und Ungleichheit - PGT-P gehört zu den umstrittensten Reproduktionstechniken überhaupt.",
+  "mechanism": "Verspricht, aus mehreren IVF-Embryonen den mit dem statistisch geringsten Risiko für komplexe Krankheiten auszuwählen - könnte theoretisch Erkrankungsrisiken senken, scheitert aber real an schwacher Vorhersagekraft polygener Scores.",
+  "evidence": [
+    {"source": "ASRM Ethics & Practice Committee", "year": 2024, "finding": "PGT-P ist nicht bereit für den klinischen Einsatz und sollte nicht als Reproduktionsdienstleistung angeboten werden."},
+    {"source": "Human Reproduction Update", "year": 2024, "finding": "Selbst unter Idealbedingungen ist der Nutzen von PGT-P minimal; erhebliche epidemiologische und ethische Einschränkungen."},
+    {"source": "Science (AAAS)", "year": 2024, "finding": "Genetik-Konsortium (PGC) kritisierte Nutzung seiner Daten für kommerzielle Embryo-Screening-Tests entgegen der Datenrichtlinie."}
+  ],
+  "protocol": [
+    "Heute: nicht empfohlen - Fachgesellschaften raten ab; kein belegter klinischer Nutzen.",
+    "Sinnvoll bleibt monogenes PGT (PGT-M) bei bekanntem, klar vererbtem Krankheitsrisiko - das ist etabliert und etwas völlig anderes.",
+    "Bei Angeboten skeptisch sein: nach unabhängig peer-reviewter Evidenz für konkrete beworbene Merkmale fragen.",
+    "Zukunftsmusik: verlässliche polygene Vorhersage auf Embryoebene - derzeit nicht gegeben."
+  ],
+  "mistakes": [
+    "PGT-P mit dem etablierten monogenen PGT-M verwechseln.",
+    "Marketing ('gesündestes/klügstes Baby') für belegte Vorhersage halten.",
+    "Glauben, ein niedriger Risiko-Score garantiere Gesundheit (polygene Scores sind schwach und umweltabhängig)."
+  ],
+  "risks": "Umstrittene/mangelnde wissenschaftliche Validität, Eugenik- und Diskriminierungsgefahr, unrealistische Elternerwartungen, Ungleichheit (teuer, europäisch-zentrierte Daten), Datenschutz von Genomdaten, kommerzielle Übertreibung.",
+  "sources": [
+    {"title": "ASRM: Polygenic Embryo Screening Is Not Ready for Clinical Use (ASRM)", "url": "https://www.asrm.org/news-and-events/asrm-news/press-releasesbulletins/asrm-ethics-and-practice-committees-release-new-report-concluding-polygenic-embryo-screening-is-not-ready-for-clinical-use/"},
+    {"title": "Screening embryos for polygenic disease risk: a review (Human Reproduction Update)", "url": "https://academic.oup.com/humupd/article/30/5/529/7684172"},
+    {"title": "Genetics group slams company for using its data to screen embryos' genomes (Science/AAAS)", "url": "https://www.science.org/content/article/genetics-group-slams-company-using-its-data-screen-embryos-genomes"}
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "in-vitro-gametogenese-ivg",
+  "name": "In-vitro-Gametogenese (Eizellen/Spermien aus Stammzellen)",
+  "category": "🚀 Frontier & Zukunftstechnik",
+  "tags": ["Fruchtbarkeit", "Stammzellen", "IVG", "Reproduktionstechnik", "Frontier", "Ethik"],
+  "impact": 2,
+  "evidence_level": "C",
+  "effort": 5,
+  "summary": "IVG will aus normalen Körperzellen (über iPS-Stammzellen) im Labor Eizellen und Spermien herstellen. Bei Mäusen sind so schon lebende Junge entstanden; beim Menschen ist es noch nicht gelungen - Fachleute schätzen 7 bis 20 Jahre bis zur Klinik.",
+  "key_facts": [
+    {"label": "Maus-Erfolg", "value": "Lebende Mäuse-Nachkommen aus im Labor erzeugten Ei- und Samenzellen (Hayashi-Gruppe, ab 2016)", "source": "Hayashi et al. / The Niche 2025"},
+    {"label": "Human-Fortschritt", "value": "2024 in Nature 'signifikanter Schritt' Richtung menschlicher IVG - noch keine reifen Eizellen", "source": "Nature 2024 / news-medical 2024"},
+    {"label": "Startups", "value": "Conception Biosciences (Berkeley, CEO M. Krisiloff): Eizellen aus Stammzellen; Gameto: Eizell-Reifung", "source": "The Niche 2025"},
+    {"label": "Zeithorizont", "value": "Schätzungen: ~7 Jahre (Hayashi) bis 10-20 Jahre bis zur klinischen Praxis", "source": "The Niche 2025"}
+  ],
+  "deep_dive": "In-vitro-Gametogenese (IVG) verwandelt gewöhnliche Körperzellen erst in induzierte pluripotente Stammzellen (iPSCs) und dann in Eizellen bzw. Spermien - komplett im Labor. Bei Mäusen ist der volle Zyklus gelungen: aus Hautzellen wurden Eizellen, aus denen gesunde Junge geboren wurden. Beim Menschen ist der Prozess deutlich schwerer; 2024 meldete Nature einen 'signifikanten Schritt nach vorn', aber reife, befruchtungsfähige menschliche Eizellen aus Stammzellen existieren noch nicht. Startups wie Conception Biosciences (Berkeley) und Gameto arbeiten daran; Schätzungen reichen von rund 7 Jahren (Hayashi) bis 10-20 Jahren bis zur Klinik. Das Potenzial ist enorm: IVG könnte die Alters- und Mengenbegrenzung der Eizellen aufheben, unfruchtbaren Paaren, Krebsüberlebenden und gleichgeschlechtlichen Paaren genetisch eigene Kinder ermöglichen. Der verbreitete Irrtum ist, das sei 'fast fertig' - tatsächlich ist noch keine einzige menschliche IVG-Schwangerschaft entstanden, und die Sicherheit (Epigenetik, Fehlbildungsrisiken) ist völlig ungeklärt.",
+  "mechanism": "Bricht die harte biologische Grenze der Eizell-Reserve auf: Frauen werden mit endlich vielen Eizellen geboren, deren Zahl und Qualität mit dem Alter sinkt - IVG würde beliebig viele frische Gameten aus Körperzellen erzeugen, unabhängig von Alter und Eierstockfunktion.",
+  "evidence": [
+    {"source": "Hayashi-Gruppe (Maus-IVG)", "year": 2016, "finding": "Vollständiger Zyklus bei Mäusen: gesunde Nachkommen aus im Labor erzeugten Gameten."},
+    {"source": "Nature", "year": 2024, "finding": "Signifikanter Fortschritt Richtung menschlicher IVG aus iPSCs, aber noch keine reifen Eizellen/Spermien."},
+    {"source": "Nuffield Council on Bioethics Report", "year": 2025, "finding": "Umfassender Ethik- und Politik-Review: IVG wirft grundlegende Fragen zu Sicherheit, Zustimmung und Verwandtschaft auf."}
+  ],
+  "protocol": [
+    "Heute: keine klinische Anwendung - reine Forschung; kein seriöses Angebot für Patient:innen.",
+    "Realistisch in Reichweite: potenziell Hilfe bei Unfruchtbarkeit/Alter, wenn Sicherheit über Jahre belegt wird.",
+    "Zukunftsmusik: 'Kinder in jedem Alter', Kinder aus einer einzigen Person oder aus Hautzellen ohne Wissen - rechtlich/ethisch weitgehend ungeklärt.",
+    "Worauf achten: Startups mit spektakulären Versprechen kritisch prüfen; entscheidend ist der Nachweis gesunder Nachkommen, nicht 'Zellen im Labor erzeugt'."
+  ],
+  "mistakes": [
+    "Maus-Erfolg mit menschlicher Marktreife gleichsetzen.",
+    "'Eizellen im Labor erzeugt' als 'befruchtungsfähig und sicher' missverstehen.",
+    "Zeithorizont unterschätzen - selbst optimistisch ~7 Jahre, plus Regulierung."
+  ],
+  "risks": "Ungeklärte Sicherheit (Epigenetik, Fehlbildungen), tiefgreifende Ethik (Kinder ohne Zustimmung eines Elternteils, 'Solo-Elternschaft' aus einer Zelle), Regulierung fehlt, Kommerzialisierungsdruck, Ungleichheit beim Zugang.",
+  "sources": [
+    {"title": "A close look at in vitro gametogenesis (The Niche/ipscell)", "url": "https://ipscell.com/2025/02/a-close-look-at-in-vitro-gametogenesis-or-ivg-making-sperm-eggs-from-stem-cells-to-have-kids/"},
+    {"title": "Groundbreaking study advances human IVG for infertility (News-Medical)", "url": "https://www.news-medical.net/news/20240521/Groundbreaking-study-advances-human-in-vitro-gametogenesis-for-infertility-treatment.aspx"},
+    {"title": "In vitro gametogenesis: ethical and policy questions (Nuffield Council on Bioethics)", "url": "https://cdn.nuffieldbioethics.org/wp-content/uploads/NCOB-In-Vitro-Gametogenesis-Report-FINAL.pdf"}
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "hebammenmangel-geburtserlebnis-kaiserschnitt",
+  "name": "Hebammenmangel, Kaiserschnittrate & Geburtstrauma als Stressor",
+  "category": "🍼 Stressoren im Alltag",
+  "tags": [
+    "Hebammen",
+    "Geburt",
+    "Kaiserschnitt",
+    "Geburtstrauma",
+    "PTBS",
+    "Versorgung"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 4,
+  "summary": "Zu wenige Hebammen, überfüllte Kreißsäle und eine Kaiserschnittrate über 30 % führen dazu, dass viele Geburten als traumatisch erlebt werden. Das belastet Bindung, psychische Gesundheit und weitere Familienplanung.",
+  "key_facts": [
+    {
+      "label": "Kaiserschnittrate DE",
+      "value": "über 30 % (WHO hält ~10 % für medizinisch nötig)",
+      "source": "kartenmacherei-Studie / WHO"
+    },
+    {
+      "label": "Betreuungsschlüssel",
+      "value": "oft 1 Hebamme für 3–4 Gebärende gleichzeitig",
+      "source": "watson.de / Hebammen für Deutschland"
+    },
+    {
+      "label": "Traumatisch erlebt",
+      "value": "~20 % der Geburten; ~10 % mit traumatischen Stressreaktionen; ~3 % PTBS (Risikogruppen bis 15,7 %)",
+      "source": "PMC 2023"
+    }
+  ],
+  "deep_dive": "Der Hebammenmangel ist mehr als ein Versorgungsengpass — er ist ein handfester Stressor für werdende Eltern. In deutschen Kreißsälen betreut eine Hebamme oft drei bis vier Gebärende gleichzeitig, echte 1:1-Betreuung ist selten. Die Kaiserschnittrate liegt über 30 %, obwohl die WHO nur bei rund 10 % der Geburten eine medizinische Notwendigkeit sieht — ein Hinweis auf System- und Vergütungsanreize, nicht nur Medizin. Ein verbreiteter Irrtum ist, ein Geburtstrauma sei die Ausnahme: Etwa 20 % der Frauen erleben ihre Geburt als traumatisch, rund 10 % zeigen in den ersten Wochen traumatische Stressreaktionen und etwa 3 % entwickeln eine posttraumatische Belastungsstörung — in Risikogruppen bis zu 15,7 %. Das kann Bindung, Stillen und die psychische Gesundheit der Mutter beeinträchtigen und die Entscheidung gegen weitere Kinder befördern. Kontinuierliche Hebammenbetreuung senkt nachweislich Interventionen und verbessert das Erleben. Bei belastendem Geburtserleben unbedingt frühzeitig Hebamme, Ärztin oder psychologische Hilfe suchen.",
+  "mechanism": "Personalmangel → keine kontinuierliche Betreuung → mehr Interventionen/Kaiserschnitte und Kontrollverlust unter der Geburt → erhöhtes Risiko für traumatisches Erleben und PTBS mit Folgen für Bindung und Familienplanung.",
+  "evidence": [
+    {
+      "source": "kartenmacherei-Studie / WHO",
+      "year": 2023,
+      "finding": "Kaiserschnittrate DE >30 %, WHO-Referenz ~10 % medizinisch nötig"
+    },
+    {
+      "source": "PMC (Violated birth integrity, Deutschland)",
+      "year": 2023,
+      "finding": "~20 % traumatisches Geburtserleben, ~3 % PTBS, in Risikogruppen bis 15,7 %"
+    },
+    {
+      "source": "watson.de / Hebammen für Deutschland",
+      "year": 2023,
+      "finding": "Betreuungsschlüssel oft 1:3–1:4, Burnout, Personalmangel"
+    }
+  ],
+  "protocol": [
+    "Hebamme früh in der Schwangerschaft suchen (Nachfrage übersteigt Angebot regional stark)",
+    "Hebammenkreißsaal / Kliniken mit besserem Betreuungsschlüssel gezielt anfragen",
+    "Geburtsplan besprechen; Recht auf Aufklärung über Kaiserschnitt-Indikation wahrnehmen",
+    "Bei belastender Geburt aktiv Nachsorge/psychologische Hilfe organisieren (Trauma ist behandelbar)"
+  ],
+  "mistakes": [
+    "Erst spät nach einer Hebamme suchen und keine finden",
+    "Geburtstrauma als 'Einbildung' abtun statt Hilfe zu holen",
+    "Kaiserschnitt-Empfehlung ohne Nachfrage nach Indikation akzeptieren"
+  ],
+  "risks": "Gesundheits- und geburtshilfliches Thema — individuelle Entscheidungen gehören zu Hebamme/Ärztin. Zahlen variieren je nach Definition und Studie. Kein Kaiserschnitt ist per se 'falsch'; es geht um Systemanreize und Betreuungsqualität.",
+  "synergy": [
+    "postpartale-depression-erkennen",
+    "schlafmangel-erste-jahre",
+    "es-braucht-ein-dorf-community"
+  ],
+  "sources": [
+    {
+      "title": "Mangel an Hebammen in Deutschland (Studie)",
+      "url": "https://www.kartenmacherei.de/studie-hebammen/"
+    },
+    {
+      "title": "Hebammenmangel: gravierende Folgen für Frauen (watson.de)",
+      "url": "https://www.watson.de/leben/analyse/125946658-schwangerschaft-hebammenmangel-hat-gravierende-folgen-fuer-frauen"
+    },
+    {
+      "title": "Violated birth integrity during COVID-19 in Germany (PMC)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9906577/"
+    }
+  ]
+}

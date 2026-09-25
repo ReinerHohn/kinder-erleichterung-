@@ -1,0 +1,120 @@
+{
+  "id": "humanoide-roboter-fahrplan-2026-2035",
+  "name": "Humanoide Roboter als Eltern-Entlaster: Realität vs. Fahrplan 2026–2035",
+  "category": "🚀 Frontier & Zukunftstechnik",
+  "tags": [
+    "Humanoide Roboter",
+    "Haushaltshilfe",
+    "Zukunftsprognose",
+    "Tesla Optimus",
+    "1X NEO",
+    "Figure",
+    "Teleoperation",
+    "Anti-Hype",
+    "Kinderbetreuung",
+    "Fahrplan"
+  ],
+  "impact": 2,
+  "evidence_level": "B",
+  "effort": 5,
+  "summary": "Humanoide Roboter sind 2026 real und werden erstmals verkauft (1X NEO, ~20.000 $), aber im Familienalltag noch kaum autonom: Vieles wird ferngesteuert oder ist geschnittene Demo. Als spürbare Eltern-Entlastung sind sie frühestens Anfang der 2030er realistisch – und Kinderbetreuung bleibt eine harte, nicht delegierbare Grenze.",
+  "key_facts": [
+    {
+      "label": "1X NEO Heimroboter – Preis/Verfügbarkeit",
+      "value": "20.000 $ (oder 499 $/Monat), Auslieferung ab 2026 in US-Haushalte; laut Branchenschätzung nur ~60–70 % Autonomie – rund ein Drittel der Aufgaben braucht menschliche Fernsteuerung",
+      "source": "The Robot Report / Humanoids Daily 2026"
+    },
+    {
+      "label": "NEO Teleoperation = Mensch schaut mit",
+      "value": "Für unbekannte Aufgaben steuert ein 1X-Mitarbeiter per VR-Brille durch die Roboter-Augen; als 'Privatsphäre-Albtraum' kritisiert; Gegenmaßnahmen: Kontrolllicht, No-Go-Zonen, Gesichts-Blur",
+      "source": "PC Gamer / The Robot Report 2026"
+    },
+    {
+      "label": "Tesla Optimus Gen 3",
+      "value": "Produktion ab Sommer 2026 (zuerst eigene Fabriken); Zielpreis 20.000–30.000 $ erst bei 1 Mio. Stück/Jahr, aktuelle Stückkosten geschätzt 50.000–100.000 $; Consumer frühestens Ende 2027",
+      "source": "Reuters/Standard Bots-Zusammenfassung 2026"
+    },
+    {
+      "label": "Unitree G1 – billigster Humanoide",
+      "value": "ab 13.500 $; Basis-Version eher Forschungs-/Demo-Plattform, kein autonomer Haushaltsarbeiter",
+      "source": "Unitree / RoboZaps 2026"
+    },
+    {
+      "label": "Akku als harte Grenze",
+      "value": "Flaggschiffe laufen nur 1–4 h pro Ladung",
+      "source": "MANLY Battery / RoboZaps 2026"
+    },
+    {
+      "label": "Sicherheitsstandards Zuhause",
+      "value": "praktisch nicht existent; Haftung bei Verletzung im Haushalt gerichtlich ungeklärt",
+      "source": "IEEE Spectrum / Automate.org 2026"
+    }
+  ],
+  "deep_dive": "2026 ist das Jahr, in dem humanoide Roboter das Labor verlassen: 1X verkauft den NEO für 20.000 $ (oder 499 $/Monat) in echte US-Haushalte, Tesla baut Optimus Gen 3 an, Figure 03 arbeitet in der BMW-Fabrik. Der entscheidende Haken: Das ist überwiegend NICHT autonom. NEO startet laut Branchenschätzung mit nur 60–70 % Autonomie – für alles Unbekannte übernimmt ein 1X-Mitarbeiter per VR-Brille die Fernsteuerung und schaut dabei durch die Roboter-Augen in dein Wohnzimmer. Marketing-Demos (Wäsche falten, Küche) sind oft geschnitten oder teleoperiert; die einzigen echten Skalierungen laufen im Warenlager, nicht zu Hause (Agility Digit mit >65.000 Betriebsstunden). Der Fahrplan ist deshalb nüchtern: 2026–2028 teure Frühkäufer-Geräte mit Mensch-in-der-Schleife für simple Aufgaben; ~2030 vielleicht zuverlässiges autonomes Aufräumen/Tragen zu sinkenden Preisen; erst ~2035 könnte breite, bezahlbare Haushalts-Entlastung realistisch sein – abhängig von ungelösten Problemen wie Akku (1–4 h), Feinmotorik und Chaos-Umgebungen. Die harte Grenze bleibt die Kinderbetreuung: Aufsicht, Sicherheit und vor allem Bindung sind entwicklungspsychologisch nicht an eine Maschine delegierbar, und für Heim-Humanoide gibt es 2026 praktisch keine Sicherheitsstandards und keine geklärte Haftung. Verbreiteter Irrtum: 'Der Roboter macht bald autonom den Haushalt' – tatsächlich braucht selbst der verkaufsfertige NEO 2026 bei rund einem Drittel der Aufgaben einen menschlichen Fernpiloten.",
+  "mechanism": "Entlasten würden Humanoide über generalistische körperliche Standardaufgaben (Tragen, Einräumen, Aufräumen, Tisch abräumen, Dinge holen). Der Knackpunkt ist die Allzweck-Form: Ein Zuhause mit Kindern ist ein Hindernisparcours mit null Fehlertoleranz – viel schwerer als eine Lager-Station. Feinmotorik, robuste Wahrnehmung und Energie sind ungelöst; deshalb überbrücken Hersteller mit Fernsteuerung. Spezialgeräte (Saugroboter, Geschirrspüler) lösen ihre enge Aufgabe seit Jahren zuverlässig – die Universalform tauscht Zuverlässigkeit gegen ein noch uneingelöstes Versprechen.",
+  "evidence": [
+    {
+      "source": "The Robot Report – 1X NEO",
+      "year": 2026,
+      "finding": "NEO ab 20.000 $ / 499 $/Monat, Auslieferung 2026; für unbekannte Aufgaben plant 1X ausdrücklich Teleoperation durch Mitarbeiter"
+    },
+    {
+      "source": "PC Gamer / Humanoids Daily",
+      "year": 2026,
+      "finding": "Fernpilot sieht per VR live durch die Roboterkameras ins Haus; ~60–70 % Autonomie = ~1/3 der Aufgaben braucht Menschen"
+    },
+    {
+      "source": "Automate.org / The Robot Report",
+      "year": 2026,
+      "finding": "Reale Skalierung nur in Industrie (Digit >65.000 h; Atlas exklusiv Hyundai/Google) – keine Heim-Deployments"
+    },
+    {
+      "source": "Springer / PubMed – Attachment & Roboter",
+      "year": 2026,
+      "finding": "Kinder binden sich zwar an Roboter, aber Roboter haben keine Kapazität für echte Bindung – nicht ersetzbar"
+    }
+  ],
+  "protocol": [
+    "NICHT auf den Universal-Humanoiden warten: echte Entlastung 2026 liefern billige Spezialgeräte (Saug-/Wischroboter, Geschirrspüler, Trockner, Mähroboter).",
+    "Kinderbetreuung als Menschensache behandeln: Aufsicht, Sicherheit und Bindung nie an einen Roboter delegieren.",
+    "Wer früh kauft (NEO & Co.): Teleoperation ernst nehmen – No-Go-Zonen, Gesichts-Blur, Gerät aus Kinder-/Schlafbereichen, Kontrolllicht beachten.",
+    "Reife-Signale beobachten statt Demos glauben: unabhängige Langzeit-Reviews echter Autonomie, Akku für einen Arbeitstag, Sicherheitszertifizierung fürs Zuhause abwarten.",
+    "Budget realistisch: 20.000 $+ oder ~500 $/Monat plus laufende Kosten – gegen bezahlte Haushaltshilfe/Betreuung rechnen."
+  ],
+  "mistakes": [
+    "'Demo = Alltag' – geschnittene/teleoperierte Herstellervideos für autonome Alltagsfähigkeit halten.",
+    "'Übernimmt bald die Kinderbetreuung' – 2026 weder Technik noch Standards noch Haftung dafür.",
+    "Zielpreis für Kaufpreis halten (20.000 $ = Fern-Produktionsziel, aktuelle Stückkosten 50–100k $).",
+    "Akku, Feinmotorik und Chaos-Haushalt ignorieren – die realen Show-Stopper."
+  ],
+  "risks": "Physische Sicherheit im Haushalt mit Kindern (50+ kg laufende Maschine; keine Heim-Sicherheitsstandards, ungeklärte Haftung 2026). Datenschutz (kamerabasierter Roboter mit menschlichem Fernpiloten). Kosten/Ungleichheit (20.000 $+/500 $ Monat schließen die meisten Familien aus). KEIN Ersatz für Betreuung/Bindung. Fehlinvestition durch Überversprechen.",
+  "synergy": [
+    "humanoide-haushaltsroboter",
+    "saug-wischroboter",
+    "soziale-roboter-kinder",
+    "kosten-nutzen-ungleichheit",
+    "strategie-kinder-wieder-attraktiv"
+  ],
+  "sources": [
+    {
+      "title": "The Robot Report – 1X announces pre-order launch of NEO",
+      "url": "https://www.therobotreport.com/1x-announces-pre-order-launch-neo-humanoid-robot/"
+    },
+    {
+      "title": "Humanoids Daily – 1X NEO Human-in-the-Loop Strategy",
+      "url": "https://www.humanoidsdaily.com/news/1x-details-neo-human-in-the-loop-strategy-and-hardware-as-pre-orders-go-live"
+    },
+    {
+      "title": "Standard Bots – Tesla robot price 2026 (Optimus overview)",
+      "url": "https://standardbots.com/blog/tesla-robot"
+    },
+    {
+      "title": "IEEE Spectrum – Domestic Humanoid Robot Safety Standards",
+      "url": "https://spectrum.ieee.org/domestic-humanoid-robot-safety-standards"
+    },
+    {
+      "title": "TIME – Figure 03 Is The Robot in Your Kitchen",
+      "url": "https://time.com/7324233/figure-03-robot-humanoid-reveal/"
+    }
+  ]
+}

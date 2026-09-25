@@ -1,0 +1,88 @@
+{
+  "id": "suedkorea-extremfall-tfr",
+  "name": "Südkorea: der Extremfall (TFR ~0,7) — was schiefging",
+  "category": "📉 Ursachen: weniger Kinderwunsch",
+  "tags": [
+    "Südkorea",
+    "Fertilität",
+    "Extremfall",
+    "Vereinbarkeit",
+    "Wohnkosten",
+    "Bildungsdruck"
+  ],
+  "impact": 5,
+  "evidence_level": "A",
+  "effort": 5,
+  "summary": "Südkorea hat mit einer Geburtenziffer von rund 0,72 (2023) die niedrigste der Welt — trotz zweistelliger Milliardenausgaben. Die Lehre: Bargeld-Boni allein scheitern, wenn Arbeitskultur, Wohnkosten und Bildungsdruck den Kinderwunsch strukturell zerstören.",
+  "key_facts": [
+    {
+      "label": "TFR 2023",
+      "value": "0,72 — niedrigste weltweit (2022: 0,78)",
+      "source": "Statistics Korea / Al Jazeera 2024"
+    },
+    {
+      "label": "TFR 2024",
+      "value": "leichte Erholung auf 0,748",
+      "source": "CNBC 2025"
+    },
+    {
+      "label": "Alterung",
+      "value": "bis 2030 sind ~25 % der Koreaner über 65",
+      "source": "New Security Beat 2024"
+    },
+    {
+      "label": "Ausgaben",
+      "value": ">280 Billionen Won (>200 Mrd. €) seit 2006, ohne Trendwende",
+      "source": "Think Global Health 2024"
+    }
+  ],
+  "deep_dive": "Südkoreas Geburtenziffer fiel von 0,78 (2022) auf 0,72 (2023) — der weltweite Tiefpunkt, weit unter dem bestandserhaltenden Wert von 2,1. Ein verbreiteter Irrtum ist, Südkorea habe zu wenig ausgegeben: Tatsächlich flossen seit 2006 über 280 Billionen Won (>200 Mrd. €) in Familienpolitik, ohne den Trend zu drehen. Die eigentlichen Treiber sind strukturell: extreme Wohnkosten in Seoul, exzessive private Bildungsausgaben ('Hagwon'-Nachhilfe), eine der längsten Arbeitszeiten der OECD und eine Arbeitskultur, die Mütter faktisch aus Karrieren drängt. 2024 rief die Regierung eine 'Population National Crisis' aus und schuf ein eigenes Bevölkerungsministerium; erst danach stieg die Ziffer minimal auf 0,748. Die Kernlehre für Deutschland: Punktuelle Boni ohne bezahlbaren Wohnraum, planbare Arbeitszeiten und geteilte Sorgearbeit verpuffen.",
+  "mechanism": "Ultrakompetitive Bildungs-/Arbeitskultur + hohe Wohn-/Bildungskosten + persistente Geschlechterungleichheit → Kinder werden zum kaum tragbaren ökonomischen und zeitlichen Risiko, das keine Prämie kompensiert.",
+  "evidence": [
+    {
+      "source": "Statistics Korea / Al Jazeera",
+      "year": 2024,
+      "finding": "TFR 0,72 (2023), weltweit niedrigste; Ursachen Beschäftigung, Wohnen, Betreuung, Geschlechterrollen"
+    },
+    {
+      "source": "Georgetown Journal of International Affairs",
+      "year": 2024,
+      "finding": "Nötig ist Paradigmenwechsel weg von Prämien hin zu strukturellen Reformen"
+    },
+    {
+      "source": "Think Global Health",
+      "year": 2024,
+      "finding": "Milliarden-Ausgaben ohne Trendwende; 2024 Krise ausgerufen, Bevölkerungsministerium"
+    }
+  ],
+  "protocol": [
+    "Als Warnbeispiel lesen: Boni nachrangig, Strukturen (Wohnen, Arbeitszeit, Betreuung) zuerst",
+    "Bildungs-Wettrüsten und Wohnkosten als Hauptbremsen ernst nehmen",
+    "Geschlechtergerechte Sorgearbeit priorisieren statt symbolischer Einmalzahlungen"
+  ],
+  "mistakes": [
+    "Glauben, mehr Bargeld allein drehe den Trend (Südkorea widerlegt das mit >200 Mrd. €)",
+    "Strukturelle Treiber (Arbeitszeit, Wohnen, Bildungsdruck) ignorieren",
+    "Erst im Krisenmodus gegensteuern statt früh präventiv"
+  ],
+  "risks": "Zahlen variieren je Jahr/Quelle; die minimale Erholung 2024 ist noch keine Trendwende. Übertragbarkeit auf Deutschland begrenzt — Kulturkontext unterscheidet sich.",
+  "synergy": [
+    "baby-boni-ohne-infrastruktur-wirkt-nicht",
+    "laendervergleich-frankreich-schweden",
+    "fertility-gap-wunsch-vs-realitaet"
+  ],
+  "sources": [
+    {
+      "title": "Fears for future as South Korea's fertility rate drops again (Al Jazeera)",
+      "url": "https://www.aljazeera.com/news/2024/2/28/fears-for-future-as-south-koreas-fertility-rate-drops-again"
+    },
+    {
+      "title": "South Korea's Plan to Avoid Population Collapse (Think Global Health)",
+      "url": "https://www.thinkglobalhealth.org/article/south-koreas-plan-avoid-population-collapse"
+    },
+    {
+      "title": "The Necessary Paradigm Shift for South Korea's Ultra-Low Fertility (Georgetown)",
+      "url": "https://gjia.georgetown.edu/2024/09/24/the-necessary-paradigm-shift-for-south-koreas-ultra-low-fertility/"
+    }
+  ]
+}

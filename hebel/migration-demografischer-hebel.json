@@ -1,0 +1,86 @@
+{
+  "id": "migration-demografischer-hebel",
+  "name": "Migration als demografischer Hebel (nüchtern betrachtet)",
+  "category": "📉 Ursachen: weniger Kinderwunsch",
+  "tags": [
+    "Migration",
+    "Demografie",
+    "Erwerbsbevölkerung",
+    "Zuwanderung",
+    "Fachkräfte"
+  ],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 4,
+  "summary": "Zuwanderung hält Deutschlands Bevölkerung trotz Geburtendefizit stabil, kann die Alterung aber nur dämpfen, nicht umkehren. Sie ist ein wichtiger, aber kein hinreichender Hebel — und volatil.",
+  "key_facts": [
+    {
+      "label": "Geburtendefizit 2025",
+      "value": "~650.000 Geburten vs. ~1,00 Mio. Sterbefälle = −350.000",
+      "source": "Destatis / bpb"
+    },
+    {
+      "label": "Nettozuwanderung seit 1990",
+      "value": "kumuliert 11,4 Mio. (bis Ende 2023)",
+      "source": "IW Köln"
+    },
+    {
+      "label": "Nötig zur Konstanz",
+      "value": "~400.000 netto/Jahr, um Beschäftigung stabil zu halten (IAB)",
+      "source": "IAB / bpb"
+    },
+    {
+      "label": "Volatilität",
+      "value": "Netto von 430.000 (2024) auf geschätzt 220.000–260.000 (2025), −40 %",
+      "source": "statistiken-aktuell.de 2026"
+    }
+  ],
+  "deep_dive": "Seit der Vereinigung 1990 übersteigt in Deutschland jedes Jahr die Zahl der Gestorbenen die der Geborenen; 2025 fehlten rund 350.000 Personen. Dass die Bevölkerung dennoch nicht schrumpfte, liegt fast ausschließlich an der Nettozuwanderung — kumuliert 11,4 Mio. seit 1990. Ein verbreiteter Irrtum ist, Migration könne den demografischen Wandel 'lösen': Weil Zugewanderte im Schnitt jünger sind, bremst sie die Alterung, kehrt sie aber nicht um. Selbst bei hoher Zuwanderung nimmt die Erwerbsbevölkerung (20–66 J.) bis Mitte der 2030er um voraussichtlich 3,2 Mio. ab. Das IAB beziffert den Bedarf auf rund 400.000 Nettozuwanderung pro Jahr allein zur Beschäftigungskonstanz. Zugleich ist Migration hochvolatil: 2025 brach die Nettozuwanderung gegenüber 2024 um etwa 40 % ein. Migration ist also ein starker Hebel gegen den Arbeitskräfteschwund, ersetzt aber weder Geburten noch Integrationsleistung.",
+  "mechanism": "Jüngere Altersstruktur der Zugewanderten verjüngt die Erwerbsbevölkerung und erhöht kurzfristig auch die Geburtenzahl (nicht zwingend die Ziffer) — begrenzt durch Angleichung des Geburtenverhaltens und Integrationskapazität.",
+  "evidence": [
+    {
+      "source": "IW Köln / Deschermeier & Geis-Thöne",
+      "year": 2019,
+      "finding": "Migration entscheidet maßgeblich über Deutschlands demografische Zukunft"
+    },
+    {
+      "source": "IAB / bpb",
+      "year": 2024,
+      "finding": "~400.000 Nettozuwanderung/Jahr nötig, um Beschäftigung konstant zu halten"
+    },
+    {
+      "source": "Destatis",
+      "year": 2024,
+      "finding": "Erwerbsbevölkerung sinkt trotz Zuwanderung bis Mitte 2030er um ~3,2 Mio."
+    }
+  ],
+  "protocol": [
+    "Migration als ergänzenden Hebel neben Geburtenförderung einordnen, nicht als Ersatz",
+    "Auf Erwerbsmigration + funktionierende Integration/Anerkennung von Abschlüssen zielen",
+    "Volatilität einplanen — Planung nicht auf Spitzenjahre stützen"
+  ],
+  "mistakes": [
+    "Migration als alleinige Lösung des demografischen Wandels darstellen",
+    "Nettozuwanderung mit Geburtenziffer verwechseln",
+    "Einmalige Rekordjahre (2015, 2022) als Dauerzustand annehmen"
+  ],
+  "risks": "Politisch aufgeladenes Thema — hier bewusst rein demografisch/nüchtern. Zahlen sind Schätzungen mit Prognoseunsicherheit; Integrationserfolg entscheidet über den realen Effekt.",
+  "synergy": [
+    "oekonomische-unsicherheit-prekaritaet",
+    "suedkorea-extremfall-tfr"
+  ],
+  "sources": [
+    {
+      "title": "Die Migration entscheidet über die Zukunft Deutschlands (IW Köln)",
+      "url": "https://www.iwkoeln.de/studien/philipp-deschermeier-wido-geis-thoene-die-migration-entscheidet-ueber-die-zukunft-deutschlands.html"
+    },
+    {
+      "title": "Wie viel Zuwanderung braucht Deutschland? (bpb)",
+      "url": "https://www.bpb.de/themen/wirtschaft/zahlenbitte/552872/2-wie-viel-zuwanderung-braucht-deutschland/"
+    },
+    {
+      "title": "Migration in Zeiten des demografischen Wandels (Destatis)",
+      "url": "https://www.destatis.de/DE/Themen/Querschnitt/Demografischer-Wandel/Aspekte/demografie-migration.html"
+    }
+  ]
+}

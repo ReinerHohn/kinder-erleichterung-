@@ -1,0 +1,39 @@
+{
+  "id": "exoskelette-hebehilfen-pflege",
+  "name": "Exoskelette & Hebehilfen (Pflege & Alltag)",
+  "category": "🤖 KI & Robotik",
+  "tags": ["Entlastung", "Pflege", "Großeltern", "Rücken", "Wearable"],
+  "impact": 2,
+  "evidence_level": "B",
+  "effort": 3,
+  "summary": "Tragbare Rücken-Exoskelette entlasten beim Heben - relevant für pflegende Angehörige und Großeltern, die Kinder tragen oder Angehörige heben. Passive Modelle gibt es ab ~800-1.500 EUR; sie reduzieren die Belastung, ersetzen aber keine gute Hebetechnik.",
+  "key_facts": [
+    {"label": "Passive Modelle", "value": "Rücken-Support-Suits (z.B. Auxivo LiftSuit) ab ~800-1.500 EUR", "source": "The Exoskeleton Store / Herstellerangaben 2025"},
+    {"label": "Unterstützung", "value": "Muscle Suit Every: bis ~25 kgf Hubkraft (druckluftbasiert)", "source": "Accio 2025"},
+    {"label": "Einsatzfeld", "value": "Zunehmend im Pflege-/Gesundheitsbereich zur Lastentlastung eingesetzt", "source": "Springer / Japan Gov"},
+    {"label": "Medizin-Grade", "value": "Aktive/rehabilitative Exos deutlich teurer: ~10.000 bis >80.000 EUR", "source": "Accio Marktübersicht 2025"}
+  ],
+  "deep_dive": "Rücken- und Hüft-Exoskelette sind tragbare Stützstrukturen, die einen Teil der Hebelast von der Wirbelsäule nehmen. Für Eltern und besonders Großeltern, die kleine Kinder tragen, oder für pflegende Angehörige, die einen Angehörigen umlagern, kann das die körperliche Belastung spürbar senken. Man unterscheidet passive Modelle (Federn/Gummizüge, keine Motoren, ab rund 800-1.500 EUR, z.B. Auxivo LiftSuit oder Muscle Suit) und deutlich teurere aktive/medizinische Systeme (etwa 10.000 bis über 80.000 EUR). In Japan und im Gesundheitswesen werden sie bereits im Pflegealltag eingesetzt. Der verbreitete Irrtum ist, ein Exoskelett mache 'übermenschlich stark': passive Modelle unterstützen eher moderat (Größenordnung 15-25 kgf) und ersetzen keine korrekte Hebetechnik, sondern ergänzen sie. Für den privaten Familienalltag sind sie meist überdimensioniert; ihr echter Nutzen liegt bei häufigem, wiederholtem Heben - also in der häuslichen Pflege oder bei Rückenproblemen. Studien weisen zudem auf soziale Akzeptanzfragen hin (Wahrnehmung von Pflegenden mit Exoskelett).",
+  "mechanism": "Verlagert einen Teil der Hebelast von Wirbelsäule und Muskulatur auf die Gerätestruktur - ermöglicht so wiederholtes Heben und Umlagern mit weniger Verschleiß und Schmerz, wodurch pflegende Angehörige/Großeltern länger körperlich mithelfen können.",
+  "evidence": [
+    {"source": "Springer (Cognition, Technology & Work)", "year": 2026, "finding": "Exoskelette werden in Pflege/Arbeitsplätzen zur Lastentlastung genutzt; zugleich soziale Wahrnehmungseffekte bei Trägerinnen dokumentiert."},
+    {"source": "Marktübersicht (Accio / The Exoskeleton Store)", "year": 2025, "finding": "Passive Rücken-Support-Modelle ab ~800-1.500 EUR verfügbar; aktive/medizinische Systeme kosten ein Vielfaches."}
+  ],
+  "protocol": [
+    "Sinnvoll bei: häufigem, wiederholtem Heben (häusliche Pflege, Rückenprobleme, Großeltern mit Kleinkind).",
+    "Einstieg: passives Rücken-Exoskelett (~800-1.500 EUR) - günstiger, wartungsarm, kein Akku.",
+    "Kombinieren, nicht ersetzen: gute Hebetechnik, Hilfsmittel (Pflegebett, Lifter) bleiben wichtig.",
+    "Zukunftsmusik: bezahlbare, alltagstaugliche aktive Ganzkörper-Exos für zuhause - noch teuer/Nische; vor Kauf testen und Passform prüfen."
+  ],
+  "mistakes": [
+    "Erwarten, ein passives Exoskelett mache 'übermenschlich stark' (es unterstützt moderat).",
+    "Teures Medizin-Grade-Gerät kaufen, wo ein passives Modell reicht.",
+    "Hebetechnik/Hilfsmittel vernachlässigen und sich allein aufs Gerät verlassen."
+  ],
+  "risks": "Begrenzte Unterstützung passiver Modelle, Passform-/Komfortprobleme, hohe Kosten aktiver Systeme, mögliche Fehlbelastung anderer Körperpartien, soziale Akzeptanz, kein Ersatz für professionelle Pflegehilfsmittel.",
+  "sources": [
+    {"title": "The gendered cost of assistive technology: caregivers wearing an exoskeleton (Springer)", "url": "https://link.springer.com/article/10.1007/s10111-026-00898-x"},
+    {"title": "Powered Exoskeletons Lift Society Up (Government of Japan)", "url": "https://www.japan.go.jp/tomodachi/2020/autumn2020/powered_exoskeletons.html"},
+    {"title": "Exoskeletons for Lifting & Back Support (The Exoskeleton Store)", "url": "https://www.theexoskeletonstore.com/collections/exoskeletons-for-back-support"}
+  ]
+}

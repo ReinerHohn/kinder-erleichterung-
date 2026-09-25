@@ -1,0 +1,40 @@
+{
+  "id": "vr-geburtsvorbereitung-schmerz",
+  "name": "VR für Geburtsvorbereitung & Wehenschmerz",
+  "category": "🤖 KI & Robotik",
+  "tags": ["Geburt", "Schmerz", "VR", "Schwangerschaft", "Vorbereitung"],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 2,
+  "summary": "Virtual-Reality-Brillen können Wehenschmerz durch Ablenkung/Immersion messbar senken und die Geburtszufriedenheit erhöhen - belegt in mehreren randomisierten Studien. Günstig und nicht-medikamentös, aber ergänzend, kein Ersatz für PDA & Co.",
+  "key_facts": [
+    {"label": "Wehenschmerz", "value": "RCT 2024: signifikant niedrigere Schmerz-Scores (VAS) bei 4-9 cm Muttermundöffnung", "source": "RCT Istanbul 2023/24 (PubMed)"},
+    {"label": "Zufriedenheit", "value": "Höhere Geburtskomfort- und Zufriedenheitswerte in der VR-Gruppe", "source": "RCT 2024 (PubMed)"},
+    {"label": "Grenze der Wirkung", "value": "Schmerzlinderung während der Anwendung, 30 Min danach nicht signifikant anhaltend", "source": "RCT Portugal 2023/24 (PMC)"},
+    {"label": "Evidenzlage", "value": "Meta-Analyse: VR vielversprechend zur Wehenschmerz-/Angstlinderung", "source": "Systematic Review & Meta-analysis (PMC)"}
+  ],
+  "deep_dive": "Virtual Reality wird zunehmend als nicht-medikamentöses Mittel gegen Wehenschmerz und Geburtsangst untersucht - und auch für Geburtsvorbereitung, VR-Klinik-Rundgänge und Entspannungstraining. Mehrere randomisierte Studien zeigen konsistent, dass eine VR-Brille während der Wehen die Schmerzintensität (z.B. auf der visuellen Analogskala) senkt und Geburtskomfort sowie -zufriedenheit erhöht. Der Mechanismus ist Ablenkung und Immersion: Das Gehirn verarbeitet weniger Schmerzsignale, wenn Aufmerksamkeit und Sinne von einer fesselnden Umgebung eingenommen werden. Der verbreitete Irrtum ist, VR ersetze medizinische Schmerzlinderung: Die Wirkung ist deutlich, aber begrenzt und hält nach dem Absetzen oft nicht an (eine Studie fand 30 Minuten später keinen signifikanten Effekt mehr). VR ist damit eine günstige, sichere Ergänzung, keine Alternative zu Periduralanästhesie oder anderen Verfahren. Für werdende Eltern nutzbar ist es heute schon - manche Kliniken bieten es an, und auch für Geburtsvorbereitung/Entspannung zu Hause gibt es Angebote. Zu beachten sind Übelkeit/Schwindel bei manchen Nutzerinnen und Hygiene der Geräte.",
+  "mechanism": "Bindet Aufmerksamkeit und Sinne in einer immersiven Umgebung und dämpft so die Schmerzverarbeitung (Gate-Control/Ablenkung) - ermöglicht mehr Kontrolle und geringeren Schmerz ohne Medikamente, gerade in frühen Wehenphasen.",
+  "evidence": [
+    {"source": "RCT (Istanbul, PubMed)", "year": 2024, "finding": "Signifikant niedrigere Schmerz-Scores und höhere Geburtszufriedenheit/-komfort in der VR-Gruppe bei 4-9 cm Muttermundöffnung."},
+    {"source": "RCT (Portugal, PMC)", "year": 2024, "finding": "Signifikante Schmerzreduktion während der VR-Anwendung, aber nicht signifikant anhaltend 30 Minuten danach."},
+    {"source": "Systematic Review & Meta-analysis (PMC)", "year": 2022, "finding": "VR ist ein vielversprechendes, nicht-invasives Mittel zur Linderung von Wehenschmerz und Angst."}
+  ],
+  "protocol": [
+    "Heute nutzbar: in Geburtsvorbereitung (Klinik-Rundgang/Entspannung) und als Ablenkung in frühen Wehenphasen - bei der Klinik/Hebamme nachfragen.",
+    "Realistisch einordnen: senkt Schmerz und Angst, ergänzt aber medizinische Schmerzlinderung, ersetzt sie nicht.",
+    "Auf Verträglichkeit achten: bei Übelkeit/Schwindel absetzen; Gerätehygiene sicherstellen.",
+    "Günstiger Einstieg: einfache VR-Entspannungs-/Atem-Apps zur Vorbereitung zu Hause."
+  ],
+  "mistakes": [
+    "VR als Ersatz für PDA/medizinische Schmerztherapie verstehen.",
+    "Dauerhafte Wirkung erwarten - der Effekt ist v.a. während der Anwendung da.",
+    "Motion-Sickness/Übelkeit und Hygiene ignorieren."
+  ],
+  "risks": "Übelkeit/Schwindel (Motion Sickness), begrenzte und nicht anhaltende Wirkung, Hygiene geteilter Geräte, Ablenkung darf Überwachung nicht behindern, kein Ersatz für medizinische Verfahren.",
+  "sources": [
+    {"title": "Effect of virtual reality on labor pain, comfort, and satisfaction: RCT (PubMed)", "url": "https://pubmed.ncbi.nlm.nih.gov/42085815/"},
+    {"title": "The Effects of VR in Maternal Delivery: Systematic Review & Meta-analysis (PMC)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9730208/"},
+    {"title": "Immersive VR on childbirth experience: RCT (PMC)", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9034564/"}
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "ovar-verjuengung-fertiles-fenster",
+  "name": "Längeres fruchtbares Fenster / Ovar-Verjüngung",
+  "category": "🚀 Frontier & Zukunftstechnik",
+  "tags": ["Fruchtbarkeit", "Anti-Aging", "Rapamycin", "Reproduktionsmedizin", "Frontier"],
+  "impact": 2,
+  "evidence_level": "C",
+  "effort": 4,
+  "summary": "Forschung versucht, die Eierstock-Alterung zu verlangsamen und das fruchtbare Fenster zu verlängern - z.B. mit niedrig dosiertem Rapamycin. Erste kleine Studien sind vielversprechend, aber es ist experimentell und kein zugelassenes Fertilitäts-Medikament.",
+  "key_facts": [
+    {"label": "VIBRANT-Pilot", "value": "Wöchentliches Rapamycin verlangsamte Ovar-Alterung um ~20% (Eizellverlust ~50→~15/Monat)", "source": "Columbia / Medical News Today 2024"},
+    {"label": "IVF-Ergebnis", "value": "Klinische Schwangerschaftsrate 50% (Rapamycin) vs. 28% (Kontrolle) in kleiner Studie", "source": "Healthspan / Studie 2025"},
+    {"label": "Status", "value": "Off-label/experimentell - keine Zulassung als Fertilitäts-/Anti-Aging-Ovarmittel", "source": "AgelessRx / Columbia 2024"},
+    {"label": "Mechanismus", "value": "Rapamycin steigert Autophagie, könnte Eizellqualität/-reserve schützen", "source": "Frontiers in Endocrinology 2025"}
+  ],
+  "deep_dive": "Die Fruchtbarkeit sinkt mit dem Alter, weil Zahl und Qualität der Eizellen abnehmen - eine der härtesten biologischen Grenzen des Kinderwunsches. Die Ovar-Verjüngungsforschung will diese Uhr verlangsamen; am prominentesten ist niedrig dosiertes Rapamycin. Die VIBRANT-Pilotstudie (Columbia) fand eine um etwa 20% verlangsamte Eierstock-Alterung, der monatliche Eizellverlust sank rechnerisch von ~50 auf ~15. Eine kleine IVF-Studie 2025 berichtete eine klinische Schwangerschaftsrate von 50% gegenüber 28% in der Kontrollgruppe. Das klingt stark, ist aber sehr früh: kleine Fallzahlen, kurze Nachbeobachtung, keine Zulassung als Fertilitäts- oder 'Menopause-Verzögerungs'-Mittel; die Einnahme wäre off-label und Rapamycin ist ein Immunsuppressivum mit Nebenwirkungen. Der verbreitete Hype ist, man könne die biologische Uhr 'einfach anhalten' - realistisch geht es bestenfalls um einige Jahre und Wahrscheinlichkeiten, nicht um Garantien. Für die meisten Frauen mit Kinderwunsch bleibt die etablierte Empfehlung (frühere Familienplanung, ggf. Social Freezing) vorrangig; Ovar-Verjüngung ist Forschung, kein Produkt.",
+  "mechanism": "Zielt darauf, die begrenzte Eizellreserve länger zu erhalten und die Eizellqualität im Alter zu schützen - würde das fruchtbare Fenster verlängern und altersbedingte Unfruchtbarkeit hinauszögern, statt sie nur zu umgehen.",
+  "evidence": [
+    {"source": "VIBRANT-Pilot (Columbia)", "year": 2024, "finding": "Wöchentliches Rapamycin verlangsamte die Eierstock-Alterung um rund 20% (deutlich reduzierter monatlicher Eizellverlust)."},
+    {"source": "IVF-Studie (Healthspan-Bericht)", "year": 2025, "finding": "Klinische Schwangerschaftsrate 50% unter Rapamycin vs. 28% Kontrolle, besonders bei Tag-5/6-Blastozysten."},
+    {"source": "Frontiers in Endocrinology", "year": 2025, "finding": "Mechanistisch könnte Rapamycin über gesteigerte Autophagie Eizellqualität und -reserve schützen; Evidenz noch früh."}
+  ],
+  "protocol": [
+    "Heute: kein zugelassenes Ovar-Verjüngungsmittel - Studienlage klein und früh; nur im Rahmen ärztlich begleiteter Studien sinnvoll.",
+    "Etabliert und vorrangig: frühere Familienplanung, ärztliche Fertilitätsberatung, ggf. Social Freezing.",
+    "Zukunftsmusik: verlässliche Verlängerung des fruchtbaren Fensters um Jahre oder 'Menopause verschieben' - noch nicht belegt.",
+    "Worauf achten: Rapamycin ist ein Immunsuppressivum; off-label-Einnahme für Fertilität ohne ärztliche Begleitung ist riskant."
+  ],
+  "mistakes": [
+    "Kleine Pilotstudien als bewiesene Fertilitätstherapie werten.",
+    "Off-label 'Longevity'-Rapamycin für Kinderwunsch selbst einnehmen.",
+    "Glauben, die biologische Uhr lasse sich zuverlässig anhalten - es geht um Wahrscheinlichkeiten, nicht Garantien."
+  ],
+  "risks": "Experimentell/nicht zugelassen, Nebenwirkungen von Immunsuppressiva, kleine Fallzahlen und fehlende Langzeitdaten, Überversprechen der Longevity-Szene, falsche Sicherheit die frühere Familienplanung verdrängt.",
+  "sources": [
+    {"title": "Rapamycin may help extend women's fertility by 5 years (Medical News Today)", "url": "https://www.medicalnewstoday.com/articles/common-drug-could-extend-womens-fertility-by-as-much-as-5-years"},
+    {"title": "Groundbreaking clinical trial explores delaying menopause (Columbia OB/GYN)", "url": "https://reports.obgyn.columbia.edu/2024-annual-report/ground-breaking-clinical-trial-explores-delaying-menopause"},
+    {"title": "What an IVF Trial Reveals About Rapamycin's Potential (Healthspan)", "url": "https://www.gethealthspan.com/research/article/ivf-trial-rapamycin-ovarian-function"}
+  ]
+}

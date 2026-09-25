@@ -1,0 +1,83 @@
+{
+  "id": "vier-tage-woche-vereinbarkeit",
+  "name": "4-Tage-Woche als Vereinbarkeits-Hebel",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": [
+    "4-Tage-Woche",
+    "Arbeitszeit",
+    "Vereinbarkeit",
+    "Burnout",
+    "Work-Life-Balance"
+  ],
+  "impact": 4,
+  "evidence_level": "B",
+  "effort": 4,
+  "summary": "Große Pilotstudien zeigen, dass eine 4-Tage-Woche bei gleichem Lohn Stress und Burnout senkt und die Vereinbarkeit mit Sorgearbeit deutlich verbessert. Für Eltern mit Care-Pflichten waren die Effekte am stärksten.",
+  "key_facts": [
+    {
+      "label": "UK-Pilot",
+      "value": "71 % weniger Burnout, 39 % weniger Stress am Ende des Trials",
+      "source": "Autonomy Institute / UKRI 2023"
+    },
+    {
+      "label": "Care-Vereinbarkeit",
+      "value": "60 % kombinieren Arbeit + Betreuung leichter, 62 % Arbeit + Soziales",
+      "source": "UK-Pilot 2023"
+    },
+    {
+      "label": "Halten wollen",
+      "value": ">90 % der Beschäftigten wollen die 4-Tage-Woche behalten (globale Trials, 9,1/10)",
+      "source": "Scientific American 2024"
+    },
+    {
+      "label": "Eltern-Effekt",
+      "value": "Beschäftigte mit Care-Pflichten gaben mit die stärksten Rückmeldungen ('life-changing')",
+      "source": "UKRI 2023"
+    }
+  ],
+  "deep_dive": "Die 4-Tage-Woche (bei vollem Lohn) ist ein eigenständiger Vereinbarkeits-Hebel — neben Homeoffice und flexibler Arbeit. Im britischen Pilot mit über 60 Firmen sank Burnout um 71 % und Stress um 39 %; 60 % der Beschäftigten kombinierten Arbeit und Betreuung leichter, 62 % Arbeit und Privatleben. Ein verbreiteter Irrtum ist, weniger Arbeitstage bedeuteten Produktivitätseinbruch: In den großen Trials blieb die selbstberichtete Produktivität stabil, und über 90 % wollten das Modell behalten (Bewertung 9,1/10). Besonders relevant für dieses Projekt: Beschäftigte mit Sorgeverantwortung gaben einige der stärksten Rückmeldungen und beschrieben den freien Tag als 'life-changing' — er wird typischerweise für Betreuung, Arzttermine und Haushalt genutzt, was Mental Load und Randzeitenstress direkt entlastet. Die Evidenz stammt aus großen, aber meist selbstselektierten Pilot-Kohorten (daher Level B), nicht aus randomisierten Studien. Für Eltern ist ein freier Wochentag oft wertvoller als dieselben Stunden über fünf Tage verteilt.",
+  "mechanism": "Ein voller freier Wochentag bündelt Betreuung, Termine und Haushalt in erwerbsfreier Zeit → weniger Randzeiten-/Terminstress, mehr Erholung, geringerer Care-Konflikt; kürzere Woche wirkt als Burnout-Prävention.",
+  "evidence": [
+    {
+      "source": "Autonomy Institute / UKRI, UK-4-Tage-Woche-Pilot",
+      "year": 2023,
+      "finding": "71 % weniger Burnout, 39 % weniger Stress; 60 % bessere Vereinbarkeit mit Care"
+    },
+    {
+      "source": "Scientific American / globale Trials (Boston College u.a.)",
+      "year": 2024,
+      "finding": ">90 % wollen Modell behalten; bessere mentale/physische Gesundheit, stabile Produktivität"
+    }
+  ],
+  "protocol": [
+    "Modell wählen: echte Stundenreduktion (32h/100 % Lohn) vs. komprimierte Woche (4x10h) — für Eltern ist ein echter freier Tag meist besser",
+    "Als Team/Betrieb Pilotphase (6 Monate) mit klaren Kennzahlen vereinbaren",
+    "Freien Tag gezielt für Betreuung/Termine/Haushalt reservieren, nicht 'verarbeiten' lassen",
+    "Meetings/Prozesse verschlanken, um Arbeit in 4 Tagen zu schaffen"
+  ],
+  "mistakes": [
+    "Komprimierte 4x10h als Allheilmittel — für kleine Kinder kann der lange Tag Betreuung erschweren",
+    "Ohne Prozessverschlankung dieselbe Arbeit in weniger Tagen erwarten (Verdichtungsstress)",
+    "Evidenz überschätzen: Pilotdaten sind selbstselektiert, kein RCT"
+  ],
+  "risks": "Nicht in jeder Branche/Schichtarbeit umsetzbar. Kein gesetzlicher Anspruch in Deutschland — hängt von Arbeitgeber/Tarif ab. Komprimierte Modelle können bei kleinen Kindern die Betreuung erschweren.",
+  "synergy": [
+    "flexible-arbeit-homeoffice",
+    "teilzeit-brueckenteilzeit-rueckkehr-vollzeit",
+    "mentale-last-vereinbarkeitsstress"
+  ],
+  "sources": [
+    {
+      "title": "UK four-day week pilot results (Autonomy Institute)",
+      "url": "https://autonomy.work/portfolio/uk4dwpilotresults/"
+    },
+    {
+      "title": "A four-day working week improves mental and physical health (UKRI)",
+      "url": "https://www.ukri.org/who-we-are/how-we-are-doing/research-outcomes-and-impact/esrc/a-four-day-working-week-improves-mental-and-physical-health/"
+    },
+    {
+      "title": "Biggest Trial of Four-Day Workweek (Scientific American)",
+      "url": "https://www.scientificamerican.com/article/biggest-trial-of-four-day-workweek-finds-workers-are-happier-and-feel-just/"
+    }
+  ]
+}

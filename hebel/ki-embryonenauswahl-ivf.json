@@ -1,0 +1,39 @@
+{
+  "id": "ki-embryonenauswahl-ivf",
+  "name": "KI-Embryonenauswahl bei IVF",
+  "category": "🤖 KI & Robotik",
+  "tags": ["Kinderwunsch", "IVF", "KI", "Reproduktionsmedizin", "Bildanalyse"],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 4,
+  "summary": "Deep-Learning-Systeme bewerten aus Zeitraffer-Bildern, welcher IVF-Embryo die besten Entwicklungschancen hat - konsistenter als das bloße Auge einzelner Embryolog:innen. Es hilft beim Sortieren, macht schlechte Embryonen aber nicht gut.",
+  "key_facts": [
+    {"label": "Genauigkeit", "value": "STORK-Modell klassifizierte Blastozysten-Qualität mit ~97% (AUC >0,98)", "source": "npj Digital Medicine 2019 (Weill Cornell)"},
+    {"label": "Vergleich", "value": "Übertraf einzelne Embryolog:innen und generalisierte auf andere Kliniken", "source": "Nature/npj Digital Medicine 2019"},
+    {"label": "Grenze", "value": "Nur ~80% des Schwangerschaftserfolgs hängen an der Embryoqualität selbst", "source": "Contemporary OB/GYN"},
+    {"label": "IVF-Basisrate", "value": "IVF-Erfolg gesamt ~30%, USA-Schnitt ~45% pro Transfer (altersabhängig)", "source": "Übersicht 2024/2025"}
+  ],
+  "deep_dive": "Bei einer IVF entstehen oft mehrere Embryonen, und die Auswahl des vielversprechendsten war lange subjektiv. KI-Systeme wie STORK (auf Basis von Googles Inception-Modell) analysieren Zeitraffer-Aufnahmen der Embryonen und sagen die Qualität mit rund 97% Trefferquote (AUC >0,98) vorher - konsistenter als einzelne Embryolog:innen und übertragbar auf andere Kliniken. Das kann die Zahl nötiger Transferzyklen senken und den Prozess objektiver machen. Der verbreitete Irrtum ist, KI erhöhe die IVF-Erfolgsrate dramatisch: Tatsächlich hängen nur etwa 80% des Schwangerschaftserfolgs an der Embryoqualität, der Rest an Gebärmutter, Alter und weiteren Faktoren - und die KI wählt nur besser aus, was schon da ist, sie 'repariert' keine Embryonen. Zudem ist der Nutzen im Alltag noch begrenzt validiert: Wie gut Modelle auf fremde Kliniken und Untergruppen übertragen, ist erst teilweise untersucht. Praktisch ist die Technik in einigen Kinderwunschzentren verfügbar, aber teuer und Teil ohnehin kostspieliger IVF-Behandlungen.",
+  "mechanism": "Ersetzt die subjektive, ermüdungsanfällige Sichtbewertung durch eine konsistente, datengetriebene Rangfolge - so wird schneller der Embryo mit der höchsten Einnistungschance zuerst transferiert und die Zahl belastender Zyklen potenziell reduziert.",
+  "evidence": [
+    {"source": "npj Digital Medicine / Weill Cornell (STORK)", "year": 2019, "finding": "Blastozysten-Qualität mit ~97% Genauigkeit klassifiziert, übertrifft einzelne Embryolog:innen, generalisiert auf andere Kliniken."},
+    {"source": "Contemporary OB/GYN Review", "year": 2024, "finding": "KI kann Auswahl objektivieren, aber nur ~80% des Erfolgs beruhen auf Embryoqualität; Generalisierbarkeit noch begrenzt untersucht."}
+  ],
+  "protocol": [
+    "Heute nutzbar: in einigen Kinderwunschzentren als Zusatz zur Embryobewertung verfügbar - im Zentrum gezielt danach fragen.",
+    "Nutzen realistisch einordnen: hilft beim Sortieren/Zeit sparen, ersetzt nicht die Behandlung und garantiert keine Schwangerschaft.",
+    "Nach Evidenz fragen: validierte, extern geprüfte Modelle bevorzugen, nicht nur Marketing.",
+    "Kosten/Nutzen mit dem Zentrum klären - oft als kostenpflichtiges Add-on."
+  ],
+  "mistakes": [
+    "Glauben, KI-Auswahl hebe die IVF-Erfolgsrate drastisch (nur ~80% hängen an der Embryoqualität).",
+    "Add-on-Marketing für belegten Mehrwert halten ohne externe Validierung.",
+    "Vergessen, dass Alter und Gebärmutterfaktoren die Erfolgschance stark mitbestimmen."
+  ],
+  "risks": "Überversprechen/Add-on-Kosten in ohnehin teurer IVF, begrenzte externe Validierung und mögliche Verzerrung über Kliniken/Untergruppen, Datenschutz medizinischer Bilddaten, keine Erfolgsgarantie.",
+  "sources": [
+    {"title": "Deep learning enables robust assessment and selection of human blastocysts (Nature/npj Digital Medicine)", "url": "https://www.nature.com/articles/s41746-019-0096-y"},
+    {"title": "Can AI improve embryo selection for IVF? (Contemporary OB/GYN)", "url": "https://www.contemporaryobgyn.net/view/can-ai-improve-embryo-selection-ivf"},
+    {"title": "Harnessing AI for IVF Embryo Selection (Weill Cornell)", "url": "https://obgyn.weillcornell.org/news/harnessing-artificial-intelligence-technology-ivf-embryo-selection"}
+  ]
+}

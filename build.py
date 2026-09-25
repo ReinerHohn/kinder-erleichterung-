@@ -21,10 +21,12 @@ LEVELS = {"A", "B", "C"}
 
 # Reihenfolge der Kategorien im Dashboard (alles andere danach, alphabetisch)
 CAT_ORDER = [
+    "🧭 Strategie & Synthese",
     "🍼 Stressoren im Alltag",
     "📉 Ursachen: weniger Kinderwunsch",
     "🛠️ Lösungen & Politik",
     "🤖 KI & Robotik",
+    "🚀 Frontier & Zukunftstechnik",
     "💡 Sweet Spots (Produkte & Gadgets)",
     "💼 Service- & Geschäftsideen",
     "📋 Was auf mich zukommt (Rechte & Fahrplan)",

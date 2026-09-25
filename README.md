@@ -6,17 +6,19 @@ Gebaut im selben Baumuster wie die Schwester-Projekte (`leistungsfaehigkeit`, `f
 
 ## Was drin ist
 
-78 Karten (Wirkung 1–5 · Aufwand 1–5 · Evidenz A/B/C · Quellen) in 7 Kategorien:
+101 Karten (Wirkung 1–5 · Aufwand 1–5 · Evidenz A/B/C · Quellen) in 9 Kategorien:
 
 | Kategorie | Worum es geht |
 |---|---|
-| 🍼 **Stressoren im Alltag** | Schlafmangel, Mental Load, Betreuungslücke, Babysitter-Suche, Freiheitsverlust, Kosten, Teilzeitfalle, Terminchaos, Paarkonflikt, Burnout |
-| 📉 **Ursachen: weniger Kinderwunsch** | Opportunitätskosten/Child Penalty, Gender-Care-Gap, Unsicherheit, Wohnkosten, Aufschub, Partnerlosigkeit, Werte, Klima (überschätzt), **Fertility Gap** |
-| 🛠️ **Lösungen & Politik** | Kita-Ausbau, Vätermonate, Elterngeld, Ganztag, Wohnraum, Steuer/Splitting, Alleinerziehende, Länder­vergleich FR/SE, „was NICHT wirkt" (Ungarn) |
-| 🤖 **KI & Robotik** | Saug-/Wisch-/Mähroboter, Admin-KI, Lern-KI, smarte Babyphones, soziale Roboter, humanoide Roboter (Hype-Check), Ungleichheit |
-| 💡 **Sweet Spots (Produkte & Gadgets)** | SNOO & günstige Wiegen, weißes Rauschen, Pucken, Babyphone, Nasensauger, Thermometer, Windel-Abo, Familienkalender — inkl. „lohnt NICHT" |
+| 🧭 **Strategie & Synthese** | Der rote Faden: Hebel-Ranking „Wie macht man Kinder wieder attraktiv?" (Hürden abbauen statt Wunsch erzeugen) |
+| 🍼 **Stressoren im Alltag** | Schlafmangel, Mental Load, Betreuungslücke, Babysitter-Suche, Freiheitsverlust, Kosten, Teilzeitfalle, Terminchaos, Paarkonflikt, Burnout, Hebammenmangel/Geburtstrauma, Wochenbettdepression |
+| 📉 **Ursachen: weniger Kinderwunsch** | Opportunitätskosten/Child Penalty, Gender-Care-Gap, Unsicherheit, Wohnkosten, Aufschub, Partnerlosigkeit, Werte, Klima (überschätzt), **Fertility Gap**, Südkorea-Extremfall, Migration |
+| 🛠️ **Lösungen & Politik** | Kita-Ausbau, Vätermonate, Elterngeld, Ganztag, Wohnraum, Steuer/Splitting, Alleinerziehende, Länder­vergleich FR/SE, „was NICHT wirkt" (Ungarn), 4-Tage-Woche, IVF/Social Freezing, „Es braucht ein Dorf" |
+| 🤖 **KI & Robotik** | Saug-/Wisch-/Mähroboter, Admin-KI, Lern-KI, smarte Babyphones, soziale Roboter, Sprachassistenten, Telemedizin/Symptomchecker, Exoskelette, Telepräsenz, Ungleichheit |
+| 🚀 **Frontier & Zukunftstechnik** | Humanoide Roboter (Fahrplan 2026–2035), künstliche Gebärmutter/Ectogenesis, In-vitro-Gametogenese, PGT-P, Ovar-Verjüngung, Gebärmuttertransplantation |
+| 💡 **Sweet Spots (Produkte & Gadgets)** | SNOO & günstige Wiegen, weißes Rauschen, Pucken, Tragetuch, Babyphone, Nasensauger, Thermometer, Windel-Abo, Familienkalender — inkl. „lohnt NICHT" |
 | 💼 **Service- & Geschäftsideen** | Kindergeburtstag-Service, Geschenke-Concierge, geprüfte Babysitter-Vermittlung, Meal-Abo, Bürokratie-Concierge, Ferienbetreuung, Leih-Oma u.a. — mit ehrlicher Tragfähigkeits-Bewertung |
-| 📋 **Was auf mich zukommt (Rechte & Fahrplan)** | Kind krank (§45 SGB V, §616 BGB), Mutterschutz, Elternzeit, Elterngeld, Kündigungsschutz, Brückenteilzeit, Betriebskita, Fahrplan, U-Untersuchungen |
+| 📋 **Was auf mich zukommt (Rechte & Fahrplan)** | Kind krank (§45 SGB V, §616 BGB), Mutterschutz, Elternzeit, Elterngeld, Kündigungsschutz, Brückenteilzeit, Betriebskita, Tagespflege/Au-pair, Fahrplan, U-Untersuchungen |
 
 Dazu ein **U-Untersuchungs-Terminrechner** (U1–U9, J1) direkt im Dashboard: Geburtsdatum eingeben → alle Fälligkeiten mit „jetzt fällig"-Markierung. Es gibt dafür keine offizielle API — die Zeitfenster (G-BA/BZgA) sind fest hinterlegt und laufen offline im Browser.
 

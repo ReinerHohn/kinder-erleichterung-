@@ -1,0 +1,89 @@
+{
+  "id": "ivf-social-egg-freezing-realisierungshebel",
+  "name": "IVF & Social Egg Freezing — Kinderwunsch doch realisieren",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": [
+    "Reproduktionsmedizin",
+    "IVF",
+    "Social Freezing",
+    "Fertility Gap",
+    "Kosten",
+    "Alter"
+  ],
+  "impact": 3,
+  "evidence_level": "A",
+  "effort": 4,
+  "summary": "Reproduktionsmedizin kann den Fertility Gap teilweise schließen, aber die Erfolgsquoten sinken steil mit dem Alter und die Kosten sind hoch und kaum erstattet. Realistische Erwartungen und frühes Handeln sind entscheidend.",
+  "key_facts": [
+    {
+      "label": "IVF-Lebendgeburt <30 J.",
+      "value": "~30–35 % pro Zyklus",
+      "source": "Deutsches IVF-Register / ovu.com 2026"
+    },
+    {
+      "label": "IVF-Lebendgeburt 40+ J.",
+      "value": "meist <10 % pro Zyklus",
+      "source": "ovu.com 2026"
+    },
+    {
+      "label": "Kosten IVF/ICSI",
+      "value": "~3.800–4.900 € pro Zyklus (inkl. Medikamente); GKV meist 50 % für bis zu 3 Zyklen",
+      "source": "Onuava / medica-tour 2026"
+    },
+    {
+      "label": "Social Freezing",
+      "value": "~3.000–4.000 € pro Zyklus + ~410 €/Jahr Lagerung, keine Kassenerstattung; wirkt am besten vor 35",
+      "source": "IVF Dresden / PubMed 2020"
+    }
+  ],
+  "deep_dive": "Reproduktionsmedizin ist ein realer Hebel gegen den Fertility Gap — aber ein biologisch limitierter. Die Lebendgeburtenrate pro IVF-Zyklus liegt unter 30 Jahren bei rund 30–35 %, fällt bei 35–39 auf 15–20 % und über 40 meist unter 10 % (Deutsches IVF-Register). Ein verbreiteter Irrtum ist, Social Egg Freezing sei eine sichere 'Versicherung': Es wirkt medizinisch am besten vor dem 35. Lebensjahr, oft sind mehrere Zyklen nötig, und die Kosten pro Lebendgeburt liegen laut Markov-Modell zwischen 22.418 € (30 J.) und 25.590 € (38 J.). Eine IVF-/ICSI-Runde kostet in Deutschland rund 3.800–4.900 €; gesetzlich Versicherte bekommen üblicherweise 50 % für bis zu drei Zyklen erstattet. Social Freezing zahlt die Kasse gar nicht — plus jährliche Lagergebühr (~410 €). Wer diesen Weg erwägt, sollte früh entscheiden und die altersabhängigen Quoten realistisch einplanen. Dies ersetzt keine ärztliche Beratung.",
+  "mechanism": "Eizellqualität und -reserve sinken mit dem Alter; frühes Einfrieren konserviert jüngere Eizellen, IVF umgeht bestimmte Fertilitätshürden — beide können die biologische Uhr nur teilweise, nicht beliebig kompensieren.",
+  "evidence": [
+    {
+      "source": "Deutsches IVF-Register / ovu.com",
+      "year": 2026,
+      "finding": "Lebendgeburtenrate pro Zyklus stark altersabhängig: <30 J. ~30–35 %, 40+ <10 %"
+    },
+    {
+      "source": "PubMed (Markov-Modell social oocyte freezing)",
+      "year": 2020,
+      "finding": "Kosten pro Lebendgeburt 22.418 € (30 J.) bis 25.590 € (38 J.); früh = kosteneffektiver"
+    },
+    {
+      "source": "Onuava / medica-tour",
+      "year": 2026,
+      "finding": "IVF/ICSI ~3.800–4.900 €/Zyklus; GKV meist 50 % für bis zu 3 Zyklen"
+    }
+  ],
+  "protocol": [
+    "Bei Kinderwunsch früh Fertilitäts-/Kinderwunschzentrum konsultieren (Beratung ist Pflicht vor Entscheidung)",
+    "Altersabhängige Erfolgsquoten und Zahl nötiger Zyklen realistisch durchrechnen",
+    "Erstattung klären: GKV-Anteil bei IVF, betriebliche/länderspezifische Zuschüsse; Social Freezing i.d.R. selbst zahlen",
+    "Social Freezing möglichst vor 35 erwägen, wenn Aufschub absehbar"
+  ],
+  "mistakes": [
+    "Social Freezing als Garantie missverstehen (Quoten sind altersabhängig, mehrere Zyklen nötig)",
+    "Zu spät starten — nach 38 sinken sowohl Zellzahl als auch Erfolg deutlich",
+    "Nur einen Zyklus einplanen und Gesamtkosten (10.000–20.000 €) unterschätzen"
+  ],
+  "risks": "Medizinischer Eingriff mit Risiken (u. a. Überstimulation); Erfolg nie garantiert. Zahlen variieren je Klinik und Register. Ersetzt keine individuelle ärztliche Beratung — vor Entscheidung Facharzt/Kinderwunschzentrum aufsuchen.",
+  "synergy": [
+    "aufschub-erstgeburt-biologie",
+    "fertility-gap-wunsch-vs-realitaet",
+    "in-vitro-gametogenese-ivg"
+  ],
+  "sources": [
+    {
+      "title": "IVF Success Rates by Age (ovu.com)",
+      "url": "https://ovu.com/fertility-insights/ivf-success-rates-by-age-complete-2025-data-guide"
+    },
+    {
+      "title": "Cost-effectiveness of social oocyte freezing in Germany (PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32034506/"
+    },
+    {
+      "title": "Cost of fertility treatment in Germany (Onuava)",
+      "url": "https://onuava.com/en/costs-of-fertility-treatment-in-germany/"
+    }
+  ]
+}
