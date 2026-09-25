@@ -1,0 +1,45 @@
+{
+  "id": "businessplan-admin-doku-saas-kita",
+  "name": "Mini-Businessplan: Admin-/Doku-SaaS für Kitas",
+  "category": "💼 Service- & Geschäftsideen",
+  "tags": ["Businessplan", "Kita", "SaaS", "B2B", "Go-to-Market", "Datenschutz", "Gründung"],
+  "impact": 5,
+  "evidence_level": "B",
+  "effort": 3,
+  "summary": "Konkreter Gründungs-Fahrplan für eine Kita-Verwaltungs-/Doku-Software: Zielkunde, Preis, Markt, Wettbewerb, Go-to-Market, Kostenstruktur, Rechts-Checkliste und 90-Tage-Start. Wertversprechen: Fachkraftzeit zurück ans Kind — der größte Betreuungs-Hebel ohne neues Personal.",
+  "key_facts": [
+    {"label": "Markt (DE)", "value": "60.662 Kitas (2024), 3,94 Mio. betreute Kinder, ~738.000 Fachkräfte", "source": "Destatis 2024"},
+    {"label": "Grobes Marktpotenzial", "value": "bei 1–2 €/Kind/Monat theoretisch ~50–120 Mio €/Jahr (eigene Schätzung) — aber fragmentiert + Incumbents", "source": "Eigene Rechnung auf Destatis-Basis"},
+    {"label": "Wertversprechen (belegt)", "value": "~1/3 der Erzieher-Zeit geht in Nicht-Praxis → jede eingesparte Minute = Zeit fürs Kind", "source": "Bertelsmann Stiftung"},
+    {"label": "Referenz-Preis", "value": "Stramplerbande 1,29 €/Kind/Monat; leandoo Basis kostenlos; KigaRoo/CARE by Haufe etabliert", "source": "Anbieter-Websites 2025"},
+    {"label": "Dringlichkeit", "value": "~107.000 fehlende Fachkräfte → hohe Zahlungsbereitschaft für Zeitersparnis", "source": "Paritätischer 2025"}
+  ],
+  "deep_dive": "Zielkunde: der TRÄGER (Kommune, Kirche, AWO/Caritas/Paritätischer, private Ketten), nicht die Eltern — er zahlt, die Erzieher:innen und Eltern nutzen. Wertversprechen: 'Wir geben deiner knappsten Ressource — Fachkraftzeit — messbar Zeit zurück ans Kind', belegt über die Bertelsmann-Zahl (~1/3 Nicht-Praxis-Zeit). Markt: 60.662 Kitas, 3,94 Mio. Kinder — groß, aber fragmentiert und mit etablierten Anbietern (KigaRoo, leandoo, CARE by Haufe, Stramplerbande, Sdui). Deshalb NICHT als weiteres 'Alles-Tool' antreten, sondern über eine scharfe Kante: entweder (a) ein Schmerzpunkt exzellent gelöst (z. B. KI-Beobachtungs-/Bildungsdokumentation per Sprache statt Tippen — genau der zeitintensivste Vorgang), oder (b) Datenschutz-Vorsprung (100 % DE-Hosting, geprüfte Sicherheit) als Verkaufsargument gegen die dokumentierten App-Mängel im Markt. Preis: einfaches Pro-Kind-Modell (~1,50–2,50 €/Kind/Monat) plus Onboarding — leicht kalkulierbar für Träger, wiederkehrender Umsatz. Go-to-Market: einen mittelgroßen Träger (10–40 Kitas) als Referenzkunden gewinnen, dort echte Zeitersparnis messen (vorher/nachher Minuten pro Vorgang), dann über Träger-Verbände und kommunale Netzwerke skalieren; öffentliche Beschaffung (Rahmenverträge, Digitalisierungs-Fördermittel) früh mitdenken. Kostenstruktur: klassisches SaaS — Entwicklung/Hosting fix, Vertrieb + Onboarding sind der eigentliche Kostentreiber (Kitas brauchen Schulung/Change-Management). Ein verbreiteter Gründer-Irrtum ist, das Produkt verkaufe sich über Features; tatsächlich entscheidet die Kombination aus belegter Zeitersparnis, wasserdichtem Datenschutz und geduldigem B2G-Vertrieb. Selbstfinanzierend/bootstrap-fähig, weil wiederkehrende Umsätze früh kommen — passt zu einem schlanken Start.",
+  "mechanism": "Digitalisiert die zeitfressenden Nicht-Betreuungs-Vorgänge (Doku, Kommunikation, Planung) → Fachkräfte gewinnen Zeit fürs Kind → bessere Betreuungsqualität pro Kopf, ohne neues Personal; der Träger zahlt, weil Zeit/Fachkräfte sein knappstes Gut sind.",
+  "evidence": [
+    {"source": "Destatis", "year": 2024, "finding": "60.662 Kitas, 3,94 Mio. Kinder, ~738.000 Fachkräfte — großer, aber fragmentierter Markt"},
+    {"source": "Bertelsmann Stiftung", "year": 2019, "finding": "~1/3 der Erzieher-Arbeitszeit außerhalb der pädagogischen Praxis → klarer Zeitersparnis-Hebel"},
+    {"source": "walhalla.de", "year": 2024, "finding": "Dokumentierte Datenschutz-/Sicherheitsmängel bei Kita-Apps → Datenschutz als Differenzierer möglich"}
+  ],
+  "protocol": [
+    "Woche 1–4: Nische wählen (KI-Bildungsdoku ODER Datenschutz-Vorsprung), 5–8 Interviews mit Kita-Leitungen/Trägern, den teuersten Zeitfresser identifizieren.",
+    "Woche 5–8: schlankes MVP für genau diesen einen Vorgang; Datenschutz von Tag 1 (DE-Hosting, AVV, Löschkonzept, Einwilligung Kinderfotos).",
+    "Woche 9–12: 1 Referenzträger (10–40 Kitas) als Pilot; Zeitersparnis messen (Minuten/Vorgang vorher/nachher) und als Fallstudie dokumentieren.",
+    "Danach skalieren: über Träger-Verbände + kommunale Rahmenverträge/Fördermittel; Onboarding/Schulung als festen Prozess aufsetzen (Change-Management ist der Engpass).",
+    "Preis testen: Pro-Kind-Modell ~1,50–2,50 €/Monat + Onboarding-Pauschale; früh auf wiederkehrenden Umsatz optimieren (Bootstrap)."
+  ],
+  "mistakes": [
+    "Als weiteres 'Alles-Tool' gegen Incumbents antreten statt mit einer scharfen Kante (ein Schmerzpunkt oder Datenschutz).",
+    "An Eltern verkaufen wollen — Entscheider und Zahler ist der Träger.",
+    "Datenschutz nachrangig behandeln (bei Kinderdaten sofort disqualifizierend).",
+    "B2G-Vertriebszyklus und Change-Management/Onboarding-Aufwand unterschätzen."
+  ],
+  "risks": "Etablierter, fragmentierter Wettbewerb; langer B2G-Vertriebszyklus; DSGVO/Kinderdaten als hartes Muss; Onboarding-/Schulungskosten drücken früh die Marge. Kein Fertilitäts-/Betreuungs-Wunder — entlastet Personal, ersetzt es nicht. Marktpotenzial-Schätzung ist grob und preis-/penetrationsabhängig.",
+  "synergy": ["admin-doku-saas-kita", "kinderbetreuung-guenstig-fuer-alle", "ki-robotik-betreuung-verbessern", "admin-ki-buerokratie", "digitale-kita-platzvergabe"],
+  "sources": [
+    {"title": "Destatis – Kindertagesbetreuung in Deutschland", "url": "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Soziales/Kindertagesbetreuung/_inhalt.html"},
+    {"title": "Bertelsmann – Kitapersonal braucht bessere Arbeitsbedingungen", "url": "https://www.bertelsmann-stiftung.de/de/themen/aktuelle-meldungen/2019/september/kitapersonal-braucht-bessere-arbeitsbedingungen"},
+    {"title": "Walhalla – Datenschutz- und Sicherheitsmängel bei Kita-Apps", "url": "https://www.walhalla.de/news/datenschutz-und-sicherheitsmaengel-bei-kita-apps"},
+    {"title": "Stramplerbande – Preise", "url": "https://stramplerbande.de/preise/"}
+  ]
+}

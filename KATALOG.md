@@ -1,6 +1,6 @@
 # Kinder-Erleichterung — Katalog
 
-> 108 evidenzbasierte Karten. Automatisch aus `hebel/*.json` gebaut — nicht von Hand editieren.
+> 109 evidenzbasierte Karten. Automatisch aus `hebel/*.json` gebaut — nicht von Hand editieren.
 
 > ⚠️ Wissenswerkzeug, kein medizinischer/rechtlicher/steuerlicher Rat. Evidenzgrad (A/B/C) und Risiken stehen pro Karte.
 
@@ -1997,7 +1997,7 @@ Die SNOO ist der Prototyp des 'Sweet Spot' gegen Elternschlafmangel: Sie erkennt
 ---
 
 
-## 💼 Service- & Geschäftsideen  (13)
+## 💼 Service- & Geschäftsideen  (14)
 
 ### Admin-/Bürokratie-Concierge für Eltern (Elterngeld, Kita, Behördenkram)
 *Wirkung 4/5 · Aufwand 2/5 · Evidenz A*
@@ -2044,6 +2044,32 @@ Der größte Entlastungshebel in der Kita ist nicht mehr Personal über Nacht, s
 **Risiken:** DSGVO/Kinderdaten sind besonders schutzwürdig (dokumentierte App-Mängel); langsame öffentliche Beschaffung und 16 Länderlogiken bremsen Skalierung; Lock-in- und Ausfall-Risiken bei kritischen Verwaltungsdaten. Die Software entlastet, ersetzt aber weder Fachkraft noch pädagogische Verantwortung.
 
 **Quellen:** [Stramplerbande - Preise](https://stramplerbande.de/preise/) · [KigaRoo - Kita-Verwaltungssoftware](https://www.kigaroo.de/) · [leandoo - Kita-Software Preise](https://leandoo.com/preise) · [Bertelsmann Stiftung: Kitapersonal braucht bessere Arbeitsbedingungen](https://www.bertelsmann-stiftung.de/de/themen/aktuelle-meldungen/2019/september/kitapersonal-braucht-bessere-arbeitsbedingungen) · [Walhalla: Datenschutz- und Sicherheitsmängel bei Kita-Apps](https://www.walhalla.de/news/datenschutz-und-sicherheitsmaengel-bei-kita-apps)
+
+---
+
+### Mini-Businessplan: Admin-/Doku-SaaS für Kitas
+*Wirkung 5/5 · Aufwand 3/5 · Evidenz B*
+
+Konkreter Gründungs-Fahrplan für eine Kita-Verwaltungs-/Doku-Software: Zielkunde, Preis, Markt, Wettbewerb, Go-to-Market, Kostenstruktur, Rechts-Checkliste und 90-Tage-Start. Wertversprechen: Fachkraftzeit zurück ans Kind — der größte Betreuungs-Hebel ohne neues Personal.
+
+- **Markt (DE):** 60.662 Kitas (2024), 3,94 Mio. betreute Kinder, ~738.000 Fachkräfte (Destatis 2024)
+- **Grobes Marktpotenzial:** bei 1–2 €/Kind/Monat theoretisch ~50–120 Mio €/Jahr (eigene Schätzung) — aber fragmentiert + Incumbents (Eigene Rechnung auf Destatis-Basis)
+- **Wertversprechen (belegt):** ~1/3 der Erzieher-Zeit geht in Nicht-Praxis → jede eingesparte Minute = Zeit fürs Kind (Bertelsmann Stiftung)
+- **Referenz-Preis:** Stramplerbande 1,29 €/Kind/Monat; leandoo Basis kostenlos; KigaRoo/CARE by Haufe etabliert (Anbieter-Websites 2025)
+- **Dringlichkeit:** ~107.000 fehlende Fachkräfte → hohe Zahlungsbereitschaft für Zeitersparnis (Paritätischer 2025)
+
+Zielkunde: der TRÄGER (Kommune, Kirche, AWO/Caritas/Paritätischer, private Ketten), nicht die Eltern — er zahlt, die Erzieher:innen und Eltern nutzen. Wertversprechen: 'Wir geben deiner knappsten Ressource — Fachkraftzeit — messbar Zeit zurück ans Kind', belegt über die Bertelsmann-Zahl (~1/3 Nicht-Praxis-Zeit). Markt: 60.662 Kitas, 3,94 Mio. Kinder — groß, aber fragmentiert und mit etablierten Anbietern (KigaRoo, leandoo, CARE by Haufe, Stramplerbande, Sdui). Deshalb NICHT als weiteres 'Alles-Tool' antreten, sondern über eine scharfe Kante: entweder (a) ein Schmerzpunkt exzellent gelöst (z. B. KI-Beobachtungs-/Bildungsdokumentation per Sprache statt Tippen — genau der zeitintensivste Vorgang), oder (b) Datenschutz-Vorsprung (100 % DE-Hosting, geprüfte Sicherheit) als Verkaufsargument gegen die dokumentierten App-Mängel im Markt. Preis: einfaches Pro-Kind-Modell (~1,50–2,50 €/Kind/Monat) plus Onboarding — leicht kalkulierbar für Träger, wiederkehrender Umsatz. Go-to-Market: einen mittelgroßen Träger (10–40 Kitas) als Referenzkunden gewinnen, dort echte Zeitersparnis messen (vorher/nachher Minuten pro Vorgang), dann über Träger-Verbände und kommunale Netzwerke skalieren; öffentliche Beschaffung (Rahmenverträge, Digitalisierungs-Fördermittel) früh mitdenken. Kostenstruktur: klassisches SaaS — Entwicklung/Hosting fix, Vertrieb + Onboarding sind der eigentliche Kostentreiber (Kitas brauchen Schulung/Change-Management). Ein verbreiteter Gründer-Irrtum ist, das Produkt verkaufe sich über Features; tatsächlich entscheidet die Kombination aus belegter Zeitersparnis, wasserdichtem Datenschutz und geduldigem B2G-Vertrieb. Selbstfinanzierend/bootstrap-fähig, weil wiederkehrende Umsätze früh kommen — passt zu einem schlanken Start.
+
+**Konkret:**
+- Woche 1–4: Nische wählen (KI-Bildungsdoku ODER Datenschutz-Vorsprung), 5–8 Interviews mit Kita-Leitungen/Trägern, den teuersten Zeitfresser identifizieren.
+- Woche 5–8: schlankes MVP für genau diesen einen Vorgang; Datenschutz von Tag 1 (DE-Hosting, AVV, Löschkonzept, Einwilligung Kinderfotos).
+- Woche 9–12: 1 Referenzträger (10–40 Kitas) als Pilot; Zeitersparnis messen (Minuten/Vorgang vorher/nachher) und als Fallstudie dokumentieren.
+- Danach skalieren: über Träger-Verbände + kommunale Rahmenverträge/Fördermittel; Onboarding/Schulung als festen Prozess aufsetzen (Change-Management ist der Engpass).
+- Preis testen: Pro-Kind-Modell ~1,50–2,50 €/Monat + Onboarding-Pauschale; früh auf wiederkehrenden Umsatz optimieren (Bootstrap).
+
+**Risiken:** Etablierter, fragmentierter Wettbewerb; langer B2G-Vertriebszyklus; DSGVO/Kinderdaten als hartes Muss; Onboarding-/Schulungskosten drücken früh die Marge. Kein Fertilitäts-/Betreuungs-Wunder — entlastet Personal, ersetzt es nicht. Marktpotenzial-Schätzung ist grob und preis-/penetrationsabhängig.
+
+**Quellen:** [Destatis – Kindertagesbetreuung in Deutschland](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Soziales/Kindertagesbetreuung/_inhalt.html) · [Bertelsmann – Kitapersonal braucht bessere Arbeitsbedingungen](https://www.bertelsmann-stiftung.de/de/themen/aktuelle-meldungen/2019/september/kitapersonal-braucht-bessere-arbeitsbedingungen) · [Walhalla – Datenschutz- und Sicherheitsmängel bei Kita-Apps](https://www.walhalla.de/news/datenschutz-und-sicherheitsmaengel-bei-kita-apps) · [Stramplerbande – Preise](https://stramplerbande.de/preise/)
 
 ---
 
