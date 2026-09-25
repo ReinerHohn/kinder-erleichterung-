@@ -1,6 +1,6 @@
 # Kinder-Erleichterung — Katalog
 
-> 103 evidenzbasierte Karten. Automatisch aus `hebel/*.json` gebaut — nicht von Hand editieren.
+> 104 evidenzbasierte Karten. Automatisch aus `hebel/*.json` gebaut — nicht von Hand editieren.
 
 > ⚠️ Wissenswerkzeug, kein medizinischer/rechtlicher/steuerlicher Rat. Evidenzgrad (A/B/C) und Risiken stehen pro Karte.
 
@@ -1072,7 +1072,7 @@ Ungarn ist die wichtigste Warnung dieser Liste: Das Land gibt rund 5 % des BIP f
 ---
 
 
-## 🤖 KI & Robotik  (20)
+## 🤖 KI & Robotik  (21)
 
 ### KI-Essensplanung, Einkaufslisten & Lieferdienste
 *Wirkung 4/5 · Aufwand 1/5 · Evidenz B*
@@ -1353,6 +1353,33 @@ Der Saug-/Wischroboter ist die einzige Haushaltsrobotik, die man 2025 uneingesch
 **Risiken:** Kamera-/Kartendaten der Wohnung landen z.T. in Hersteller-Clouds (Datenschutz prüfen). Anschaffungskosten schließen einkommensschwache Familien aus.
 
 **Quellen:** [Saugroboter im Test - Stiftung Warentest](https://www.test.de/Saugroboter-im-Test-4806685-0/) · [Saug- und Wischroboter im Vergleich 2026 - MediaMarkt](https://www.mediamarkt.de/de/content/heim-garten/waschen-reinigen/saug-wischroboter-in-tests) · [Saugroboter Vergleich 2025 - Staubsaugermanufaktur](https://www.staubsaugermanufaktur.de/blog/saugroboter-vergleich/)
+
+---
+
+### KI & Robotik in der Kinderbetreuung: verbessern statt ersetzen
+*Wirkung 3/5 · Aufwand 3/5 · Evidenz B*
+
+KI und Robotik können Betreuung besser, sicherer und pro Kopf günstiger machen — aber nur als Verstärker rund um den menschlichen Kern. Leitprinzip: alles rund um die Beziehung automatisieren, damit die knappen Fachkräfte fast ihre ganze Zeit mit den Kindern verbringen. Aufsicht und Bindung bleiben menschlich.
+
+- **Größter Hebel:** Admin-/Doku-KI verschafft Erzieher:innen Zeit zurück (erheblicher Teil der Arbeitszeit geht heute in Dokumentation) → effektiv mehr Betreuungszeit pro Kind ohne neues Personal (Kita-Praxis / Synthese)
+- **Sicherheit:** KI-Sensorik als 'zweites Augenpaar' (Kinderzählung, Sturz-/Gefahren-Alarm) — Alarm an den Menschen, der verantwortlich bleibt (Synthese)
+- **Vorbild Schwimmbad:** KI-Ertrinkungserkennung (Lynxight, Coral, AngelEye) unterstützt Bademeister schon real — Kamera erkennt Notlage, Alarm an den Menschen, der eingreift; Bademeister wird NICHT ersetzt (Anbieter/Bäderpraxis)
+- **Robotik-Evidenz:** Soziale/Lern-Roboter zeigen Nutzen v. a. strukturiert in Sprachtherapie & Autismus-Förderung — als beaufsichtigtes Werkzeug (Systematische Reviews (PMC))
+- **Harte Grenze:** Bindung/Attachment nicht an Maschinen delegierbar; Betreuungsschlüssel ist Qualitäts-/Sicherheitsboden (Attachment-Forschung (PubMed/Springer))
+
+Die Frage ist nicht 'Roboter statt Erzieher', sondern 'wie geben KI und Robotik den knappen Fachkräften mehr Zeit fürs Kind'. Größter realer Hebel ist unspektakulär: Admin- und Dokumentations-KI (Beobachtungen per Sprache erfassen, Elternkommunikation, Anwesenheit, Dienstplanung). Weil ein erheblicher Teil der Arbeitszeit in Papierkram fließt, ist jede zurückgewonnene Stunde effektiv mehr Betreuungszeit — Kapazitätsgewinn ohne neues Personal. Dazu KI-Dienstplanung und Springer-Matching gegen Überlastung (die Abwanderung ist der Kern des Fachkräftemangels) und digitale Platzvergabe gegen leere/doppelte Plätze. Bei der Sicherheit wirkt KI-Sensorik als zweites Augenpaar: automatische Kinderzählung (kein Kind im Bus/Raum vergessen), Sturz-/Gefahren- und Schlafraum-Alarm — entscheidend ist, dass der Alarm an den Menschen geht, der verantwortlich bleibt; Fehlalarme und Datenschutz sind real, ein SIDS-Garant ist es nicht. Genau dieses Modell ist in Schwimmbädern bereits Praxis: KI-Ertrinkungserkennung (z. B. Lynxight, Coral, AngelEye) wertet Kamerabilder aus und alarmiert den Bademeister bei einer Notlage — sie unterstützt die Aufsicht, ersetzt sie aber nicht. Das ist die Blaupause für Betreuungs-Settings: die Maschine erhöht die Wachsamkeit, der Mensch greift ein und verantwortet. Qualitativ kann KI Erzieher:innen assistieren (Aktivitäts-/Sprachförder-Vorschläge, Auswertung von Beobachtungen, Frühwarnung bei Entwicklungsauffälligkeiten als Screening-Hilfe, nicht Diagnose) und mehrsprachige Eltern per Echtzeit-Übersetzung einbinden. Robotik gehört an zwei Stellen: nicht-pädagogische Aufgaben (Reinigung, Desinfektion, Essens-/Wäsche-Logistik) entlasten Personal für Pädagogik; und soziale/Lern-Roboter haben strukturiert eingesetzt Evidenz in Sprachtherapie und Autismus-Förderung — als beaufsichtigtes Werkzeug, nicht als Betreuer. Ein verbreiteter Irrtum ist, ein 'Betreuungs-Roboter' könne Personal ersetzen: Aufsicht, Sicherheit und vor allem Bindung sind entwicklungspsychologisch nicht delegierbar, und der Betreuungsschlüssel ist ein Qualitätsboden, kein Sparposten. Richtig eingesetzt macht Technik Betreuung also besser (mehr Zeit, frühere Förderung), sicherer (zweites Augenpaar) und pro Kopf günstiger (mehr effektive Kapazität) — ohne den menschlichen Kern anzutasten.
+
+**Konkret:**
+- Zuerst Admin-/Doku-KI + Dienstplanung/Springer-Matching einführen (größter Zeit-/Kapazitätsgewinn).
+- Digitale Platzvergabe für bessere Auslastung; KI-Concierge senkt Eltern-Zugangshürde.
+- Sicherheits-Sensorik als zweites Augenpaar (Zählung, Alarm) — Verantwortung bleibt bei der Fachkraft; Datenschutz/DSGVO strikt.
+- KI-Assistenz für Förderung/Frühwarnung (Screening, keine Diagnose) und Echtzeit-Übersetzung für Eltern.
+- Robotik für nicht-pädagogische Aufgaben (Reinigung/Logistik); soziale Roboter nur strukturiert & beaufsichtigt (Therapie/Lernen).
+- Nie: Personal/Schlüssel durch Technik ersetzen — Technik erweitert den menschlichen Kern, ersetzt ihn nicht.
+
+**Risiken:** Datenschutz/Überwachung im Kinderbereich (Kameras/Sensorik, sensible Daten). Fehlalarme und falsche Sicherheit. Bindung/Aufsicht bleiben menschlich — Technik darf den Schlüssel nicht senken. Robotik-Evidenz jenseits von Therapie-Nischen noch dünn; Reifegrade und Akzeptanz variieren.
+
+**Quellen:** [Social robots in autism/therapy — systematic review (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8285886/) · [Anchors or relational risks? Attachment in child-robot relationships (PubMed)](https://pubmed.ncbi.nlm.nih.gov/41869852/) · [OECD – Society at a Glance 2024 (childcare &amp; policy)](https://www.oecd.org/en/publications/society-at-a-glance-2024_918d8db3-en.html)
 
 ---
 
