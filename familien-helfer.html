@@ -59,9 +59,32 @@
 const KEY="familienhelfer.v1";
 const uid=()=>Math.random().toString(36).slice(2,9);
 let DB=load();
-function load(){try{return JSON.parse(localStorage.getItem(KEY))||seed();}catch(e){return seed();}}
+function load(){try{const d=JSON.parse(localStorage.getItem(KEY));if(!d)return seed();if(!d.tech)d.tech=defaultTech();return d;}catch(e){return seed();}}
 function save(){localStorage.setItem(KEY,JSON.stringify(DB));}
-function seed(){return {children:[],events:[],gifts:[],household:defaultHousehold(),tasks:[],doneAuto:{}};}
+function seed(){return {children:[],events:[],gifts:[],household:defaultHousehold(),tech:defaultTech(),tasks:[],doneAuto:{}};}
+function defaultTech(){return [
+  {id:uid(),domain:"😴 Schlaf",text:"Weißes Rauschen (Gratis-App oder Gerät ~15–40 €)",note:"Größter Hebel pro Euro. Leise, Gerät quer im Raum, nur zum Schlafen. Meta-analytisch belegt.",done:false},
+  {id:uid(),domain:"😴 Schlaf",text:"Automatische Schaukel-Wiege (SNOO) – MIETEN statt kaufen",note:"Nur bei Budget/Bedarf. Schlafgewinn real, SIDS-Schutz NICHT belegt. Miete ~70 €/Mon. statt Kauf ~1000–1700 €.",done:false},
+  {id:uid(),domain:"😴 Schlaf",text:"'Ok-to-wake'-Kinderwecker / Smart-Nachtlicht mit Dämmerung",note:"Ampel-Uhr regelt Aufstehzeit bei Kleinkindern; dimmbares warmes Licht abends.",done:false},
+  {id:uid(),domain:"😴 Schlaf",text:"Einfaches DECT-Audio-Babyphone (unter 100 €)",note:"Schlägt laut Stiftung Warentest teure Video/WLAN-Geräte. Kein Vitalmonitor, keine falsche Sicherheit.",done:false},
+  {id:uid(),domain:"😴 Schlaf",text:"Ehrliche Grenze: Durchschlafen selbst löst keine Technik",note:"Nachtschichten fair aufteilen bleibt menschlich.",done:false},
+
+  {id:uid(),domain:"🧹 Haushalt & Einkauf",text:"Saugroboter MIT Absaugstation",note:"Echter Autopilot (Station leert 30–60 Tage selbst). Auf Hinderniserkennung achten (Spielzeug/Kabel).",done:false},
+  {id:uid(),domain:"🧹 Haushalt & Einkauf",text:"Wärmepumpentrockner / Waschtrockner",note:"Unterschätzter Klassiker – spart mehrere Stunden/Woche.",done:false},
+  {id:uid(),domain:"🧹 Haushalt & Einkauf",text:"Geschirrspüler nutzen/anschaffen",note:"~45 min Handarbeit pro Ladung gespart.",done:false},
+  {id:uid(),domain:"🧹 Haushalt & Einkauf",text:"Wischroboter (glatte Böden)",note:"Ordentlich für Flächen, Ecken/hartnäckig bleibt manuell.",done:false},
+  {id:uid(),domain:"🧹 Haushalt & Einkauf",text:"Lebensmittel-Lieferdienst-Konto einrichten",note:"Rewe/Picnic/Flink/Amazon Fresh – nimmt Schleppen + Fahrten.",done:false},
+  {id:uid(),domain:"🧹 Haushalt & Einkauf",text:"Spar-Abos für Verbrauchsgüter (Windeln, Drogerie)",note:"Automatische Nachlieferung – pausierbar halten (Windelgröße!).",done:false},
+  {id:uid(),domain:"🧹 Haushalt & Einkauf",text:"KI-Wochenplan → automatische Einkaufsliste",note:"z.B. ChatGPT/Meal-App erzeugt Plan + Liste, ab in Bring!-App.",done:false},
+  {id:uid(),domain:"🧹 Haushalt & Einkauf",text:"Mähroboter (falls Garten)",note:"",done:false},
+
+  {id:uid(),domain:"🎒 Schule & Lernen",text:"Größter Hebel (kein Tech): Hort/Ganztag mit Hausaufgabenbetreuung",note:"Aufgaben fertig, bevor das Kind heimkommt = Nachmittags-Machtkampf weg.",done:false},
+  {id:uid(),domain:"🎒 Schule & Lernen",text:"KI-Tutor als geduldiger Erklärer (Khanmigo, ChatGPT-Lernmodus)",note:"Regel: ERKLÄREN lassen, nicht Lösung. Entlastet Eltern beim Inhalt.",done:false},
+  {id:uid(),domain:"🎒 Schule & Lernen",text:"Mathe: Photomath / Rechenweg-App",note:"Zeigt Schritte, nicht nur Ergebnis. Ergebnisse prüfen (KI kann irren).",done:false},
+  {id:uid(),domain:"🎒 Schule & Lernen",text:"Vokabeln/Fakten: Spaced-Repetition-App (Anki, Phase6)",note:"Effektivstes Lernen pro Minute.",done:false},
+  {id:uid(),domain:"🎒 Schule & Lernen",text:"Schul-/Klassen-App in EINEN Familienkalender bündeln",note:"Untis/Sdui/Schulmanager → Termine/Fristen zentral, nicht in 5 Apps.",done:false},
+  {id:uid(),domain:"🎒 Schule & Lernen",text:"Datenschutz & Bildschirmzeit im Blick",note:"Lern-Apps prüfen; KI ersetzt keine Lehrkraft bei echten Lücken → dann Nachhilfe.",done:false},
+];}
 function defaultHousehold(){return [
   {id:uid(),cat:"Anschaffen (größter Zeitgewinn zuerst)",text:"Geschirrspüler nutzen/anschaffen",note:"Größter belegter Zeitgewinn im Haushalt",done:false},
   {id:uid(),cat:"Anschaffen (größter Zeitgewinn zuerst)",text:"Wäschetrockner",note:"Spart mehrere Stunden/Woche",done:false},
@@ -99,7 +122,7 @@ function statusOf(start,end){const n=today();if(n>end)return"past";if(n>=start&&
 function pill(s){return s==="due"?'<span class="pill due">jetzt fällig</span>':s==="soon"?'<span class="pill soon">bald</span>':s==="past"?'<span class="pill past">vorbei</span>':'';}
 
 // ---------- Tabs ----------
-const TABS=[["ueber","🗓️ Übersicht"],["kinder","🧒 Kinder & Vorsorge"],["kalender","📌 Kalender & Fristen"],["gifts","🎁 Geschenk-Ideen"],["haus","🤖 Haushalt & Roboter"],["tasks","✅ Aufgaben"],["daten","💾 Daten"]];
+const TABS=[["ueber","🗓️ Übersicht"],["kinder","🧒 Kinder & Vorsorge"],["kalender","📌 Kalender & Fristen"],["tech","🔧 Technik-Setup"],["gifts","🎁 Geschenk-Ideen"],["haus","🤖 Haushalt & Roboter"],["tasks","✅ Aufgaben"],["daten","💾 Daten"]];
 let tab="ueber";
 function drawTabs(){document.getElementById("tabs").innerHTML=TABS.map(([k,l])=>`<button class="tab ${k===tab?'active':''}" data-t="${k}">${l}</button>`).join("");}
 document.getElementById("tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(b){tab=b.dataset.t;render();}});
@@ -107,7 +130,7 @@ document.getElementById("tabs").addEventListener("click",e=>{const b=e.target.cl
 const esc=s=>(s==null?"":String(s)).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
 // ---------- Render ----------
-function render(){drawTabs();document.getElementById("view").innerHTML=({ueber:vUeber,kinder:vKinder,kalender:vKalender,gifts:vGifts,haus:vHaus,tasks:vTasks,daten:vDaten}[tab])();bind();}
+function render(){drawTabs();document.getElementById("view").innerHTML=({ueber:vUeber,kinder:vKinder,kalender:vKalender,tech:vTech,gifts:vGifts,haus:vHaus,tasks:vTasks,daten:vDaten}[tab])();bind();}
 
 function upcoming(){
   const items=[];
@@ -178,6 +201,24 @@ function vKalender(){
   return h+`</div>`;
 }
 
+function vTech(){
+  const doms=[...new Set(DB.tech.map(x=>x.domain))];
+  let h=`<div class="card"><h2>🔧 Technik-Setup: Schlaf · Haushalt/Einkauf · Schule</h2>
+    <div style="font-size:13px;color:var(--mut)">Vorbefüllte Checkliste — nur das, wo Technik/KI 2026 wirklich vereinfacht. Abhaken, was erledigt ist. Reihenfolge = größter Effekt zuerst.</div>
+    <div class="row" style="margin-top:10px"><input id="tech_t" placeholder="Eigene Technik-Idee"><select id="tech_d">${doms.map(d=>`<option>${esc(d)}</option>`).join("")}</select><button id="tech_add">Hinzufügen</button></div>
+  </div>`;
+  doms.forEach(d=>{
+    const items=DB.tech.filter(x=>x.domain===d);
+    const done=items.filter(x=>x.done).length;
+    h+=`<div class="card"><h2>${esc(d)} <span class="kidtag">${done}/${items.length} erledigt</span></h2>`;
+    items.forEach(x=>{
+      h+=`<div class="item ${x.done?'done':''}"><input class="chk" type="checkbox" data-tech="${x.id}" ${x.done?'checked':''}>
+        <div class="body"><div class="t">${esc(x.text)}</div>${x.note?`<div class="m">${esc(x.note)}</div>`:""}</div>
+        <button class="del" data-deltech="${x.id}">🗑</button></div>`;});
+    h+=`</div>`;
+  });
+  return h;
+}
 function vGifts(){
   let h=`<div class="card"><h2>🎁 Geschenk-Idee hinzufügen</h2>
     <div class="grid">
@@ -265,6 +306,7 @@ function bind(){
   on("ev_add","click",()=>{const t=$("ev_t").value.trim(),d=$("ev_d").value;if(!t||!d){alert("Titel und Datum nötig");return;}DB.events.push({id:uid(),title:t,date:d,who:$("ev_w").value.trim(),childId:$("ev_c").value||null,done:false});save();render();});
   on("g_add","click",()=>{const t=$("g_t").value.trim();if(!t){alert("Idee fehlt");return;}DB.gifts.push({id:uid(),text:t,childId:$("g_c").value||null,occasion:$("g_o").value.trim(),info:$("g_u").value.trim(),done:false});save();render();});
   on("h_add","click",()=>{const t=$("h_t").value.trim();if(!t)return;DB.household.push({id:uid(),text:t,cat:$("h_c").value.trim()||"Sonstiges",note:"",done:false});save();render();});
+  on("tech_add","click",()=>{const t=$("tech_t").value.trim();if(!t)return;DB.tech.push({id:uid(),text:t,domain:$("tech_d").value||"😴 Schlaf",note:"",done:false});save();render();});
   on("t_add","click",()=>{const t=$("t_t").value.trim();if(!t)return;DB.tasks.push({id:uid(),text:t,who:$("t_w").value.trim(),due:$("t_d").value,done:false});save();render();});
 
   document.querySelectorAll("[data-tmpl]").forEach(b=>b.addEventListener("click",()=>tmpl(b.dataset.tmpl)));
@@ -274,10 +316,11 @@ function bind(){
   document.querySelectorAll("[data-ev]").forEach(c=>c.addEventListener("change",e=>{toggle("events",e.target.dataset.ev);}));
   document.querySelectorAll("[data-gift]").forEach(c=>c.addEventListener("change",e=>{toggle("gifts",e.target.dataset.gift);}));
   document.querySelectorAll("[data-haus]").forEach(c=>c.addEventListener("change",e=>{toggle("household",e.target.dataset.haus);}));
+  document.querySelectorAll("[data-tech]").forEach(c=>c.addEventListener("change",e=>{toggle("tech",e.target.dataset.tech);}));
   document.querySelectorAll("[data-task]").forEach(c=>c.addEventListener("change",e=>{toggle("tasks",e.target.dataset.task);}));
   // Löschen
   del("delchild","children",id=>{DB.gifts=DB.gifts.filter(g=>g.childId!==id);DB.events=DB.events.filter(e=>e.childId!==id);});
-  del("delev","events"); del("delgift","gifts"); del("delhaus","household"); del("deltask","tasks");
+  del("delev","events"); del("delgift","gifts"); del("delhaus","household"); del("deltech","tech"); del("deltask","tasks");
 
   on("export","click",()=>{const blob=new Blob([JSON.stringify(DB,null,2)],{type:"application/json"});const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download="familien-helfer-backup.json";a.click();});
   on("importBtn","click",()=>$("importFile").click());
