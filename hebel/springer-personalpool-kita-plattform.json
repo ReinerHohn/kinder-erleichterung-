@@ -1,0 +1,94 @@
+{
+  "id": "springer-personalpool-kita-plattform",
+  "name": "Springer-/Vertretungspool-Plattform für Kitas",
+  "category": "💼 Service- & Geschäftsideen",
+  "tags": [
+    "Personal",
+    "Vertretung",
+    "Springer",
+    "Zeitarbeit",
+    "Fachkräftemangel",
+    "Plattform"
+  ],
+  "impact": 4,
+  "evidence_level": "B",
+  "effort": 4,
+  "summary": "Bei Krankheit/Ausfall drohen Kitas Notgruppen oder Schließtage. Eine Plattform, die geprüfte pädagogische Vertretungskräfte kurzfristig vermittelt, hält Gruppen offen. Bereits 32 % der Kitas setzen verstärkt auf Springerkräfte - der Bedarf ist riesig, die Umsetzung wegen Qualifikation, Führungszeugnis und Kontinuität aber anspruchsvoll.",
+  "key_facts": [
+    {
+      "label": "Fachkräftelücke",
+      "value": "bundesweit ~107.000 fehlende Fachkräfte (49.000 offene Stellen + 58.000 abwesenheitsbedingt)",
+      "source": "Paritätischer Gesamtverband 2025"
+    },
+    {
+      "label": "Reaktion der Kitas",
+      "value": "32 % setzen auf mehr Springerkräfte, 35 % erhöhen Stunden bestehender Kräfte",
+      "source": "Studie Uni Wien (via ZDFheute)"
+    },
+    {
+      "label": "Personalausstattung",
+      "value": "nur 13,7 % der Kitas mit 100-%-Personalausstattung (2024)",
+      "source": "Bertelsmann/Fachkräfte-Analyse"
+    },
+    {
+      "label": "Anbieter/Modell",
+      "value": "pädagogische Zeitarbeit (pluss, doctari, Persona, TIMEPARTNER, kita-personal.de); Abrechnung nur geleisteter Stunden, Springer oft +bis 30 % Verdienst",
+      "source": "Anbieter-Websites / kita-personal.de"
+    }
+  ],
+  "deep_dive": "Der akute Schmerz im Kita-Betrieb ist nicht die Jahresplanung, sondern der kurzfristige Ausfall: Fällt morgens eine Fachkraft aus, drohen wegen des Personalschlüssels Notgruppen oder Schließtage - nur 13,7 % der Kitas arbeiten überhaupt mit voller Personalausstattung, und bundesweit fehlen rund 107.000 Fachkräfte (davon 58.000 abwesenheitsbedingt). Entsprechend setzen laut einer Studie der Uni Wien bereits 32 % der Kitas verstärkt auf Springerkräfte. Eine Plattform, die geprüfte pädagogische Vertretungskräfte kurzfristig und passgenau vermittelt, adressiert genau diesen Engpass; das Feld wird heute vor allem von pädagogischer Zeitarbeit besetzt (pluss, doctari, Persona, TIMEPARTNER, kita-personal.de u.a.), oft mit dem Modell 'nur geleistete Stunden werden abgerechnet' und einem Verdienst-Plus von teils bis zu 30 % für die Kräfte. Tragfähig ist das Geschäft, weil der Bedarf strukturell und wachsend ist (bis 2030 werden zusätzlich ~230.000 Fachkräfte prognostiziert). Die Hürden sind allerdings hoch: jede Kraft braucht ein erweitertes Führungszeugnis und passende Qualifikation, es gelten die Vorgaben des Fachkräftegebots, und die Vermittlung muss sehr schnell funktionieren. Der zentrale Zielkonflikt ist pädagogischer Natur: Kleine Kinder brauchen Bindung und Kontinuität, ständig wechselnde Springer können das untergraben - eine gute Plattform priorisiert daher wiederkehrende, der Einrichtung bekannte Kräfte. Ein verbreiteter Irrtum ist, Springer seien die billige Notlösung: Zeitarbeit ist pro Stunde teuer, und wo sie Dauerzustand wird, verschärft sie das Problem, weil sie Stammkräfte abwirbt.",
+  "mechanism": "Deckt kurzfristige personelle Ausfälle so schnell ab, dass Gruppen geöffnet und Schließtage/Notgruppen vermieden werden - hält also die zugesagte Betreuung physisch verfügbar.",
+  "evidence": [
+    {
+      "source": "Studie Uni Wien (via ZDFheute)",
+      "year": 2025,
+      "finding": "32 % der Kitas reagieren auf Personalmangel mit verstärktem Einsatz von Springerkräften, 35 % mit Stundenaufstockung."
+    },
+    {
+      "source": "Paritätischer Gesamtverband",
+      "year": 2025,
+      "finding": "~107.000 fehlende Fachkräfte, davon 58.000 durch Abwesenheiten (Krankheit/Urlaub/Fortbildung) vakant - der Kernanwendungsfall für Vertretung."
+    },
+    {
+      "source": "kita-personal.de / Anbieter pädagogischer Zeitarbeit",
+      "year": 2025,
+      "finding": "Etabliertes Modell: nur geleistete Stunden abgerechnet, Krankheits-/Urlaubsrisiko beim Dienstleister; Springer verdienen teils bis 30 % mehr."
+    }
+  ],
+  "protocol": [
+    "Lokal starten: einen Träger/Stadtteil mit festem, geprüftem Kräftepool aufbauen statt bundesweiter Vermittlung ohne Bindung.",
+    "Qualifikation & Recht zuerst: erweitertes Führungszeugnis, Nachweis der Fachkraft-/Ergänzungskraft-Qualifikation und Fachkräftegebot des Bundeslandes vorab prüfen.",
+    "Kontinuität einbauen: bevorzugt wiederkehrende, der Kita bereits bekannte Springer vermitteln (Bindung für Kinder), nicht anonyme Tageskräfte.",
+    "Wirtschaftlichkeit ehrlich rechnen: Zeitarbeits-Stundensätze sind hoch - als Ausfall-Puffer positionieren, nicht als dauerhaften Personalersatz."
+  ],
+  "mistakes": [
+    "Führungszeugnis/Qualifikation lax handhaben - im Kinderbereich ein k.o.-Kriterium.",
+    "Nur auf Vermittlungsgeschwindigkeit optimieren und die Bindungs-/Kontinuitätsbedürfnisse der Kinder ignorieren.",
+    "Springer als Dauerlösung verkaufen und damit Stammkräfte abwerben - verschärft den Grundmangel.",
+    "Die hohen Stundenkosten der Zeitarbeit gegenüber Trägern beschönigen."
+  ],
+  "risks": "Kinderschutz erfordert erweitertes Führungszeugnis und passende Qualifikation; das Fachkräftegebot begrenzt einsetzbare Kräfte. Kernkonflikt Kontinuität vs. Springer (Bindung leidet) und hohe Kosten; Dauereinsatz kann Stammpersonal abwerben und den Mangel verschärfen. Die Betreuung selbst bleibt fachlich-menschlich - die Plattform sichert nur ihre Verfügbarkeit.",
+  "synergy": [
+    "betriebliche-kinderbetreuung-backup-care",
+    "kinderbetreuung-guenstig-fuer-alle",
+    "babysitter-notfallbetreuung-vermittlung"
+  ],
+  "sources": [
+    {
+      "title": "Studie Uni Wien: Viele Kitas können Auftrag nicht voll erfüllen (ZDFheute)",
+      "url": "https://www.zdfheute.de/panorama/kitas-personalmangel-studie-uni-wien-100.html"
+    },
+    {
+      "title": "Deutscher Kitaverband - DKV-Jahresumfrage 2025",
+      "url": "https://www.deutscher-kitaverband.de/ergebnisse-der-dkv-jahresumfrage-2025/"
+    },
+    {
+      "title": "TIMEPARTNER - Pädagogisches Personal in Zeitarbeit",
+      "url": "https://www.timepartner.com/fachbereiche/paedagogik"
+    },
+    {
+      "title": "kita-personal.de - Personalagentur für Kitas & Erzieher",
+      "url": "https://kita-personal.de/"
+    }
+  ]
+}

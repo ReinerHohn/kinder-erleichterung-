@@ -1,6 +1,6 @@
 # Kinder-Erleichterung — Katalog
 
-> 104 evidenzbasierte Karten. Automatisch aus `hebel/*.json` gebaut — nicht von Hand editieren.
+> 108 evidenzbasierte Karten. Automatisch aus `hebel/*.json` gebaut — nicht von Hand editieren.
 
 > ⚠️ Wissenswerkzeug, kein medizinischer/rechtlicher/steuerlicher Rat. Evidenzgrad (A/B/C) und Risiken stehen pro Karte.
 
@@ -1997,7 +1997,7 @@ Die SNOO ist der Prototyp des 'Sweet Spot' gegen Elternschlafmangel: Sie erkennt
 ---
 
 
-## 💼 Service- & Geschäftsideen  (9)
+## 💼 Service- & Geschäftsideen  (13)
 
 ### Admin-/Bürokratie-Concierge für Eltern (Elterngeld, Kita, Behördenkram)
 *Wirkung 4/5 · Aufwand 2/5 · Evidenz A*
@@ -2023,6 +2023,30 @@ Deutscher Behördendschungel ist ein echtes, breit geteiltes Elternleid, und der
 
 ---
 
+### Kita-Verwaltungs- & Doku-Software (SaaS): Erzieher-Zeit zurückgewinnen
+*Wirkung 5/5 · Aufwand 3/5 · Evidenz B*
+
+Rund ein Drittel der Erzieher-Arbeitszeit fließt in Aufgaben abseits der pädagogischen Praxis (Doku, Elterngespräche, Verwaltung). Digitale Kita-Software bündelt Anwesenheit, Elternkommunikation, Dienstplan und Bildungsdokumentation und gibt so mittelbar Zeit fürs Kind frei - die Betreuung selbst bleibt menschlich.
+
+- **Zeitanteil Nicht-Praxis:** ca. ein Drittel der Erzieher-Arbeitszeit für Doku/Elterngespräche/Qualität/Ausfall (Bertelsmann Stiftung, Fachkräfte-Radar/Ländermonitoring)
+- **Preis Stramplerbande:** 1,29 € pro Kind/Fachkraft und Monat (Kommunikation + Verwaltung), Setup ab 89 €, Zeiterfassung +15,90 €/Einrichtung/Monat (stramplerbande.de/preise (Stand 2025))
+- **Anbieter am Markt:** KigaRoo, leandoo (Basis kostenlos), CARE by Haufe, Stramplerbande, Sdui, Kita-Info-App, KiKom u.v.m. (softwareabc24.de Marktübersicht)
+- **Fachkräftelücke als Treiber:** bundesweit ~107.000 fehlende pädagogische Fachkräfte (Paritätischer Gesamtverband 2025 (via ad-hoc-news))
+
+Der größte Entlastungshebel in der Kita ist nicht mehr Personal über Nacht, sondern die Rückgewinnung vorhandener Fachkraftzeit: Studien der Bertelsmann Stiftung zeigen, dass etwa ein Drittel der Arbeitszeit für Aufgaben außerhalb der direkten pädagogischen Arbeit anfällt (Bildungsdokumentation, Elterngespräche, Qualitätsentwicklung, Ausfallzeiten). Hier setzt B2B-SaaS an: KigaRoo, leandoo, CARE by Haufe, Stramplerbande, Sdui oder die Kita-Info-App digitalisieren Anwesenheit/Check-in, Elternkommunikation (Push statt Aushang/Zettel), Dienst- und Urlaubsplanung, Beitragsabrechnung und zunehmend KI-gestützte Beobachtungsdokumentation. Preismodelle liegen typischerweise im Bereich ~1-2 € pro Kind und Monat (Stramplerbande 1,29 €; leandoo mit kostenloser Basisversion), meist plus Setup und Modul-Aufpreisen - Kunde ist der Träger oder die Kommune, nicht die Eltern. Tragfähig ist das Modell, weil der Markt riesig und fragmentiert ist und der Personaldruck (~107.000 fehlende Fachkräfte) die Zahlungsbereitschaft für Zeitersparnis erhöht. Ein verbreiteter Irrtum ist, Software spare 'die Doku' komplett ein - sie strukturiert und beschleunigt, aber Bildungsdokumentation bleibt pädagogische Pflichtaufgabe; realistisch sind eingesparte Minuten pro Vorgang, nicht das Wegfallen der Aufgabe. Größte Hürden sind DSGVO (Kinderdaten sind besonders schutzwürdig; walhalla.de dokumentierte konkrete Datenschutz- und Sicherheitsmängel bei Kita-Apps), die zähe Beschaffung der öffentlichen Hand und die Fragmentierung über 16 Länder mit je eigenen Vorgaben. Wer gewinnt, überzeugt Träger mit belegter Zeitersparnis und wasserdichtem, in Deutschland gehostetem Datenschutz.
+
+**Konkret:**
+- Klein starten: 1-3 kooperierende Kitas als Pilot gewinnen, einen konkreten Zeitfresser (z.B. Elternkommunikation oder Anwesenheit) messbar lösen statt 'alles auf einmal'.
+- Datenschutz ZUERST: Auftragsverarbeitungsvertrag (AVV), Hosting in DE/EU, Datensparsamkeit, Löschkonzept und Einwilligung für Kinderfotos rechtssicher aufsetzen (Landesdatenschutz einbeziehen).
+- Beschaffung verstehen: kommunale Vergabeprozesse, Rahmenverträge und Fördertöpfe (Digitalisierung) früh adressieren; Träger als Kunden, Eltern als Nutzer denken.
+- Zeitersparnis belegen: vorher/nachher Minuten pro Vorgang messen und als Verkaufsargument gegenüber Trägern dokumentieren.
+
+**Risiken:** DSGVO/Kinderdaten sind besonders schutzwürdig (dokumentierte App-Mängel); langsame öffentliche Beschaffung und 16 Länderlogiken bremsen Skalierung; Lock-in- und Ausfall-Risiken bei kritischen Verwaltungsdaten. Die Software entlastet, ersetzt aber weder Fachkraft noch pädagogische Verantwortung.
+
+**Quellen:** [Stramplerbande - Preise](https://stramplerbande.de/preise/) · [KigaRoo - Kita-Verwaltungssoftware](https://www.kigaroo.de/) · [leandoo - Kita-Software Preise](https://leandoo.com/preise) · [Bertelsmann Stiftung: Kitapersonal braucht bessere Arbeitsbedingungen](https://www.bertelsmann-stiftung.de/de/themen/aktuelle-meldungen/2019/september/kitapersonal-braucht-bessere-arbeitsbedingungen) · [Walhalla: Datenschutz- und Sicherheitsmängel bei Kita-Apps](https://www.walhalla.de/news/datenschutz-und-sicherheitsmaengel-bei-kita-apps)
+
+---
+
 ### Kindergeburtstag Rundum-Sorglos-Service (Planung, Motto, Location, Animation, Catering)
 *Wirkung 5/5 · Aufwand 3/5 · Evidenz A*
 
@@ -2044,6 +2068,30 @@ Der Markt für Einzelbausteine (Zauberer, Hüpfburg, Kinderschminken) ist etabli
 **Risiken:** Aufsichtspflicht/Haftung bei Verletzungen von Kindern während Animation (Betriebshaftpflicht zwingend, Aufsichtspflicht klar vertraglich verorten). Qualitätsrisiko durch Freelancer. Saisonale/wöchentliche Auslastungsspitzen begrenzen Skalierung; niedrige Wiederkaufrate treibt Marketingkosten.
 
 **Quellen:** [eventzone.de – Zauberer für Kindergeburtstag](https://eventzone.de/zauberer-fuer-kindergeburtstag) · [mrtom.de – Kindergeburtstag Preise &amp; Pakete](https://www.mrtom.de/kindergeburtstag.html) · [Agentur KinderZeit](https://www.agentur-kinderzeit.de/kindergeburtstage.html) · [kindergeburtstag24.de – Geschenkbudget](https://www.kindergeburtstag24.de/wie-teuer-sollte-ein-geschenk-zum-kindergeburtstag-sein/)
+
+---
+
+### Digitale Kita-Platzvergabe & Matching für Kommunen
+*Wirkung 4/5 · Aufwand 3/5 · Evidenz B*
+
+Digitale Portale wie der Kita-Navigator oder LITTLE BIRD bündeln Anmeldung und Vergabe von Kitaplätzen, senken Mehrfach-Anmeldungen und machen die Vergabe transparent. Für Kommunen und Träger heben sie die Auslastung und reduzieren Verwaltungsreibung - ein etabliertes B2G-SaaS-Feld.
+
+- **LITTLE BIRD Reichweite:** Marktführer; ~375-600 Kommunen/Träger, 11 Bundesländer (allein >100 Kommunen in Bayern) (little-bird.de / firmenpresse.de)
+- **Kita-Navigator Düsseldorf:** Vormerksystem für über 300 Düsseldorfer Kitas (auch in Kreis Düren, Erftstadt u.a. im Einsatz) (duesseldorf.kita-navigator.org)
+- **Problem heute:** Mehrfach-Anmeldungen verzerren Bedarf; ~550.000 Plätze bleiben rechnerisch leer trotz Nachfrage/Fachkräftemangel (ad-hoc-news 2025 / Paritätischer)
+- **Geschäftsmodell:** SaaS an Kommune/Landkreis/Träger (Lizenz + Betrieb), Eltern nutzen kostenlos (little-bird.de Konzept)
+
+Die Kitaplatz-Suche ist für Eltern intransparent und für Kommunen ineffizient: Wer sich sicherheitshalber bei zehn Kitas anmeldet, bläht Wartelisten auf und verzerrt die Bedarfsplanung, während anderswo Plätze unbesetzt bleiben. Digitale Portale lösen genau diese Reibung: Der Kita-Navigator (Düsseldorf, u.a. auch Kreis Düren und Erftstadt) ist ein Vormerksystem für über 300 Einrichtungen, LITTLE BIRD (gegründet 2009, Berlin) ist Marktführer mit einer Komplettlösung aus Elternportal, Platzvergabe, Bedarfsplanung, Beitragsabrechnung und Personalplanung und ist in rund 375-600 Kommunen und 11 Bundesländern im Einsatz (allein über 100 Kommunen in Bayern). Der Nutzen: weniger Mehrfach-Anmeldungen, transparente und rechtssichere Vergabe, weniger Papier und bessere Auslastung. Das Geschäftsmodell ist klassisch B2G-SaaS - zahlender Kunde ist die Kommune, der Landkreis oder der Träger, Eltern nutzen das Portal kostenlos. Ein verbreiteter Irrtum ist, ein solches Portal sei ein zentrales Vergabesystem, das Plätze zuteilt: Der Kita-Navigator etwa ist ausdrücklich ein Vormerk-/Anmeldesystem, die Vergabeentscheidung bleibt bei den einzelnen Einrichtungen - Träger-Beteiligung ist also Erfolgsvoraussetzung, nicht Beiwerk. Größte Hürden sind die kommunale Beschaffung, die Datenqualität (nur wenn alle Träger mitmachen, stimmt das Belegungsbild) und der Datenschutz bei Familiendaten. Dass rechnerisch ~550.000 Plätze leer bleiben, zeigt zugleich die Grenze: Die tiefere Ursache ist Fachkräftemangel, nicht nur schlechtes Matching - Software hebt die Auslastung, schafft aber keine Erzieher.
+
+**Konkret:**
+- Klein starten: eine Kommune oder einen Landkreis als Referenz gewinnen und dort möglichst alle Träger einbinden (Datenqualität steht und fällt mit Vollständigkeit).
+- Beschaffung früh adressieren: Vergaberecht, Ausschreibung, Rahmenverträge und Digitalisierungs-Fördermittel einplanen.
+- Datenschutz klären: AVV, DE/EU-Hosting, Datensparsamkeit und Löschkonzept für Familiendaten von Anfang an.
+- Realistisch positionieren: als Vormerk-/Matching- und Auslastungswerkzeug, nicht als Lösung des Fachkräftemangels.
+
+**Risiken:** Kommunale Beschaffung ist langwierig; ohne vollständige Träger-Beteiligung leidet die Datenqualität; Familiendaten unterliegen der DSGVO. Software hebt die Auslastung, beseitigt aber nicht die eigentliche Engstelle (fehlendes Personal) - der Betreuungsakt bleibt menschlich.
+
+**Quellen:** [LITTLE BIRD - Digitale Kitaplatz-Vergabe &amp; Verwaltung](https://business.little-bird.de/konzept/sechs-schritte-zum-kita-platz/) · [Kita-Navigator Düsseldorf - FAQ](https://duesseldorf.kita-navigator.org/faq) · [LITTLE BIRD - Für Kommunen](https://www.little-bird.de/service/kommunen/) · [Kita-Krise: 107.000 Fachkräfte fehlen, 550.000 Plätze leer](https://www.ad-hoc-news.de/wirtschaft/kita-krise-107-000-fachkraefte-fehlen-550-000-plaetze-bleiben-leer/70041709)
 
 ---
 
@@ -2191,6 +2239,30 @@ Der Schmerz ist real und hochfrequent: Grundschuleltern werden zu vielen Kinderg
 
 ---
 
+### Springer-/Vertretungspool-Plattform für Kitas
+*Wirkung 4/5 · Aufwand 4/5 · Evidenz B*
+
+Bei Krankheit/Ausfall drohen Kitas Notgruppen oder Schließtage. Eine Plattform, die geprüfte pädagogische Vertretungskräfte kurzfristig vermittelt, hält Gruppen offen. Bereits 32 % der Kitas setzen verstärkt auf Springerkräfte - der Bedarf ist riesig, die Umsetzung wegen Qualifikation, Führungszeugnis und Kontinuität aber anspruchsvoll.
+
+- **Fachkräftelücke:** bundesweit ~107.000 fehlende Fachkräfte (49.000 offene Stellen + 58.000 abwesenheitsbedingt) (Paritätischer Gesamtverband 2025)
+- **Reaktion der Kitas:** 32 % setzen auf mehr Springerkräfte, 35 % erhöhen Stunden bestehender Kräfte (Studie Uni Wien (via ZDFheute))
+- **Personalausstattung:** nur 13,7 % der Kitas mit 100-%-Personalausstattung (2024) (Bertelsmann/Fachkräfte-Analyse)
+- **Anbieter/Modell:** pädagogische Zeitarbeit (pluss, doctari, Persona, TIMEPARTNER, kita-personal.de); Abrechnung nur geleisteter Stunden, Springer oft +bis 30 % Verdienst (Anbieter-Websites / kita-personal.de)
+
+Der akute Schmerz im Kita-Betrieb ist nicht die Jahresplanung, sondern der kurzfristige Ausfall: Fällt morgens eine Fachkraft aus, drohen wegen des Personalschlüssels Notgruppen oder Schließtage - nur 13,7 % der Kitas arbeiten überhaupt mit voller Personalausstattung, und bundesweit fehlen rund 107.000 Fachkräfte (davon 58.000 abwesenheitsbedingt). Entsprechend setzen laut einer Studie der Uni Wien bereits 32 % der Kitas verstärkt auf Springerkräfte. Eine Plattform, die geprüfte pädagogische Vertretungskräfte kurzfristig und passgenau vermittelt, adressiert genau diesen Engpass; das Feld wird heute vor allem von pädagogischer Zeitarbeit besetzt (pluss, doctari, Persona, TIMEPARTNER, kita-personal.de u.a.), oft mit dem Modell 'nur geleistete Stunden werden abgerechnet' und einem Verdienst-Plus von teils bis zu 30 % für die Kräfte. Tragfähig ist das Geschäft, weil der Bedarf strukturell und wachsend ist (bis 2030 werden zusätzlich ~230.000 Fachkräfte prognostiziert). Die Hürden sind allerdings hoch: jede Kraft braucht ein erweitertes Führungszeugnis und passende Qualifikation, es gelten die Vorgaben des Fachkräftegebots, und die Vermittlung muss sehr schnell funktionieren. Der zentrale Zielkonflikt ist pädagogischer Natur: Kleine Kinder brauchen Bindung und Kontinuität, ständig wechselnde Springer können das untergraben - eine gute Plattform priorisiert daher wiederkehrende, der Einrichtung bekannte Kräfte. Ein verbreiteter Irrtum ist, Springer seien die billige Notlösung: Zeitarbeit ist pro Stunde teuer, und wo sie Dauerzustand wird, verschärft sie das Problem, weil sie Stammkräfte abwirbt.
+
+**Konkret:**
+- Lokal starten: einen Träger/Stadtteil mit festem, geprüftem Kräftepool aufbauen statt bundesweiter Vermittlung ohne Bindung.
+- Qualifikation & Recht zuerst: erweitertes Führungszeugnis, Nachweis der Fachkraft-/Ergänzungskraft-Qualifikation und Fachkräftegebot des Bundeslandes vorab prüfen.
+- Kontinuität einbauen: bevorzugt wiederkehrende, der Kita bereits bekannte Springer vermitteln (Bindung für Kinder), nicht anonyme Tageskräfte.
+- Wirtschaftlichkeit ehrlich rechnen: Zeitarbeits-Stundensätze sind hoch - als Ausfall-Puffer positionieren, nicht als dauerhaften Personalersatz.
+
+**Risiken:** Kinderschutz erfordert erweitertes Führungszeugnis und passende Qualifikation; das Fachkräftegebot begrenzt einsetzbare Kräfte. Kernkonflikt Kontinuität vs. Springer (Bindung leidet) und hohe Kosten; Dauereinsatz kann Stammpersonal abwerben und den Mangel verschärfen. Die Betreuung selbst bleibt fachlich-menschlich - die Plattform sichert nur ihre Verfügbarkeit.
+
+**Quellen:** [Studie Uni Wien: Viele Kitas können Auftrag nicht voll erfüllen (ZDFheute)](https://www.zdfheute.de/panorama/kitas-personalmangel-studie-uni-wien-100.html) · [Deutscher Kitaverband - DKV-Jahresumfrage 2025](https://www.deutscher-kitaverband.de/ergebnisse-der-dkv-jahresumfrage-2025/) · [TIMEPARTNER - Pädagogisches Personal in Zeitarbeit](https://www.timepartner.com/fachbereiche/paedagogik) · [kita-personal.de - Personalagentur für Kitas &amp; Erzieher](https://kita-personal.de/)
+
+---
+
 ### Baby-Ausstattung mieten (Kinderwagen, Beistellbett, Autositz, Federwiege) im Abo
 *Wirkung 3/5 · Aufwand 4/5 · Evidenz A*
 
@@ -2212,6 +2284,30 @@ Das Modell ist real, mehrfach besetzt (StrollMe, meinstorky, nomadi, SpatzenTour
 **Risiken:** Kapitalintensiv (Bestandsvorfinanzierung), lange Amortisation, Logistik-/Hygienekosten drücken Marge. Produkthaftung bei sicherheitskritischen Teilen (Autositz nach Unfall). Starker Substitut-Wettbewerb durch Gebrauchtmarkt (Kleinanzeigen). Nische, schwer skalierbar.
 
 **Quellen:** [meinstorky – Babyartikel im Abo mieten](https://meinstorky.de/) · [nomadi – Kindermöbel mieten](https://www.nomadi.de/collections/schlafen) · [SpatzenTourist – Kinderwagen mieten](https://spatzentourist.de/) · [IFH Köln – Markt Baby-/Kinderausstattung](https://www.ifhkoeln.de/markt-fuer-baby-und-kinderausstattung-waechst-nur-noch-moderat/)
+
+---
+
+### KI-Sicherheitsassistenz: das 'zweite Augenpaar' (Blaupause Bade-KI)
+*Wirkung 2/5 · Aufwand 5/5 · Evidenz C*
+
+In Schwimmbädern erkennen KI-Systeme (Lynxight, AngelEye, Coral) beginnendes Ertrinken und alarmieren Rettungsschwimmer schneller. Übertragen auf Betreuung sind Kinderzählung, Sturz-/Gefahr-Alarm oder 'kein Kind im Bus vergessen' denkbar - im DE-Kita-Alltag mit Kamera aber datenschutzrechtlich extrem heikel; realistisch am ehesten sensorbasierte Nischen wie Bus-Check.
+
+- **Lynxight Verbreitung:** in 1.000+ Schwimmbädern weltweit, ~6x schnellere Reaktion, nach DIN 79002 und ISO 20380 zugelassen (lynxight.com)
+- **AngelEye Alarmzeit:** Alarm binnen ~10 Sekunden auf Smartwatch/Handy/Leuchtsignal, nach ISO 20380:2017 (angeleye.tech)
+- **Bus-'Kind-vergessen'-Systeme:** Radar (IEE VitaSense, seit 2009), Infrarot-Array, Druck-/Bewegungssensoren, LiDAS-Turnkey (IEE Sensing / Sensors (MDPI) / school-busride.com)
+- **Kernprinzip:** Augment, not replace - ersetzt laut Herstellern NICHT die aktive Aufsicht durch Menschen (Lynxight/AngelEye Herstellerangaben)
+
+Die Blaupause kommt aus Schwimmbädern: Lynxight (in über 1.000 Bädern, ~6x schnellere Reaktion, nach DIN 79002/ISO 20380), AngelEye und Coral Manor werten Kamerabilder mit KI aus und alarmieren Rettungspersonal bei Ertrinkungsmustern binnen Sekunden - explizit als zweites Augenpaar, nicht als Ersatz für Rettungsschwimmer. Übertragen auf Kinderbetreuung wären Anwendungen denkbar wie automatische Kinderzählung bei Ausflügen, Sturz-/Gefahrerkennung oder das sicherheitskritische 'kein Kind im Bus/Fahrzeug vergessen'. Für Letzteres existiert reife, kamerafreie Sensorik: Radar (IEE VitaSense seit 2009, ursprünglich gegen im heißen Auto vergessene Kinder), Infrarot-Arrays und Druck-/Bewegungssensoren erkennen selbst Atmung eines schlafenden Kindes im abgestellten Fahrzeug. Genau diese sensorbasierten Nischen sind in DE realistisch machbar, weil sie ohne dauerhafte Videoüberwachung von Kindern auskommen. Denn der zentrale Vorbehalt ist Datenschutz: dauerhafte KI-Kameraüberwachung von Kindern in der Kita ist in Deutschland rechtlich, gesellschaftlich und arbeitsrechtlich (auch Personal wird gefilmt) kaum durchsetzbar. Hinzu kommen Fehlalarme, Haftungsfragen und das gefährlichste Missverständnis überhaupt - 'die KI passt ja auf': Selbst führende Bade-Systeme betonen, dass sie die menschliche Aufsicht nicht ersetzen; jede Scheinsicherheit, die Betreuer unaufmerksamer macht, verschlechtert die Sicherheit. Der tragfähige Kern ist daher schmal und liegt eher bei klar abgegrenzter Sensorik (Bus-Check, Zutritt/Anwesenheit) als bei flächiger Kinder-Videoanalyse.
+
+**Konkret:**
+- Nicht mit Kita-Videoüberwachung starten - zuerst die datenschutzarme Nische: sensorbasierter 'Kein-Kind-im-Bus'-Check für Kita-Fahrten/Transporte.
+- Datenschutz zuerst klären: Datenschutz-Folgenabschätzung (DSFA), Rechtsgrundlage, Elterneinwilligung, Landesdatenschutzbehörde und Personalvertretung früh einbinden.
+- Kamerafreie Sensorik (Radar/Infrarot/Druck) vor Kameralösungen prüfen - weniger Grundrechtseingriff, höhere Akzeptanz.
+- Verantwortung klar verankern: System nur als Alarm-Backup positionieren, Aufsichtspflicht und Reaktion bleiben beim Menschen; Fehlalarmrate offen ausweisen.
+
+**Risiken:** Datenschutz im Kinderbereich ist maximal sensibel; Videoüberwachung von Kindern/Personal rechtlich und gesellschaftlich kaum durchsetzbar. Fehlalarme, Haftungsfragen und vor allem falsche Sicherheit: Der Mensch bleibt aufsichtspflichtig und verantwortlich - die KI ist nur ein zusätzliches Alarm-Backup, niemals Ersatz.
+
+**Quellen:** [Lynxight - AI Pool Safety](https://www.lynxight.com/) · [AngelEye - Drowning Detection Technology](https://angeleye.tech/us/us-technology/) · [Child Presence Detection in School Buses (Sensors/MDPI)](https://doi.org/10.3390/s26133982) · [LiDAS - No Child Left Behind (School BUSRide)](https://school-busride.com/lidas-ensures-no-child-is-left-behind/)
 
 ---
 

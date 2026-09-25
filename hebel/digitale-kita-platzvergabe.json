@@ -1,0 +1,94 @@
+{
+  "id": "digitale-kita-platzvergabe",
+  "name": "Digitale Kita-Platzvergabe & Matching für Kommunen",
+  "category": "💼 Service- & Geschäftsideen",
+  "tags": [
+    "Platzvergabe",
+    "Kommune",
+    "SaaS",
+    "Matching",
+    "Auslastung",
+    "Eltern"
+  ],
+  "impact": 4,
+  "evidence_level": "B",
+  "effort": 3,
+  "summary": "Digitale Portale wie der Kita-Navigator oder LITTLE BIRD bündeln Anmeldung und Vergabe von Kitaplätzen, senken Mehrfach-Anmeldungen und machen die Vergabe transparent. Für Kommunen und Träger heben sie die Auslastung und reduzieren Verwaltungsreibung - ein etabliertes B2G-SaaS-Feld.",
+  "key_facts": [
+    {
+      "label": "LITTLE BIRD Reichweite",
+      "value": "Marktführer; ~375-600 Kommunen/Träger, 11 Bundesländer (allein >100 Kommunen in Bayern)",
+      "source": "little-bird.de / firmenpresse.de"
+    },
+    {
+      "label": "Kita-Navigator Düsseldorf",
+      "value": "Vormerksystem für über 300 Düsseldorfer Kitas (auch in Kreis Düren, Erftstadt u.a. im Einsatz)",
+      "source": "duesseldorf.kita-navigator.org"
+    },
+    {
+      "label": "Problem heute",
+      "value": "Mehrfach-Anmeldungen verzerren Bedarf; ~550.000 Plätze bleiben rechnerisch leer trotz Nachfrage/Fachkräftemangel",
+      "source": "ad-hoc-news 2025 / Paritätischer"
+    },
+    {
+      "label": "Geschäftsmodell",
+      "value": "SaaS an Kommune/Landkreis/Träger (Lizenz + Betrieb), Eltern nutzen kostenlos",
+      "source": "little-bird.de Konzept"
+    }
+  ],
+  "deep_dive": "Die Kitaplatz-Suche ist für Eltern intransparent und für Kommunen ineffizient: Wer sich sicherheitshalber bei zehn Kitas anmeldet, bläht Wartelisten auf und verzerrt die Bedarfsplanung, während anderswo Plätze unbesetzt bleiben. Digitale Portale lösen genau diese Reibung: Der Kita-Navigator (Düsseldorf, u.a. auch Kreis Düren und Erftstadt) ist ein Vormerksystem für über 300 Einrichtungen, LITTLE BIRD (gegründet 2009, Berlin) ist Marktführer mit einer Komplettlösung aus Elternportal, Platzvergabe, Bedarfsplanung, Beitragsabrechnung und Personalplanung und ist in rund 375-600 Kommunen und 11 Bundesländern im Einsatz (allein über 100 Kommunen in Bayern). Der Nutzen: weniger Mehrfach-Anmeldungen, transparente und rechtssichere Vergabe, weniger Papier und bessere Auslastung. Das Geschäftsmodell ist klassisch B2G-SaaS - zahlender Kunde ist die Kommune, der Landkreis oder der Träger, Eltern nutzen das Portal kostenlos. Ein verbreiteter Irrtum ist, ein solches Portal sei ein zentrales Vergabesystem, das Plätze zuteilt: Der Kita-Navigator etwa ist ausdrücklich ein Vormerk-/Anmeldesystem, die Vergabeentscheidung bleibt bei den einzelnen Einrichtungen - Träger-Beteiligung ist also Erfolgsvoraussetzung, nicht Beiwerk. Größte Hürden sind die kommunale Beschaffung, die Datenqualität (nur wenn alle Träger mitmachen, stimmt das Belegungsbild) und der Datenschutz bei Familiendaten. Dass rechnerisch ~550.000 Plätze leer bleiben, zeigt zugleich die Grenze: Die tiefere Ursache ist Fachkräftemangel, nicht nur schlechtes Matching - Software hebt die Auslastung, schafft aber keine Erzieher.",
+  "mechanism": "Reduziert Such- und Verwaltungsreibung bei der Platzsuche/-vergabe, senkt Mehrfach-Anmeldungen und erhöht die Belegungstransparenz - dadurch werden vorhandene Plätze besser genutzt.",
+  "evidence": [
+    {
+      "source": "LITTLE BIRD / firmenpresse.de",
+      "year": 2025,
+      "finding": "Digitale Platzvergabe/-verwaltung bei ~375-600 Kommunen und Trägern in 11 Bundesländern im Einsatz (Marktführer), allein >100 Kommunen in Bayern."
+    },
+    {
+      "source": "duesseldorf.kita-navigator.org",
+      "year": 2025,
+      "finding": "Online-Vormerksystem für über 300 Kitas; Vergabeentscheidung verbleibt bei den einzelnen Einrichtungen, nicht zentral."
+    },
+    {
+      "source": "ad-hoc-news / Paritätischer Gesamtverband",
+      "year": 2025,
+      "finding": "Rund 550.000 Kitaplätze bleiben rechnerisch leer bei zugleich ~107.000 fehlenden Fachkräften."
+    }
+  ],
+  "protocol": [
+    "Klein starten: eine Kommune oder einen Landkreis als Referenz gewinnen und dort möglichst alle Träger einbinden (Datenqualität steht und fällt mit Vollständigkeit).",
+    "Beschaffung früh adressieren: Vergaberecht, Ausschreibung, Rahmenverträge und Digitalisierungs-Fördermittel einplanen.",
+    "Datenschutz klären: AVV, DE/EU-Hosting, Datensparsamkeit und Löschkonzept für Familiendaten von Anfang an.",
+    "Realistisch positionieren: als Vormerk-/Matching- und Auslastungswerkzeug, nicht als Lösung des Fachkräftemangels."
+  ],
+  "mistakes": [
+    "Portal als 'zentrale Zuteilung' verkaufen, obwohl die Vergabe bei den Einrichtungen liegt - Träger fühlen sich übergangen.",
+    "Nur einen Teil der Träger anbinden - dann bleibt das Belegungsbild lückenhaft und wertlos.",
+    "Auslastungsprobleme allein dem Matching zuschreiben und den Fachkräftemangel ignorieren.",
+    "Kommunale Beschaffungs- und Datenschutzanforderungen unterschätzen."
+  ],
+  "risks": "Kommunale Beschaffung ist langwierig; ohne vollständige Träger-Beteiligung leidet die Datenqualität; Familiendaten unterliegen der DSGVO. Software hebt die Auslastung, beseitigt aber nicht die eigentliche Engstelle (fehlendes Personal) - der Betreuungsakt bleibt menschlich.",
+  "synergy": [
+    "kita-platzmangel-betreuungsluecke",
+    "kinderbetreuung-guenstig-fuer-alle",
+    "admin-doku-saas-kita"
+  ],
+  "sources": [
+    {
+      "title": "LITTLE BIRD - Digitale Kitaplatz-Vergabe & Verwaltung",
+      "url": "https://business.little-bird.de/konzept/sechs-schritte-zum-kita-platz/"
+    },
+    {
+      "title": "Kita-Navigator Düsseldorf - FAQ",
+      "url": "https://duesseldorf.kita-navigator.org/faq"
+    },
+    {
+      "title": "LITTLE BIRD - Für Kommunen",
+      "url": "https://www.little-bird.de/service/kommunen/"
+    },
+    {
+      "title": "Kita-Krise: 107.000 Fachkräfte fehlen, 550.000 Plätze leer",
+      "url": "https://www.ad-hoc-news.de/wirtschaft/kita-krise-107-000-fachkraefte-fehlen-550-000-plaetze-bleiben-leer/70041709"
+    }
+  ]
+}

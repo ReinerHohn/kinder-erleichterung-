@@ -1,0 +1,99 @@
+{
+  "id": "admin-doku-saas-kita",
+  "name": "Kita-Verwaltungs- & Doku-Software (SaaS): Erzieher-Zeit zurückgewinnen",
+  "category": "💼 Service- & Geschäftsideen",
+  "tags": [
+    "Kita",
+    "SaaS",
+    "Dokumentation",
+    "Elternkommunikation",
+    "Fachkräftemangel",
+    "B2B"
+  ],
+  "impact": 5,
+  "evidence_level": "B",
+  "effort": 3,
+  "summary": "Rund ein Drittel der Erzieher-Arbeitszeit fließt in Aufgaben abseits der pädagogischen Praxis (Doku, Elterngespräche, Verwaltung). Digitale Kita-Software bündelt Anwesenheit, Elternkommunikation, Dienstplan und Bildungsdokumentation und gibt so mittelbar Zeit fürs Kind frei - die Betreuung selbst bleibt menschlich.",
+  "key_facts": [
+    {
+      "label": "Zeitanteil Nicht-Praxis",
+      "value": "ca. ein Drittel der Erzieher-Arbeitszeit für Doku/Elterngespräche/Qualität/Ausfall",
+      "source": "Bertelsmann Stiftung, Fachkräfte-Radar/Ländermonitoring"
+    },
+    {
+      "label": "Preis Stramplerbande",
+      "value": "1,29 € pro Kind/Fachkraft und Monat (Kommunikation + Verwaltung), Setup ab 89 €, Zeiterfassung +15,90 €/Einrichtung/Monat",
+      "source": "stramplerbande.de/preise (Stand 2025)"
+    },
+    {
+      "label": "Anbieter am Markt",
+      "value": "KigaRoo, leandoo (Basis kostenlos), CARE by Haufe, Stramplerbande, Sdui, Kita-Info-App, KiKom u.v.m.",
+      "source": "softwareabc24.de Marktübersicht"
+    },
+    {
+      "label": "Fachkräftelücke als Treiber",
+      "value": "bundesweit ~107.000 fehlende pädagogische Fachkräfte",
+      "source": "Paritätischer Gesamtverband 2025 (via ad-hoc-news)"
+    }
+  ],
+  "deep_dive": "Der größte Entlastungshebel in der Kita ist nicht mehr Personal über Nacht, sondern die Rückgewinnung vorhandener Fachkraftzeit: Studien der Bertelsmann Stiftung zeigen, dass etwa ein Drittel der Arbeitszeit für Aufgaben außerhalb der direkten pädagogischen Arbeit anfällt (Bildungsdokumentation, Elterngespräche, Qualitätsentwicklung, Ausfallzeiten). Hier setzt B2B-SaaS an: KigaRoo, leandoo, CARE by Haufe, Stramplerbande, Sdui oder die Kita-Info-App digitalisieren Anwesenheit/Check-in, Elternkommunikation (Push statt Aushang/Zettel), Dienst- und Urlaubsplanung, Beitragsabrechnung und zunehmend KI-gestützte Beobachtungsdokumentation. Preismodelle liegen typischerweise im Bereich ~1-2 € pro Kind und Monat (Stramplerbande 1,29 €; leandoo mit kostenloser Basisversion), meist plus Setup und Modul-Aufpreisen - Kunde ist der Träger oder die Kommune, nicht die Eltern. Tragfähig ist das Modell, weil der Markt riesig und fragmentiert ist und der Personaldruck (~107.000 fehlende Fachkräfte) die Zahlungsbereitschaft für Zeitersparnis erhöht. Ein verbreiteter Irrtum ist, Software spare 'die Doku' komplett ein - sie strukturiert und beschleunigt, aber Bildungsdokumentation bleibt pädagogische Pflichtaufgabe; realistisch sind eingesparte Minuten pro Vorgang, nicht das Wegfallen der Aufgabe. Größte Hürden sind DSGVO (Kinderdaten sind besonders schutzwürdig; walhalla.de dokumentierte konkrete Datenschutz- und Sicherheitsmängel bei Kita-Apps), die zähe Beschaffung der öffentlichen Hand und die Fragmentierung über 16 Länder mit je eigenen Vorgaben. Wer gewinnt, überzeugt Träger mit belegter Zeitersparnis und wasserdichtem, in Deutschland gehostetem Datenschutz.",
+  "mechanism": "Verlagert Verwaltungs-, Kommunikations- und Doku-Zeit von der Fachkraft in effiziente Software-Workflows und gibt so mittelbar Betreuungszeit am Kind frei - ohne die Betreuung selbst zu automatisieren.",
+  "evidence": [
+    {
+      "source": "Bertelsmann Stiftung, Ländermonitoring/Fachkräfte-Radar",
+      "year": 2019,
+      "finding": "Rund ein Drittel der Erzieher-Arbeitszeit entfällt auf Aufgaben außerhalb der pädagogischen Praxis (u.a. Bildungsdokumentation, Elterngespräche, Qualitätsentwicklung)."
+    },
+    {
+      "source": "walhalla.de",
+      "year": 2024,
+      "finding": "Sicherheits- und Datenschutzuntersuchung von Kita-Apps deckte konkrete Mängel bei mehreren verbreiteten Apps auf."
+    },
+    {
+      "source": "stramplerbande.de/preise",
+      "year": 2025,
+      "finding": "SaaS-Preis 1,29 € pro Kind/Fachkraft und Monat inkl. Kern-Kommunikation und -Verwaltung, Zeiterfassungsmodul 15,90 €/Einrichtung/Monat."
+    }
+  ],
+  "protocol": [
+    "Klein starten: 1-3 kooperierende Kitas als Pilot gewinnen, einen konkreten Zeitfresser (z.B. Elternkommunikation oder Anwesenheit) messbar lösen statt 'alles auf einmal'.",
+    "Datenschutz ZUERST: Auftragsverarbeitungsvertrag (AVV), Hosting in DE/EU, Datensparsamkeit, Löschkonzept und Einwilligung für Kinderfotos rechtssicher aufsetzen (Landesdatenschutz einbeziehen).",
+    "Beschaffung verstehen: kommunale Vergabeprozesse, Rahmenverträge und Fördertöpfe (Digitalisierung) früh adressieren; Träger als Kunden, Eltern als Nutzer denken.",
+    "Zeitersparnis belegen: vorher/nachher Minuten pro Vorgang messen und als Verkaufsargument gegenüber Trägern dokumentieren."
+  ],
+  "mistakes": [
+    "Datenschutz als Nebensache behandeln - bei Kinderdaten der schnellste Weg zum Vertrauens- und Vertragsverlust.",
+    "Versprechen, Software ersetze Bildungsdokumentation oder Personal, statt ehrlich Zeitersparnis pro Vorgang zu quantifizieren.",
+    "Direkt an Eltern verkaufen wollen, obwohl Träger/Kommune der zahlende Entscheider ist.",
+    "Funktions-Overkill ('alles-Modul') statt einen Schmerzpunkt sauber zu lösen."
+  ],
+  "risks": "DSGVO/Kinderdaten sind besonders schutzwürdig (dokumentierte App-Mängel); langsame öffentliche Beschaffung und 16 Länderlogiken bremsen Skalierung; Lock-in- und Ausfall-Risiken bei kritischen Verwaltungsdaten. Die Software entlastet, ersetzt aber weder Fachkraft noch pädagogische Verantwortung.",
+  "synergy": [
+    "admin-ki-buerokratie",
+    "kinderbetreuung-guenstig-fuer-alle",
+    "ki-robotik-betreuung-verbessern",
+    "digitale-kita-platzvergabe"
+  ],
+  "sources": [
+    {
+      "title": "Stramplerbande - Preise",
+      "url": "https://stramplerbande.de/preise/"
+    },
+    {
+      "title": "KigaRoo - Kita-Verwaltungssoftware",
+      "url": "https://www.kigaroo.de/"
+    },
+    {
+      "title": "leandoo - Kita-Software Preise",
+      "url": "https://leandoo.com/preise"
+    },
+    {
+      "title": "Bertelsmann Stiftung: Kitapersonal braucht bessere Arbeitsbedingungen",
+      "url": "https://www.bertelsmann-stiftung.de/de/themen/aktuelle-meldungen/2019/september/kitapersonal-braucht-bessere-arbeitsbedingungen"
+    },
+    {
+      "title": "Walhalla: Datenschutz- und Sicherheitsmängel bei Kita-Apps",
+      "url": "https://www.walhalla.de/news/datenschutz-und-sicherheitsmaengel-bei-kita-apps"
+    }
+  ]
+}

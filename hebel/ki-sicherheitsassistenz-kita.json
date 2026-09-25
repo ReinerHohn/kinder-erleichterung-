@@ -1,0 +1,94 @@
+{
+  "id": "ki-sicherheitsassistenz-kita",
+  "name": "KI-Sicherheitsassistenz: das 'zweite Augenpaar' (Blaupause Bade-KI)",
+  "category": "💼 Service- & Geschäftsideen",
+  "tags": [
+    "Sicherheit",
+    "KI",
+    "Kamera",
+    "Sensorik",
+    "Aufsicht",
+    "Datenschutz"
+  ],
+  "impact": 2,
+  "evidence_level": "C",
+  "effort": 5,
+  "summary": "In Schwimmbädern erkennen KI-Systeme (Lynxight, AngelEye, Coral) beginnendes Ertrinken und alarmieren Rettungsschwimmer schneller. Übertragen auf Betreuung sind Kinderzählung, Sturz-/Gefahr-Alarm oder 'kein Kind im Bus vergessen' denkbar - im DE-Kita-Alltag mit Kamera aber datenschutzrechtlich extrem heikel; realistisch am ehesten sensorbasierte Nischen wie Bus-Check.",
+  "key_facts": [
+    {
+      "label": "Lynxight Verbreitung",
+      "value": "in 1.000+ Schwimmbädern weltweit, ~6x schnellere Reaktion, nach DIN 79002 und ISO 20380 zugelassen",
+      "source": "lynxight.com"
+    },
+    {
+      "label": "AngelEye Alarmzeit",
+      "value": "Alarm binnen ~10 Sekunden auf Smartwatch/Handy/Leuchtsignal, nach ISO 20380:2017",
+      "source": "angeleye.tech"
+    },
+    {
+      "label": "Bus-'Kind-vergessen'-Systeme",
+      "value": "Radar (IEE VitaSense, seit 2009), Infrarot-Array, Druck-/Bewegungssensoren, LiDAS-Turnkey",
+      "source": "IEE Sensing / Sensors (MDPI) / school-busride.com"
+    },
+    {
+      "label": "Kernprinzip",
+      "value": "Augment, not replace - ersetzt laut Herstellern NICHT die aktive Aufsicht durch Menschen",
+      "source": "Lynxight/AngelEye Herstellerangaben"
+    }
+  ],
+  "deep_dive": "Die Blaupause kommt aus Schwimmbädern: Lynxight (in über 1.000 Bädern, ~6x schnellere Reaktion, nach DIN 79002/ISO 20380), AngelEye und Coral Manor werten Kamerabilder mit KI aus und alarmieren Rettungspersonal bei Ertrinkungsmustern binnen Sekunden - explizit als zweites Augenpaar, nicht als Ersatz für Rettungsschwimmer. Übertragen auf Kinderbetreuung wären Anwendungen denkbar wie automatische Kinderzählung bei Ausflügen, Sturz-/Gefahrerkennung oder das sicherheitskritische 'kein Kind im Bus/Fahrzeug vergessen'. Für Letzteres existiert reife, kamerafreie Sensorik: Radar (IEE VitaSense seit 2009, ursprünglich gegen im heißen Auto vergessene Kinder), Infrarot-Arrays und Druck-/Bewegungssensoren erkennen selbst Atmung eines schlafenden Kindes im abgestellten Fahrzeug. Genau diese sensorbasierten Nischen sind in DE realistisch machbar, weil sie ohne dauerhafte Videoüberwachung von Kindern auskommen. Denn der zentrale Vorbehalt ist Datenschutz: dauerhafte KI-Kameraüberwachung von Kindern in der Kita ist in Deutschland rechtlich, gesellschaftlich und arbeitsrechtlich (auch Personal wird gefilmt) kaum durchsetzbar. Hinzu kommen Fehlalarme, Haftungsfragen und das gefährlichste Missverständnis überhaupt - 'die KI passt ja auf': Selbst führende Bade-Systeme betonen, dass sie die menschliche Aufsicht nicht ersetzen; jede Scheinsicherheit, die Betreuer unaufmerksamer macht, verschlechtert die Sicherheit. Der tragfähige Kern ist daher schmal und liegt eher bei klar abgegrenzter Sensorik (Bus-Check, Zutritt/Anwesenheit) als bei flächiger Kinder-Videoanalyse.",
+  "mechanism": "Entlastet die Aufsicht in Momenten hoher Ablenkung/Unübersichtlichkeit (Wasser, Ausflug, Bus) durch ein automatisches Alarm-Backup - ohne die menschliche Aufsichtspflicht zu übernehmen.",
+  "evidence": [
+    {
+      "source": "lynxight.com",
+      "year": 2025,
+      "finding": "KI-Poolüberwachung in über 1.000 Bädern, ~6x schnellere Reaktion, Zulassung nach DIN 79002 und ISO 20380; ersetzt laut Anbieter nicht die aktive Aufsicht."
+    },
+    {
+      "source": "Sensors (MDPI) / ResearchGate",
+      "year": 2025,
+      "finding": "Kinder-Präsenzerkennung im Schulbus per Infrarot-Array bzw. Druck-Sensor-Array technisch validiert (Erkennung reglos/schlafender Kinder)."
+    },
+    {
+      "source": "IEE Sensing (VitaSense) / school-busride.com",
+      "year": 2024,
+      "finding": "Radarbasierte Insassen-/Kinderdetektion (LiDAS/VitaSense) erkennt zurückgelassene Kinder in abgestellten Fahrzeugen zuverlässig, kamerafrei."
+    }
+  ],
+  "protocol": [
+    "Nicht mit Kita-Videoüberwachung starten - zuerst die datenschutzarme Nische: sensorbasierter 'Kein-Kind-im-Bus'-Check für Kita-Fahrten/Transporte.",
+    "Datenschutz zuerst klären: Datenschutz-Folgenabschätzung (DSFA), Rechtsgrundlage, Elterneinwilligung, Landesdatenschutzbehörde und Personalvertretung früh einbinden.",
+    "Kamerafreie Sensorik (Radar/Infrarot/Druck) vor Kameralösungen prüfen - weniger Grundrechtseingriff, höhere Akzeptanz.",
+    "Verantwortung klar verankern: System nur als Alarm-Backup positionieren, Aufsichtspflicht und Reaktion bleiben beim Menschen; Fehlalarmrate offen ausweisen."
+  ],
+  "mistakes": [
+    "Dauerhafte KI-Kameraüberwachung von Kindern als Standardprodukt annehmen - in DE-Kitas real kaum genehmigungsfähig.",
+    "Scheinsicherheit erzeugen ('die KI passt auf') und damit die menschliche Aufmerksamkeit senken.",
+    "Fehlalarme und Haftung unterschätzen; wer haftet, wenn das System schweigt?",
+    "Personal-/Betriebsratsseite ignorieren - auch Beschäftigte werden mitgefilmt."
+  ],
+  "risks": "Datenschutz im Kinderbereich ist maximal sensibel; Videoüberwachung von Kindern/Personal rechtlich und gesellschaftlich kaum durchsetzbar. Fehlalarme, Haftungsfragen und vor allem falsche Sicherheit: Der Mensch bleibt aufsichtspflichtig und verantwortlich - die KI ist nur ein zusätzliches Alarm-Backup, niemals Ersatz.",
+  "synergy": [
+    "ki-robotik-betreuung-verbessern",
+    "smarte-babyphones-vitaltracking",
+    "kinderbetreuung-guenstig-fuer-alle"
+  ],
+  "sources": [
+    {
+      "title": "Lynxight - AI Pool Safety",
+      "url": "https://www.lynxight.com/"
+    },
+    {
+      "title": "AngelEye - Drowning Detection Technology",
+      "url": "https://angeleye.tech/us/us-technology/"
+    },
+    {
+      "title": "Child Presence Detection in School Buses (Sensors/MDPI)",
+      "url": "https://doi.org/10.3390/s26133982"
+    },
+    {
+      "title": "LiDAS - No Child Left Behind (School BUSRide)",
+      "url": "https://school-busride.com/lidas-ensures-no-child-is-left-behind/"
+    }
+  ]
+}
