@@ -20,7 +20,21 @@ Gebaut im selben Baumuster wie die Schwester-Projekte (`leistungsfaehigkeit`, `f
 | 💼 **Service- & Geschäftsideen** | Kindergeburtstag-Service, Geschenke-Concierge, geprüfte Babysitter-Vermittlung, Meal-Abo, Bürokratie-Concierge, Ferienbetreuung, Leih-Oma u.a. — mit ehrlicher Tragfähigkeits-Bewertung |
 | 📋 **Was auf mich zukommt (Rechte & Fahrplan)** | Kind krank (§45 SGB V, §616 BGB), Mutterschutz, Elternzeit, Elterngeld, Kündigungsschutz, Brückenteilzeit, Betriebskita, Tagespflege/Au-pair, Fahrplan, U-Untersuchungen |
 
-Dazu ein **U-Untersuchungs-Terminrechner** (U1–U9, J1) direkt im Dashboard: Geburtsdatum eingeben → alle Fälligkeiten mit „jetzt fällig"-Markierung. Es gibt dafür keine offizielle API — die Zeitfenster (G-BA/BZgA) sind fest hinterlegt und laufen offline im Browser.
+## Familien-Helfer (praktische App)
+
+`familien-helfer.html` ist ein eigenständiger, **offline** laufender Alltagshelfer (Daten bleiben lokal im Browser via localStorage, Export/Import als Backup):
+- **Kinder anlegen** → U1–U9/J1-Vorsorge + grobe Impf-Fenster (STIKO) werden je Kind automatisch berechnet, mit „jetzt fällig"-Markierung
+- **Gemeinsamer Kalender & Fristen** mit Zuständigkeit (Vorlagen: Kita-Anmeldung, Elterngeld, Kindergeld, Elternzeit)
+- **Geschenk-Ideen** je Kind + Mitbringsel-Vorrat
+- **Haushalt & Roboter** als priorisierte Checkliste (Klassiker → Roboter → Abos/Auslagern)
+- **Aufgaben** (Mental Load teilen: Aufgabe + verantwortliche Person)
+- **Übersicht** „bald fällig" über alles
+
+Einfach `familien-helfer.html` im Browser öffnen. Kein Server, keine Installation.
+
+---
+
+Dazu ein **U-Untersuchungs-Terminrechner** (U1–U9, J1) direkt im Katalog-Dashboard: Geburtsdatum eingeben → alle Fälligkeiten mit „jetzt fällig"-Markierung. Es gibt dafür keine offizielle API — die Zeitfenster (G-BA/BZgA) sind fest hinterlegt und laufen offline im Browser.
 
 ## Nutzung
 

@@ -175,6 +175,7 @@ TEMPLATE = r"""<!DOCTYPE html>
 <header>
   <h1>🍼 Kinder-Erleichterung — Katalog</h1>
   <div class="sub"><b id="shown">__COUNT__</b> von __COUNT__ evidenzbasierten Karten in __NCATS__ Kategorien: was Kinder stressig macht, warum viele weniger Kinder wollen, was hilft — und wo KI, Robotik &amp; clevere Produkte real entlasten. Standard-Sortierung: <b>Sweet Spots zuerst</b> (viel Wirkung ÷ wenig Aufwand).</div>
+  <div class="sub" style="margin-top:6px">👨‍👩‍👧‍👦 Praktischer Alltagshelfer dazu: <a href="familien-helfer.html" style="color:var(--acc)">Familien-Helfer öffnen</a> — gemeinsamer Kalender, automatische Vorsorge-Termine je Kind, Fristen, Geschenk-Ideen, Haushalts-/Roboter-Checkliste (läuft offline, Daten bleiben lokal).</div>
 </header>
 <div class="disc">⚠️ Wissenswerkzeug, kein medizinischer, rechtlicher oder steuerlicher Rat. Evidenzgrad (A = mehrere Studien/Gesetz · B = einzelne Studien/offiziell · C = plausibel/variiert) und Risiken stehen pro Karte. Im Einzelfall Fachperson hinzuziehen.</div>
 

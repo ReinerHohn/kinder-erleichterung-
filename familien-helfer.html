@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Familien-Helfer</title>
+<style>
+  :root{--bg:#0f1117;--card:#1a1d27;--fg:#e6e8ee;--mut:#9aa0b4;--acc:#6ea8fe;--warn:#ffb454;--ok:#7ee2a8;--bad:#ff8b8b;--line:#262a38;}
+  *{box-sizing:border-box;}
+  body{margin:0;font:15px/1.5 system-ui,-apple-system,sans-serif;background:var(--bg);color:var(--fg);}
+  header{padding:18px 18px 6px;}
+  h1{margin:0;font-size:21px;}
+  .sub{color:var(--mut);font-size:12.5px;margin-top:3px;}
+  .tabs{display:flex;gap:6px;flex-wrap:wrap;padding:12px 16px 0;position:sticky;top:0;background:var(--bg);z-index:10;border-bottom:1px solid var(--line);}
+  .tab{background:var(--card);color:var(--fg);border:1px solid #2c3040;border-radius:8px 8px 0 0;padding:8px 12px;font-size:13px;cursor:pointer;}
+  .tab.active{border-color:var(--acc);color:var(--acc);border-bottom-color:var(--bg);}
+  main{padding:16px 18px 80px;max-width:960px;}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:12px;}
+  .card h2{margin:0 0 10px;font-size:16px;}
+  .card h3{margin:14px 0 6px;font-size:13px;text-transform:uppercase;letter-spacing:.04em;color:var(--acc);}
+  input,select,textarea,button{font:inherit;}
+  input,select,textarea{background:#12141c;color:var(--fg);border:1px solid #2c3040;border-radius:7px;padding:7px 9px;font-size:13.5px;}
+  input,select{max-width:100%;}
+  button{background:var(--acc);color:#08122a;border:none;border-radius:7px;padding:7px 12px;font-weight:600;cursor:pointer;font-size:13px;}
+  button.sec{background:#2a2f3e;color:var(--fg);}
+  button.mini{padding:3px 8px;font-size:12px;}
+  .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px;}
+  .item{display:flex;gap:9px;align-items:flex-start;padding:8px 0;border-bottom:1px solid var(--line);}
+  .item:last-child{border-bottom:none;}
+  .item .body{flex:1;min-width:0;}
+  .item .t{font-size:14px;}
+  .item .m{font-size:12px;color:var(--mut);}
+  .item.done .t{text-decoration:line-through;color:var(--mut);}
+  .pill{font-size:11px;padding:1px 7px;border-radius:999px;white-space:nowrap;}
+  .pill.due{background:#1f4a2f;color:var(--ok);} .pill.soon{background:#4a3a17;color:var(--warn);} .pill.past{background:#2a2d38;color:var(--mut);} .pill.info{background:#233;color:var(--acc);}
+  .chip{display:inline-block;background:#233047;color:var(--acc);border-radius:999px;padding:2px 9px;font-size:11px;margin:2px 4px 2px 0;}
+  a{color:var(--acc);}
+  .empty{color:var(--mut);font-size:13px;padding:10px 0;}
+  label.f{display:flex;flex-direction:column;gap:3px;font-size:12px;color:var(--mut);}
+  .del{background:none;color:var(--bad);border:none;cursor:pointer;font-size:16px;padding:0 4px;}
+  .chk{width:18px;height:18px;margin-top:2px;flex:none;}
+  .toolbar{display:flex;gap:8px;flex-wrap:wrap;margin-top:6px;}
+  .kidtag{font-size:11px;color:var(--warn);}
+  .disc{font-size:11.5px;color:var(--mut);margin-top:8px;}
+</style>
+</head>
+<body>
+<header>
+  <h1>👨‍👩‍👧‍👦 Familien-Helfer</h1>
+  <div class="sub">Ein Helfer für alles: Kinder & Vorsorge · gemeinsamer Kalender/Fristen · Geschenk-Ideen · Haushalt & Roboter · Aufgaben. Alles bleibt <b>lokal in diesem Browser</b> (nichts wird hochgeladen). Mach regelmäßig ein Backup über „Export".</div>
+</header>
+
+<div class="tabs" id="tabs"></div>
+<main id="view"></main>
+
+<script>
+// ---------- Speicher ----------
+const KEY="familienhelfer.v1";
+const uid=()=>Math.random().toString(36).slice(2,9);
+let DB=load();
+function load(){try{return JSON.parse(localStorage.getItem(KEY))||seed();}catch(e){return seed();}}
+function save(){localStorage.setItem(KEY,JSON.stringify(DB));}
+function seed(){return {children:[],events:[],gifts:[],household:defaultHousehold(),tasks:[],doneAuto:{}};}
+function defaultHousehold(){return [
+  {id:uid(),cat:"Anschaffen (größter Zeitgewinn zuerst)",text:"Geschirrspüler nutzen/anschaffen",note:"Größter belegter Zeitgewinn im Haushalt",done:false},
+  {id:uid(),cat:"Anschaffen (größter Zeitgewinn zuerst)",text:"Wäschetrockner",note:"Spart mehrere Stunden/Woche",done:false},
+  {id:uid(),cat:"Roboter einrichten",text:"Saugroboter kaufen & Zeitplan/App einrichten",note:"Läuft autonom, günstig",done:false},
+  {id:uid(),cat:"Roboter einrichten",text:"Wischroboter",note:"",done:false},
+  {id:uid(),cat:"Roboter einrichten",text:"Mähroboter (falls Garten)",note:"",done:false},
+  {id:uid(),cat:"Abos automatisieren",text:"Windel-Spar-Abo einrichten",note:"pausierbar halten (Größenwechsel!)",done:false},
+  {id:uid(),cat:"Abos automatisieren",text:"Essens-/Meal-Kit oder Einkaufslieferung",note:"",done:false},
+  {id:uid(),cat:"Auslagern (20% steuerlich absetzbar)",text:"Putz-/Haushaltshilfe LEGAL anmelden",note:"20% der Kosten von der Steuer absetzbar",done:false},
+  {id:uid(),cat:"Auslagern (20% steuerlich absetzbar)",text:"Wäsche-/Bügelservice prüfen",note:"",done:false},
+];}
+
+// ---------- Vorsorge (G-BA/BZgA) + grobe Impf-Fenster (STIKO, mit Arzt abstimmen) ----------
+const U=[["U1","direkt nach Geburt",0,0,"d"],["U2","3.–10. Lebenstag",3,10,"d"],["U3","4.–5. Lebenswoche",21,35,"d"],
+ ["U4","3.–4. Monat",3,4,"m"],["U5","6.–7. Monat",6,7,"m"],["U6","10.–12. Monat",10,12,"m"],
+ ["U7","21.–24. Monat",21,24,"m"],["U7a","34.–36. Monat",34,36,"m"],["U8","46.–48. Monat",46,48,"m"],
+ ["U9","60.–64. Monat",60,64,"m"],["J1","12.–14. Lebensjahr",144,168,"m"]];
+const IMPF=[["Impfung ~6 Wochen","Rotavirus-Start (STIKO)",6,"w"],["Impfung ~2 Monate","6-fach + Pneumokokken + Rota (STIKO)",2,"m"],
+ ["Impfung ~4 Monate","6-fach + Pneumokokken (STIKO)",4,"m"],["Impfung ~11 Monate","6-fach + Pneumokokken + MenB (STIKO)",11,"m"],
+ ["Impfung ~11–14 Monate","MMR + Varizellen (STIKO)",12,"m"]];
+function addU(b,n,unit){const x=new Date(b);if(unit==="d")x.setDate(x.getDate()+n);else if(unit==="w")x.setDate(x.getDate()+n*7);else x.setMonth(x.getMonth()+n);return x;}
+function autoFor(child){
+  const b=new Date(child.birth+"T00:00:00");const list=[];
+  U.forEach(([name,win,a,z,u])=>list.push({key:`U-${child.id}-${name}`,child:child.name,childId:child.id,name,win,start:addU(b,a,u),end:addU(b,z,u),type:"vorsorge"}));
+  IMPF.forEach(([name,win,a,u])=>list.push({key:`I-${child.id}-${name}`,child:child.name,childId:child.id,name,win,start:addU(b,a,u),end:addU(b,a==6?12:a,u==="w"?"w":"m"),type:"impf"}));
+  return list;
+}
+function allAuto(){return DB.children.filter(c=>c.birth).flatMap(autoFor);}
+
+// ---------- Datum-Helfer ----------
+function today(){const d=new Date();d.setHours(0,0,0,0);return d;}
+function fmt(d){return d.toLocaleDateString("de-DE",{day:"2-digit",month:"2-digit",year:"numeric"});}
+function daysTo(d){return Math.round((d-today())/86400000);}
+function statusOf(start,end){const n=today();if(n>end)return"past";if(n>=start&&n<=end)return"due";if(daysTo(start)<=42)return"soon";return"future";}
+function pill(s){return s==="due"?'<span class="pill due">jetzt fällig</span>':s==="soon"?'<span class="pill soon">bald</span>':s==="past"?'<span class="pill past">vorbei</span>':'';}
+
+// ---------- Tabs ----------
+const TABS=[["ueber","🗓️ Übersicht"],["kinder","🧒 Kinder & Vorsorge"],["kalender","📌 Kalender & Fristen"],["gifts","🎁 Geschenk-Ideen"],["haus","🤖 Haushalt & Roboter"],["tasks","✅ Aufgaben"],["daten","💾 Daten"]];
+let tab="ueber";
+function drawTabs(){document.getElementById("tabs").innerHTML=TABS.map(([k,l])=>`<button class="tab ${k===tab?'active':''}" data-t="${k}">${l}</button>`).join("");}
+document.getElementById("tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(b){tab=b.dataset.t;render();}});
+
+const esc=s=>(s==null?"":String(s)).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+// ---------- Render ----------
+function render(){drawTabs();document.getElementById("view").innerHTML=({ueber:vUeber,kinder:vKinder,kalender:vKalender,gifts:vGifts,haus:vHaus,tasks:vTasks,daten:vDaten}[tab])();bind();}
+
+function upcoming(){
+  const items=[];
+  allAuto().forEach(a=>{if(DB.doneAuto[a.key])return;const st=statusOf(a.start,a.end);if(st==="due"||st==="soon")items.push({when:a.start,label:`${a.name} — ${a.child}`,sub:a.win,st});});
+  DB.events.forEach(e=>{if(e.done)return;const d=new Date(e.date+"T00:00:00");const dt=daysTo(d);if(dt>=-3&&dt<=42)items.push({when:d,label:e.title,sub:(e.who?("→ "+e.who):"")+(e.childId?(" · "+(childName(e.childId))):""),st:dt<0?"past":dt===0?"due":"soon"});});
+  DB.tasks.forEach(t=>{if(t.done||!t.due)return;const d=new Date(t.due+"T00:00:00");const dt=daysTo(d);if(dt<=42)items.push({when:d,label:t.text,sub:t.who?("→ "+t.who):"",st:dt<0?"past":dt===0?"due":"soon"});});
+  return items.sort((a,b)=>a.when-b.when);
+}
+function vUeber(){
+  const up=upcoming();
+  let h=`<div class="card"><h2>🗓️ Bald fällig (nächste 6 Wochen)</h2>`;
+  h+= up.length? up.map(i=>`<div class="item"><div class="body"><div class="t">${esc(i.label)} ${pill(i.st)}</div><div class="m">${fmt(i.when)}${i.sub?" · "+esc(i.sub):""}</div></div></div>`).join("")
+    : `<div class="empty">Nichts Dringendes. Lege Kinder an (Vorsorge kommt automatisch) und trage Fristen/Aufgaben ein.</div>`;
+  h+=`</div>`;
+  h+=`<div class="card"><h2>Schnellstart</h2>
+    <div class="item"><div class="body"><div class="t">1. Kind anlegen</div><div class="m">→ U-Untersuchungen &amp; Impf-Fenster werden automatisch berechnet</div></div></div>
+    <div class="item"><div class="body"><div class="t">2. Fristen eintragen</div><div class="m">Kita-Anmeldung, Elterngeld (≤3 Mon.), Kindergeld (≤6 Mon.), Elternzeit (7 Wo. vorher)</div></div></div>
+    <div class="item"><div class="body"><div class="t">3. Haushalt/Roboter abhaken &amp; Geschenk-Ideen sammeln</div><div class="m">Vorlagen sind schon drin</div></div></div>
+    <div class="toolbar"><button class="sec" id="demo">Beispiel-Familie laden</button></div>
+  </div>`;
+  return h;
+}
+
+function childName(id){const c=DB.children.find(x=>x.id===id);return c?c.name:"";}
+function childOptions(sel){return `<option value="">— kein Kind —</option>`+DB.children.map(c=>`<option value="${c.id}" ${c.id===sel?'selected':''}>${esc(c.name)}</option>`).join("");}
+
+function vKinder(){
+  let h=`<div class="card"><h2>🧒 Kind hinzufügen</h2>
+    <div class="row"><input id="cn" placeholder="Name"><input id="cb" type="date"><button id="addChild">Hinzufügen</button></div>
+    <div class="disc">Aus dem Geburtsdatum werden U1–U9, U7a, J1 und grobe Impf-Fenster (STIKO) automatisch berechnet. Verbindlich ist das „gelbe Heft" — Impftermine mit der Kinderarztpraxis abstimmen.</div></div>`;
+  if(!DB.children.length) return h+`<div class="card"><div class="empty">Noch kein Kind angelegt.</div></div>`;
+  DB.children.forEach(c=>{
+    const auto=autoFor(c).sort((a,b)=>a.start-b.start);
+    h+=`<div class="card"><h2>${esc(c.name)} <span class="kidtag">${c.birth?("geb. "+fmt(new Date(c.birth+'T00:00:00'))):""}</span> <button class="del" data-delchild="${c.id}" title="Kind löschen">🗑</button></h2>`;
+    h+=`<h3>Vorsorge & Impfungen (automatisch)</h3>`;
+    auto.forEach(a=>{const st=statusOf(a.start,a.end);const done=!!DB.doneAuto[a.key];
+      h+=`<div class="item ${done?'done':''}"><input class="chk" type="checkbox" data-auto="${a.key}" ${done?'checked':''}>
+        <div class="body"><div class="t">${a.type==='impf'?'💉':'🩺'} ${esc(a.name)} ${done?'':pill(st)}</div>
+        <div class="m">${esc(a.win)} · Fenster ${fmt(a.start)} – ${fmt(a.end)}</div></div></div>`;});
+    h+=`</div>`;
+  });
+  return h;
+}
+
+function vKalender(){
+  let h=`<div class="card"><h2>📌 Termin / Frist hinzufügen</h2>
+    <div class="grid">
+      <label class="f">Titel<input id="ev_t" placeholder="z.B. Kita XY anmelden"></label>
+      <label class="f">Datum<input id="ev_d" type="date"></label>
+      <label class="f">Wer ist zuständig?<input id="ev_w" placeholder="z.B. Papa"></label>
+      <label class="f">Kind (optional)<select id="ev_c">${childOptions()}</select></label>
+    </div>
+    <div class="toolbar"><button id="ev_add">Eintragen</button>
+      <button class="sec" data-tmpl="kita">+ Kita-Anmeldung</button>
+      <button class="sec" data-tmpl="elterngeld">+ Elterngeld-Frist</button>
+      <button class="sec" data-tmpl="kindergeld">+ Kindergeld</button>
+      <button class="sec" data-tmpl="elternzeit">+ Elternzeit anmelden</button>
+    </div>
+    <div class="disc">Vorlagen tragen einen Richt-Termin ein (anpassbar). Fristen: Elterngeld nur 3 Monate rückwirkend · Kindergeld 6 Monate · Elternzeit 7 Wochen vor Beginn.</div>
+  </div>`;
+  const evs=DB.events.slice().sort((a,b)=>a.date.localeCompare(b.date));
+  h+=`<div class="card"><h2>Alle Termine</h2>`;
+  h+= evs.length? evs.map(e=>{const d=new Date(e.date+"T00:00:00");const st=e.done?"":pill(daysTo(d)<0?"past":daysTo(d)===0?"due":daysTo(d)<=42?"soon":"");
+    return `<div class="item ${e.done?'done':''}"><input class="chk" type="checkbox" data-ev="${e.id}" ${e.done?'checked':''}>
+      <div class="body"><div class="t">${esc(e.title)} ${st}</div><div class="m">${fmt(d)}${e.who?" · → "+esc(e.who):""}${e.childId?" · "+esc(childName(e.childId)):""}</div></div>
+      <button class="del" data-delev="${e.id}">🗑</button></div>`;}).join("")
+    : `<div class="empty">Noch keine Termine.</div>`;
+  return h+`</div>`;
+}
+
+function vGifts(){
+  let h=`<div class="card"><h2>🎁 Geschenk-Idee hinzufügen</h2>
+    <div class="grid">
+      <label class="f">Idee<input id="g_t" placeholder="z.B. Holzeisenbahn"></label>
+      <label class="f">Für wen<select id="g_c">${childOptions()}</select></label>
+      <label class="f">Anlass<input id="g_o" placeholder="z.B. Geburtstag / Weihnachten"></label>
+      <label class="f">Preis / Link (optional)<input id="g_u" placeholder="z.B. 25 € · https://…"></label>
+    </div>
+    <div class="toolbar"><button id="g_add">Idee speichern</button></div>
+    <div class="disc">Sammle Ideen laufend — dann steht man vor keinem Geburtstag mehr mit leeren Händen da.</div>
+  </div>`;
+  DB.children.forEach(c=>{
+    const gs=DB.gifts.filter(g=>g.childId===c.id);
+    h+=`<div class="card"><h2>Für ${esc(c.name)}</h2>`;
+    h+= gs.length? gs.map(g=>`<div class="item ${g.done?'done':''}"><input class="chk" type="checkbox" data-gift="${g.id}" ${g.done?'checked':''}>
+      <div class="body"><div class="t">${esc(g.text)}</div><div class="m">${esc(g.occasion||'')}${g.info?" · "+linkify(g.info):""}</div></div>
+      <button class="del" data-delgift="${g.id}">🗑</button></div>`).join("") : `<div class="empty">Noch keine Idee.</div>`;
+    h+=`</div>`;
+  });
+  const gen=DB.gifts.filter(g=>!g.childId);
+  h+=`<div class="card"><h2>Allgemein / andere Kinder (Mitbringsel)</h2>`;
+  h+= gen.length? gen.map(g=>`<div class="item ${g.done?'done':''}"><input class="chk" type="checkbox" data-gift="${g.id}" ${g.done?'checked':''}>
+      <div class="body"><div class="t">${esc(g.text)}</div><div class="m">${esc(g.occasion||'')}${g.info?" · "+linkify(g.info):""}</div></div>
+      <button class="del" data-delgift="${g.id}">🗑</button></div>`).join("") : `<div class="empty">Tipp: Vorrat an 10–20-€-Mitbringseln für fremde Kindergeburtstage anlegen.</div>`;
+  return h+`</div>`;
+}
+function linkify(s){const m=String(s).match(/https?:\/\/\S+/);return m?esc(s).replace(m[0],`<a href="${esc(m[0])}" target="_blank" rel="noopener">Link</a>`):esc(s);}
+
+function vHaus(){
+  const cats=[...new Set(DB.household.map(x=>x.cat))];
+  let h=`<div class="card"><h2>🤖 Aufgabe / Anschaffung hinzufügen</h2>
+    <div class="row"><input id="h_t" placeholder="z.B. Saugroboter kalibrieren"><input id="h_c" placeholder="Kategorie" list="hcats"><button id="h_add">Hinzufügen</button></div>
+    <datalist id="hcats">${cats.map(c=>`<option value="${esc(c)}">`).join("")}</datalist>
+    <div class="disc">Reihenfolge = größter Zeitgewinn zuerst: erst Klassiker (Geschirrspüler/Trockner), dann Roboter, dann Abos/Auslagern. Humanoide Roboter sind 2026 noch Zukunftsmusik.</div>
+  </div>`;
+  cats.forEach(cat=>{
+    h+=`<div class="card"><h2>${esc(cat)}</h2>`;
+    DB.household.filter(x=>x.cat===cat).forEach(x=>{
+      h+=`<div class="item ${x.done?'done':''}"><input class="chk" type="checkbox" data-haus="${x.id}" ${x.done?'checked':''}>
+        <div class="body"><div class="t">${esc(x.text)}</div>${x.note?`<div class="m">${esc(x.note)}</div>`:""}</div>
+        <button class="del" data-delhaus="${x.id}">🗑</button></div>`;});
+    h+=`</div>`;
+  });
+  return h;
+}
+
+function vTasks(){
+  let h=`<div class="card"><h2>✅ Aufgabe hinzufügen (Mental Load teilen)</h2>
+    <div class="grid">
+      <label class="f">Aufgabe<input id="t_t" placeholder="z.B. Vorsorge-Termin buchen"></label>
+      <label class="f">Wer<input id="t_w" placeholder="z.B. Mama"></label>
+      <label class="f">Bis wann (optional)<input id="t_d" type="date"></label>
+    </div>
+    <div class="toolbar"><button id="t_add">Hinzufügen</button></div>
+    <div class="disc">Trick gegen Mental Load: Aufgabe MIT Verantwortung einer Person zuordnen — nicht „mal schauen".</div>
+  </div>`;
+  const ts=DB.tasks.slice().sort((a,b)=>(a.done-b.done)||((a.due||"9").localeCompare(b.due||"9")));
+  h+=`<div class="card"><h2>Offene & erledigte Aufgaben</h2>`;
+  h+= ts.length? ts.map(t=>`<div class="item ${t.done?'done':''}"><input class="chk" type="checkbox" data-task="${t.id}" ${t.done?'checked':''}>
+      <div class="body"><div class="t">${esc(t.text)}</div><div class="m">${t.who?"→ "+esc(t.who):""}${t.due?" · bis "+fmt(new Date(t.due+'T00:00:00')):""}</div></div>
+      <button class="del" data-deltask="${t.id}">🗑</button></div>`).join("") : `<div class="empty">Noch keine Aufgabe.</div>`;
+  return h+`</div>`;
+}
+
+function vDaten(){
+  return `<div class="card"><h2>💾 Backup &amp; Daten</h2>
+    <p style="font-size:13.5px;color:var(--mut)">Deine Daten liegen nur in diesem Browser. Für Backup / Wechsel auf ein anderes Gerät: exportieren und dort importieren.</p>
+    <div class="toolbar">
+      <button id="export">Export (Backup-Datei)</button>
+      <button class="sec" id="importBtn">Import</button>
+      <input id="importFile" type="file" accept="application/json" style="display:none">
+      <button class="sec" id="reset" style="background:#3a2020;color:#ffbcbc">Alles löschen</button>
+    </div>
+    <div class="disc">Tipp: Familien-Backup regelmäßig in eure gemeinsame Cloud (Drive/iCloud) legen, dann kann der Partner es importieren.</div>
+  </div>`;
+}
+
+// ---------- Events binden ----------
+function bind(){
+  const $=id=>document.getElementById(id);
+  const on=(id,ev,fn)=>{const el=$(id);if(el)el.addEventListener(ev,fn);};
+
+  on("demo","click",()=>{if(confirm("Beispiel-Familie laden? Überschreibt aktuelle Daten NICHT, fügt nur Beispiel hinzu."))loadDemo();});
+  on("addChild","click",()=>{const n=$("cn").value.trim(),b=$("cb").value;if(!n){alert("Name fehlt");return;}DB.children.push({id:uid(),name:n,birth:b});save();render();});
+  on("ev_add","click",()=>{const t=$("ev_t").value.trim(),d=$("ev_d").value;if(!t||!d){alert("Titel und Datum nötig");return;}DB.events.push({id:uid(),title:t,date:d,who:$("ev_w").value.trim(),childId:$("ev_c").value||null,done:false});save();render();});
+  on("g_add","click",()=>{const t=$("g_t").value.trim();if(!t){alert("Idee fehlt");return;}DB.gifts.push({id:uid(),text:t,childId:$("g_c").value||null,occasion:$("g_o").value.trim(),info:$("g_u").value.trim(),done:false});save();render();});
+  on("h_add","click",()=>{const t=$("h_t").value.trim();if(!t)return;DB.household.push({id:uid(),text:t,cat:$("h_c").value.trim()||"Sonstiges",note:"",done:false});save();render();});
+  on("t_add","click",()=>{const t=$("t_t").value.trim();if(!t)return;DB.tasks.push({id:uid(),text:t,who:$("t_w").value.trim(),due:$("t_d").value,done:false});save();render();});
+
+  document.querySelectorAll("[data-tmpl]").forEach(b=>b.addEventListener("click",()=>tmpl(b.dataset.tmpl)));
+
+  // Checkboxen
+  document.querySelectorAll("[data-auto]").forEach(c=>c.addEventListener("change",e=>{DB.doneAuto[e.target.dataset.auto]=e.target.checked;save();render();}));
+  document.querySelectorAll("[data-ev]").forEach(c=>c.addEventListener("change",e=>{toggle("events",e.target.dataset.ev);}));
+  document.querySelectorAll("[data-gift]").forEach(c=>c.addEventListener("change",e=>{toggle("gifts",e.target.dataset.gift);}));
+  document.querySelectorAll("[data-haus]").forEach(c=>c.addEventListener("change",e=>{toggle("household",e.target.dataset.haus);}));
+  document.querySelectorAll("[data-task]").forEach(c=>c.addEventListener("change",e=>{toggle("tasks",e.target.dataset.task);}));
+  // Löschen
+  del("delchild","children",id=>{DB.gifts=DB.gifts.filter(g=>g.childId!==id);DB.events=DB.events.filter(e=>e.childId!==id);});
+  del("delev","events"); del("delgift","gifts"); del("delhaus","household"); del("deltask","tasks");
+
+  on("export","click",()=>{const blob=new Blob([JSON.stringify(DB,null,2)],{type:"application/json"});const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download="familien-helfer-backup.json";a.click();});
+  on("importBtn","click",()=>$("importFile").click());
+  on("importFile","change",e=>{const f=e.target.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{try{DB=JSON.parse(r.result);save();render();alert("Import erfolgreich.");}catch(x){alert("Datei ungültig.");}};r.readAsText(f);});
+  on("reset","click",()=>{if(confirm("Wirklich ALLE Daten löschen?")){DB=seed();save();render();}});
+
+  function toggle(coll,id){const it=DB[coll].find(x=>x.id===id);if(it){it.done=!it.done;save();render();}}
+  function del(attr,coll,extra){document.querySelectorAll(`[data-${attr}]`).forEach(b=>b.addEventListener("click",()=>{const id=b.dataset[cc(attr)];if(!confirm("Löschen?"))return;if(extra)extra(id);DB[coll]=DB[coll].filter(x=>x.id!==id);save();render();}));}
+  function cc(s){return s.replace(/-([a-z])/g,(_,c)=>c.toUpperCase());}
+}
+function tmpl(kind){
+  const c=DB.children[0];
+  const iso=d=>d.toISOString().slice(0,10);
+  const t=today();
+  let title,date,who="";
+  if(kind==="kita"){title="Kita anmelden (mehrere Träger!)";date=iso(t);}
+  if(kind==="elterngeld"){title="Elterngeld beantragen (nur 3 Mon. rückwirkend)";date=iso(t);}
+  if(kind==="kindergeld"){title="Kindergeld beantragen (nur 6 Mon. rückwirkend)";date=iso(t);}
+  if(kind==="elternzeit"){title="Elternzeit anmelden (7 Wochen vor Beginn, Textform)";date=iso(t);}
+  DB.events.push({id:uid(),title,date,who,childId:c?c.id:null,done:false});save();render();
+}
+function loadDemo(){
+  const kid={id:uid(),name:"Mia (Beispiel)",birth:isoMonthsAgo(4)};
+  DB.children.push(kid);
+  DB.events.push({id:uid(),title:"Kita Sonnenschein anmelden",date:isoDaysAhead(14),who:"Papa",childId:kid.id,done:false});
+  DB.events.push({id:uid(),title:"Elterngeld beantragen",date:isoDaysAhead(7),who:"Mama",childId:kid.id,done:false});
+  DB.gifts.push({id:uid(),text:"Stapelturm aus Holz",childId:kid.id,occasion:"1. Geburtstag",info:"~20 €",done:false});
+  DB.gifts.push({id:uid(),text:"Notfall-Mitbringsel 6–8 J. (Vorrat)",childId:null,occasion:"fremde Kindergeburtstage",info:"10–15 €",done:false});
+  DB.tasks.push({id:uid(),text:"Festen Babysitter/Netz aufbauen",who:"beide",due:isoDaysAhead(30),done:false});
+  save();render();
+}
+function isoDaysAhead(n){const d=new Date();d.setDate(d.getDate()+n);return d.toISOString().slice(0,10);}
+function isoMonthsAgo(n){const d=new Date();d.setMonth(d.getMonth()-n);return d.toISOString().slice(0,10);}
+
+render();
+</script>
+</body>
+</html>
