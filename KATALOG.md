@@ -1,11 +1,38 @@
 # Kinder-Erleichterung — Katalog
 
-> 101 evidenzbasierte Karten. Automatisch aus `hebel/*.json` gebaut — nicht von Hand editieren.
+> 102 evidenzbasierte Karten. Automatisch aus `hebel/*.json` gebaut — nicht von Hand editieren.
 
 > ⚠️ Wissenswerkzeug, kein medizinischer/rechtlicher/steuerlicher Rat. Evidenzgrad (A/B/C) und Risiken stehen pro Karte.
 
 
-## 🧭 Strategie & Synthese  (1)
+## 🧭 Strategie & Synthese  (2)
+
+### Was Technik abnimmt (Hände & Kopf) — und was menschlich bleibt (Betreuung & Karriere)
+*Wirkung 5/5 · Aufwand 3/5 · Evidenz B*
+
+Die ehrliche Gedankenkette: Roboter nehmen die körperliche Hausarbeit (Hände), KI nimmt Schicht für Schicht den kognitiven Teil (Kopf) — übrig bleibt das eine, das Technik nicht löst: Kinderbetreuung und der damit verkoppelte Karriereknick. Diese beiden sind strukturell lösbar; Technik ist dort Verstärker, nicht Löser.
+
+- **Hände (Roboter):** Saugen, Waschen/Trocknen, Spülen, Einkauf-Liefern heute weitgehend automatisierbar; Generalist-Humanoid für 'alles' erst ~2030er (Katalog-Synthese / The Robot Report)
+- **Kopf (Mental Load):** 4 Phasen: bemerken → recherchieren → entscheiden → verantworten (Daminger 2019) (American Sociological Review)
+- **KI-Stärke:** recherchieren/beantworten heute stark; bemerken+ausführen kommt mit KI-Agenten; verantworten bleibt menschlich (Katalog-Synthese)
+- **Bleibt: Karriereknick:** Motherhood Penalty ~−20 % dauerhaftes Einkommen, ~80 % der Gender-Lohnlücke kindbedingt (Kleven et al. 2019)
+- **Bleibt: Betreuung:** Aufsicht/Bindung nicht an Roboter/Kamera delegierbar; Betreuung ist zugleich der Hebel gegen den Knick (Katalog-Synthese / OECD 2024)
+- **Tech als Verstärker:** Remote/flexible Arbeit +0,18–0,2 Kinder Lebensfertilität (Stanford (Bloom) 2025)
+
+Wer den Eltern-Stress zu Ende denkt, landet bei einer klaren Kette. Erstens: Roboter übernehmen die Muskel-Arbeit des Haushalts — Aufgabe für Aufgabe (Saugen, Waschen/Trocknen, Spülen, Einkauf), der Generalist, der wirklich alles macht, bleibt aber 2030er-Musik. Zweitens: KI frisst sich in den Kopf, aber schichtweise. Mental Load hat vier Phasen (Daminger): etwas bemerken, Optionen recherchieren, entscheiden, im Blick behalten/verantworten. Die Recherche-/Antwort-Schicht nimmt KI heute schon spürbar ab (Was koche ich? Ist der Ausschlag harmlos? Wie beantrage ich X?), die Bemerken- und Ausführen-Schicht kommt mit KI-Agenten, die an Kalender/Vorräte/Konten angebunden sind. Was NICHT übergeht, ist das Verantworten: Bei Kind, Gesundheit und Behörde haftest und entscheidest du. Drittens — und das ist der Kern: Übrig bleibt das Bündel Kinderbetreuung + Karriereknick, und das sind nicht zwei Probleme, sondern eins. Der Knick (Motherhood Penalty, dauerhaft rund −20 % Einkommen) entsteht überwiegend, weil einer zurücksteckt, wenn verlässliche Betreuung fehlt. Gute Betreuung → beide können arbeiten → kein Knick. Genau hier stößt der Technik-Optimismus an eine echte Wand: Aufsicht, Sicherheit und Bindung sind nicht an Roboter oder Kamera delegierbar. Ein verbreiteter Irrtum ist deshalb, Automatisierung werde 'den' Eltern-Stress lösen — sie löst die ersten zwei Drittel (Hände + halber Kopf), das teuerste Drittel (Betreuung/Karriere) bleibt strukturell und menschlich. Technik ist dort trotzdem nicht nutzlos: Sie wirkt als Verstärker — Remote-/Flexarbeit dämpft den Knick messbar (+0,18–0,2 Kinder), sinkende Haushalts-/Kopflast senkt die Gesamtlast pro Kind, und Plattformen können das Finden vertrauenswürdiger Betreuung erleichtern (nicht die Betreuung selbst).
+
+**Konkret:**
+- Heute automatisieren, was die Hände frei macht: Saugroboter mit Station, Trockner, Geschirrspüler, Einkauf-/Verbrauchs-Abos.
+- KI für die Kopf-Schicht nutzen: schnelle Antworten, Erklären, Entwürfe, Termin-/Formular-Hilfe; KI-Agenten fürs Nachbestellen/Erinnern einsetzen, sobald verfügbar.
+- Verantwortung bewusst behalten: KI-/Kamera-Ausgaben prüfen, Aufsicht nie an Technik delegieren.
+- Das teure Drittel strukturell angehen: verlässliche Betreuung sichern + Care fair teilen (Vätermonate) — das löst Betreuung UND Karriereknick.
+- Technik als Verstärker einplanen: Remote-/Flexarbeit, um trotz Kind erwerbstätig zu bleiben; Plattformen zum Finden geprüfter Betreuung.
+
+**Risiken:** Synthese-/Prognosekarte: Zeithorizonte für KI-Agenten und Humanoide sind unsicher. Gefahr des Technik-Überoptimismus (Demo ≠ Alltag) ebenso wie des -pessimismus. Der harte Kern (Betreuung/Karriere) braucht politische/strukturelle Lösungen; Technik allein reicht dort nicht.
+
+**Quellen:** [Daminger – The Cognitive Dimension of Household Labor (ASR 2019)](https://journals.sagepub.com/doi/10.1177/0003122419859007) · [Kleven et al. – Children and Gender Inequality (Denmark)](https://www.henrikkleven.com/research/published/kleven-landais-sogaard_aej-applied_sep2018.pdf) · [OECD – Fertility trends &amp; the role for policy (2024)](https://www.oecd.org/en/publications/society-at-a-glance-2024_918d8db3-en.html) · [Work from Home and Fertility (Stanford, Bloom)](https://static1.squarespace.com/static/5e2ea3a8097ed30c779bd707/t/68b8906b5d52ee704cabddd0/1756926059682/WFH+and+Fertility+(27-08-2025).pdf)
+
+---
 
 ### Strategie: Wie macht man Kinder wieder attraktiv? (Hebel-Ranking)
 *Wirkung 5/5 · Aufwand 3/5 · Evidenz A*
