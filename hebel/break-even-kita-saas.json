@@ -1,0 +1,43 @@
+{
+  "id": "break-even-kita-saas",
+  "name": "Break-even-Rechnung: Kita-SaaS (Unit Economics)",
+  "category": "💼 Service- & Geschäftsideen",
+  "tags": ["Businessplan", "Break-even", "Unit-Economics", "SaaS", "Kita", "Finanzen"],
+  "impact": 3,
+  "evidence_level": "C",
+  "effort": 3,
+  "summary": "Eine transparente Überschlagsrechnung, ab wann sich eine Kita-Verwaltungs-/Doku-SaaS trägt. Ergebnis: bei ~2 €/Kind/Monat braucht ein schlankes 2-Personen-Team grob ~145 Kitas (~0,24 % Marktanteil) zum Break-even — technisch klein, der Engpass ist nicht der Preis, sondern der B2G-Vertriebszyklus.",
+  "key_facts": [
+    {"label": "Umsatz pro Kita/Jahr", "value": "Ø ~65 Kinder/Kita × 2 €/Monat × 12 ≈ 1.560 €/Kita/Jahr", "source": "Destatis (3,94 Mio/60.662) + Preisannahme"},
+    {"label": "Deckungsbeitrag/Kita", "value": "bei ~80 % SaaS-Bruttomarge ≈ 1.250 €/Kita/Jahr", "source": "SaaS-Benchmark (Annahme)"},
+    {"label": "Fixkosten Jahr 1 (lean)", "value": "2 Personen + Hosting + Recht/Datenschutz ≈ ~180.000 €", "source": "Annahme (2-Personen-Bootstrap)"},
+    {"label": "Break-even", "value": "≈ 180.000 / 1.250 ≈ 145 Kitas (~0,24 % von 60.662)", "source": "Eigene Rechnung"},
+    {"label": "Preis-Sensitivität", "value": "1,29 €/Kind → ~225 Kitas nötig; 3 €/Kind → ~95 Kitas", "source": "Eigene Rechnung"}
+  ],
+  "deep_dive": "Die Rechnung (alle Zahlen illustrativ, klar als Annahmen markiert): Eine durchschnittliche Kita hat rund 65 Kinder (3,94 Mio. / 60.662). Bei 2 €/Kind/Monat sind das ~130 €/Kita/Monat bzw. ~1.560 €/Kita/Jahr; bei typischer SaaS-Bruttomarge (~80 %) bleiben ~1.250 € Deckungsbeitrag pro Kita/Jahr. Ein schlankes Bootstrap-Team (Gründer + Entwickler, Hosting, Rechts-/Datenschutz-Setup) kostet grob ~180.000 €/Jahr. Break-even also bei ~180.000 / 1.250 ≈ 145 Kitas — das sind nur ~0,24 % der 60.662 Kitas. Zum Einordnen: Ein einziger mittelgroßer Träger bringt oft 10–40 Kitas; mit ein paar Träger- und Verbandsdeals sind 145 erreichbar. Die gute Nachricht: SaaS ist klebrig — ist die Software einmal in den Alltag integriert, ist die Wechselhürde hoch, die Churn niedrig, der Lifetime-Value entsprechend gut. Der eigentliche Engpass ist NICHT der Preis oder die nötige Kundenzahl, sondern die Kundengewinnung: Der öffentliche/gemeinnützige B2G-Vertriebszyklus dauert oft 6–18 Monate (Ausschreibung, Gremien, Datenschutzprüfung), und pro Kita fällt Onboarding-/Schulungsaufwand an. Ein verbreiteter Irrtum ist, ein niedriger Preis mache das Geschäft — tatsächlich entscheidet die Vertriebs-/Akquisekosten-Seite (CAC): Wenn ein Träger-Deal Monate bindet, muss er mehrere Kitas bringen, damit die Akquise pro Kita bezahlbar bleibt. Deshalb: Deals über Träger/Verbände (viele Kitas pro Abschluss) schlagen Einzel-Kita-Verkauf. Realistischer Zeithorizont bis Break-even: bei diesem Modell eher 2–3 Jahre, weil der lange Vertriebszyklus die Kundengewinnung streckt — nicht die Zahl 145 selbst.",
+  "mechanism": "SaaS-Ökonomie: hohe Fixkosten (Produkt) + niedrige Grenzkosten pro Kunde → nach Überschreiten der Break-even-Kundenzahl skaliert der Deckungsbeitrag fast voll in den Gewinn. Träger-Deals bündeln viele Kitas pro Akquise und senken so die effektiven Kundengewinnungskosten.",
+  "evidence": [
+    {"source": "Destatis", "year": 2024, "finding": "60.662 Kitas, 3,94 Mio. Kinder → Ø ~65 Kinder/Kita (Basis der Umsatzrechnung)"},
+    {"source": "SaaS-Benchmarks (allgemein)", "year": 2024, "finding": "Software-Bruttomargen typ. ~75–85 %; niedrige Churn bei integrierter B2B-Software → hoher LTV"},
+    {"source": "Öffentliche/B2G-Beschaffung", "year": 2025, "finding": "Vertriebszyklen bei Kommunen/Trägern häufig 6–18 Monate — dominanter Zeit-/Kostenfaktor"}
+  ],
+  "protocol": [
+    "Eigene Zahlen einsetzen: Kinder/Kita, €/Kind/Monat, Bruttomarge, Fixkosten → Break-even = Fixkosten / (Umsatz/Kita × Marge).",
+    "CAC ernst nehmen: Kosten pro gewonnenem Träger-Deal / Zahl der Kitas im Deal = CAC pro Kita; muss klar unter dem LTV liegen.",
+    "Auf Bündel-Deals zielen (Träger/Verband, viele Kitas pro Abschluss) statt Einzel-Kita-Verkauf.",
+    "Runway für 2–3 Jahre planen (B2G-Zyklus); früh 1 zahlender Referenzträger für Cashflow + Fallstudie.",
+    "Onboarding als eigenen, bepreisten Prozess führen (Schulung ist der versteckte Kostentreiber)."
+  ],
+  "mistakes": [
+    "Glauben, die niedrige Break-even-Kundenzahl (~145) heiße 'leicht' — der Vertriebszyklus ist der eigentliche Engpass.",
+    "CAC/Akquisekosten ignorieren und nur auf den Abo-Preis schauen.",
+    "Zu kurzen Runway planen (B2G dauert), bevor genug Träger unterschrieben haben.",
+    "Onboarding-/Schulungsaufwand unterschätzen (drückt Marge und Tempo)."
+  ],
+  "risks": "Reine Modellrechnung mit Annahmen (Preis, Marge, Fixkosten, Kinder/Kita) — real stark schwankend. Der lange B2G-Vertriebszyklus und die Akquisekosten sind das eigentliche Risiko, nicht die Kundenzahl. Wettbewerb/Incumbents können Preise drücken. Keine Erfolgsgarantie; ersetzt keine belastbare Finanzplanung/Beratung.",
+  "synergy": ["businessplan-admin-doku-saas-kita", "admin-doku-saas-kita", "digitale-kita-platzvergabe", "kinderbetreuung-guenstig-fuer-alle"],
+  "sources": [
+    {"title": "Destatis – Kindertagesbetreuung in Deutschland", "url": "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Soziales/Kindertagesbetreuung/_inhalt.html"},
+    {"title": "Stramplerbande – Preise (Referenz-Preisniveau)", "url": "https://stramplerbande.de/preise/"}
+  ]
+}
