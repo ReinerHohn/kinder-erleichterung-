@@ -1,0 +1,47 @@
+{
+  "id": "kinderbetreuung-guenstig-fuer-alle",
+  "name": "Kinderbetreuung günstig & für alle — was es dafür braucht",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": ["Kinderbetreuung", "Beitragsfreiheit", "Fachkräftemangel", "Tagespflege", "Ausbau", "ROI", "Chancengleichheit"],
+  "impact": 5,
+  "evidence_level": "A",
+  "effort": 4,
+  "summary": "Verlässliche, bezahlbare Betreuung ist der stärkste Einzelhebel gegen Eltern-Stress und Geburtenrückgang — und gegen den Karriereknick. 'Günstig für alle' heißt: öffentlich finanziert (nicht markt-billig), Personal aufgebaut, Admin per Technik entlastet. Der Engpass ist nicht Geld, sondern Fachkräfte.",
+  "key_facts": [
+    {"label": "Fehlende Plätze DE", "value": "über 306.000 U3-Plätze (IW 2024) — überwiegend wegen fehlendem Personal, nicht Gebäuden", "source": "IW Köln 2024"},
+    {"label": "Wirkung pro Euro", "value": "+1.000 USD PPP/Kind Familienausgaben ≈ +1,0–1,6 % TFR; Betreuung wirksamer als Geldtransfers", "source": "OECD WP 299 (2023)"},
+    {"label": "Erwerbseffekt", "value": "Betreuungsausbau hebt Müttererwerbstätigkeit (Luxemburg-Reform +3 Pp.)", "source": "PMC 2021"},
+    {"label": "Finanzierungsniveau Vorbilder", "value": "Frankreich ~4 % BIP Familienpolitik, flächendeckende crèches; Nordics beitragsarm/-frei", "source": "UN DESA / OECD"},
+    {"label": "Selbstfinanzierung", "value": "Rückfluss über Mütter-Erwerbstätigkeit (Steuern/Beiträge), weniger Transfers, höhere Fertilität", "source": "OECD 2024"}
+  ],
+  "deep_dive": "Dass Betreuung der größte Hebel ist, ist gut belegt: Sie senkt real die 'Kosten' eines Kindes, ermöglicht beiden Eltern Erwerbstätigkeit und löst damit zugleich den Karriereknick (Motherhood Penalty). 'Günstig für alle' wird sie aber nicht über den Markt — Personal ist der Hauptkostenblock — sondern über öffentliche Finanzierung: Beitragsfreiheit oder einkommensgestaffelte Gebühren, wie in Frankreich (crèches, ~4 % BIP Familienpolitik) und den nordischen Ländern. Das ist bezahlbar, weil es sich großteils selbst finanziert: mehr erwerbstätige Eltern zahlen mehr Steuern/Beiträge und brauchen weniger Transfers, plus höhere Geburtenrate — einer der besten Return-on-Investment der Familienpolitik (OECD). Der entscheidende, oft übersehene Punkt: Der Engpass ist NICHT das Geld, sondern die Fachkräfte. Deutschland fehlen über 306.000 U3-Plätze, überwiegend weil Erzieher:innen fehlen, nicht Räume. 'Für jeden verfügbar' scheitert also am Personal — deshalb ist der Kern-Hebel der Arbeitskräfte-Nachschub: bessere Bezahlung/Status, schnellere und vergütete (praxisintegrierte) Ausbildung, Quereinsteiger-Wege, Anwerbung aus dem Ausland und bessere Betreuungsschlüssel gegen Burnout/Abwanderung. Ein verbreiteter Irrtum ist, mehr Geld allein schaffe die Plätze — ohne Personal bleiben es Plätze auf dem Papier. Und 'billig' darf nie 'unterbesetzt' heißen: Ein schlechterer Schlüssel spart kurzfristig, schadet aber Kindern und Qualität. Technik löst die Betreuung selbst nicht (Aufsicht/Bindung bleiben menschlich), setzt aber real an Kosten und Verfügbarkeit an: Admin-/Doku-KI verschafft Erzieher:innen mehr Zeit am Kind (effektiv mehr Kapazität pro Kopf), digitale Platzvergabe verhindert leere/doppelte Plätze, und Matching-/Backup-Plattformen erhöhen die Verfügbarkeit bei Ausfällen und Randzeiten.",
+  "mechanism": "Öffentliche Finanzierung senkt den Familienpreis auf ~0; Personalaufbau + Modell-Mix (Kita, Tagespflege, Betriebskita, Ganztag) erhöht die Menge; Technik entlastet Verwaltung und Vermittlung → mehr effektive Kapazität. Zusammen wird Betreuung günstig (für Familien) UND verfügbar, was Erwerbstätigkeit und Fertilität hebt und sich fiskalisch weitgehend selbst trägt.",
+  "evidence": [
+    {"source": "IW Köln – Kitalücke 2024", "year": 2024, "finding": "über 306.000 fehlende U3-Plätze; Fachkräftemangel als zentrale Ursache"},
+    {"source": "OECD Social/Employment WP 299", "year": 2023, "finding": "Betreuungsausgaben stärkerer Fertilitäts-/Erwerbshebel als Geldleistungen; +1,0–1,6 % TFR je +1.000 USD PPP/Kind"},
+    {"source": "Access to universal childcare (PMC)", "year": 2021, "finding": "Luxemburg-Reform: +3 Prozentpunkte Müttererwerbstätigkeit"},
+    {"source": "UN DESA / OECD (Frankreich)", "year": 2015, "finding": "flächendeckende, öffentlich finanzierte Betreuung bei hoher Fertilität und Frauenerwerbstätigkeit"}
+  ],
+  "protocol": [
+    "Öffentlich finanzieren: Beitragsfreiheit oder einkommensgestaffelte Gebühren statt Marktpreis.",
+    "Personal-Engpass zuerst lösen: höhere Bezahlung/Status, vergütete/praxisintegrierte Ausbildung, Quereinstieg, Anwerbung, tragbare Betreuungsschlüssel.",
+    "Schnell skalieren über Modell-Mix: Kindertagespflege (bis 5 Kinder, günstig/schnell aufzubauen) + Betriebskitas/Belegplätze + Ganztagsschule.",
+    "Technik gezielt an Kosten/Verfügbarkeit: Admin-/Doku-KI (mehr Zeit am Kind), digitale Platzvergabe, Backup-/Matching-Plattformen.",
+    "Qualität schützen: nicht am Schlüssel sparen; 'günstig' = subventioniert, nicht unterbesetzt.",
+    "Unternehmerisch (tech-lösbare Teilstücke): Admin-SaaS für Kitas, digitale Platzvergabe, Tagespflege-/Backup-Vermittlung, Erzieher-Recruiting/Qualifizierung."
+  ],
+  "mistakes": [
+    "Glauben, mehr Geld allein schaffe Plätze — ohne Personal bleiben es Plätze auf dem Papier.",
+    "'Billig' über schlechtere Betreuungsschlüssel erkaufen (schadet Kindern/Qualität).",
+    "Betreuung durch Technik/Roboter ersetzen wollen (Aufsicht/Bindung sind nicht delegierbar).",
+    "Nur auf Kita-Neubau setzen und Tagespflege/Ganztag/Betriebskita als schnellere Wege übersehen."
+  ],
+  "risks": "Hohe Anfangskosten und lange Vorlaufzeiten (Personalausbildung); fiskalischer Rückfluss kommt verzögert. Politische Durchsetzung schwer. Qualität kann bei Spar-Ausbau leiden. Regionale Umsetzung variiert stark.",
+  "synergy": ["kita-krippe-ausbau", "kita-platzmangel-betreuungsluecke", "fehlende-teure-kinderbetreuung", "kindertagespflege-tagesmutter-au-pair", "betriebliche-kinderbetreuung-backup-care", "admin-ki-buerokratie", "opportunitaetskosten-karriere-child-penalty", "strategie-kinder-wieder-attraktiv", "automatisierung-haende-kopf-betreuung"],
+  "sources": [
+    {"title": "IW Köln – Bundesweit fehlen über 306.000 U3-Kitaplätze", "url": "https://www.iwkoeln.de/presse/pressemitteilungen/wido-geis-thoene-bundesweit-fehlen-ueber-306000-u3-kitaplaetze.html"},
+    {"title": "OECD – Fertility, employment and family policy (WP 299)", "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/09/fertility-employment-and-family-policy_8daa2477/326844f0-en.pdf"},
+    {"title": "Access to universal childcare and maternal employment (PMC)", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8245926/"},
+    {"title": "UN DESA – Family policies and fertility in France", "url": "https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undp_egm_201511_policy_brief_no._7.pdf"}
+  ]
+}

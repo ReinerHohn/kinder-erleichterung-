@@ -1,6 +1,6 @@
 # Kinder-Erleichterung — Katalog
 
-> 102 evidenzbasierte Karten. Automatisch aus `hebel/*.json` gebaut — nicht von Hand editieren.
+> 103 evidenzbasierte Karten. Automatisch aus `hebel/*.json` gebaut — nicht von Hand editieren.
 
 > ⚠️ Wissenswerkzeug, kein medizinischer/rechtlicher/steuerlicher Rat. Evidenzgrad (A/B/C) und Risiken stehen pro Karte.
 
@@ -698,7 +698,7 @@ Die Theorie der Zweiten Demografischen Transition (Lesthaeghe, van de Kaa) erkl�
 ---
 
 
-## 🛠️ Lösungen & Politik  (15)
+## 🛠️ Lösungen & Politik  (16)
 
 ### Flexible Arbeitszeit & Homeoffice (mit Recht auf Vollzeit-Rückkehr)
 *Wirkung 3/5 · Aufwand 1/5 · Evidenz B*
@@ -834,6 +834,33 @@ Das Sprichwort 'It takes a village' hat einen realen Kern: Der Wegfall der Groß
 **Risiken:** Nähe kann auch Konflikte erzeugen (Erziehungsstile, Grenzen, Überforderung der Großeltern). Evidenz überwiegend beobachtend, nicht randomisiert. Nicht für alle Familienkonstellationen praktikabel.
 
 **Quellen:** [Aktionsprogramm Mehrgenerationenhäuser (BMFSFJ)](https://www.bmbfsfj.bund.de/resource/blob/95576/f7afef3b8312af047952c30994fb979f/zukunftsprogrammmehrgenerationenhaeuser-data.pdf) · [Mehrgenerationenhäuser (SOS-Kinderdorf)](https://www.sos-kinderdorf.de/paedagogik/angebote/mehrgenerationshaeuser)
+
+---
+
+### Kinderbetreuung günstig & für alle — was es dafür braucht
+*Wirkung 5/5 · Aufwand 4/5 · Evidenz A*
+
+Verlässliche, bezahlbare Betreuung ist der stärkste Einzelhebel gegen Eltern-Stress und Geburtenrückgang — und gegen den Karriereknick. 'Günstig für alle' heißt: öffentlich finanziert (nicht markt-billig), Personal aufgebaut, Admin per Technik entlastet. Der Engpass ist nicht Geld, sondern Fachkräfte.
+
+- **Fehlende Plätze DE:** über 306.000 U3-Plätze (IW 2024) — überwiegend wegen fehlendem Personal, nicht Gebäuden (IW Köln 2024)
+- **Wirkung pro Euro:** +1.000 USD PPP/Kind Familienausgaben ≈ +1,0–1,6 % TFR; Betreuung wirksamer als Geldtransfers (OECD WP 299 (2023))
+- **Erwerbseffekt:** Betreuungsausbau hebt Müttererwerbstätigkeit (Luxemburg-Reform +3 Pp.) (PMC 2021)
+- **Finanzierungsniveau Vorbilder:** Frankreich ~4 % BIP Familienpolitik, flächendeckende crèches; Nordics beitragsarm/-frei (UN DESA / OECD)
+- **Selbstfinanzierung:** Rückfluss über Mütter-Erwerbstätigkeit (Steuern/Beiträge), weniger Transfers, höhere Fertilität (OECD 2024)
+
+Dass Betreuung der größte Hebel ist, ist gut belegt: Sie senkt real die 'Kosten' eines Kindes, ermöglicht beiden Eltern Erwerbstätigkeit und löst damit zugleich den Karriereknick (Motherhood Penalty). 'Günstig für alle' wird sie aber nicht über den Markt — Personal ist der Hauptkostenblock — sondern über öffentliche Finanzierung: Beitragsfreiheit oder einkommensgestaffelte Gebühren, wie in Frankreich (crèches, ~4 % BIP Familienpolitik) und den nordischen Ländern. Das ist bezahlbar, weil es sich großteils selbst finanziert: mehr erwerbstätige Eltern zahlen mehr Steuern/Beiträge und brauchen weniger Transfers, plus höhere Geburtenrate — einer der besten Return-on-Investment der Familienpolitik (OECD). Der entscheidende, oft übersehene Punkt: Der Engpass ist NICHT das Geld, sondern die Fachkräfte. Deutschland fehlen über 306.000 U3-Plätze, überwiegend weil Erzieher:innen fehlen, nicht Räume. 'Für jeden verfügbar' scheitert also am Personal — deshalb ist der Kern-Hebel der Arbeitskräfte-Nachschub: bessere Bezahlung/Status, schnellere und vergütete (praxisintegrierte) Ausbildung, Quereinsteiger-Wege, Anwerbung aus dem Ausland und bessere Betreuungsschlüssel gegen Burnout/Abwanderung. Ein verbreiteter Irrtum ist, mehr Geld allein schaffe die Plätze — ohne Personal bleiben es Plätze auf dem Papier. Und 'billig' darf nie 'unterbesetzt' heißen: Ein schlechterer Schlüssel spart kurzfristig, schadet aber Kindern und Qualität. Technik löst die Betreuung selbst nicht (Aufsicht/Bindung bleiben menschlich), setzt aber real an Kosten und Verfügbarkeit an: Admin-/Doku-KI verschafft Erzieher:innen mehr Zeit am Kind (effektiv mehr Kapazität pro Kopf), digitale Platzvergabe verhindert leere/doppelte Plätze, und Matching-/Backup-Plattformen erhöhen die Verfügbarkeit bei Ausfällen und Randzeiten.
+
+**Konkret:**
+- Öffentlich finanzieren: Beitragsfreiheit oder einkommensgestaffelte Gebühren statt Marktpreis.
+- Personal-Engpass zuerst lösen: höhere Bezahlung/Status, vergütete/praxisintegrierte Ausbildung, Quereinstieg, Anwerbung, tragbare Betreuungsschlüssel.
+- Schnell skalieren über Modell-Mix: Kindertagespflege (bis 5 Kinder, günstig/schnell aufzubauen) + Betriebskitas/Belegplätze + Ganztagsschule.
+- Technik gezielt an Kosten/Verfügbarkeit: Admin-/Doku-KI (mehr Zeit am Kind), digitale Platzvergabe, Backup-/Matching-Plattformen.
+- Qualität schützen: nicht am Schlüssel sparen; 'günstig' = subventioniert, nicht unterbesetzt.
+- Unternehmerisch (tech-lösbare Teilstücke): Admin-SaaS für Kitas, digitale Platzvergabe, Tagespflege-/Backup-Vermittlung, Erzieher-Recruiting/Qualifizierung.
+
+**Risiken:** Hohe Anfangskosten und lange Vorlaufzeiten (Personalausbildung); fiskalischer Rückfluss kommt verzögert. Politische Durchsetzung schwer. Qualität kann bei Spar-Ausbau leiden. Regionale Umsetzung variiert stark.
+
+**Quellen:** [IW Köln – Bundesweit fehlen über 306.000 U3-Kitaplätze](https://www.iwkoeln.de/presse/pressemitteilungen/wido-geis-thoene-bundesweit-fehlen-ueber-306000-u3-kitaplaetze.html) · [OECD – Fertility, employment and family policy (WP 299)](https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/09/fertility-employment-and-family-policy_8daa2477/326844f0-en.pdf) · [Access to universal childcare and maternal employment (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8245926/) · [UN DESA – Family policies and fertility in France](https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undp_egm_201511_policy_brief_no._7.pdf)
 
 ---
 
