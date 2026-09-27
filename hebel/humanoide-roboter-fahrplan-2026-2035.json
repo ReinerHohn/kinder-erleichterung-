@@ -48,6 +48,11 @@
       "label": "Sicherheitsstandards Zuhause",
       "value": "praktisch nicht existent; Haftung bei Verletzung im Haushalt gerichtlich ungeklärt",
       "source": "IEEE Spectrum / Automate.org 2026"
+    },
+    {
+      "label": "Ungelöste Grundprobleme (Survey 2025)",
+      "value": "4 Deployment-Hürden: Sprache→Roboter-Aktion, multimodale Wahrnehmung in Menschen-Umgebungen, Unsicherheits-/Sicherheitsabschätzung, Echtzeit-Rechnen an Bord",
+      "source": "Survey Embodied AI, arXiv 2505.20503"
     }
   ],
   "deep_dive": "2026 ist das Jahr, in dem humanoide Roboter das Labor verlassen: 1X verkauft den NEO für 20.000 $ (oder 499 $/Monat) in echte US-Haushalte, Tesla baut Optimus Gen 3 an, Figure 03 arbeitet in der BMW-Fabrik. Der entscheidende Haken: Das ist überwiegend NICHT autonom. NEO startet laut Branchenschätzung mit nur 60–70 % Autonomie – für alles Unbekannte übernimmt ein 1X-Mitarbeiter per VR-Brille die Fernsteuerung und schaut dabei durch die Roboter-Augen in dein Wohnzimmer. Marketing-Demos (Wäsche falten, Küche) sind oft geschnitten oder teleoperiert; die einzigen echten Skalierungen laufen im Warenlager, nicht zu Hause (Agility Digit mit >65.000 Betriebsstunden). Der Fahrplan ist deshalb nüchtern: 2026–2028 teure Frühkäufer-Geräte mit Mensch-in-der-Schleife für simple Aufgaben; ~2030 vielleicht zuverlässiges autonomes Aufräumen/Tragen zu sinkenden Preisen; erst ~2035 könnte breite, bezahlbare Haushalts-Entlastung realistisch sein – abhängig von ungelösten Problemen wie Akku (1–4 h), Feinmotorik und Chaos-Umgebungen. Die harte Grenze bleibt die Kinderbetreuung: Aufsicht, Sicherheit und vor allem Bindung sind entwicklungspsychologisch nicht an eine Maschine delegierbar, und für Heim-Humanoide gibt es 2026 praktisch keine Sicherheitsstandards und keine geklärte Haftung. Verbreiteter Irrtum: 'Der Roboter macht bald autonom den Haushalt' – tatsächlich braucht selbst der verkaufsfertige NEO 2026 bei rund einem Drittel der Aufgaben einen menschlichen Fernpiloten.",
@@ -72,6 +77,11 @@
       "source": "Springer / PubMed – Attachment & Roboter",
       "year": 2026,
       "finding": "Kinder binden sich zwar an Roboter, aber Roboter haben keine Kapazität für echte Bindung – nicht ersetzbar"
+    },
+    {
+      "source": "Survey: Foundation-Model Embodied AI für mobile Serviceroboter (arXiv 2505.20503)",
+      "year": 2025,
+      "finding": "Haushalts-/Serviceroboter mit Foundation Models noch pre-deployment; vier ungelöste Grundprobleme blockieren den realen Alltagseinsatz"
     }
   ],
   "protocol": [
@@ -115,6 +125,10 @@
     {
       "title": "TIME – Figure 03 Is The Robot in Your Kitchen",
       "url": "https://time.com/7324233/figure-03-robot-humanoid-reveal/"
+    },
+    {
+      "title": "Survey on Foundation-Model Embodied AI for Mobile Service Robots (arXiv 2505.20503)",
+      "url": "https://arxiv.org/pdf/2505.20503"
     }
   ]
 }
