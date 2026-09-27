@@ -1,0 +1,37 @@
+{
+  "id": "responsive-caregiving-elternfoerderung",
+  "name": "Was in der Elternförderung wirklich wirkt: Responsive Caregiving",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": ["Elternkurse", "Frühe Hilfen", "Responsive Caregiving", "Video-Feedback", "Meta-Analyse", "Wirksamkeit"],
+  "impact": 4,
+  "evidence_level": "A",
+  "effort": 2,
+  "summary": "Eine Meta-Analyse aus 102 RCTs zeigt: Elternprogramme wirken auf Kind und Eltern-Kind-Interaktion — aber nur, wenn sie einen 'Responsive-Caregiving'-Baustein (Beobachtung mit Feedback zur Interaktionsqualität) enthalten. Generische Elterntipps bringen fast nichts, und sie senken die elterliche Depression NICHT.",
+  "key_facts": [
+    {"label": "Datenbasis", "value": "Meta-Analyse aus 102 RCTs in 33 Ländern (erste 3 Lebensjahre)", "source": "PLOS Medicine 2021"},
+    {"label": "Wirk-Zutat", "value": "MIT Responsive-Caregiving-Baustein SMD 0,42 auf Erziehungspraxis — OHNE nur 0,11 (p=0,001)", "source": "PLOS Medicine 2021"},
+    {"label": "Kind-Effekte", "value": "Kognition SMD 0,32; Sprache SMD 0,28; Elternwissen 0,56; Eltern-Kind-Interaktion 0,39", "source": "PLOS Medicine 2021"},
+    {"label": "Irrtum", "value": "Standard-Elternkurse senken elterliche Depression NICHT (SMD −0,07, n.s.) — nur mit zusätzlichem CBT/Emotionsregulations-Modul", "source": "PLOS Medicine 2021"}
+  ],
+  "deep_dive": "Elternkurse, Frühe Hilfen und Familienbegleitung gibt es viele — aber die Wirksamkeit hängt an einer konkreten Zutat. Eine Meta-Analyse von 102 randomisierten Studien aus 33 Ländern (PLOS Medicine 2021) findet solide Effekte auf die kindliche Entwicklung (Kognition SMD 0,32, Sprache 0,28), auf Elternwissen (0,56) und auf die Eltern-Kind-Interaktion (0,39). Entscheidend ist aber der Vergleich innerhalb der Programme: Interventionen mit einem 'Responsive-Caregiving'-Baustein — also Beobachtung der realen Interaktion und gezieltes Feedback dazu (oft per Video) — wirken auf die Erziehungspraxis fast viermal so stark wie Programme ohne (SMD 0,42 vs. 0,11; p=0,001). Reine Wissensvermittlung ('so geht Erziehung') verpufft weitgehend. Der wichtigste Anti-Hype-Befund für dieses Projekt: Generische Elternprogramme reduzieren die elterliche Depression NICHT (SMD −0,07, nicht signifikant) — Verbesserungen der Eltern-Psyche traten nur auf, wenn explizit CBT-/Emotionsregulations-Inhalte ergänzt wurden. Ein verbreiteter Irrtum ist also, ein Elternkurs helfe automatisch auch gegen den eigenen Stress/die Erschöpfung — dafür braucht es ein eigenes, therapeutisches Modul. Praktische Konsequenz: Wer Elternförderung anbietet oder auswählt, sollte auf video-/beobachtungsbasiertes Feedback zur Interaktion setzen (das ist der Wirkstoff) und für die Eltern-Psyche separate, wirksame Angebote (siehe Wochenbettdepression/Burnout) einplanen.",
+  "mechanism": "Nicht Wissen, sondern die Rückmeldung zum eigenen konkreten Verhalten verändert die Interaktionsqualität; verbesserte responsive Interaktion fördert kindliche Entwicklung. Elterliche Depression ist ein eigenes Problem und braucht eigene (therapeutische) Inhalte, nicht generische Erziehungstipps.",
+  "evidence": [
+    {"source": "Jeong et al., PLOS Medicine (Meta-Analyse 102 RCTs)", "year": 2021, "finding": "Responsive-Caregiving-Komponente SMD 0,42 vs. 0,11 ohne; Kind-Kognition 0,32, Sprache 0,28; elterliche Depression SMD −0,07 (n.s.)"}
+  ],
+  "protocol": [
+    "Elternförderung mit Beobachtung + Feedback zur Interaktion wählen/anbieten (Video-Feedback ist der belegte Wirkstoff), nicht reine Vortrags-/Wissenskurse.",
+    "Für die Eltern-Psyche NICHT auf den Elternkurs verlassen: separate wirksame Angebote (CBT/Emotionsregulation, siehe Wochenbettdepression/Burnout).",
+    "Frühe Hilfen / Familienhebammen früh nutzen — dort responsive, interaktionsorientierte Begleitung suchen.",
+    "Als Anbieter/Politik: Programme nach dem Wirkstoff (responsive caregiving) fördern, nicht nach Teilnehmerzahl an Info-Abenden."
+  ],
+  "mistakes": [
+    "Annehmen, ein Elternkurs helfe automatisch gegen die eigene Erschöpfung/Depression (tut er laut Meta nicht).",
+    "Auf reine Wissensvermittlung setzen statt auf Feedback zur realen Interaktion.",
+    "Wirksamkeit an Teilnehmerzahlen statt am belegten Wirkstoff messen."
+  ],
+  "risks": "Effektgrößen sind moderat und gruppen-/kontextabhängig; SMDs aus Meta-Analysen mitteln über sehr unterschiedliche Programme. Für die elterliche psychische Gesundheit braucht es eigene, therapeutische Angebote — dieser Eintrag ersetzt keine Behandlung.",
+  "synergy": ["postpartale-depression-erkennen", "elterlicher-burnout-isolation", "es-braucht-ein-dorf-community", "kinderbetreuung-guenstig-fuer-alle"],
+  "sources": [
+    {"title": "Jeong et al. – Parenting interventions to promote early child development (PLOS Medicine 2021)", "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003602"}
+  ]
+}

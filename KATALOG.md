@@ -1,6 +1,6 @@
 # Kinder-Erleichterung — Katalog
 
-> 110 evidenzbasierte Karten. Automatisch aus `hebel/*.json` gebaut — nicht von Hand editieren.
+> 112 evidenzbasierte Karten. Automatisch aus `hebel/*.json` gebaut — nicht von Hand editieren.
 
 > ⚠️ Wissenswerkzeug, kein medizinischer/rechtlicher/steuerlicher Rat. Evidenzgrad (A/B/C) und Risiken stehen pro Karte.
 
@@ -71,6 +71,7 @@ Das unsichtbare 'Projektmanagement' der Familie – alle Termine, Bedarfe und Vo
 - **Care-Zeit pro Woche:** Frauen ~29 h vs. Männer ~20 h unbezahlte Care-Arbeit (female-resources.de / Zeitverwendungsdaten)
 - **Wer trägt den Mental Load:** mehrheitlich Mütter tragen den Großteil der Organisationsarbeit (SDK / gluecksheldin)
 - **Folgekosten:** Teilzeitfalle, Karriereknick, geringere Rente (BLLV)
+- **hkk-Report 2025 (forsa, n=1.504):** 62 % der Mütter vs. 31 % der Väter stark durch Mental Load belastet; 33 % vs. 3 % (fast) täglich allein zuständig; 82 % vs. 65 % körperl. Schmerzen (6 Mon.) (hkk Gesundheitsreport 2025)
 
 Mental Load bezeichnet die kognitive Dauerlast des Planens, Erinnerns und Koordinierens – von U-Untersuchungen über Geburtstagsgeschenke bis zum leeren Windelvorrat. Sie ist gerade deshalb so belastend, weil sie unsichtbar ist und nie 'abgearbeitet' erscheint. In Deutschland beträgt der Gender-Care-Gap bei der gesamten unbezahlten Arbeit je nach Berechnung 43,8 % bis über 50 %; Frauen wenden pro Tag deutlich mehr Zeit für Kinder, Haushalt und Angehörige auf. Verbreiteter Irrtum: 'Wir teilen fair, ich helfe ja mit.' Das Wort 'helfen' verrät die Struktur – die Verantwortung (das Wissen, WANN was zu tun ist) bleibt bei einem Elternteil, während der andere nur ausführende Aufgaben delegiert bekommt. Genau diese Delegations-Last ist der eigentliche Mental Load. Die Datenlage aus mehreren Zeitverwendungsstudien ist konsistent, daher Evidenzgrad A für die Ungleichverteilung.
 
@@ -83,7 +84,7 @@ Mental Load bezeichnet die kognitive Dauerlast des Planens, Erinnerns und Koordi
 
 **Risiken:** Dauerhafte einseitige Mental Load ist ein zentraler Treiber von Erschöpfung, Groll in der Partnerschaft und Eltern-Burnout – vor allem bei Müttern.
 
-**Quellen:** [Spektrum – Gender-Care-Gap in Deutschland](https://www.spektrum.de/news/gender-care-gap-in-deutschland/2303849) · [SDK – Mental Load: unsichtbare Denkarbeit](https://www.sdk.de/versicherungen/private-krankenversicherung/mental-load-unsichtbare-denkarbeit-trifft-besonders-frauen) · [BLLV – Equal Care, Mental Load, Gender Gap](https://www.bllv.de/vollstaendiger-artikel/news/equal-care-mental-load-gender-gap-equal-pay-was-bedeutet-gleichberechtigt-5784) · [female-resources – Gender Care Gap Ursachen](https://female-resources.de/en/gender-care-gap-ursachen-und-auswirkungen/)
+**Quellen:** [Spektrum – Gender-Care-Gap in Deutschland](https://www.spektrum.de/news/gender-care-gap-in-deutschland/2303849) · [SDK – Mental Load: unsichtbare Denkarbeit](https://www.sdk.de/versicherungen/private-krankenversicherung/mental-load-unsichtbare-denkarbeit-trifft-besonders-frauen) · [BLLV – Equal Care, Mental Load, Gender Gap](https://www.bllv.de/vollstaendiger-artikel/news/equal-care-mental-load-gender-gap-equal-pay-was-bedeutet-gleichberechtigt-5784) · [female-resources – Gender Care Gap Ursachen](https://female-resources.de/en/gender-care-gap-ursachen-und-auswirkungen/) · [hkk Gesundheitsreport 2025 – Mental Load (Pressemitteilung)](https://www.hkk.de/presse/pressemitteilungen/2025-10-09-mental-load)
 
 ---
 
@@ -295,6 +296,7 @@ Selbst mit Kita-Platz entstehen ständige Lücken: krankes Kind, Schließzeiten,
 - **Obergrenze mehrere Kinder:** max. 35 Tage/Elternteil (Alleinerziehende 70) (BMG)
 - **Kita-Schließzeiten:** häufig ~3 Wochen Sommerschließung + Brückentage (familienservice / betreut.de)
 - **Kernproblem:** ungeplante Ausfälle + Randzeiten kollidieren mit Arbeitszeiten/Schichtdienst (mittelstand-und-familie.de)
+- **Personalmangel trifft Eltern (2023):** 57 % der Eltern von Kürzungen/Schließungen betroffen (47 % kürzere Zeiten, 38 % Schließungen); ~30 % mussten Arbeitszeit reduzieren (WSI/Böckler 2023)
 
 Die eigentliche Härte liegt oft nicht im Regelbetrieb, sondern in den Rändern und Ausnahmen: Ein krankes Kind, eine kranke Tagesmutter, drei Wochen Kita-Schließzeit im Sommer, eine Dienstreise, Schichtdienst am frühen Morgen oder späten Abend. Gesetzlich Versicherte haben 2024–2026 Anspruch auf 15 Kinderkrankentage pro Kind und Elternteil (Alleinerziehende 30), gedeckelt auf 35 bzw. 70 Tage – doch in Kita-Jahren mit gehäuften Infekten reicht das oft nicht, und Kinderkrankengeld ersetzt nur einen Teil des Nettolohns. Verbreiteter Irrtum: 'Mit Kita-Platz ist die Betreuung geregelt.' Öffnungszeiten decken selten Randzeiten ab, und Schließzeiten plus Krankheitstage summieren sich schnell auf viele Wochen im Jahr, die individuell überbrückt werden müssen – häufig durch Urlaubstage der Eltern oder Großeltern. Ferienbetreuung für Schulkinder ist ein eigenes, oft ungelöstes Problem.
 
@@ -307,7 +309,7 @@ Die eigentliche Härte liegt oft nicht im Regelbetrieb, sondern in den Rändern 
 
 **Risiken:** Wenn Krankheits- und Ferientage die verfügbaren Urlaubs- und Kinderkrankentage übersteigen, drohen Einkommensverlust, Konflikte mit dem Arbeitgeber und Dauerstress bis hin zur Erschöpfung.
 
-**Quellen:** [BMG – FAQ Kinderkrankengeld/Kinderkrankentage](https://www.bundesgesundheitsministerium.de/themen/praevention/kindergesundheit/faq-kinderkrankengeld) · [Mittelstand-und-Familie – Randzeit- &amp; Notfallbetreuung](https://www.mittelstand-und-familie.de/kinderbetreuung/notfallbetreuung) · [betreut.de – Vereinbarkeit von Ferien und Beruf](https://www.betreut.de/magazin/themenspezials/ferien-und-beruf/)
+**Quellen:** [BMG – FAQ Kinderkrankengeld/Kinderkrankentage](https://www.bundesgesundheitsministerium.de/themen/praevention/kindergesundheit/faq-kinderkrankengeld) · [Mittelstand-und-Familie – Randzeit- &amp; Notfallbetreuung](https://www.mittelstand-und-familie.de/kinderbetreuung/notfallbetreuung) · [betreut.de – Vereinbarkeit von Ferien und Beruf](https://www.betreut.de/magazin/themenspezials/ferien-und-beruf/) · [WSI/Böckler – Kinderbetreuung: Eltern am Limit (Pressemitteilung)](https://www.boeckler.de/de/pressemitteilungen-2675-kinderbetreuung-51190.htm)
 
 ---
 
@@ -698,7 +700,7 @@ Die Theorie der Zweiten Demografischen Transition (Lesthaeghe, van de Kaa) erkl�
 ---
 
 
-## 🛠️ Lösungen & Politik  (16)
+## 🛠️ Lösungen & Politik  (18)
 
 ### Flexible Arbeitszeit & Homeoffice (mit Recht auf Vollzeit-Rückkehr)
 *Wirkung 3/5 · Aufwand 1/5 · Evidenz B*
@@ -720,6 +722,30 @@ Eine Stanford-Studie (Nick Bloom, 'Work from Home and Fertility') fand für 2023
 **Risiken:** Teilzeit-/Homeoffice-Falle mit Karriere- und Rentennachteilen v. a. für Frauen; Effekte teils selektiv (wer remote arbeiten kann); ohne Betreuung kein Ersatz.
 
 **Quellen:** [Work from Home and Fertility (Stanford, Bloom)](https://static1.squarespace.com/static/5e2ea3a8097ed30c779bd707/t/68b8906b5d52ee704cabddd0/1756926059682/WFH+and+Fertility+(27-08-2025).pdf) · [Economic Innovation Group – Remote Work and Family Formation](https://eig.org/remote-work-family-formation/)
+
+---
+
+### Was in der Elternförderung wirklich wirkt: Responsive Caregiving
+*Wirkung 4/5 · Aufwand 2/5 · Evidenz A*
+
+Eine Meta-Analyse aus 102 RCTs zeigt: Elternprogramme wirken auf Kind und Eltern-Kind-Interaktion — aber nur, wenn sie einen 'Responsive-Caregiving'-Baustein (Beobachtung mit Feedback zur Interaktionsqualität) enthalten. Generische Elterntipps bringen fast nichts, und sie senken die elterliche Depression NICHT.
+
+- **Datenbasis:** Meta-Analyse aus 102 RCTs in 33 Ländern (erste 3 Lebensjahre) (PLOS Medicine 2021)
+- **Wirk-Zutat:** MIT Responsive-Caregiving-Baustein SMD 0,42 auf Erziehungspraxis — OHNE nur 0,11 (p=0,001) (PLOS Medicine 2021)
+- **Kind-Effekte:** Kognition SMD 0,32; Sprache SMD 0,28; Elternwissen 0,56; Eltern-Kind-Interaktion 0,39 (PLOS Medicine 2021)
+- **Irrtum:** Standard-Elternkurse senken elterliche Depression NICHT (SMD −0,07, n.s.) — nur mit zusätzlichem CBT/Emotionsregulations-Modul (PLOS Medicine 2021)
+
+Elternkurse, Frühe Hilfen und Familienbegleitung gibt es viele — aber die Wirksamkeit hängt an einer konkreten Zutat. Eine Meta-Analyse von 102 randomisierten Studien aus 33 Ländern (PLOS Medicine 2021) findet solide Effekte auf die kindliche Entwicklung (Kognition SMD 0,32, Sprache 0,28), auf Elternwissen (0,56) und auf die Eltern-Kind-Interaktion (0,39). Entscheidend ist aber der Vergleich innerhalb der Programme: Interventionen mit einem 'Responsive-Caregiving'-Baustein — also Beobachtung der realen Interaktion und gezieltes Feedback dazu (oft per Video) — wirken auf die Erziehungspraxis fast viermal so stark wie Programme ohne (SMD 0,42 vs. 0,11; p=0,001). Reine Wissensvermittlung ('so geht Erziehung') verpufft weitgehend. Der wichtigste Anti-Hype-Befund für dieses Projekt: Generische Elternprogramme reduzieren die elterliche Depression NICHT (SMD −0,07, nicht signifikant) — Verbesserungen der Eltern-Psyche traten nur auf, wenn explizit CBT-/Emotionsregulations-Inhalte ergänzt wurden. Ein verbreiteter Irrtum ist also, ein Elternkurs helfe automatisch auch gegen den eigenen Stress/die Erschöpfung — dafür braucht es ein eigenes, therapeutisches Modul. Praktische Konsequenz: Wer Elternförderung anbietet oder auswählt, sollte auf video-/beobachtungsbasiertes Feedback zur Interaktion setzen (das ist der Wirkstoff) und für die Eltern-Psyche separate, wirksame Angebote (siehe Wochenbettdepression/Burnout) einplanen.
+
+**Konkret:**
+- Elternförderung mit Beobachtung + Feedback zur Interaktion wählen/anbieten (Video-Feedback ist der belegte Wirkstoff), nicht reine Vortrags-/Wissenskurse.
+- Für die Eltern-Psyche NICHT auf den Elternkurs verlassen: separate wirksame Angebote (CBT/Emotionsregulation, siehe Wochenbettdepression/Burnout).
+- Frühe Hilfen / Familienhebammen früh nutzen — dort responsive, interaktionsorientierte Begleitung suchen.
+- Als Anbieter/Politik: Programme nach dem Wirkstoff (responsive caregiving) fördern, nicht nach Teilnehmerzahl an Info-Abenden.
+
+**Risiken:** Effektgrößen sind moderat und gruppen-/kontextabhängig; SMDs aus Meta-Analysen mitteln über sehr unterschiedliche Programme. Für die elterliche psychische Gesundheit braucht es eigene, therapeutische Angebote — dieser Eintrag ersetzt keine Behandlung.
+
+**Quellen:** [Jeong et al. – Parenting interventions to promote early child development (PLOS Medicine 2021)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003602)
 
 ---
 
@@ -953,6 +979,30 @@ Frankreich und Schweden zeigen, dass hohe Fertilität und hohe Frauenerwerbstät
 **Risiken:** Teuer und nur über lange Zeiträume wirksam; kein Instrument garantiert TFR ≥ 2,1; kulturelle/ökonomische Trends begrenzen die Wirkung (auch SE fällt).
 
 **Quellen:** [UN DESA – Influence of family policies on fertility in France](https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undp_egm_201511_policy_brief_no._7.pdf) · [Demographic Research – Sweden: Combining childbearing and gender equality](https://www.demographic-research.org/volumes/vol19/28/19-28.pdf)
+
+---
+
+### Québec: Lehren aus universeller Billig-Betreuung ($5–7/Tag)
+*Wirkung 4/5 · Aufwand 4/5 · Evidenz B*
+
+Québec führte 1997 eine Betreuung für 5 $/Tag ein — das große natürliche Experiment für 'günstig & für alle'. Ergebnis: ~70.000 mehr erwerbstätige Mütter und fiskalische Selbstfinanzierung, aber anhaltender Platzmangel und ungelöste Qualitäts-/Kindeswohl-Fragen. Die Doppel-Lehre: Preis senken wirkt — aber ohne Qualität und genug Plätze nur halb.
+
+- **Modell:** Gebühr 5 $/Tag (1997), später 7 $/Tag; ~0,7 % des BIP Québecs (2011/12) (IPPR (Québec-Analyse))
+- **Erwerbseffekt:** 2008 ~70.000 mehr Mütter in Arbeit (+3,8 %); Effekt hält über die Schulzeit hinaus an (IPPR)
+- **Fiskalisch:** Nettokosten Provinz 1,6 Mrd. $ → 2,4 Mrd. $ Steuern/Transfers (~47 % Return); Provinz +1,7 Mrd., Bund +0,7 Mrd. (IPPR)
+- **Grenzen:** Nachfrage > Angebot (Platzmangel bleibt); Qualität/Kindeswohl/Personalqualifikation ungelöst (IPPR)
+
+Québec ist das berühmteste natürliche Experiment für 'günstig & für alle': Ab 1997 kostete ein Betreuungsplatz nur 5 kanadische Dollar pro Tag (später 7 $), universell für alle Familien. Die Wirkung auf die Müttererwerbstätigkeit war groß und dauerhaft — 2008 waren dadurch rund 70.000 Mütter zusätzlich erwerbstätig (+3,8 %), und der Effekt hielt an, nachdem die Kinder in die Schule kamen. Fiskalisch trug sich das Programm weitgehend selbst: Den Nettokosten der Provinz von ~1,6 Mrd. $ standen ~2,4 Mrd. $ an Steuern und eingesparten Transfers gegenüber (~47 % Return), wobei auch der Bund (der nichts zahlte) rund 0,7 Mrd. $ Mehreinnahmen abschöpfte — ein starkes Argument, Betreuung als Investition statt Kostenposten zu sehen. Aber Québec zeigt auch die Grenzen der reinen Preissenkung: Die Nachfrage nach subventionierten Plätzen übersteigt bis heute deutlich das Angebot (Platzmangel wie in DE), und es gibt anhaltende, ungelöste Debatten über Qualität, Personalqualifikation und Kindeswohl-Effekte — teils mit Hinweisen auf ungünstige Entwicklungsergebnisse in der frühen Phase des Programms. Ein verbreiteter Irrtum ist deshalb, 'einfach den Preis auf fast null setzen' genüge: Québec belegt, dass Billig-Betreuung die Erwerbstätigkeit hebt und sich rechnet, aber nur mit gleichzeitigem Ausbau der Plätze UND Investition in Qualität/Personal den vollen Nutzen bringt. Genau die Kombination — bezahlbar + verfügbar + gut — ist die eigentliche Aufgabe.
+
+**Konkret:**
+- Preis senken UND Plätze/Qualität parallel ausbauen — sonst nur Wartelisten statt Wirkung.
+- Betreuung als Investition rechnen (Québec ~47 % Return; refinanziert über Müttererwerbstätigkeit).
+- In Qualität/Personal investieren, nicht nur in niedrige Gebühren (Kindeswohl-Risiko sonst).
+- Als Vorbild für DE: kombiniert mit Fachkräfte-Offensive denken (siehe Betreuungs-Karte).
+
+**Risiken:** Kontext-/zeitspezifisch (Kanada, ab 1997) — nur begrenzt auf DE übertragbar. Qualitäts-/Kindeswohl-Befunde sind umstritten und teils negativ in der Frühphase. ROI-Zahlen je nach Berechnung (statisch vs. dynamisch).
+
+**Quellen:** [IPPR – Lessons from Quebec&#x27;s universal low-fee childcare programme](https://www.ippr.org/articles/lessons-from-quebecs-universal-low-fee-childcare-programme)
 
 ---
 

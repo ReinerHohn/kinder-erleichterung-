@@ -32,6 +32,11 @@
       "label": "Kernproblem",
       "value": "ungeplante Ausfälle + Randzeiten kollidieren mit Arbeitszeiten/Schichtdienst",
       "source": "mittelstand-und-familie.de"
+    },
+    {
+      "label": "Personalmangel trifft Eltern (2023)",
+      "value": "57 % der Eltern von Kürzungen/Schließungen betroffen (47 % kürzere Zeiten, 38 % Schließungen); ~30 % mussten Arbeitszeit reduzieren",
+      "source": "WSI/Böckler 2023"
     }
   ],
   "deep_dive": "Die eigentliche Härte liegt oft nicht im Regelbetrieb, sondern in den Rändern und Ausnahmen: Ein krankes Kind, eine kranke Tagesmutter, drei Wochen Kita-Schließzeit im Sommer, eine Dienstreise, Schichtdienst am frühen Morgen oder späten Abend. Gesetzlich Versicherte haben 2024–2026 Anspruch auf 15 Kinderkrankentage pro Kind und Elternteil (Alleinerziehende 30), gedeckelt auf 35 bzw. 70 Tage – doch in Kita-Jahren mit gehäuften Infekten reicht das oft nicht, und Kinderkrankengeld ersetzt nur einen Teil des Nettolohns. Verbreiteter Irrtum: 'Mit Kita-Platz ist die Betreuung geregelt.' Öffnungszeiten decken selten Randzeiten ab, und Schließzeiten plus Krankheitstage summieren sich schnell auf viele Wochen im Jahr, die individuell überbrückt werden müssen – häufig durch Urlaubstage der Eltern oder Großeltern. Ferienbetreuung für Schulkinder ist ein eigenes, oft ungelöstes Problem.",
@@ -46,6 +51,11 @@
       "source": "familienservice / Mittelstand & Familie",
       "year": 2023,
       "finding": "ungeplante Ausfälle und Randzeiten als zentrale Vereinbarkeits-Hürde"
+    },
+    {
+      "source": "WSI/Hans-Böckler-Stiftung",
+      "year": 2023,
+      "finding": "57 % der berufstätigen Eltern im Frühjahr 2023 mit reduzierten Betreuungszeiten und/oder Schließungen wegen Personalmangels konfrontiert; ~30 % mussten deshalb Arbeitszeit reduzieren"
     }
   ],
   "protocol": [
@@ -78,6 +88,10 @@
     {
       "title": "betreut.de – Vereinbarkeit von Ferien und Beruf",
       "url": "https://www.betreut.de/magazin/themenspezials/ferien-und-beruf/"
+    },
+    {
+      "title": "WSI/Böckler – Kinderbetreuung: Eltern am Limit (Pressemitteilung)",
+      "url": "https://www.boeckler.de/de/pressemitteilungen-2675-kinderbetreuung-51190.htm"
     }
   ]
 }

@@ -32,6 +32,11 @@
       "label": "Folgekosten",
       "value": "Teilzeitfalle, Karriereknick, geringere Rente",
       "source": "BLLV"
+    },
+    {
+      "label": "hkk-Report 2025 (forsa, n=1.504)",
+      "value": "62 % der Mütter vs. 31 % der Väter stark durch Mental Load belastet; 33 % vs. 3 % (fast) täglich allein zuständig; 82 % vs. 65 % körperl. Schmerzen (6 Mon.)",
+      "source": "hkk Gesundheitsreport 2025"
     }
   ],
   "deep_dive": "Mental Load bezeichnet die kognitive Dauerlast des Planens, Erinnerns und Koordinierens – von U-Untersuchungen über Geburtstagsgeschenke bis zum leeren Windelvorrat. Sie ist gerade deshalb so belastend, weil sie unsichtbar ist und nie 'abgearbeitet' erscheint. In Deutschland beträgt der Gender-Care-Gap bei der gesamten unbezahlten Arbeit je nach Berechnung 43,8 % bis über 50 %; Frauen wenden pro Tag deutlich mehr Zeit für Kinder, Haushalt und Angehörige auf. Verbreiteter Irrtum: 'Wir teilen fair, ich helfe ja mit.' Das Wort 'helfen' verrät die Struktur – die Verantwortung (das Wissen, WANN was zu tun ist) bleibt bei einem Elternteil, während der andere nur ausführende Aufgaben delegiert bekommt. Genau diese Delegations-Last ist der eigentliche Mental Load. Die Datenlage aus mehreren Zeitverwendungsstudien ist konsistent, daher Evidenzgrad A für die Ungleichverteilung.",
@@ -46,6 +51,11 @@
       "source": "Zeitverwendungsdaten (Statista/female-resources)",
       "year": 2022,
       "finding": "~29 h vs. ~20 h Care-Arbeit pro Woche"
+    },
+    {
+      "source": "hkk Gesundheitsreport Mental Load (forsa)",
+      "year": 2025,
+      "finding": "62 % Mütter vs. 31 % Väter (sehr) stark belastet; 33 % vs. 3 % (fast) täglich allein für den Familienalltag zuständig; messbare körperliche/psychische Folgen bei Müttern"
     }
   ],
   "protocol": [
@@ -82,6 +92,10 @@
     {
       "title": "female-resources – Gender Care Gap Ursachen",
       "url": "https://female-resources.de/en/gender-care-gap-ursachen-und-auswirkungen/"
+    },
+    {
+      "title": "hkk Gesundheitsreport 2025 – Mental Load (Pressemitteilung)",
+      "url": "https://www.hkk.de/presse/pressemitteilungen/2025-10-09-mental-load"
     }
   ]
 }
