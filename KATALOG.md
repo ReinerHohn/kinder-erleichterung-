@@ -1,6 +1,6 @@
 # Kinder-Erleichterung — Katalog
 
-> 112 evidenzbasierte Karten. Automatisch aus `hebel/*.json` gebaut — nicht von Hand editieren.
+> 114 evidenzbasierte Karten. Automatisch aus `hebel/*.json` gebaut — nicht von Hand editieren.
 
 > ⚠️ Wissenswerkzeug, kein medizinischer/rechtlicher/steuerlicher Rat. Evidenzgrad (A/B/C) und Risiken stehen pro Karte.
 
@@ -700,7 +700,7 @@ Die Theorie der Zweiten Demografischen Transition (Lesthaeghe, van de Kaa) erkl�
 ---
 
 
-## 🛠️ Lösungen & Politik  (18)
+## 🛠️ Lösungen & Politik  (20)
 
 ### Flexible Arbeitszeit & Homeoffice (mit Recht auf Vollzeit-Rückkehr)
 *Wirkung 3/5 · Aufwand 1/5 · Evidenz B*
@@ -817,6 +817,30 @@ Betriebliche Betreuungsangebote – von der Betriebskita bis zur kurzfristigen B
 
 ---
 
+### Frühe Hilfen & Familienhebammen: früh, aufsuchend, zielgerichtet
+*Wirkung 3/5 · Aufwand 2/5 · Evidenz B*
+
+Aufsuchende Frühe Hilfen (Familienhebammen/-pflegerinnen kommen nach Hause) unterstützen Familien in belasteten Lebenslagen in den ersten ~3 Jahren. International (Nurse-Family Partnership) ist der Nutzen am größten und am kosteneffektivsten, wenn gezielt Hochrisiko-Familien erreicht werden — nicht als Gießkanne für alle.
+
+- **Angebot DE:** fast alle Kommunen bieten aufsuchende Frühe Hilfen (Familienhebammen/Gesundheits- u. Kinderkrankenpflege) bis ~3 J. (NZFH / fruehehilfen.de)
+- **Zielgruppe:** Familien in belasteten Lagen (Armut, psychische Belastung, Überforderung, Gewalt/Sucht) (NZFH)
+- **Internationales Vorbild:** Nurse-Family Partnership (Olds): Hausbesuche durch Pflegekräfte für Erstgebärende (NFP-Studienlage)
+- **Wirk-Prinzip:** am wirksamsten & kosteneffektivsten bei GEZIELTER Ansprache von Hochrisiko-Familien, weniger als Angebot für alle (NFP-Ökonomie-Studien)
+
+Frühe Hilfen setzen genau dort an, wo Belastung am größten und Prävention am wertvollsten ist: in den ersten Lebensjahren, aufsuchend zu Hause. In Deutschland bieten fast alle Kommunen solche Angebote über das Nationale Zentrum Frühe Hilfen (NZFH) — vor allem Familienhebammen und Familien-Gesundheits-/Kinderkrankenpflegende, die Familien in belasteten Lebenslagen (Armut, psychische Belastung, Überforderung, Gewalt/Sucht) bis etwa zum 3. Geburtstag begleiten. Studien zeigen, dass ihr Einsatz das Risiko für das Kindeswohl senken kann, wenn die Belastung hoch ist. Das internationale Vorbild ist die Nurse-Family Partnership (David Olds): regelmäßige Hausbesuche durch Pflegekräfte bei Erstgebärenden, mit über Jahrzehnte belegten Effekten auf Kindergesundheit, weniger Misshandlung/Vernachlässigung und bessere Elternkompetenz. Der entscheidende, oft übersehene Punkt: Der Nutzen und die Kosteneffizienz sind am größten, wenn gezielt Hochrisiko-Familien erreicht werden — als Gießkanne für alle verpufft ein Großteil der Wirkung und die Kosten steigen. Ein verbreiteter Irrtum ist deshalb, 'für alle etwas' sei automatisch besser; bei aufsuchender Frühprävention gilt eher: früh, freiwillig, vertrauensbasiert und zielgerichtet. Für Eltern konkret: Frühe Hilfen sind kostenlos, freiwillig und niedrigschwellig — man muss sie nur kennen und früh (schon in der Schwangerschaft) nutzen. Sie ergänzen, ersetzen aber nicht die reguläre Hebammen-/Kinderarztversorgung.
+
+**Konkret:**
+- Früh (in der Schwangerschaft) nach Frühen Hilfen / Familienhebamme fragen — kostenlos, freiwillig, niedrigschwellig (Anlaufstelle: Kommune/Jugendamt/Geburtsklinik).
+- Bei Belastung (Erschöpfung, wenig Unterstützung, finanzielle/psychische Last) aktiv annehmen statt abzuwarten.
+- Politik/Träger: Angebote zielgerichtet auf Hochrisiko-Familien ausbauen (höchste Wirkung pro Euro), Zugang entstigmatisieren.
+- Als Ergänzung verstehen — reguläre Hebammen-/Kinderarztversorgung bleibt bestehen.
+
+**Risiken:** Wirkung/Kosteneffizienz stark abhängig von Zielgruppen-Treffsicherheit; breite Programme für alle sind teuer bei geringerem Zusatznutzen. Erreichbarkeit belasteter Familien ist schwierig; Stigmatisierung kann Zugang hemmen. Ersetzt keine reguläre medizinische Versorgung.
+
+**Quellen:** [NZFH – Gesundheitsfachkräfte in den Frühen Hilfen](https://www.fruehehilfen.de/grundlagen-und-fachthemen/gesundheitsfachkraefte-in-den-fruehen-hilfen/) · [NZFH – Familienhebammen (Wirkung/Modellprojekte)](https://www.fruehehilfen.de/index.php?id=101)
+
+---
+
 ### Steuerreform: Ehegattensplitting abbauen / Individualbesteuerung
 *Wirkung 3/5 · Aufwand 2/5 · Evidenz A*
 
@@ -860,6 +884,30 @@ Das Sprichwort 'It takes a village' hat einen realen Kern: Der Wegfall der Groß
 **Risiken:** Nähe kann auch Konflikte erzeugen (Erziehungsstile, Grenzen, Überforderung der Großeltern). Evidenz überwiegend beobachtend, nicht randomisiert. Nicht für alle Familienkonstellationen praktikabel.
 
 **Quellen:** [Aktionsprogramm Mehrgenerationenhäuser (BMFSFJ)](https://www.bmbfsfj.bund.de/resource/blob/95576/f7afef3b8312af047952c30994fb979f/zukunftsprogrammmehrgenerationenhaeuser-data.pdf) · [Mehrgenerationenhäuser (SOS-Kinderdorf)](https://www.sos-kinderdorf.de/paedagogik/angebote/mehrgenerationshaeuser)
+
+---
+
+### Kita als Investition, nicht Kostenposten: 1 € → 3–4 €
+*Wirkung 4/5 · Aufwand 3/5 · Evidenz B*
+
+Ausgaben für Kinderbetreuung sind überwiegend eine Investition, die sich refinanziert: Studien beziffern den gesamtwirtschaftlichen Rückfluss auf grob das 3- bis 4-Fache je investiertem Euro, vor allem über höhere Müttererwerbstätigkeit (mehr Steuern/Beiträge, weniger Transfers). Das dreht das Kosten-Argument um.
+
+- **Rückfluss je Euro:** ~1 € Kita-Investition → 3–4 € gesamtwirtschaftlicher/fiskalischer Rückfluss (GEW/Uni Bielefeld (Dohmen))
+- **Fiskaleffekt pro Kind:** ~4.110 €/Kind (Vorschulalter) durch mehr Müttererwerbstätigkeit; Netto-Ausgabe ~3.010 € (<6 J.) (DIW 2020 (Politikberatung kompakt 146))
+- **Kanal:** höhere Einkommensteuer + Sozialbeiträge, geringere bedarfsgeprüfte Transfers (DIW / ifo)
+- **International:** Québec: ~47 % fiskalischer Return des Billig-Betreuungsprogramms (IPPR (Québec))
+
+Der wirksamste Reframe in der Betreuungsdebatte: Kita ist kein Konsum-Kostenposten, sondern eine Investition mit Rückfluss. Eine im Auftrag der GEW an der Uni Bielefeld erstellte Analyse (Dohmen) kommt darauf, dass ein in Kinderbetreuung investierter Euro der Gesellschaft grob das Drei- bis Vierfache zurückbringt. Das DIW beziffert die fiskalischen Effekte einer Betreuung im Vorschulalter auf rund 4.110 € pro Kind (durch zusätzliche Müttererwerbstätigkeit), denen effektive Netto-Ausgaben von etwa 3.010 € (Kinder unter 6) gegenüberstehen — der Staat holt also einen Großteil bis mehr als das Ausgegebene zurück, vor allem über höhere Einkommensteuer und Sozialbeiträge sowie geringere bedarfsgeprüfte Transfers. International bestätigt Québec das Muster: rund 47 % fiskalischer Return des Billig-Betreuungsprogramms (siehe eigene Karte). Ein verbreiteter Irrtum ist, Betreuung sei 'zu teuer' — kurzfristig sind es Ausgaben, mittel-/langfristig refinanziert sie sich weitgehend und schafft zusätzlich Bildungs- und Fertilitätseffekte. Wichtig zur Ehrlichkeit: Die genaue Höhe ist szenario- und annahmenabhängig; besonders hohe Einzelwerte (etwa sehr hohe Return-Verhältnisse für Qualitätsinvestitionen) stammen aus spezifischen Modellrechnungen, während das robuste, breit zitierte Ergebnis bei rund 1:3 bis 1:4 liegt. Für die Politik heißt das: Betreuung als Investition mit Rendite budgetieren, nicht als reine Soziallast.
+
+**Konkret:**
+- Betreuung im Haushalt als Investition mit Rendite ausweisen, nicht als reine Ausgabe.
+- Rückfluss dynamisch rechnen (mehrjährige Erwerbs-/Steuereffekte), nicht nur den Jahres-Zuschuss.
+- Mittel priorisiert in Betreuung/Ganztag lenken (höherer Return als reine Bar-Prämien).
+- Hohe Einzel-Return-Zahlen vorsichtig kommunizieren — robust belegt ist ~1:3–1:4.
+
+**Risiken:** ROI-Höhe stark annahmen-/szenarioabhängig; besonders hohe Werte stammen aus spezifischen Modellen. Effekte brauchen Zeit (verzögerter Rückfluss). Setzt voraus, dass Betreuung real Erwerbstätigkeit ermöglicht (Verfügbarkeit/Qualität) — reine Zahlungen ohne Plätze wirken nicht.
+
+**Quellen:** [GEW – Studie belegt volkswirtschaftlichen Nutzen von Kita-Investitionen](https://www.gew.de/aktuelles/detailseite/gew-studie-belegt-volkswirtschaftlichen-nutzen-von-investitionen-in-kitas) · [DIW – Fiskalische Wirkungen (Politikberatung kompakt 146, 2020)](https://www.diw.de/documents/publikationen/73/diw_01.c.702895.de/diwkompakt_2020-146.pdf) · [IPPR – Lessons from Quebec&#x27;s universal low-fee childcare](https://www.ippr.org/articles/lessons-from-quebecs-universal-low-fee-childcare-programme)
 
 ---
 

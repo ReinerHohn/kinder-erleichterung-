@@ -1,0 +1,41 @@
+{
+  "id": "kita-fiskalischer-roi-investition",
+  "name": "Kita als Investition, nicht Kostenposten: 1 € → 3–4 €",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": ["ROI", "Fiskalisch", "Kita", "Müttererwerbstätigkeit", "Investition", "Volkswirtschaft"],
+  "impact": 4,
+  "evidence_level": "B",
+  "effort": 3,
+  "summary": "Ausgaben für Kinderbetreuung sind überwiegend eine Investition, die sich refinanziert: Studien beziffern den gesamtwirtschaftlichen Rückfluss auf grob das 3- bis 4-Fache je investiertem Euro, vor allem über höhere Müttererwerbstätigkeit (mehr Steuern/Beiträge, weniger Transfers). Das dreht das Kosten-Argument um.",
+  "key_facts": [
+    {"label": "Rückfluss je Euro", "value": "~1 € Kita-Investition → 3–4 € gesamtwirtschaftlicher/fiskalischer Rückfluss", "source": "GEW/Uni Bielefeld (Dohmen)"},
+    {"label": "Fiskaleffekt pro Kind", "value": "~4.110 €/Kind (Vorschulalter) durch mehr Müttererwerbstätigkeit; Netto-Ausgabe ~3.010 € (<6 J.)", "source": "DIW 2020 (Politikberatung kompakt 146)"},
+    {"label": "Kanal", "value": "höhere Einkommensteuer + Sozialbeiträge, geringere bedarfsgeprüfte Transfers", "source": "DIW / ifo"},
+    {"label": "International", "value": "Québec: ~47 % fiskalischer Return des Billig-Betreuungsprogramms", "source": "IPPR (Québec)"}
+  ],
+  "deep_dive": "Der wirksamste Reframe in der Betreuungsdebatte: Kita ist kein Konsum-Kostenposten, sondern eine Investition mit Rückfluss. Eine im Auftrag der GEW an der Uni Bielefeld erstellte Analyse (Dohmen) kommt darauf, dass ein in Kinderbetreuung investierter Euro der Gesellschaft grob das Drei- bis Vierfache zurückbringt. Das DIW beziffert die fiskalischen Effekte einer Betreuung im Vorschulalter auf rund 4.110 € pro Kind (durch zusätzliche Müttererwerbstätigkeit), denen effektive Netto-Ausgaben von etwa 3.010 € (Kinder unter 6) gegenüberstehen — der Staat holt also einen Großteil bis mehr als das Ausgegebene zurück, vor allem über höhere Einkommensteuer und Sozialbeiträge sowie geringere bedarfsgeprüfte Transfers. International bestätigt Québec das Muster: rund 47 % fiskalischer Return des Billig-Betreuungsprogramms (siehe eigene Karte). Ein verbreiteter Irrtum ist, Betreuung sei 'zu teuer' — kurzfristig sind es Ausgaben, mittel-/langfristig refinanziert sie sich weitgehend und schafft zusätzlich Bildungs- und Fertilitätseffekte. Wichtig zur Ehrlichkeit: Die genaue Höhe ist szenario- und annahmenabhängig; besonders hohe Einzelwerte (etwa sehr hohe Return-Verhältnisse für Qualitätsinvestitionen) stammen aus spezifischen Modellrechnungen, während das robuste, breit zitierte Ergebnis bei rund 1:3 bis 1:4 liegt. Für die Politik heißt das: Betreuung als Investition mit Rendite budgetieren, nicht als reine Soziallast.",
+  "mechanism": "Betreuung ermöglicht (v. a. Mütter-)Erwerbstätigkeit → höhere Steuer-/Beitragseinnahmen und geringere Transferausgaben; dazu langfristige Bildungs- und (moderate) Fertilitätseffekte. Über die Zeit übersteigt der Rückfluss die Ausgaben.",
+  "evidence": [
+    {"source": "GEW/Uni Bielefeld (Dohmen)", "year": 2020, "finding": "1 € in Kinderbetreuung bringt gesamtwirtschaftlich das 3- bis 4-Fache zurück"},
+    {"source": "DIW – Politikberatung kompakt 146", "year": 2020, "finding": "Fiskaleffekt ~4.110 €/Kind (Vorschulalter) durch Müttererwerbstätigkeit; Netto-Ausgabe ~3.010 € (<6 J.)"},
+    {"source": "IPPR – Québec", "year": 2014, "finding": "~47 % fiskalischer Return eines universellen Billig-Betreuungsprogramms"}
+  ],
+  "protocol": [
+    "Betreuung im Haushalt als Investition mit Rendite ausweisen, nicht als reine Ausgabe.",
+    "Rückfluss dynamisch rechnen (mehrjährige Erwerbs-/Steuereffekte), nicht nur den Jahres-Zuschuss.",
+    "Mittel priorisiert in Betreuung/Ganztag lenken (höherer Return als reine Bar-Prämien).",
+    "Hohe Einzel-Return-Zahlen vorsichtig kommunizieren — robust belegt ist ~1:3–1:4."
+  ],
+  "mistakes": [
+    "Kita nur als Kostenposten budgetieren und den Rückfluss ignorieren.",
+    "Sehr hohe Einzelszenario-Werte (z. B. extreme Return-Ratios) als gesicherten Normalfall darstellen.",
+    "Nur die kurzfristigen Ausgaben sehen, nicht die mehrjährigen Erwerbs-/Steuereffekte."
+  ],
+  "risks": "ROI-Höhe stark annahmen-/szenarioabhängig; besonders hohe Werte stammen aus spezifischen Modellen. Effekte brauchen Zeit (verzögerter Rückfluss). Setzt voraus, dass Betreuung real Erwerbstätigkeit ermöglicht (Verfügbarkeit/Qualität) — reine Zahlungen ohne Plätze wirken nicht.",
+  "synergy": ["kinderbetreuung-guenstig-fuer-alle", "quebec-billigbetreuung-lehren", "kita-krippe-ausbau", "opportunitaetskosten-karriere-child-penalty", "baby-boni-ohne-infrastruktur-wirkt-nicht"],
+  "sources": [
+    {"title": "GEW – Studie belegt volkswirtschaftlichen Nutzen von Kita-Investitionen", "url": "https://www.gew.de/aktuelles/detailseite/gew-studie-belegt-volkswirtschaftlichen-nutzen-von-investitionen-in-kitas"},
+    {"title": "DIW – Fiskalische Wirkungen (Politikberatung kompakt 146, 2020)", "url": "https://www.diw.de/documents/publikationen/73/diw_01.c.702895.de/diwkompakt_2020-146.pdf"},
+    {"title": "IPPR – Lessons from Quebec's universal low-fee childcare", "url": "https://www.ippr.org/articles/lessons-from-quebecs-universal-low-fee-childcare-programme"}
+  ]
+}

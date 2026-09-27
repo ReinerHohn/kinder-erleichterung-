@@ -1,0 +1,39 @@
+{
+  "id": "fruehe-hilfen-familienhebammen",
+  "name": "Frühe Hilfen & Familienhebammen: früh, aufsuchend, zielgerichtet",
+  "category": "🛠️ Lösungen & Politik",
+  "tags": ["Frühe Hilfen", "Familienhebammen", "Hausbesuche", "Nurse-Family Partnership", "Prävention", "Kindeswohl"],
+  "impact": 3,
+  "evidence_level": "B",
+  "effort": 2,
+  "summary": "Aufsuchende Frühe Hilfen (Familienhebammen/-pflegerinnen kommen nach Hause) unterstützen Familien in belasteten Lebenslagen in den ersten ~3 Jahren. International (Nurse-Family Partnership) ist der Nutzen am größten und am kosteneffektivsten, wenn gezielt Hochrisiko-Familien erreicht werden — nicht als Gießkanne für alle.",
+  "key_facts": [
+    {"label": "Angebot DE", "value": "fast alle Kommunen bieten aufsuchende Frühe Hilfen (Familienhebammen/Gesundheits- u. Kinderkrankenpflege) bis ~3 J.", "source": "NZFH / fruehehilfen.de"},
+    {"label": "Zielgruppe", "value": "Familien in belasteten Lagen (Armut, psychische Belastung, Überforderung, Gewalt/Sucht)", "source": "NZFH"},
+    {"label": "Internationales Vorbild", "value": "Nurse-Family Partnership (Olds): Hausbesuche durch Pflegekräfte für Erstgebärende", "source": "NFP-Studienlage"},
+    {"label": "Wirk-Prinzip", "value": "am wirksamsten & kosteneffektivsten bei GEZIELTER Ansprache von Hochrisiko-Familien, weniger als Angebot für alle", "source": "NFP-Ökonomie-Studien"}
+  ],
+  "deep_dive": "Frühe Hilfen setzen genau dort an, wo Belastung am größten und Prävention am wertvollsten ist: in den ersten Lebensjahren, aufsuchend zu Hause. In Deutschland bieten fast alle Kommunen solche Angebote über das Nationale Zentrum Frühe Hilfen (NZFH) — vor allem Familienhebammen und Familien-Gesundheits-/Kinderkrankenpflegende, die Familien in belasteten Lebenslagen (Armut, psychische Belastung, Überforderung, Gewalt/Sucht) bis etwa zum 3. Geburtstag begleiten. Studien zeigen, dass ihr Einsatz das Risiko für das Kindeswohl senken kann, wenn die Belastung hoch ist. Das internationale Vorbild ist die Nurse-Family Partnership (David Olds): regelmäßige Hausbesuche durch Pflegekräfte bei Erstgebärenden, mit über Jahrzehnte belegten Effekten auf Kindergesundheit, weniger Misshandlung/Vernachlässigung und bessere Elternkompetenz. Der entscheidende, oft übersehene Punkt: Der Nutzen und die Kosteneffizienz sind am größten, wenn gezielt Hochrisiko-Familien erreicht werden — als Gießkanne für alle verpufft ein Großteil der Wirkung und die Kosten steigen. Ein verbreiteter Irrtum ist deshalb, 'für alle etwas' sei automatisch besser; bei aufsuchender Frühprävention gilt eher: früh, freiwillig, vertrauensbasiert und zielgerichtet. Für Eltern konkret: Frühe Hilfen sind kostenlos, freiwillig und niedrigschwellig — man muss sie nur kennen und früh (schon in der Schwangerschaft) nutzen. Sie ergänzen, ersetzen aber nicht die reguläre Hebammen-/Kinderarztversorgung.",
+  "mechanism": "Frühe, aufsuchende Begleitung stärkt Elternkompetenz und responsive Interaktion, entlastet in belasteten Phasen und fängt Risiken früh ab — je gezielter bei Hochrisiko, desto größer Wirkung und Kosteneffizienz.",
+  "evidence": [
+    {"source": "NZFH / fruehehilfen.de", "year": 2024, "finding": "Aufsuchende Frühe Hilfen (Familienhebammen) in fast allen Kommunen; positive Effekte bei hoher Belastung auf das Kindeswohl"},
+    {"source": "Nurse-Family Partnership (Olds et al.), Studienlage", "year": 2014, "finding": "Hausbesuchsprogramm mit belegten Langzeiteffekten (Kindergesundheit, weniger Misshandlung); am kosteneffektivsten bei Hochrisiko-Zielgruppe"}
+  ],
+  "protocol": [
+    "Früh (in der Schwangerschaft) nach Frühen Hilfen / Familienhebamme fragen — kostenlos, freiwillig, niedrigschwellig (Anlaufstelle: Kommune/Jugendamt/Geburtsklinik).",
+    "Bei Belastung (Erschöpfung, wenig Unterstützung, finanzielle/psychische Last) aktiv annehmen statt abzuwarten.",
+    "Politik/Träger: Angebote zielgerichtet auf Hochrisiko-Familien ausbauen (höchste Wirkung pro Euro), Zugang entstigmatisieren.",
+    "Als Ergänzung verstehen — reguläre Hebammen-/Kinderarztversorgung bleibt bestehen."
+  ],
+  "mistakes": [
+    "Frühe Hilfen nicht kennen/zu spät nutzen (Wirkung ist früh am größten).",
+    "Als Gießkanne für alle ausrollen statt Hochrisiko gezielt zu erreichen (Kosteneffizienz sinkt).",
+    "Angebot als 'Kontrolle/Jugendamt' missverstehen — es ist freiwillige Unterstützung."
+  ],
+  "risks": "Wirkung/Kosteneffizienz stark abhängig von Zielgruppen-Treffsicherheit; breite Programme für alle sind teuer bei geringerem Zusatznutzen. Erreichbarkeit belasteter Familien ist schwierig; Stigmatisierung kann Zugang hemmen. Ersetzt keine reguläre medizinische Versorgung.",
+  "synergy": ["responsive-caregiving-elternfoerderung", "postpartale-depression-erkennen", "hebammenmangel-geburtserlebnis-kaiserschnitt", "es-braucht-ein-dorf-community", "unterstuetzung-alleinerziehende"],
+  "sources": [
+    {"title": "NZFH – Gesundheitsfachkräfte in den Frühen Hilfen", "url": "https://www.fruehehilfen.de/grundlagen-und-fachthemen/gesundheitsfachkraefte-in-den-fruehen-hilfen/"},
+    {"title": "NZFH – Familienhebammen (Wirkung/Modellprojekte)", "url": "https://www.fruehehilfen.de/index.php?id=101"}
+  ]
+}
